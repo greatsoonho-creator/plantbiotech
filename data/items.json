@@ -1,0 +1,1030 @@
+{
+ "generated_at": "2026-10-09",
+ "latest_run": "2026-10-09",
+ "runs": [
+  {
+   "run": "2026-10-09",
+   "count": 49,
+   "note": "첫 수집"
+  }
+ ],
+ "items": [
+  {
+   "cat": "pvp",
+   "title": "UPOV 2026년 10월 제네바 회기 — 기술위원회(10.19~20)·CAJ(10.21)·이사회(10.23)",
+   "title_ko": "UPOV 2026년 10월 제네바 회기 — 기술위원회(10.19~20)·CAJ(10.21)·이사회(10.23)",
+   "source": "UPOV Meetings & Events",
+   "url": "https://www.upov.int/en/about-upov/events",
+   "date": "2026-10-19",
+   "type": "news",
+   "summary_ko": "10월 19~20일 기술위원회(TC), 21일 행정법률위원회(CAJ), 23일 이사회가 제네바에서 열린다. TC에서는 개암·서양배·일본배·일본자두·은행나무·목련 등 신규/개정 TG 채택과 TGP/7 재배주기 문안 개정이 다뤄질 예정이며, 결과가 국내 산림식물 심사기준 제·개정에 반영되므로 결과 문서 확인이 필요하다.",
+   "tags": [
+    "UPOV",
+    "Council",
+    "Technical Committee",
+    "TG 채택"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-19",
+   "id": "20261019-16f4586d"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
+   "title_ko": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
+   "source": "한국영농신문",
+   "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70901",
+   "date": "2026-10-08",
+   "type": "policy",
+   "summary_ko": "산림청은 로마 FAO 본부 제28차 산림위원회(COFO28)에서 산림재난방지법 기반 통합산림재난관리 정책과 과학기반 산불관리를 발표하고, FAO·UNEP 주도 글로벌 산불관리 허브 운영위원회에 참여했다. 울진 산불피해지 생태복원 사례도 소개돼 산불 연구의 국제협력 창구가 확대되고 있다.",
+   "tags": [
+    "산불",
+    "통합산불관리",
+    "FAO",
+    "국제협력",
+    "산림재난방지법"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-08",
+   "id": "20261008-369d8cd9"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, '임업인 소득에 정책 역량 집중'",
+   "title_ko": "산림청, '임업인 소득에 정책 역량 집중'",
+   "source": "주간 한국임업신문",
+   "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6166",
+   "date": "2026-10-07",
+   "type": "policy",
+   "summary_ko": "박은식 산림청장이 2026년 주요 성과로 봄철 산불 인명피해 0, 임업직불금 의무활동 요건 완화, 임목 벌채·양도소득 비과세 한도 연 600만원→3,000만원 상향 등을 제시. 임산물 생산자 소득정책 기조가 강화되고 있어 임산물 표준재배지침·시책건의 작성 시 정책 방향 근거로 활용할 수 있다.",
+   "tags": [
+    "임업직불금",
+    "임업인소득",
+    "비과세",
+    "임산물정책"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-07",
+   "id": "20261007-638539db"
+  },
+  {
+   "cat": "policy",
+   "title": "최근 5년간 산사태 피해 복구비 4,560억 원, 사망 32명",
+   "title_ko": "최근 5년간 산사태 피해 복구비 4,560억 원, 사망 32명",
+   "source": "주간 한국임업신문",
+   "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6169",
+   "date": "2026-10-07",
+   "type": "news",
+   "summary_ko": "국회 농해수위 분석 결과 2021~2025년 산사태 복구비는 4,560억원, 사망자는 32명이었고, 산사태취약지역 거주인구는 2021년 7만2,174명에서 2025년 10만9,569명으로 늘었다. 국정감사 시즌 통계로 산사태 대응·민방위 훈련 시나리오 작성 시 최신 근거자료로 활용 가능.",
+   "tags": [
+    "산사태",
+    "산사태취약지역",
+    "국정감사",
+    "재난통계"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-07",
+   "id": "20261007-d8588d2e"
+  },
+  {
+   "cat": "policy",
+   "title": "국산 합판·보드 산업 경쟁력 강화 위해 산·연·관 머리 맞대 (국립산림과학원 간담회)",
+   "title_ko": "국산 합판·보드 산업 경쟁력 강화 위해 산·연·관 머리 맞대",
+   "source": "주간 한국임업신문",
+   "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6174",
+   "date": "2026-10-07",
+   "type": "news",
+   "summary_ko": "국립산림과학원이 한국합판보드협회, 주요 보드 제조사, LH와 간담회를 열어 목질판상재 품질시험법 개선, 상시 품질표시·이력관리체계, LH 주택사업 국산 목재 적용과 목조건축 활성화 전략을 논의했다. 산림청 국산목재 공공이용 확대 예산과 연계된 원내 산업협력 동향.",
+   "tags": [
+    "국립산림과학원",
+    "합판보드",
+    "국산목재",
+    "목조건축"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-07",
+   "id": "20261007-e0d2bbfb"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, 전국 소나무재선충병 확산 차단에 '총력전' (국가방제단 출범)",
+   "title_ko": "산림청, 전국 소나무재선충병 확산 차단에 '총력전'",
+   "source": "주간 한국임업신문",
+   "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6177",
+   "date": "2026-10-07",
+   "type": "policy",
+   "summary_ko": "산림청은 9월 1일 소나무재선충병 국가방제단을 출범시키고 폭 약 4km·길이 800km의 국가방제벨트, 특별방제구역 관리, 수종전환 등을 추진 중. 달성·하동을 핵심 경계지역으로 지정했으며 병해충 방제 정책의 대형화와 피해목 활용 연구 수요 증가를 시사한다.",
+   "tags": [
+    "소나무재선충병",
+    "국가방제단",
+    "방제벨트",
+    "산림병해충"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-07",
+   "id": "20261007-ee512076"
+  },
+  {
+   "cat": "genome",
+   "title": "국립산림과학원, 국내 특산수종 '노각나무' 유전정보 풀었다",
+   "title_ko": "국립산림과학원, 국내 특산수종 '노각나무' 유전정보 풀었다",
+   "source": "머니투데이 / 경향신문",
+   "url": "https://www.mt.co.kr/policy/2026/10/07/2026100712512168842",
+   "date": "2026-10-07",
+   "type": "news",
+   "summary_ko": "국립산림과학원이 한국 특산수종 노각나무 자생집단의 유전정보를 분석해 18개 SSR 마커를 개발하고 90개체 분석으로 개체 식별력을 검증, 국유특허로 등록했다. 자생집단 유전다양성 평가, 유사 품종 구분, 원산지 추정, 바이오소재 원료 이력추적에 활용 가능해 산림유전자원 관리와 우량자원 선발에 직접 참고할 수 있다.",
+   "tags": [
+    "노각나무",
+    "Stewartia koreana",
+    "SSR",
+    "국립산림과학원",
+    "유전자원"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-07",
+   "id": "20261007-ef81e6cb"
+  },
+  {
+   "cat": "fruit",
+   "title": "달고 아삭거리는 보은대추 '풍년'…수확 늘고 씨알 굵어져",
+   "title_ko": "달고 아삭거리는 보은대추 '풍년'…수확 늘고 씨알 굵어져",
+   "source": "문화투데이",
+   "url": "https://www.munhwatoday.co.kr/news/article.html?no=176563",
+   "date": "2026-10-01",
+   "type": "news",
+   "summary_ko": "보은군이 1,350농가 655ha를 조사한 결과 2026년 대추 생산량을 전년 대비 6.2% 증가한 2,104t으로 전망. 건조한 날씨와 큰 일교차로 26mm 이상 중·대과 비율이 약 75%에 달하며, 생대추 기준가와 특대과 신규 등급도 설정. 대추 주산지의 올해 작황·가격 동향 참고자료.",
+   "tags": [
+    "대추",
+    "Ziziphus jujuba",
+    "작황",
+    "가격",
+    "보은"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-01",
+   "id": "20261001-b2436c70"
+  },
+  {
+   "cat": "policy",
+   "title": "국립산림과학원장 등 18개 개방형 직위 공모",
+   "title_ko": "국립산림과학원장 등 18개 개방형 직위 공모",
+   "source": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20261001000666",
+   "date": "2026-10-01",
+   "type": "policy",
+   "summary_ko": "인사혁신처가 국립산림과학원장(고위공무원단, 개방형 직위)을 포함한 18개 직위 공개모집을 공고했으며 서류접수는 10월 12일까지. 산림과학기술 중장기계획과 산림재난 관리기술 개발을 총괄하는 기관장 교체 절차가 시작된 것으로, 원내 연구방향·조직운영 변화 가능성에 주목할 필요가 있다.",
+   "tags": [
+    "국립산림과학원장",
+    "개방형직위",
+    "인사",
+    "조직"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-10-01",
+   "id": "20261001-b59e61f6"
+  },
+  {
+   "cat": "fruit",
+   "title": "[전국 톡톡] 밤 흉작에 수매가까지 폭락‥농민 이중고",
+   "title_ko": "[전국 톡톡] 밤 흉작에 수매가까지 폭락‥농민 이중고",
+   "source": "MBC 뉴스투데이",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854876_37012.html",
+   "date": "2026-09-29",
+   "type": "news",
+   "summary_ko": "2026년 가을 경남 주산지(하동 등)에서 밤 작황이 크게 부진한 가운데 수매가까지 하락해 재배 임가가 이중고를 겪고 있다는 보도. 폭염·가뭄 등 이상기후와 노령화된 밤나무 재배지 문제가 맞물린 사례로, 밤 재배기술 및 기후적응 연구 수요를 보여주는 현장 뉴스.",
+   "tags": [
+    "밤나무",
+    "Castanea crenata",
+    "기후",
+    "수급",
+    "임산물 산업"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-29",
+   "id": "20260929-c57f8533"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, '올 가을 단풍' 예년보다 0.8일 늦은 10월 하순 '절정' (2026 단풍 절정 예측지도)",
+   "title_ko": "산림청, '올 가을 단풍' 예년보다 0.8일 늦은 10월 하순 '절정'",
+   "source": "서플(머니투데이)",
+   "url": "https://supple.kr/news/cmuc0t60l00cum5j1a7b8xmod",
+   "date": "2026-09-22",
+   "type": "news",
+   "summary_ko": "산림청이 국립수목원·국립산림과학원의 식물계절 관측자료와 산악기상관측망 자료를 결합해 2026년 단풍 절정 예측지도를 발표(설악산 10/20, 내장산 11/4 등). 향후 농림위성 광역 관측을 더해 통합 예측으로 고도화할 계획으로, 기후변화 생물계절 연구 성과가 정책 서비스화된 사례.",
+   "tags": [
+    "단풍예측",
+    "식물계절",
+    "산악기상",
+    "농림위성",
+    "기후변화"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-22",
+   "id": "20260922-33cc5db4"
+  },
+  {
+   "cat": "policy",
+   "title": "[인사] 산림청 (국립수목원장 등, 2026-09-20)",
+   "title_ko": "[인사] 산림청 (국립수목원장 등)",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202609201105221618",
+   "date": "2026-09-20",
+   "type": "news",
+   "summary_ko": "9월 20일자 산림청 인사로 안병기 국립수목원장, 이홍대 도시숲경관과장, 이원희 산림병해충방제과장이 임명됐다. 병해충 방제·수목원 분야 협업 부서장 교체로 참고.",
+   "tags": [
+    "인사",
+    "국립수목원",
+    "산림병해충방제과"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-20",
+   "id": "20260920-0c2036a5"
+  },
+  {
+   "cat": "pvp",
+   "title": "Fruit Crop Experts Review Growing-Cycle Wording and Citrus Taxonomy at Technical Working Party in Leipzig (TWF/57)",
+   "title_ko": "UPOV 과수 기술작업반(TWF/57) 라이프치히 회의 — 재배주기 문안·감귤 분류 검토",
+   "source": "UPOV News",
+   "url": "https://www.upov.int/en/w/news/2026/fruit-crop-experts-review-growing-cycle-wording-and-citrus-taxonomy-at-technical-working-party-in-leipzig-germany",
+   "date": "2026-09-17",
+   "type": "news",
+   "summary_ko": "2026.9.7~10 UPOV 과수 기술작업반 57차 회의 결과. DUS 심사 재배주기(growing cycle) TGP/7 문안 개정을 논의했고, 서양배·개암·일본배·일본자두 심사기준(TG) 초안을 10월 기술위원회 채택 안건으로 상정했으며 블루베리·감 TG는 계속 작업 중. 2026년 분자마커 활용 실태조사 결과도 검토돼 수실류 품종보호 심사기준 변화를 추적하는 데 직접 관련된다.",
+   "tags": [
+    "UPOV",
+    "TWF",
+    "과수",
+    "TG",
+    "DUS",
+    "분자마커"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-17",
+   "id": "20260917-11424e0d"
+  },
+  {
+   "cat": "genome",
+   "title": "상수리나무 가계 추적 DNA 마커 개발…산림 육종 정확도 높인다",
+   "title_ko": "상수리나무 가계 추적 DNA 마커 개발…산림 육종 정확도 높인다",
+   "source": "한국영농신문",
+   "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70423",
+   "date": "2026-09-17",
+   "type": "news",
+   "summary_ko": "국립산림과학원이 상수리나무 핵 유전체에서 약 4만5천 개 변이영역을 탐색해 19개 핵심 SSR 마커를 선정, 수형목과 차대 간 가계 구분 기술을 특허 출원했다. 1965년 이후 선발된 약 200본 수형목의 채종원 가계관리와 차대검정림 유전검정 정확도 향상에 활용될 예정이다.",
+   "tags": [
+    "Quercus acutissima",
+    "상수리나무",
+    "SSR",
+    "수형목",
+    "국립산림과학원"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-17",
+   "id": "20260917-ff12dfbc"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, '가을철 산림 내 불법행위' 집중 단속…10월 말까지",
+   "title_ko": "산림청, '가을철 산림 내 불법행위' 집중 단속…10월 말까지",
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/policy/2026/09/14/2026091411193513828",
+   "date": "2026-09-14",
+   "type": "news",
+   "summary_ko": "9월 14일부터 10월 31일까지 합동단속반을 운영해 임산물 무단채취, 임산물 보호구역 내 불법채취, 입산통제구역 출입, 산불 유발행위를 단속. 2월 시행된 산림재난방지법에 따라 산림 인근 불 피우기 과태료가 최대 200만원으로 상향된 점도 안내됐다.",
+   "tags": [
+    "임산물",
+    "불법채취",
+    "산림재난방지법",
+    "과태료"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-14",
+   "id": "20260914-884b5ca7"
+  },
+  {
+   "cat": "fruit",
+   "title": "임하수 산림청 차장, 경기도 안성 임업인 민생현장 방문",
+   "title_ko": "임하수 산림청 차장, 경기도 안성 임업인 민생현장 방문",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202609091733119010",
+   "date": "2026-09-09",
+   "type": "policy",
+   "summary_ko": "산림청 임하수 차장이 안성 대추 재배 임가를 방문해 기록적 폭염에 따른 임산물 피해 위험을 점검. 대추는 다습 조건에서 탄저병에 취약해 가을 태풍·수확기 잦은 비가 수량·품질 저하를 초래할 수 있다고 언급하며 피해 모니터링과 신속 복구 지원을 약속했다.",
+   "tags": [
+    "대추",
+    "탄저병",
+    "기후변화",
+    "산림청"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-09",
+   "id": "20260909-3c3f8b8c"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, 2027년 예산안 3조1582억 편성…산림재난대응·건강한 숲 조성 중점 투자",
+   "title_ko": "산림청, 2027년 예산안 3조1582억 편성…산림재난대응·건강한 숲 조성 중점 투자",
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/policy/2026/09/02/2026090214343575328",
+   "date": "2026-09-02",
+   "type": "policy",
+   "summary_ko": "산림청 2027년 예산안은 전년 대비 4.4% 증가한 3조1,582억원. 산악기상관측소 16곳 신설, 기상분석용 고성능컴퓨터, 소나무재선충병 국가방제벨트 시범(150억), AI·드론 모니터링, 산림 OECM 평가체계 신설, 국산목재 공공이용 확대(669억) 등이 담겨 내년도 R&D 예산 환경을 가늠할 수 있다.",
+   "tags": [
+    "예산",
+    "2027년 예산안",
+    "산림재난",
+    "R&D",
+    "OECM"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-02",
+   "id": "20260902-3a3741c0"
+  },
+  {
+   "cat": "fruit",
+   "title": "Seasonal climatic variation is associated with persimmon (Diospyros kaki) leaf flavonoid peaks and tannin indices",
+   "title_ko": "계절 기후 변동과 감(Diospyros kaki) 잎 플라보노이드 피크 및 탄닌 지표의 연관성",
+   "source": "Applied Biological Chemistry",
+   "url": "https://link.springer.com/article/10.1186/s13765-026-01129-7",
+   "date": "2026-09-02",
+   "type": "paper",
+   "summary_ko": "국내 연구진이 감잎의 HPLC 플라보노이드 피크와 탄닌 지표가 수확 월에 따라 변동하며 기후 변수와 역상관을 보이고 8월에 최저임을 보고. 유전형·산지·재배조건의 영향은 제한적이었으며, 감잎 기능성 소재 표준화 및 최적 수확시기 설정에 참고 가능.",
+   "tags": [
+    "감",
+    "Diospyros kaki",
+    "감잎",
+    "플라보노이드",
+    "탄닌"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-02",
+   "id": "20260902-7b334f33"
+  },
+  {
+   "cat": "genome",
+   "title": "Genetic Basis and Molecular Breeding Strategies for Processing Quality in Chestnut (Castanea spp.)",
+   "title_ko": "밤(Castanea spp.) 가공품질의 유전적 기반과 분자육종 전략",
+   "source": "Horticulturae (MDPI)",
+   "url": "https://www.mdpi.com/2311-7524/12/9/1080",
+   "date": "2026-09-01",
+   "type": "paper",
+   "summary_ko": "밤 가공품질(식감·단맛·갈변)을 좌우하는 전분 구조, 당 대사, 페놀·산화효소 관련 후보유전자(SBE, GBSS1, ISA, PPO, FLS, CmbZIP13/35 등)를 정리한 리뷰. 대부분 전사체·공발현 수준의 근거이며 안정적 QTL과 인과유전자 검증은 부족하다고 지적하고, 형질 복잡도에 따라 MAS·유전체선발·유전자교정을 구분 적용하는 전략을 제안해 국내 밤 품종 리시퀀싱·GWAS 설계에 참고가 된다.",
+   "tags": [
+    "Castanea",
+    "밤",
+    "가공품질",
+    "MAS",
+    "genomic selection"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-09-01",
+   "id": "20260901-2f026f49"
+  },
+  {
+   "cat": "fruit",
+   "title": "산림청, 추석 앞두고 밤·대추 공급 9배 늘린다",
+   "title_ko": "산림청, 추석 앞두고 밤·대추 공급 9배 늘린다",
+   "source": "연합뉴스(네이트 전재)",
+   "url": "https://m.news.nate.com/view/20260831n26398",
+   "date": "2026-08-31",
+   "type": "policy",
+   "summary_ko": "산림청이 추석 성수품인 밤·대추의 물가 안정을 위해 수급안정 대책반을 운영하고 성수기 공급량을 평시 대비 9배 확대하기로 발표. 산림조합·생산자단체 보유 물량 방출과 직거래 장터 운영 등이 포함된 수실류 유통·수급 정책의 최신 사례.",
+   "tags": [
+    "밤",
+    "대추",
+    "수급안정",
+    "산림청",
+    "임산물 유통"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-31",
+   "id": "20260831-1c2b5d0e"
+  },
+  {
+   "cat": "fruit",
+   "title": "제철 맞은 '다래', 현장 중심 연구로 지역 대표 안정적 소득 품목 육성 지원",
+   "title_ko": "제철 맞은 '다래', 현장 중심 연구로 지역 대표 안정적 소득 품목 육성 지원",
+   "source": "국립산림과학원 보도자료(네이트 전재)",
+   "url": "https://news.nate.com/view/20260828n28908",
+   "date": "2026-08-28",
+   "type": "news",
+   "summary_ko": "국립산림과학원이 다래 수확철을 맞아 청양군 다래 재배 농가를 찾아 재배 애로사항을 수렴하고 현장 중심 기술지원에 나섰다. 다래를 지역 대표 안정 소득 품목으로 육성하기 위한 품종·재배·가공 전주기 기술 공유의 연장선.",
+   "tags": [
+    "다래",
+    "Actinidia arguta",
+    "국립산림과학원",
+    "재배기술",
+    "청양"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-28",
+   "id": "20260828-9a5b2519"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, 임산물 심거나 캐는 행위 '산지전용' 신고 안 해도 된다 (산지관리법 등 3개 법률 국회 통과)",
+   "title_ko": "산림청, 임산물 심거나 캐는 행위 '산지전용' 신고 안 해도 된다",
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/policy/2026/08/27/2026082712352190014",
+   "date": "2026-08-27",
+   "type": "law",
+   "summary_ko": "8월 26일 국회 본회의에서 산지관리법, 석재산업 진흥에 관한 법률, 수목원·정원의 조성 및 진흥에 관한 법률 개정안이 통과됐다. 임산물 재배(심기·캐기)는 산지전용 정의에서 제외돼 신고 없이 가능해지고, 재해 응급복구 등 경미한 행위의 산지 일시사용 특례가 신설됐다. 임산물(밤·돌배 등) 재배지침 관련 문서의 법적 근거가 바뀌므로 하위법령 개정 동향을 추적할 필요가 있다.",
+   "tags": [
+    "산지관리법",
+    "법률개정",
+    "임산물",
+    "산지전용",
+    "국회통과"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-27",
+   "id": "20260827-868b2c00"
+  },
+  {
+   "cat": "pvp",
+   "title": "산림청, 잔디·버섯·수실류 등 51개 산림신품종 민간 활용 확대 (2026년 3차 국유품종 통상실시)",
+   "title_ko": "산림청, 잔디·버섯·수실류 등 51개 산림신품종 민간 활용 확대",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026082715390539419",
+   "date": "2026-08-27",
+   "type": "policy",
+   "summary_ko": "산림청이 2026년 3차 국유품종 통상실시권 허락 공고를 통해 잔디·표고·다래·복분자딸기 등 14개 작물 51개 국가 품종보호 품종을 실시료를 내고 민간이 증식·판매할 수 있도록 개방했다. 2026년 상반기에만 27개 품종의 통상실시 계약이 체결됐으며, 복분자딸기·수실류 국유품종의 실시 현황과 자체 출원 품종의 활용 전략 수립에 참고가 된다.",
+   "tags": [
+    "산림청",
+    "국유품종",
+    "통상실시권",
+    "복분자딸기",
+    "다래",
+    "품종보호"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-27",
+   "id": "20260827-8900d1b4"
+  },
+  {
+   "cat": "genome",
+   "title": "Haplotype-resolved chromosome-level genome assembly of four European white oak species",
+   "title_ko": "유럽 참나무(white oak) 4종의 반수체 분리 염색체 수준 유전체 조립",
+   "source": "bioRxiv (preprint)",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.08.20.745905v1",
+   "date": "2026-08-20",
+   "type": "paper",
+   "summary_ko": "Q. robur, Q. petraea, Q. pubescens, Q. frainetto 4종을 PacBio HiFi로 동일 워크플로우에 따라 반수체 분리·12개 의사염색체 수준으로 조립(779–817 Mb). Q. pubescens와 Q. frainetto는 최초 참조유전체다. 참나무속 비교유전체·범유전체 연구의 표준화된 기반으로 국내 참나무류 유전체 연구의 비교 참조로 활용 가능하다.",
+   "tags": [
+    "Quercus",
+    "참나무",
+    "reference genome",
+    "haplotype-resolved",
+    "pan-genome"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-20",
+   "id": "20260820-9d359247"
+  },
+  {
+   "cat": "pvp",
+   "title": "CPVO Announcement n° 03/2026 — Administrative Council decision on test guidelines (Lactuca sativa, Solanum lycopersicum)",
+   "title_ko": "CPVO 공고 03/2026 — 행정이사회 기술프로토콜(TP) 채택 결정(상추·토마토)",
+   "source": "CPVO",
+   "url": "https://cpvo.europa.eu/en/news-and-events/news/announcement-n-032026-community-plant-variety-office-decision-administrative-council-community-plant-variety-office-test",
+   "date": "2026-08-17",
+   "type": "policy",
+   "summary_ko": "EU 공동체품종보호청이 상추와 토마토 기술프로토콜 개정을 채택했음을 공고. 결정 전에 시작된 기술심사에는 적용되지 않으며 정확한 발효일은 관보에 게재된다. EU 측 TP 변경 동향 확인용.",
+   "tags": [
+    "CPVO",
+    "기술프로토콜",
+    "TP",
+    "EU"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-17",
+   "id": "20260817-0d918d60"
+  },
+  {
+   "cat": "pvp",
+   "title": "국립종자원, APSA 2026 품종보호 자문회의 서울 개최",
+   "title_ko": "국립종자원, APSA 2026 품종보호 자문회의 서울 개최",
+   "source": "한국영농신문 (국립종자원 보도자료)",
+   "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61534",
+   "date": "2026-08-12",
+   "type": "news",
+   "summary_ko": "국립종자원과 아시아·태평양종자협회가 8.11~12 서울에서 15개국 110여 명이 참석한 제3차 품종보호 자문회의를 열었다. 각국 품종보호제도 현안, UPOV 협약 하 DUS 심사 협력, 육성자권과 농민권의 균형, 실질적파생품종(EDV) 개념과 적용을 다뤘고 국립종자원은 분자마커 기반 품종심사 기법과 침해·분쟁 대응 절차를 발표했다.",
+   "tags": [
+    "국립종자원",
+    "APSA",
+    "EDV",
+    "DUS",
+    "분자마커"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-12",
+   "id": "20260812-abe233e8"
+  },
+  {
+   "cat": "fruit",
+   "title": "Actinidia arguta AaMYB4 Confers Cold and Drought Tolerance Through Up-Regulating Antioxidant Capacity Associated with the ROS Scavenging",
+   "title_ko": "다래 AaMYB4 전사인자가 ROS 소거 관련 항산화능 상향조절을 통해 내한·내건성 부여",
+   "source": "Plants (MDPI)",
+   "url": "https://doi.org/10.3390/plants15162426",
+   "date": "2026-08-09",
+   "type": "paper",
+   "summary_ko": "다래 '풍록' 품종에서 R2R3-MYB 전사인자 AaMYB4를 분리, 저온·건조·ABA에 의해 유도되며 과발현 시 ROS 감소와 생존율 증가, 침묵 시 냉해 악화를 확인. ABA 신호 및 ICE1-CBF-COR 경로 마커 발현 증가가 동반되어 다래 기후적응 육종의 후보 유전자로 제시.",
+   "tags": [
+    "다래",
+    "Actinidia arguta",
+    "내한성",
+    "내건성",
+    "분자육종"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-08-09",
+   "id": "20260809-13170b7c"
+  },
+  {
+   "cat": "fruit",
+   "title": "Exogenous ABA combined with cytokinin enhances drought resistance in Ziziphus jujuba var. spinosa by regulating xylem development and zeatin signaling pathway",
+   "title_ko": "외생 ABA와 사이토키닌 병용 처리가 목부 발달·제아틴 신호 조절을 통해 산조 대추의 내건성 향상",
+   "source": "Frontiers in Plant Science",
+   "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1901882/full",
+   "date": "2026-07-30",
+   "type": "paper",
+   "summary_ko": "ABA 단독 처리는 도관 수를 늘리고 SA를 높여 내건성을 개선했으나 사이토키닌 단독은 오히려 약화시켰고, 두 호르몬 병용 시 도관 수·직경 증가와 SA·ABA·JA 상승으로 가장 강한 가뭄 보호 효과를 보임. 대추 묘목 가뭄 스트레스 관리와 호르몬 처리 재배기술 개발에 참고.",
+   "tags": [
+    "대추",
+    "Ziziphus jujuba",
+    "가뭄",
+    "ABA",
+    "재배기술"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-07-30",
+   "id": "20260730-561c14d8"
+  },
+  {
+   "cat": "genome",
+   "title": "Integrated BSA-seq and RNA-seq analyses reveal CmRABE1c as a negative regulator of drought tolerance and enable the development of a promoter SNP marker in Chinese chestnut",
+   "title_ko": "BSA-seq·RNA-seq 통합분석으로 중국밤 가뭄내성 음성조절자 CmRABE1c 규명 및 프로모터 SNP 마커 개발",
+   "source": "Frontiers in Plant Science",
+   "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1884976/full",
+   "date": "2026-07-27",
+   "type": "paper",
+   "summary_ko": "중국밤 F1 316개체의 가뭄피해 표현형과 BSA-seq로 80개 QTL을 찾고, RNA-seq 공발현망과 양친 리시퀀싱을 결합해 CmRABE1c를 후보로 선정했다. 프로모터 -312/-313 GG→AA 변이가 60개 자원에서 내건성과 연관돼 MAS용 SNP 마커로 제안되었으며, 국내 밤 리시퀀싱 데이터에서 해당 좌위 확인이 가능하다.",
+   "tags": [
+    "Castanea mollissima",
+    "밤",
+    "BSA-seq",
+    "SNP marker",
+    "drought"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-07-27",
+   "id": "20260727-b24cdfeb"
+  },
+  {
+   "cat": "policy",
+   "title": "산림청, 산지이용 규제 합리화 담은 '산지관리법령' 개정 (시행령·시행규칙, 하반기 시행)",
+   "title_ko": "산림청, 산지이용 규제 합리화 담은 '산지관리법령' 개정",
+   "source": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10816533",
+   "date": "2026-07-22",
+   "type": "law",
+   "summary_ko": "산지관리법 시행령·시행규칙 개정으로 첨단전략산업 연구시설의 입목축적 기준 예외, 임업용 산지 내 공공 데이터센터 허용, 농림어업 간이시설의 10년 산지 일시사용, 산촌체류형 쉼터 신설 등이 2026년 하반기부터 시행된다. 8월 법률 개정과 함께 산지 이용 규제 체계 전반이 바뀌고 있어 연구시설·재배지 행정 검토 시 확인이 필요하다.",
+   "tags": [
+    "산지관리법",
+    "시행령",
+    "시행규칙",
+    "산촌체류형쉼터",
+    "규제완화"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-07-22",
+   "id": "20260722-78c2b09c"
+  },
+  {
+   "cat": "fruit",
+   "title": "Anti-inflammatory effects of Pyrus pyrifolia extract via modulation of Src/Syk-mediated NF-κB signaling",
+   "title_ko": "Src/Syk 매개 NF-κB 신호 조절을 통한 돌배(Pyrus pyrifolia) 추출물의 항염 효과",
+   "source": "Food Science and Biotechnology",
+   "url": "https://link.springer.com/article/10.1007/s10068-026-02241-6",
+   "date": "2026-07-15",
+   "type": "paper",
+   "summary_ko": "성균관대·국립생물자원관 등 공동연구진이 Pyrus pyrifolia 에탄올 추출물이 대식세포에서 NO·iNOS·IL-6·COX-2를 감소시키고 Src/Syk 활성화를 억제해 NF-κB 경로를 차단함을 규명. 동물모델에서 위점막 손상과 호중구 침윤을 완화해 돌배 기능성 식품 소재의 기전적 근거를 제공.",
+   "tags": [
+    "돌배",
+    "Pyrus pyrifolia",
+    "항염",
+    "NF-κB",
+    "기능성"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-07-15",
+   "id": "20260715-08a3d3ac"
+  },
+  {
+   "cat": "pvp",
+   "title": "Color Under the Microscope: TWO 58 Discusses New Tools for Ornamental Variety Testing",
+   "title_ko": "UPOV 관상식물·임목 기술작업반(TWO/58) — 색 측정 신기술 및 임목 TG 논의",
+   "source": "UPOV News",
+   "url": "https://www.upov.int/en/w/news/2026/color-under-the-microscope-two-58-discusses-new-tools-for-ornamental-variety-testing",
+   "date": "2026-07-10",
+   "type": "news",
+   "summary_ko": "UPOV 관상식물·임목 기술작업반 58차 회의. 이미지분석·색 스캐너·분광광도계 등 객관적 색 측정 도구를 논의했고, 은행나무·목련·진달래속 TG 초안이 10월 TC/62 채택 안건으로 상정되어 임목 품종보호 심사기준 측면에서 참고할 만하다. 차기 회의는 2027.6 일본 요코하마.",
+   "tags": [
+    "UPOV",
+    "TWO",
+    "임목",
+    "TG",
+    "색측정"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-07-10",
+   "id": "20260710-bf798ada"
+  },
+  {
+   "cat": "pvp",
+   "title": "Seoul Hosts TWA 55 as Working Party Looks to Image Analysis, Molecular Markers, and a New Generation of Test Guidelines",
+   "title_ko": "UPOV 농작물 기술작업반(TWA/55) 서울 개최 — 이미지분석·분자마커·차세대 TG 논의",
+   "source": "UPOV News",
+   "url": "https://www.upov.int/en/w/news/2026/twa-55-advances-tools-and-test-guidelines-for-agricultural-crops-in-seoul",
+   "date": "2026-06-30",
+   "type": "news",
+   "summary_ko": "2026.6.15~18 서울(국립종자원 주관)에서 열린 UPOV 농작물 기술작업반 55차 회의. 고속표현형 이미지분석 DUS 방법, 품종보유집단 관리 오픈소스 'Kora', 표현형+분자거리 결합 UPOV 모델 등이 발표되어 국내 DUS 심사에 분자마커·이미지분석을 도입하는 흐름을 보여준다.",
+   "tags": [
+    "UPOV",
+    "TWA",
+    "서울",
+    "분자마커",
+    "이미지분석",
+    "DUS"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-06-30",
+   "id": "20260630-9db07874"
+  },
+  {
+   "cat": "pvp",
+   "title": "Development and application of SNP markers to facilitate DUS testing in tomato",
+   "title_ko": "토마토 DUS 심사 지원을 위한 SNP 마커 개발 및 적용",
+   "source": "bioRxiv (preprint)",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.06.16.732596v1.full.pdf",
+   "date": "2026-06-16",
+   "type": "paper",
+   "summary_ko": "INRAE·GEVES 등이 토마토 고밀도 SNP 패널로 50년간 등록된 300개 품종을 비교하고 50개 DUS 형질 GWAS로 기지 유전자·QTL을 확인, 소수의 정보성 SNP 세트로 품종 구별력을 검증했다. 산딸기·밤나무 등 영양번식 작물의 마커 기반 구별성 보조 심사 설계에 참고할 수 있는 방법론.",
+   "tags": [
+    "DUS",
+    "SNP",
+    "GWAS",
+    "분자마커",
+    "품종식별"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-06-16",
+   "id": "20260616-94b0e63d"
+  },
+  {
+   "cat": "pvp",
+   "title": "Leveraging genome-wide association studies and genomic prediction for DUS testing in maize",
+   "title_ko": "옥수수 DUS 심사를 위한 GWAS 및 유전체 예측 활용",
+   "source": "bioRxiv (preprint)",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.06.10.731330v1.full",
+   "date": "2026-06-12",
+   "type": "paper",
+   "summary_ko": "독일·프랑스 심사기관 공동으로 유럽 교잡 옥수수 352품종의 과거 DUS 점수와 고밀도 SNP를 결합해 12개 DUS 형질 연관 18개 유전체 영역을 찾고, GWAS 선별 마커+XGBoost로 DUS 특성 노트를 평균 정확도 0.67로 예측했다. UPOV에서 논의 중인 '표현형+분자 거리 결합' 모델의 실증 사례.",
+   "tags": [
+    "DUS",
+    "GWAS",
+    "유전체예측",
+    "분자마커",
+    "대조품종"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-06-12",
+   "id": "20260612-be3a96a0"
+  },
+  {
+   "cat": "genome",
+   "title": "The T2T genome assembly of Ziziphus jujuba 'Huizao' and pan-genome analyses provide insights into fruit texture diversity in jujube",
+   "title_ko": "대추 '회조(Huizao)' T2T 유전체 조립과 범유전체 분석으로 본 과육 식감 다양성",
+   "source": "Molecular Horticulture",
+   "url": "https://link.springer.com/article/10.1186/s43897-025-00228-1",
+   "date": "2026-06-05",
+   "type": "paper",
+   "summary_ko": "건대추 품종 '회조'의 최초 T2T·반수체 분리 유전체를 완성하고 기존 9개 조립과 함께 약 556 Mb 그래프 범유전체(25,575 유전자군)를 구축했다. GUB_WAK_bind 도메인 유전자의 전이인자 매개 확장이 펙틴·세포벽 두께·과육 경도 차이와 연관돼 대추 식감 육종 표적을 제시한다.",
+   "tags": [
+    "Ziziphus jujuba",
+    "대추",
+    "T2T",
+    "pan-genome",
+    "fruit texture"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-06-05",
+   "id": "20260605-bf768226"
+  },
+  {
+   "cat": "fruit",
+   "title": "순천 이반촌농원, '산돌배' 간기능 개선 특허 등록···기능성 식품시장 진출 본격화",
+   "title_ko": "순천 이반촌농원, '산돌배' 간기능 개선 특허 등록···기능성 식품시장 진출 본격화",
+   "source": "서울신문",
+   "url": "https://go.seoul.co.kr/news/newsView.php?id=20260518500186",
+   "date": "2026-05-18",
+   "type": "patent",
+   "summary_ko": "전남 순천 이반촌농원이 산돌배를 활용한 간기능 개선 조성물 관련 특허를 등록하고 숙취해소제 등 기능성 식품 시장 진출을 추진. 전남 토종자원 산돌배의 간 건강 개선 효능 입증에 이은 산업화 사례로, 산돌배 기능성 특허 동향 참고.",
+   "tags": [
+    "산돌배",
+    "Pyrus ussuriensis",
+    "특허",
+    "간기능",
+    "기능성식품"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-05-18",
+   "id": "20260518-b03d314a"
+  },
+  {
+   "cat": "pvp",
+   "title": "Implications of morphological and molecular distinctness on the registration of alfalfa candidate varieties: a case study",
+   "title_ko": "알팔파 후보품종 등록에서 형태적·분자적 구별성의 함의: 사례연구",
+   "source": "Frontiers in Plant Science",
+   "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1809996/full",
+   "date": "2026-04-14",
+   "type": "paper",
+   "summary_ko": "같은 유전적 기반에서 유래한 알팔파 11개 집단을 대상으로 형태생리 형질과 GBS·DArTag 마커 기반 구별성을 비교했다. 형태 형질은 55쌍 중 20쌍만 구별한 반면 마커법은 모든 집단을 완전 구별해, 분자 구별성이 더 민감하고 빠르며 저렴한 등록 도구라고 결론. 타가수정 집단 품종의 구별성 판단에 분자마커를 쓰는 논거로 인용 가능.",
+   "tags": [
+    "DUS",
+    "구별성",
+    "분자마커",
+    "GBS",
+    "DArTag"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-04-14",
+   "id": "20260414-8d3bb96d"
+  },
+  {
+   "cat": "genome",
+   "title": "Telomere-to-Telomere gap-free genome assembly of the allotetraploid wild raspberry Rubus alceifolius Poir",
+   "title_ko": "이질사배체 야생 산딸기 Rubus alceifolius의 T2T 갭 없는 유전체 조립",
+   "source": "Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-026-07160-z",
+   "date": "2026-04-04",
+   "type": "paper",
+   "summary_ko": "야생 산딸기 R. alceifolius의 462 Mb, 14개 염색체 T2T 유전체(BUSCO 99.1%, 유전자 46,698개)를 완성하고 AABB 이질사배체 구조와 A 아유전체 2번 염색체의 12.4 Mb 대규모 역위를 확인했다. 배수성 Rubus 유전체 조립의 모범 사례로 복분자·라즈베리 품종 리시퀀싱의 참조 및 비교자원으로 활용할 수 있다.",
+   "tags": [
+    "Rubus",
+    "산딸기",
+    "T2T",
+    "allotetraploid",
+    "reference genome"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-04-04",
+   "id": "20260404-8b2a921a"
+  },
+  {
+   "cat": "genome",
+   "title": "Pan-transcriptome analysis of pine wilt disease-resistant and susceptible Pinus species and a hybrid",
+   "title_ko": "소나무재선충병 저항성·감수성 소나무속 및 교잡종의 범전사체 분석",
+   "source": "Frontiers in Genetics",
+   "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1743952/full",
+   "date": "2026-03-26",
+   "type": "paper",
+   "summary_ko": "소나무·잣나무·곰솔(감수성)과 섬잣나무·스트로브잣나무·리기테다(저항성)를 재선충 접종 후 범전사체로 비교해, 저항성 수종은 탈리·ABA 신호 등 수분보존 경로를 상향 조절하고 모든 수종에서 EFR 수용체와 PR-3 키티나아제가 공통 유도됨을 밝혔다. 국내 주요 침엽수의 재선충 저항성 육종 마커 발굴 기초자료.",
+   "tags": [
+    "Pinus densiflora",
+    "Pinus koraiensis",
+    "소나무재선충",
+    "transcriptome",
+    "resistance"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-03-26",
+   "id": "20260326-44e06679"
+  },
+  {
+   "cat": "pvp",
+   "title": "국립종자원, 2026년 24개 작물 품종보호 특성조사기준(TG) 제·개정 추진",
+   "title_ko": "국립종자원, 2026년 24개 작물 품종보호 특성조사기준(TG) 제·개정 추진",
+   "source": "뉴스서울 (국립종자원 보도자료)",
+   "url": "https://newsseoul.co.kr/news/view/1065594618659732",
+   "date": "2026-03-08",
+   "type": "policy",
+   "summary_ko": "국립종자원이 2026년에 24개 작물(신규 4, 국제기준 반영 개정 7, 육성자 수요 반영 3, 부분개정 10)의 특성조사기준을 UPOV 기준에 맞춰 제·개정한다(누적 426개 작물). 10월까지 전문가 검토, 11~12월 의견수렴 후 확정·게시 일정이어서 연말 확정본 공개를 확인해야 한다.",
+   "tags": [
+    "국립종자원",
+    "특성조사기준",
+    "TG",
+    "UPOV 조화"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-03-08",
+   "id": "20260308-83d93dcf"
+  },
+  {
+   "cat": "genome",
+   "title": "The FORGENIUS Genomic Resources: New Genotyping Tools and Genomic Data for 23 Forest Tree Species and Their Genetic Conservation Units",
+   "title_ko": "FORGENIUS 유전체 자원: 23개 산림수종과 유전자원보존단위를 위한 신규 유전자형 분석 도구와 유전체 데이터",
+   "source": "Molecular Ecology Resources",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70115",
+   "date": "2026-03-03",
+   "type": "paper",
+   "summary_ko": "유럽 23개 산림수종에 대해 종당 약 1만 좌위의 SPET 유전자형 패널을 개발하고 301개 유전자원보존단위 7,220본에서 약 185만 SNP를 확보했다. 패널은 Quercus·Abies 근연종 간 전이성이 높아 국내 산림유전자원보존림의 유전 모니터링 체계 설계에 참고할 만한 비용효율적 모델이다.",
+   "tags": [
+    "forest genetic resources",
+    "SNP panel",
+    "Quercus",
+    "산림유전자원"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-03-03",
+   "id": "20260303-eeefa2ce"
+  },
+  {
+   "cat": "genome",
+   "title": "Whole-genome resequencing of 495 Pyrus accessions provides insights into the genetics of agronomic traits and evolutionary history of pear",
+   "title_ko": "배속(Pyrus) 495 자원의 전장유전체 리시퀀싱을 통한 농업형질 유전학과 진화사 규명",
+   "source": "Horticulture Research",
+   "url": "https://academic.oup.com/hr/article/13/5/uhag042/8503361",
+   "date": "2026-03-02",
+   "type": "paper",
+   "summary_ko": "야생종·재래종·재배종 495개 배 자원을 리시퀀싱해 P. pyrifolia·P. bretschneideri의 전파 중심지, 빙하기 병목, 종간 유전자이입을 밝히고 GWAS로 9개 형질 관련 8개 후보유전자(PbePPO 떫은맛, PbeMYB38 과피색 등)를 제시했다. 산돌배·돌배 유전자원 평가와 형질 연관 마커 탐색에 직접 비교 가능한 대규모 데이터셋이다.",
+   "tags": [
+    "Pyrus",
+    "배",
+    "resequencing",
+    "GWAS",
+    "P. pyrifolia"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-03-02",
+   "id": "20260302-7c7faa1f"
+  },
+  {
+   "cat": "genome",
+   "title": "Haplotype-resolved chromosome-level genome assembly of European chestnut (Castanea sativa) and comparative analysis in the genus of Castanea",
+   "title_ko": "유럽밤(Castanea sativa)의 반수체 분리 염색체 수준 유전체 조립과 밤속 비교분석",
+   "source": "Plant Biotechnology Reports",
+   "url": "https://link.springer.com/article/10.1007/s11816-026-01045-8",
+   "date": "2026-02-17",
+   "type": "paper",
+   "summary_ko": "'Marron Nouzillard' 품종을 PacBio HiFi·Hi-C로 조립해 747/732 Mb 두 반수체 유전체(유전자 약 5만 개)를 얻고, 유럽밤이 중국밤·일본밤과 약 22.8 Mya에 분기했으며 중국밤은 병해충 저항성, 유럽밤은 생장·해독 관련 유전자군이 확장됐음을 밝혔다. 밤 리시퀀싱 참조유전체 선택과 종간 비교에 중요한 자원.",
+   "tags": [
+    "Castanea sativa",
+    "밤",
+    "reference genome",
+    "haplotype-resolved"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-02-17",
+   "id": "20260217-cd36aaa5"
+  },
+  {
+   "cat": "fruit",
+   "title": "Optimization of co-fermentation conditions and comprehensive metabolomic-flavor profiling of Actinidia arguta functional beverage",
+   "title_ko": "다래(Actinidia arguta) 기능성 음료의 공동발효 조건 최적화 및 대사체·향미 프로파일링",
+   "source": "Journal of Food Measurement and Characterization",
+   "url": "https://link.springer.com/article/10.1007/s11694-026-04067-6",
+   "date": "2026-01-30",
+   "type": "paper",
+   "summary_ko": "다래 과즙을 L. plantarum과 S. cerevisiae로 공동발효해 DPPH·ABTS 라디칼 소거능을 각각 8.2%, 39.0% 높였고, 비휘발성 대사체 718종과 휘발성 향기성분 48종을 동정. 다래 가공·기능성 음료 개발 연구에 참고.",
+   "tags": [
+    "다래",
+    "Actinidia arguta",
+    "발효",
+    "기능성 음료",
+    "가공"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-01-30",
+   "id": "20260130-f8b37376"
+  },
+  {
+   "cat": "genome",
+   "title": "Kiwifruit genomics and applications: recent advances, current challenges, and future prospects",
+   "title_ko": "키위(Actinidia) 유전체학과 응용: 최근 진전, 현재 과제와 전망",
+   "source": "Horticulture Research",
+   "url": "https://academic.oup.com/hr/article/13/5/uhag024/8444633",
+   "date": "2026-01-29",
+   "type": "paper",
+   "summary_ko": "초안 유전체부터 T2T·반수체 분리 유전체, 성염색체 규명, 슈퍼 범유전체까지 Actinidia 유전체 연구 흐름과 200편 이상의 전사체 연구를 정리하고 유전체선발·유전자교정 등 향후 방향을 제시한 리뷰. 다래(A. arguta) 사배체 유전체 활용과 품종 육성 전략 수립 시 전체 동향을 빠르게 파악할 수 있다.",
+   "tags": [
+    "Actinidia",
+    "다래",
+    "kiwifruit",
+    "review",
+    "pan-genome"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-01-29",
+   "id": "20260129-0c03ef28"
+  },
+  {
+   "cat": "genome",
+   "title": "Pangenome Analysis of Pyrus Reveals Potential Role of Transcription Factors in Recent Adaptation to Arid Environments",
+   "title_ko": "배속(Pyrus) 범유전체 분석으로 밝힌 건조환경 적응에서 전사인자의 역할",
+   "source": "bioRxiv (preprint)",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.01.20.700718v1.full",
+   "date": "2026-01-22",
+   "type": "paper",
+   "summary_ko": "23종 31개 배 자원을 Oxford Nanopore로 조립해 약 2,500만 변이, 핵심 210 Mb의 Pyrus 범유전체 그래프를 구축했으며, 건조적응 계통에서 ANR1 동족체 등 전사인자 중심의 선택적 소거 신호 33개 유전자를 확인했다. 참조 편향을 줄인 리시퀀싱 분석 틀로 돌배·산돌배 등 야생 배 자원 연구에 응용 가능하다.",
+   "tags": [
+    "Pyrus",
+    "배",
+    "pan-genome",
+    "Nanopore",
+    "adaptation"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-01-22",
+   "id": "20260122-e16a840e"
+  },
+  {
+   "cat": "pvp",
+   "title": "신품종보호 출원 1.4만건 넘어…기후변화·바이오·소재까지 확장",
+   "title_ko": "신품종보호 출원 1.4만건 넘어…기후변화·바이오·소재까지 확장",
+   "source": "뉴스핌 (국립종자원 통계)",
+   "url": "https://www.newspim.com/news/view/20260121000440",
+   "date": "2026-01-21",
+   "type": "news",
+   "summary_ko": "2025년 말 기준 누적 547작물 14,284품종 출원, 442작물 10,792품종 등록. 2025년 한 해 115작물 525품종 출원(화훼 47%, 채소 26%, 과수 13%)이며 외국산 블루베리·포도 출원 급증, 헴프·케나프 등 신규 작물 출원이 특징. 국립종자원은 특수·기능성 형질 심사기준 확충 계획을 밝혔다.",
+   "tags": [
+    "국립종자원",
+    "품종보호 통계",
+    "출원",
+    "등록"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-01-21",
+   "id": "20260121-412b3d3b"
+  },
+  {
+   "cat": "fruit",
+   "title": "Identification of Metabolites and Antioxidant Constituents from Pyrus ussuriensis",
+   "title_ko": "산돌배(Pyrus ussuriensis)의 대사체 및 항산화 성분 규명",
+   "source": "Pharmaceuticals (MDPI)",
+   "url": "https://doi.org/10.3390/ph19010192",
+   "date": "2026-01",
+   "type": "paper",
+   "summary_ko": "산돌배의 대사체 프로파일링과 항산화 활성 성분을 동정한 논문. 산돌배 열매·잎 기반 기능성 소재 개발 및 표준재배지침의 기능성 근거자료로 활용 가능.",
+   "tags": [
+    "산돌배",
+    "Pyrus ussuriensis",
+    "대사체",
+    "항산화",
+    "기능성"
+   ],
+   "collected_at": "2026-10-09",
+   "run": "2026-10-09",
+   "date_key": "2026-01-01",
+   "id": "202601-4116906b"
+  }
+ ]
+}
