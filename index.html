@@ -156,7 +156,7 @@ main{min-width:0}
   const CAT = {genome:"산림유전체·육종", fruit:"유실수·특용수", pvp:"품종보호·UPOV", policy:"정책·법령·보도"};
   const TYPE = {paper:"논문", news:"기사", policy:"정책", law:"법령", patent:"특허"};
   const WD = ["일","월","화","수","목","금","토"];
-  const state = {cat:"all", type:"all", q:"", hideRead:false, items:[], latestRun:null};
+  const state = {cat:"all", type:"all", q:"", hideRead:false, items:[], latestRun:null, latestAt:null};
   let read = new Set();
   try{ read = new Set(JSON.parse(localStorage.getItem("fb-read")||"[]")); }catch(e){}
   try{ state.hideRead = localStorage.getItem("fb-hideread")==="1"; }catch(e){}
@@ -168,6 +168,12 @@ main{min-width:0}
     const d = new Date(k+"T00:00:00");
     if (isNaN(d)) return k;
     return k + ' <span class="wd">' + WD[d.getDay()] + "</span>";
+  }
+  function fmtDT(iso){
+    const d = new Date(iso);
+    if (isNaN(d)) return iso;
+    const p = new Intl.DateTimeFormat("sv-SE",{timeZone:"Asia/Seoul",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false}).format(d);
+    return p.replace("T"," ");
   }
   function daysAgo(k, n){
     const t = new Date(k+"T00:00:00").getTime();
@@ -181,7 +187,7 @@ main{min-width:0}
     for (const k in counts){ const el=$("#n-"+k); if(el) el.textContent = counts[k]; }
     $("#m-total").textContent = items.length;
     $("#m-week").textContent = items.filter(it=>daysAgo(it.date_key,7)).length;
-    $("#m-run").textContent = state.latestRun || "—";
+    $("#m-run").textContent = state.latestAt ? fmtDT(state.latestAt) : (state.latestRun || "—");
 
     const q = state.q.trim().toLowerCase();
     const shown = items.filter(it=>{
@@ -273,6 +279,7 @@ main{min-width:0}
       if(!r.ok) throw new Error(r.status);
       const d = await r.json();
       state.latestRun = d.latest_run || null;
+      state.latestAt = (d.generated_at && d.generated_at.length > 10) ? d.generated_at : null;
       state.items = (d.items||[]).map(it=>Object.assign({}, it, {id: it.id || it.url}));
       render();
     }catch(e){
