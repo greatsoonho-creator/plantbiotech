@@ -1,0 +1,829 @@
+{
+ "generated_at": "2026-10-11T12:06:27.202Z",
+ "window_days": 10,
+ "sources": [
+  "europepmc",
+  "semanticscholar"
+ ],
+ "count": 48,
+ "errors": [],
+ "items": [
+  {
+   "key": "doi:10.1002/jsfa.71110",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "cd3aae21aa7a843d807860fa823ee6f434159655",
+   "doi": "10.1002/jsfa.71110",
+   "pmid": "42852909",
+   "title": "Persimmon proanthocyanidins-mucins interaction mechanism: structural characteristics, rheological properties, and molecular docking.",
+   "journal": "The Journal of the Science of Food and Agriculture",
+   "date": "2026-10-09",
+   "authors": "Zhen-Zhen Ge, Xin-Jie Zhang, Yu-Xiang Zhao, Xin-Ru Li, Meng-Pei Liu, Rong-Zu Nie",
+   "abstract": "",
+   "url": "https://doi.org/10.1002/jsfa.71110"
+  },
+  {
+   "key": "doi:10.1093/treephys/tpag150",
+   "groups": [
+    "raspberry",
+    "pine"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "46661c385c1f68a1ab50a05398dac4a0f6b9322f",
+   "doi": "10.1093/treephys/tpag150",
+   "pmid": "42852828",
+   "title": "Distribution, Development, and Function of Resin Canals in Conifers: Insights from Cellular and Genomic Perspectives.",
+   "journal": "Tree Physiology",
+   "date": "2026-10-09",
+   "authors": "Yi Feng, Shu Diao, Xiao-Hui Lin, Cai-Xia Wang, Xiao-Ping Wang, Yang-Dong Wang",
+   "abstract": "Resin canals are tunnel-like tissue structures primarily responsible for synthesizing and secreting resin. They consist of specialized secondary metabolite-synthesizing epithelial cells and supportive subsidiary cells, which are arranged to form distinctive intercellular spaces. In conifers, resin canals can develop during normal development or be induced by environmental stimuli, which often form an interconnected network and play a crucial role in defense against pathogens and insects. Despite their importance in resin secretion and defense, the mechanisms underlying their formation and function remain poorly understood. In this review, we summarize recent advances in the study of resin canals in conifers from the perspectives of cellular development, defense mechanisms, and molecular regulation. We analyze the distribution patterns, subcellular characteristics and formation and developmental processes of resin canals across different conifer species. Based on studies of traumatic resin canals, we propose a developmental model that depicts the initiation from cambial activity to cell differentiation and canal formation. Furthermore, we focus on resin canal-specific genes and analyze the functions and expression patterns of identified related genes. With the advancement of conifer genome sequencing and single-cell technologies, future research on resin canal regulatory mechanisms and functions is facing unprecedented opportunities. We propose a strategic framework aimed at enhancing conifer breeding, particularly for traits such as stress resilience, disease resistance and wood quality.",
+   "url": "https://doi.org/10.1093/treephys/tpag150"
+  },
+  {
+   "key": "doi:10.3390/architecture6040180",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "386dd455143d0631a6eb34b48226da2a560790f1",
+   "doi": "10.3390/architecture6040180",
+   "pmid": "",
+   "title": "Density Estimation in Heritage Timber Elements Using Resistograph Drilling Resistance",
+   "journal": "Architecture",
+   "date": "2026-10-08",
+   "authors": "Yilién Cabrera Martín, C. Baggio, Silvia Santini, G. Íñiguez-González",
+   "abstract": "Accurate structural diagnosis of timber elements in historic buildings requires minimally invasive and operationally reliable assessment methods compatible with heritage conservation principles. This study aims to estimate timber density in situ directly from Resistograph drilling resistance. To achieve this objective, density estimates derived from Woodpecker impact penetration tests were paired with Resistograph drilling resistance measurements through a mesh to develop a point to point correspondence and calibrate a linear model relating density to drilling resistance and enabling its direct application through Resistograph measurements. The database comprised thirteen historic sweet chestnut (Castanea sativa Mill.) beams from the Cloister of Michelangelo in the Baths of Diocletian complex, Rome, Italy. Statistical analyses included the assessment of multiple window sizes, segmented penetration intervals, model calibration, and Leave-One-Beam-Out (LOBO) cross validation. The resulting model enables density estimation using only Resistograph measurements and demonstrated high predictive accuracy, achieving a coefficient of determination of 92%.",
+   "url": "https://doi.org/10.3390/architecture6040180"
+  },
+  {
+   "key": "doi:10.1016/j.plantsci.2026.113507",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "9749049240830c1820cfae4d02bb4167f93295c4",
+   "doi": "10.1016/j.plantsci.2026.113507",
+   "pmid": "42849815",
+   "title": "Developmental dynamics of ascorbic acid metabolism in wild jujube fruit: an integrated physiological and transcriptomic analysis.",
+   "journal": "Plant Science",
+   "date": "2026-10-08",
+   "authors": "Si-Jia Liu, Si-Si Li, Jia-Dong Wang, Kai-Ming He, Shu-Rong Gao, Jia-Jia Liu",
+   "abstract": "Wild jujube (Ziziphus jujuba var. spinosa) fruit is rich in ascorbic acid (AsA), but developmental coordination among AsA accumulation, enzyme activities and candidate-gene expression remains unclear. We compared wild jujube with Ziziphus jujuba Mill. cv. 'Lingwuchangzao' grown in the same orchard across five developmental stages. We measured fruit traits, sugars, acids, AsA, total ascorbic acid (T-AsA), dehydroascorbic acid (DHA) and five AsA-related enzyme activities, and analyzed repeated sampling with linear mixed-effects models. Differential expression, weighted gene co-expression network analysis (WGCNA), predicted protein-interaction networks and RT-qPCR were applied to 15 wild-jujube RNA-seq samples; ZjVTC2 was transiently overexpressed in Nicotiana benthamiana. At the young-fruit stage, wild jujube contained 778.75 ± 19.14mg·100g⁻¹ FW AsA and 861.77 ± 17.44mg·100g⁻¹ FW T-AsA. At maturity, AsA content remained higher in wild jujube than in 'Lingwuchangzao' (612.34 ± 13.53 versus 321.22 ± 4.31mg·100g⁻¹ FW). Significant material × developmental-stage interactions occurred for AsA, T-AsA and DHA (P < 0.01). Material differences in DHAR, MDHAR, GalLDH and APX varied by stage, whereas the MIOX interaction was not significant. Transcriptomic and network analyses identified VTC2, GLDH, HXK2, PGMP, and the bHLH gene LOC107430586 as candidates. Transient ZjVTC2 overexpression increased leaf AsA by 72.65% (P < 0.01). Thus, AsA accumulation differed between materials in a stage-dependent manner, and ZjVTC2 was functionally supported, whereas the other candidate genes require validation.",
+   "url": "https://doi.org/10.1016/j.plantsci.2026.113507"
+  },
+  {
+   "key": "doi:10.33003/fjs-2026-1019-6073",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "1a6b9027244014d80a1ad982215192d6e96f74f8",
+   "doi": "10.33003/fjs-2026-1019-6073",
+   "pmid": "",
+   "title": "Comparative Structural, Optical, Morphological and Elemental Characterisation of Jujube-Mediated Silver and Zinc Oxide Nanoparticles",
+   "journal": "FUDMA Journal of Sciences",
+   "date": "2026-10-08",
+   "authors": "H. M. Umar, Jamilatu Sumaila, T. Zangina",
+   "abstract": "Plant extracts offer a practical route for nanoparticle synthesis because naturally occurring compounds can participate in particle formation and remain associated with the resulting material. In this study, jujube extract was used to prepare silver nanoparticles (AgNPs) and zinc oxide nanoparticles (ZnO NPs). Both products were examined using the same set of characterization techniques: X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FTIR), ultraviolet-visible (UV–Vis) spectroscopy, scanning electron microscopy (SEM), and energy-dispersive X-ray spectroscopy (EDX). The XRD results clearly differentiated the two materials. The Ag sample showed peaks at approximately 38.27°, 44.45°, 64.55°, and 77.57°, characteristic of face-centered-cubic Ag, while the ZnO sample displayed reflections at 31.91°, 34.55°, 36.38°, 47.60°, 56.78°, and 63.02°, consistent with hexagonal wurtzite ZnO. FTIR spectra from both samples contained bands associated with plant-derived functional groups, along with low-wavenumber features related to their respective inorganic phases. Their optical responses were also distinct. Ag showed the characteristic response of metallic nanoparticles, whereas ZnO exhibited an optical edge at about 392.5 nm, corresponding to approximately 3.16 eV. This value was calculated from the optical-edge wavelength and is not presented as a formal Tauc band gap. SEM images showed rough, uneven, and strongly aggregated surfaces in both samples. EDX further showed strong Ag signals in the silver sample and Zn and O as the main detected elements in the ZnO sample. Overall, the study compares two different nanomaterials produced using the same jujube-based approach and shows how their structural, optical, morphological, and elemental characteristics differ.",
+   "url": "https://doi.org/10.33003/fjs-2026-1019-6073"
+  },
+  {
+   "key": "t:physiological investigation of arbuscular mycorrhizal fungi mediated salt tolerance in persimmon diospyros kaki seedling",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "PMC13642138",
+   "doi": "",
+   "pmid": "",
+   "title": "Physiological investigation of arbuscular mycorrhizal fungi-mediated salt tolerance in persimmon (Diospyros kaki) seedlings",
+   "journal": "",
+   "date": "2026-10-08",
+   "authors": "Cimen B, Incesu M, Ortas I, Guney M.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13642138/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1007/s11694-026-04931-5",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "691fa8bab5d3dcaa164a0e75eb4b77820c6151ed",
+   "doi": "10.1007/s11694-026-04931-5",
+   "pmid": "",
+   "title": "Microwave-assisted extraction of pectin from persimmon: physicochemical properties, structural characterization and greenness assessment",
+   "journal": "Journal of Food Measurement & Characterization",
+   "date": "2026-10-08",
+   "authors": "Ö. Yılmaz, N. Kutlu, A. Kamiloğlu, Tuğba Elbir Abca",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11694-026-04931-5"
+  },
+  {
+   "key": "doi:10.1093/jee/toag300",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "2d4e46bec191acf3c770d8a87a4165e0cd42d38b",
+   "doi": "10.1093/jee/toag300",
+   "pmid": "42842493",
+   "title": "Post-harvest treatments to reduce emergence and damage caused by larvae of Curculio sayi (Coleoptera: Curculionidae).",
+   "journal": "Journal of Economic Entomology",
+   "date": "2026-10-07",
+   "authors": "Maximilian Ferguson, D. Guyer, Deborah G. McCullough",
+   "abstract": "Damage caused by lesser chestnut weevil (Curculio sayi Gyllenhal) larval feeding affects yield and marketability of chestnuts (Castanea spp.) produced by commercial growers and hobbyists across the eastern United States. Post-harvest treatments to mitigate weevil damage involve submerging chestnuts in heated water for ≥20 min. Prolonged submergence in hot water, however, can discolor chestnuts or diminish quality of chestnuts in cold storage. We assessed larval emergence from chestnuts held at room temperature (controls), or submerged in water at 22.5°C (unheated), 43.3°C, 49.0°C, 54.4°C, or 60°C for periods of 5 to 30 min. Subsets of treated chestnuts were quartered after submergence, then again following 30, 60, or 90 d of cold storage (1°C) to evaluate larval feeding damage, chestnut quality and storability. Effective control (less than 1 emerged larva per 100 chestnuts) corresponded to submergence for 15 min in 49°C water, 10 min in 54.4°C water or 5 min in 60°C water, while 24 to 41 larvae per 100 chestnuts emerged from controls. Quality of chestnuts in cold storage declined sharply for chestnuts submerged in 54.4°C water for 25 min or 60°C water for 20 to 25 min. Submerging chestnuts for 10 to 20 min in 54.4°C water appeared optimal; no larvae emerged and chestnut quality was retained for 60 d in cold storage. Time needed to attain core temperatures lethal to weevil larvae varied with chestnut size. Curatura (water curing) and exposure to alternating cycles of warm and cold temps were also evaluated.",
+   "url": "https://doi.org/10.1093/jee/toag300"
+  },
+  {
+   "key": "t:assembly and comparative analysis of the complete mitochondrial genomes of pyrus calleryana decne and pyrus betulifolia ",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "PMC13640305",
+   "doi": "",
+   "pmid": "",
+   "title": "Assembly and comparative analysis of the complete mitochondrial genomes of Pyrus calleryana Decne. and Pyrus betulifolia Bunge",
+   "journal": "",
+   "date": "2026-10-07",
+   "authors": "Zhang H, Ji H, Chi Y, Li X, Wang R, Yang Y, Li D.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13640305/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1016/j.ijbiomac.2026.154751",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "3ab2d970c1a1b89239a14821974c91f81ff7a582",
+   "doi": "10.1016/j.ijbiomac.2026.154751",
+   "pmid": "42843481",
+   "title": "ZJP-2, a novel wild jujube polysaccharide, enhances longevity, cognitive function, and mitigates oxidative stress via mitochondrial regulation in Caenorhabditis elegans.",
+   "journal": "International Journal of Biological Macromolecules",
+   "date": "2026-10-07",
+   "authors": "Muhammad Zulqarnain Shakir, Inam Ullah, Muhammad Wasim Usmani, Jiang Ning, Ji-Xian Liu, Xu-Chen Zhou",
+   "abstract": "Oxidative stress, caused by an imbalance between reactive oxygen species (ROS) production and antioxidant defenses, drives aging and age related functional decline. Natural polysaccharides from medicinal plants are promising interventions against oxidative stress related disorders. This study examined the protective effects of a novel polysaccharide (ZJP-2) isolated from wild jujube (Ziziphus jujuba Mill. var. spinosa) against stress induced physiological deterioration in Caenorhabditis elegans. Using lipopolysaccharide exposure, heat shock, and oxidative stress models, we assessed ZJP-2 effects on lifespan, health span, antioxidant capacity, and stress response pathways. ZJP-2 (0.25-1 mg/mL) showed no toxicity and did not inhibit Escherichia coli OP50 growth. Treatment significantly improved locomotor activity, pharyngeal pumping, and reproductive capacity. The optimal dose increased average lifespan by 42.03% and reduced intestinal lipofuscin accumulation by 52.89%. Under heat stress (37 °C), ZJP-2 enhanced thermotolerance and improved survival under oxidative stress. Intracellular ROS levels decreased in a dose dependent manner, accompanied by reductions in malondialdehyde and increases in superoxide dismutase, catalase, and glutathione activities. Gene expression analysis revealed modulation of antioxidant and mitochondrial-associated genes, along with p38 MAPK-associated genes. ZJP-2 also promoted activation of the longevity associated transcription factor daf-16. These findings demonstrate that ZJP-2 enhances stress resistance, reduces oxidative damage, and promotes a healthy lifespan, highlighting its potential as a natural bioactive compound to mitigate stress related aging.",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154751"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12101249",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "b1d10cb050f972c3250623a0f3f5d5b37a92a8fc",
+   "doi": "10.3390/horticulturae12101249",
+   "pmid": "",
+   "title": "Molecular Characterization and Evolutionary Relationships of WRKYs in Five Rubus Species and Functional Analysis of RiWRKY48 in Rubus idaeus",
+   "journal": "Horticulturae",
+   "date": "2026-10-07",
+   "authors": "Zhuang Wen, Jian-Xin Fan, Yao Jiang, Qin Yang, Xue-Jiao Cao",
+   "abstract": "WRKY transcription factors play crucial roles in plant growth, development, and stress responses. However, their systematic evolution and functions within the genus Rubus remain incompletely understood. In this study, genome-wide identification, evolutionary analysis and functional characterization of the WRKY gene family were conducted in five Rubus species. A total of 37–67 members were identified and classified into three groups by phylogenetic analysis. The collinearity result, gene family expansion and contraction analyses revealed a contraction trend within the Rubus lineage compared with the outgroup sweet cherry. Promoter cis-acting element analysis predicted widespread involvement of these genes in hormone and stress responses. Expression profiling revealed tissue-specific patterns among WRKY genes, with most members down-regulated during fruit development and differentially regulated by biotic and abiotic stresses. Further correlation analysis and experimental validation were focused on RiWRKY48 in red raspberry (Rubus idaeus L.). This protein was localized to the nucleus and lacked transcriptional activation activity. Combined in silico modeling (AlphaFold3) and dual-luciferase reporter assays revealed that RiWRKY48 may repressed the promoter activity of RiUFGT4, a key anthocyanin biosynthetic gene, suggesting a putative interaction with the W-box element. In summary, this study systematically characterized the evolutionary features of the Rubus WRKY family and provided evidence for a potential regulatory role of RiWRKY48 in anthocyanin biosynthesis through modulation of RiUFGT4 promoter activity. These findings provided new insights into the regulatory roles of WRKY transcription factors in fruit quality development in Rubus species.",
+   "url": "https://doi.org/10.3390/horticulturae12101249"
+  },
+  {
+   "key": "doi:10.1007/s00299-026-04013-2",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "7a9a4c0c5449b06c0f35713949ebc5c1347c70df",
+   "doi": "10.1007/s00299-026-04013-2",
+   "pmid": "42841991",
+   "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species delimitation",
+   "journal": "Plant Cell Reports",
+   "date": "2026-10-07",
+   "authors": "Li-Chao Hu, Ya-Qiong Wu, Zhuang Zhao, Wen-Long Wu, Fu-Liang Cao, Ze-Fu Wang",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s00299-026-04013-2"
+  },
+  {
+   "key": "doi:10.3389/fgene.2026.1894037",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0d8445fd8ff50dbbaff23d66fddef0767eaeac6e",
+   "doi": "10.3389/fgene.2026.1894037",
+   "pmid": "",
+   "title": "Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response",
+   "journal": "Frontiers in Genetics",
+   "date": "2026-10-07",
+   "authors": "L. M. Gonçalves, M. Oliveira, P. Barros",
+   "abstract": "The Nucleotide-Binding Domain Leucine-Rich Repeat (NLR) gene family is a central component of plant immune systems, yet its diversity and evolutionary dynamics remain poorly characterized in long-lived tree species. Here, we performed a genome-wide analysis of the NLR gene repertoire in Quercus suber (cork oak) using a newly developed annotation tool–InterNLR–which identifies and classifies NLRs as canonical and non-canonical. We identified a total of 374 canonical NLRs, and 544 non-canonical NLRs–which may represent pseudogenes, gene fragments or evolutionary intermediates. Phylogenetic analyses based on the NB-ARC domain highlighted the distinct evolutionary trajectory of RNL proteins, which function as “helper” NLRs and show evidence of clade-specific gene duplication. Transcriptomic analyses revealed significant differences in gene-level expression among NLR classes in cork oak stem tissues, mainly driven by contrasts involving the non-canonical N class. Seven cork oak NLR genes, sharing putative orthology with abiotic stress-responsive NLRs found in other species, were also differentially expressed in stems under drought conditions. From these, four candidate NLRs arise as candidate components of shared or convergent responses to drought and P. cinnamomi infection. Population-genetic analyses of RNA-seq-derived variants from expressed NLR loci in two Iberian populations further revealed heterogeneous patterns among expressed NLR loci, with a predominance of positive Tajima’s D values. Together, these results provide new insights into the evolution, expression, and functional diversification of NLRs in cork oak. This work advances our understanding of immune gene architecture in an ecologically and economically important forest tree species.",
+   "url": "https://doi.org/10.3389/fgene.2026.1894037"
+  },
+  {
+   "key": "t:needle extracts of pinus squamata x w li ameliorate obesity and modulate cecal microbiota in high fat diet induced obese",
+   "groups": [
+    "pine"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13638554",
+   "doi": "",
+   "pmid": "",
+   "title": "Needle extracts of Pinus squamata X.W. Li ameliorate obesity and modulate cecal microbiota in high-fat diet-induced obese mice",
+   "journal": "",
+   "date": "2026-10-07",
+   "authors": "Zhang X, Wang T, Chen H, Hu Y, Tang L, Chang S.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638554/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1186/s40104-026-01503-x",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "5a14d0c7741e12094f8e3e27866a8d493b85bebe",
+   "doi": "10.1186/s40104-026-01503-x",
+   "pmid": "42834399",
+   "title": "Chestnut–quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production",
+   "journal": "Journal of Animal Science and Biotechnology",
+   "date": "2026-10-06",
+   "authors": "F. Correa, D. Luise, F. Palumbo, Daniel Scicchitano, S. Rampelli, Silvia Molino",
+   "abstract": "Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 (P = 0.032). Species-level beta diversity was consistently affected by treatment across time points (R2= 0.01–0.03; P < 0.01), whereas alpha diversity was mainly farm-driven during the early post-weaning phase. Linear discriminant analysis effect size identified farm-dependent taxonomic markers, including Escherichia coli in control pigs from W1 at T1 and Megasphaera elsdenii, Faecalibacterium prausnitzii, and Lactobacillus amylovorus in tannin-treated pigs at later time points. Untargeted metabolomics revealed treatment-related fecal signatures, with isourolithin A and urolithin B amon…",
+   "url": "https://doi.org/10.1186/s40104-026-01503-x"
+  },
+  {
+   "key": "doi:10.1080/14786419.2026.2740617",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "11d7e89e7e144550a616a5f26ab36546e26a8fbc",
+   "doi": "10.1080/14786419.2026.2740617",
+   "pmid": "42837179",
+   "title": "Strain identification, probiotic potential evaluation, and mannanase production optimisation of Lactiplantibacillus plantarum HDM10.",
+   "journal": "Natural Product Research",
+   "date": "2026-10-06",
+   "authors": "Lu-Qing Huang, Ruo-Xi Yang, Zi-Jing Li, Shu-Han Yang, Dan Zhao",
+   "abstract": "Lactiplantibacillus plantarum (L. plantarum) HDM10, isolated from fermented winter jujube (Ziziphus jujuba) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
+   "url": "https://doi.org/10.1080/14786419.2026.2740617"
+  },
+  {
+   "key": "doi:10.51886/1999-740x_2026_3_20",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "8df3fa17e91af3012529e4a337e83a53e23c14aa",
+   "doi": "10.51886/1999-740x_2026_3_20",
+   "pmid": "",
+   "title": "Humus content and group composition in rainfed soil of southeastern Kazakhstan under the influence of fertilizers in a grain crop rotation",
+   "journal": "Soil Science and Agrichemistry",
+   "date": "2026-10-05",
+   "authors": "V. Gusev, S. Kenenbayev, E. Zhusupbekov, K. Rustemova",
+   "abstract": "The aim of the study was to assess the effect of manure, straw, and mineral fertilizers on the humus content and fractional composition of humus in light chestnut soil under a rainfed grain crop rotation in southeastern Kazakhstan. It was found that organic fertilizers had a more pronounced positive effect on the humus status of the soil than the mineral fertilizer system. The most distinct effect was observed after manure application under winter wheat, where humus content increased from 1.67–1.70% to 1.74%. Straw incorporation had a more moderate and not always statistically significant effect on humus content, increasing it from 1.68% to 1.70%. The application of mineral fertilizers did not cause significant changes in this indicator compared with the control. The effect of fertilizers on the fractional composition of humus was less pronounced than their effect on total humus content. The most noticeable changes were recorded under manure application, where the Cha/Cfa ratio decreased to 0.72 compared with 0.74 in the control. It was shown that under rainfed farming conditions, manure is the most effective factor for maintaining the humus status of the soil, while the changes identified at the initial stage of fertilizer application may be regarded as indicators of the direction of subsequent organic matter transformation under the long-term application of organic materials.",
+   "url": "https://doi.org/10.51886/1999-740x_2026_3_20"
+  },
+  {
+   "key": "doi:10.51886/1999-740x_2026_3_82",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "12128ba06519d5c92fcf75a50a71db0c4685313a",
+   "doi": "10.51886/1999-740x_2026_3_82",
+   "pmid": "",
+   "title": "Effect of the combined application of biological products and mineral fertilizers on soil agrochemical properties and spring barley productivity under the conditions of the Zhetysu region",
+   "journal": "Soil Science and Agrichemistry",
+   "date": "2026-10-05",
+   "authors": "S. Tanirbergenov, K. Tynybayeva, S. Bazarbayev, M. Zhumagulova, Zh. P. Bimurza, M. Tulegenova",
+   "abstract": "This study evaluated the effects of mineral fertilizers and biological products on the agrochemical properties of light chestnut soil and the productivity of spring barley under rainfed conditions in the Zhetysu Region, Kazakhstan. The objective was to assess the effects of different fertilization systems on soil agrochemical properties, plant growth, and grain yield of spring barley. The field experiment was conducted with three replicates using a mineral fertilizer background of N 60 P 90 K 80 and four biological products - BioEcoGum, BIOGRANO forte, BioAzoPhashit, and BioPhos - applied either alone or in combination with mineral fertilizers. Soil total humus, nitrate nitrogen, easily hydrolysable nitrogen, available phosphorus, exchangeable potassium, carbonates, and soil reaction were determined, along with plant growth parameters and grain yield. Fertilizer application had no substantial effect on total humus content or soil reaction but was associated with changes in the concentrations of available nutrients. The highest nitrate nitrogen (24.0 mg/kg) and available phosphorus (26.5 mg/kg) contents were recorded with N 60 P 90 K 80 + BioAzoPhashit. The greatest plant height (51.3±1.1 cm) was observed with N 60 P 90 K 80 + BioEcoGum. The highest grain yield (1.13 t/ha) and a statistically significant yield increase over the untreated control (0.33 t/ha, or 41.2%) were obtained with N 60 P 90 K 80 + BIOGRANO forte. When applied alone, the biological products produced grain yields ranging from 0.887 to 0.956 t/ha, with yield increases over the control not exceeding the least significant d ifference. Statistical analysis confirmed a significant effect of mineral fertilization on spring barley grain yield, whereas no significant additional effect of the biological produc…",
+   "url": "https://doi.org/10.51886/1999-740x_2026_3_82"
+  },
+  {
+   "key": "doi:10.1007/s13580-026-00850-y",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "3f445dd38c14977e336f196a1ac231f6acde9a5e",
+   "doi": "10.1007/s13580-026-00850-y",
+   "pmid": "",
+   "title": "Unveiling on-tree fruit softening: a new physiological disorder in sweet persimmon (Diospyros kaki Thunb.) triggered by pre-harvest high temperature stress",
+   "journal": "Horticulture Environment and Biotechnology",
+   "date": "2026-10-05",
+   "authors": "Taeyeup Kim, Pandiyan Muthuramalingam, Jaeeun Jung, Eungyeong Kim, Seongjin Choi, Gwanghwan Ahn",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s13580-026-00850-y"
+  },
+  {
+   "key": "doi:10.3390/foods15193542",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "16547df9f4fa41b2e1707853fd3f7676d3144e6c",
+   "doi": "10.3390/foods15193542",
+   "pmid": "",
+   "title": "Assessing Botanical Authenticity of Honey Through DNA-Metabarcoding-Based Pollen Analysis: A Preliminary Study",
+   "journal": "Foods",
+   "date": "2026-10-04",
+   "authors": "Lucia Ranieri, Roberta Piredda, A. Mottola, Chiara Intermite, Martina Denami, Lucilia Lorusso",
+   "abstract": "Honey is highly vulnerable to botanical mislabeling and fraud, highlighting the need for dedicated analytical approaches capable of reliably supporting authenticity assessment. To the best of our knowledge, this study is the first to integrate traditional melissopalynology and rbcL DNA metabarcoding for the botanical characterization of honeys collected from Apulian beekeepers. Melissopalynological analysis confirmed the labeled floral source in 6/10 (60%) samples, while four samples were reclassified. One cherry honey was identified as polyfloral, and one robinia (acacia) honey as crimson clover honey. The two samples labeled as polyfloral showed a predominance of chestnut and coriander pollen. In contrast, molecular results confirmed label declarations for chestnut and cherry honeys, whereas robinia (acacia) honeys highlighted known limitations associated with under-represented pollen taxa. In terms of biodiversity, DNA metabarcoding identified 128 plant families, whereas melissopalynology detected only 42. Despite this difference in taxonomic resolution, both approaches converged on the core botanical composition of the honey matrix, sharing 39 plant families that represent the principal nectariferous and entomophilous taxa. Overall, melissopalynology proved decisive for regulatory label verification, while DNA metabarcoding provided a broader qualitative description of the botanical composition. As a preliminary pilot study, the combined application of melissopalynology and DNA metabarcoding may contribute to a more comprehensive assessment of honey botanical origin and traceability; however, molecular detection alone cannot be considered sufficient to establish compliance with legal requirements for unifloral honey labeling.",
+   "url": "https://doi.org/10.3390/foods15193542"
+  },
+  {
+   "key": "doi:10.1186/s12870-026-09842-7",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "475d08262c47d4f5c3be41549476f079457a441f",
+   "doi": "10.1186/s12870-026-09842-7",
+   "pmid": "",
+   "title": "A collaborative perception framework for green jujube: from lightweight key point detection to posture-aware harvest analysis",
+   "journal": "BMC Plant Biology",
+   "date": "2026-10-03",
+   "authors": "Hong-Yan Zhu, Run-Long Cao, Shuai Qin, Cheng-Zhi Lin, Wei-Zhen Sun, Yan-Li Zou",
+   "abstract": "Automated harvesting is pivotal to smart agriculture, yet precisely localizing picking points in complex orchard environments remains a key challenge for robotic harvesting systems. To this end, this study proposes a collaborative perception framework integrating a lightweight pose estimation model termed RepViT-DSConv-ARC-PoseHead enhanced YOLO (RDA-YOLO) with Segment Anything Model 2 (SAM2). RDA-YOLO is the lightweight component responsible for real-time fruit detection and keypoint localization, while SAM2 is adopted for fruit contour segmentation and occlusion assessment. Based on the YOLOv11n-POSE architecture, we introduce Distribution Shift Convolution (DSConv) to reduce computational overhead and design the C3k2_RepViT module to enhance multi-scale feature fusion. Crucially, a specialized Adaptive Regression Coordination Pose Head (ARC-PoseHead) is developed to replace traditional prediction structures, employing log-scale polar regression and subpixel refinement to significantly improve coordinate perception of jujubes and key points under complex backgrounds. RDA-YOLO performs real-time detection and locates key points such as the pedicel-fruit transition zone to calculate optimal harvesting angles, while SAM2 performs fine-grained contour segmentation based on detection boxes to determine occlusion status and establish harvesting priority. Experimental results show that RDA-YOLO achieves 93.9% precision and 94.9% mAP@50 for green jujube detection, while for key point detection, it attains a superior precision of 90.4% and a mAP@50 of 83.6%. Notably, the model achieves a lightweight design by reducing parameters to 2.490 million and computational load to 5.7 GFLOPs. Deployment feasibility was verified on the field robot control computer and a robotic platform …",
+   "url": "https://doi.org/10.1186/s12870-026-09842-7"
+  },
+  {
+   "key": "doi:10.14719/pst.15525",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "3c6a59a4cf58f3e7aa5e416237a2967c8ba44301",
+   "doi": "10.14719/pst.15525",
+   "pmid": "",
+   "title": "In vitro antioxidant evaluation of a herbal formulation containing sesame root (Sesamum indicum L.) and raspberry (Rubus idaeus L.)",
+   "journal": "Plant Science Today",
+   "date": "2026-10-03",
+   "authors": "R. Gomathi, Maheswari T. N. Uma, K. Rajesh",
+   "abstract": "Oxidative stress causes tissue damage, persistent inflammation and slowed wound healing. There is growing interest in plant-based antioxidants as safer substitutes for synthetic ones. Rich in lignans and polyphenols, sesame (Sesamum indicum L.) and raspberry (Rubus idaeus L.) have been shown to possess cytoprotective and free-radical-scavenging properties important for tissue protection. To develop an aqueous sesame–raspberry herbal formulation and evaluate its in vitro antioxidant potential using 2,2-diphenyl-1-picrylhydrazyl (DPPH), hydrogen peroxide (H2O₂) scavenging and ferric reducing antioxidant power (FRAP) assays. The roots of R. idaeus and S. indicum were cleaned, dried in the shade, ground into a powder and extracted separately with distilled water under controlled heating conditions. The extracts were oven-dried and combined in equal amounts to prepare the herbal formulation. The final dry extract yield was 10.46 %. Preliminary phytochemical screening was performed and the antioxidant activity of the formulation was evaluated using DPPH, H2O2 scavenging and FRAP assays at concentrations of 10–50 µg/mL, with ascorbic acid as the reference standard. Preliminary phytochemical screening revealed abundant flavonoids and phenols, moderate levels of alkaloids, tannins, glycosides, terpenoids and anthocyanins and the presence of saponins and steroids. The herbal formulation demonstrated concentration-dependent antioxidant activity, with responses ranging 62.25–89.99 % in the DPPH assay, 47.30–84.45 % in the H₂O₂ assay and 67.41–87.62 % in the FRAP assay across 10–50 µg/mL. The formulation showed lower antioxidant responses than the ascorbic acid standard across the tested concentrations. The aqueous sesame–raspberry herbal formulation demonstrated measurable in vitro…",
+   "url": "https://doi.org/10.14719/pst.15525"
+  },
+  {
+   "key": "doi:10.1094/phyto-04-26-0106-r",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42490309",
+   "doi": "10.1094/phyto-04-26-0106-r",
+   "pmid": "42490309",
+   "title": "Recurrent Invasion of Oregon's Coastal Forests by the Sudden Oak Death Pathogen: The NA2 Lineage's First Escape into the Wild.",
+   "journal": "",
+   "date": "2026-10-03",
+   "authors": "Chase SM, Søndreli KL, Grünwald NJ, LeBoldus JM.",
+   "abstract": "Phytophthora ramorum , the sudden oak death (SOD) pathogen, has invaded U.S. nurseries and western forests repeatedly. Invasions by three distinct clonal lineages (NA1, NA2, and EU1) have affected U.S. wildland forests since 2001. Most recently, NA2 established an invasive population in coastal forests surrounding Port Orford in southwest Oregon. This is the first instance of NA2 encountered outside of a nursery. We assessed this new invasion's diversity and population structure using single-nucleotide polymorphisms from whole-genome sequences of 195 isolates. Genomes were sampled from the nursery trade and from the forest invasion surrounding Port Orford. The NA2 forest invasion lacks genetic diversity and likely originated from a single introduction. A subset of NA2 isolates (10.8%) were genetically distant from all other isolates including each other. This distance was correlated with frequency of genomic runs of homozygosity. No evidence of hybridization was found, though NA2 and EU1 mating types are compatible and their ranges in wild forests overlap. The aggressiveness and sporulation of NA2 isolates were measured on three host tree species and compared with isolates of other lineages. NA2 and EU1 phenotypes were similar. NA2 caused larger lesions on Douglas-fir and tanoak seedlings than NA1, the lineage of the original introduction into Oregon forests. Results indicate that the NA2 population is not distinct from the older EU1 Oregon population in terms of population diversity, disease aggressiveness, or potential for spread. However, the introduction of NA2 has increased the SOD epidemic's range, risk of hybridization, overall genetic diversity, and adaptive potential.",
+   "url": "https://doi.org/10.1094/phyto-04-26-0106-r"
+  },
+  {
+   "key": "doi:10.3390/antiox15101274",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "ff699b5e4bc7c002abfffefed10a7394509ae13b",
+   "doi": "10.3390/antiox15101274",
+   "pmid": "",
+   "title": "Integrated UHPLC-MS/MS Metabolomics, Network Pharmacology, Molecular Docking, and Experimental Validation Reveal the Anti-Inflammatory Mechanisms of Pyrus pyrifolia Peel Extract",
+   "journal": "Antioxidants",
+   "date": "2026-10-02",
+   "authors": "Ducdat Le, D. Rhyu, Mi-Na Lee",
+   "abstract": "Pyrus pyrifolia (Burm. f.) Nakai has long been utilized in traditional East Asian medicine to treat respiratory disorders, fever, cough, and inflammatory conditions. This study aimed to evaluate the antioxidative and anti-inflammatory effects of P. pyrifolia. UHPLC-MS/MS analysis revealed that P. pyrifolia contained 22 primary and other putative compounds belonging to diverse phytochemical groups—phenolics, flavonoids, fatty acids, terpenoids, alkaloids, and other compounds. Network pharmacology identified a subset of overlapping targets associated with inflammatory diseases, which were significantly enriched in immune- and inflammation-related biological processes. KEGG pathway analysis demonstrated that the Toll-like receptor was the principal pathway potentially regulated by overlapping targets. PPI network analysis revealed TNF to be the most influential hub target, which was verified by molecular docking analysis. Interestingly, the P. pyrifolia extract significantly inhibited LPS-induced TNF-α production by modulating IκBα phosphorylation and restoring IκBα expression in the NF-κB signaling pathway. Additionally, the P. pyrifolia extract also markedly reduced the phosphorylation of ERK, p38, and JNK, thereby affecting MAPK signaling pathways. Our findings provide mechanistic evidence supporting the traditional medicinal use of P. pyrifolia to establish a theoretical framework to develop phytopharmaceuticals for inflammatory diseases.",
+   "url": "https://doi.org/10.3390/antiox15101274"
+  },
+  {
+   "key": "doi:10.1021/acs.jafc.6c05739",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "40df39dedcdb5d5739f9f8a185495603ac870452",
+   "doi": "10.1021/acs.jafc.6c05739",
+   "pmid": "",
+   "title": "Hyperoside Derived from Actinidia arguta Bee Pollen Alleviates Zearalenone-Induced Hepatotoxicity and Oxidative Stress in Piglets via the PI3K/AKT Signaling Pathway",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "date": "2026-10-02",
+   "authors": "Nan-Nan Liu, Dong-Fei You, Yun-Fei Jiang, Tian-Yu Han, Guang-Liang Shi",
+   "abstract": "Zearalenone (ZEA) is a prevalent mycotoxin inducing hepatotoxic effects. Hyperoside (HYP), a flavonoid derived from Actinidia arguta bee pollen, exhibits hepatoprotective properties against ZEA; however, the molecular mechanisms underlying this protection remain incompletely characterized. This study integrated in vivo piglet models, in vitro porcine hepatocytes, network pharmacology, and molecular docking to characterize the molecular targets of HYP. The results demonstrated that HYP significantly attenuated ZEA-induced hepatic lesions and oxidative stress. Computational analyses pinpointed the PI3K/AKT signaling pathway as the core target of HYP. In vitro validation revealed that HYP phenocopied the AKT activator SC79 in suppressing ZEA-induced hepatocyte apoptosis, an efficacy partially abrogated by the PI3K inhibitor LY294002. Conclusively, HYP ameliorates ZEA-induced hepatotoxicity by activating the PI3K/AKT axis to mitigate oxidative stress and apoptosis, underscoring its translational potential as a functional detoxifying additive for food and feed applications.",
+   "url": "https://doi.org/10.1021/acs.jafc.6c05739"
+  },
+  {
+   "key": "doi:10.3390/gels12100893",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "1b8d0da0f6a3d87759196a4d8f06d9299038a3df",
+   "doi": "10.3390/gels12100893",
+   "pmid": "",
+   "title": "pH-Responsive Chitosan–Alginate Hydrogel Beads Co-Encapsulating Jujube Polysaccharides and cAMP: Enhanced Antioxidant Activity and Gastrointestinal Controlled Release",
+   "journal": "Gels",
+   "date": "2026-10-02",
+   "authors": "Guang-Hui Zhao, Chi Han, Wei-Hua Wang, Jian-Kang Lu, Chun-Lan Zhang, Khan Nazeer",
+   "abstract": "Jujube polysaccharides (ZJPA) and cyclic adenosine monophosphate (cAMP) are bioactive compounds with antioxidant and health-promoting potential, and their combination exhibits enhanced antioxidant activity. However, their limited stability and susceptibility to gastrointestinal environmental stresses restrict their applications in functional foods. In this study, a pH-responsive composite hydrogel bead delivery system was developed using chitosan (CS) and sodium alginate (SA) as wall materials to co-encapsulate ZJPA and cAMP, aiming to protect these bioactive compounds during gastrointestinal digestion while maintaining their enhanced functionality. The hydrogel beads were fabricated via the ionotropic gelation method, and the formulation parameters were optimized using single-factor experiments combined with response surface methodology (RSM). The optimized hydrogel beads were obtained under the conditions of calcium chloride concentration of 3%, CS concentration of 0.5%, SA concentration of 3%, and core-to-wall ratio of 1:6, with a cAMP microencapsulation yield (MEY) of 97.79%. Structural characterization confirmed that ZJPA and cAMP were successfully incorporated into the CS-SA network through electrostatic interactions and intermolecular hydrogen bonding without the formation of new covalent bonds. Furthermore, the hydrogel beads exhibited distinct pH-responsive swelling and gastrointestinal release behaviors, providing effective protection under acidic gastric conditions and enabling sustained release under intestinal conditions. Importantly, the DPPH radical scavenging assay demonstrated that the co-encapsulation strategy preserved the enhanced antioxidant activity between ZJPA and cAMP. Overall, this study establishes a multifunctional hydrogel bead delivery stra…",
+   "url": "https://doi.org/10.3390/gels12100893"
+  },
+  {
+   "key": "doi:10.52415/23126701-2026-0303",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "dd91afc1bb0a532241896d3d4cb88f9a0a7d8725",
+   "doi": "10.52415/23126701-2026-0303",
+   "pmid": "",
+   "title": "Comparative effectiveness of adenine cytokinins and diphenylurea derivatives during in vitro clonal micropropagation of raspberry cultivars Karamelka and Octavia",
+   "journal": "Contemporary Horticulture",
+   "date": "2026-10-02",
+   "authors": "N. Solovykh",
+   "abstract": "Red raspberry (Rubus idaeusL.) exhibits cultivar-specific requirements for nutrient medium composition duringin vitroclonal micropropagation. Therefore, research aimed at optimizing micropropagation protocols for promising cultivars remains relevant. The objective of this study was to evaluate the effectiveness of various cytokinins at the multiplication stagein vitro for the cultivars Karamelka and Octavia. For the first time, a comparative assessment was conducted on the effects of plant growth regulators from the adenine and diphenylurea groups on the micropropagation process. Microcuttings were cultured on MS medium supplemented with 0.1 mg/L β-indole-3-butyric acid (IBA), 0.5 mg/L gibberellic acid (GA), and one of the cytokinins tested. The study employed adenine-type cytokinins: kinetin, zeatin, N⁶-(Δ²-isopentenyl)adenine (2iP), and 6-benzylaminopurine (BAP) at concentrations ranging from 0.6 to 1.8 mg/L, as well as diphenylurea derivatives: thidiazuron (TDZ) and forchlorfenuron (CPPU) at concentrations of 0.06–0.18 mg/L. Among the adenine group, 2iP proved to be the least effective, while kinetin yielded low multiplication coefficients: 1.56 (Octavia) and 2.03 (Karamelka). These cytokinins cannot be recommended for cloning the studied raspberry cultivars. In the presence of BAP (0.6–0.9 mg/L), multiplication coefficients reached 3.67 (cv. Karamelka) and 4.26 (cv. Octavia), with the proportion of shoots at least 20 mm in length amounting to 45.32–49.33% and 60.33–64.67%, respectively. Zeatin was found to be relatively ineffective, with multiplication coefficients at optimal concentrations of 2.08 (Octavia) and 1.90 (Karamelka); however, the proportion of shoots exceeding 20 mm in length surpassed 70%. Zeatin may therefore be recommended for shoot elongation prior …",
+   "url": "https://doi.org/10.52415/23126701-2026-0303"
+  },
+  {
+   "key": "doi:10.1016/j.ijbiomac.2026.154716",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42822571",
+   "doi": "10.1016/j.ijbiomac.2026.154716",
+   "pmid": "42822571",
+   "title": "Engineering lignin-tannin nanoassemblies for multifunctional and sustainable skincare.",
+   "journal": "International Journal of Biological Macromolecules",
+   "date": "2026-10-01",
+   "authors": "Gordobil O, Kathpal T, Gonet-Surówka A, Brzychczy-Włoch M, Diaz RH, Peña-Rodriguez C.",
+   "abstract": "Lignin is increasingly recognized as a sustainable raw material for the development of safe and multifunctional cosmetic ingredients. Nanoengineering strategies enable its transformation into uniform colloidal particles with improved dispersibility and functionality. However, reducing its intense color without compromising its intrinsic bioactivity remains a major challenge for cosmetic applications. In this work, a function-preserving particle design strategy was developed by synergistically combining lignin with tannins at the nanoscale to create fully biobased phenolic colloidal assemblies. Four lignin-tannin colloidal systems (LTPs) were synthetized by combining softwood and hardwood kraft lignins with commercial tannins from chestnut and mimosa at different lignin-to-tannin ratios using an antisolvent precipitation method. The influence of polyphenolic components and processing conditions on particle size, morphology, and functionality was investigated. The resulting LTPs exhibited controlled particle dimensions in the range of 150-500 nm, together with superior multifunctional protective properties and improved aesthetic compatibility for skincare applications. Compared to colloidal lignin particles, LTPs showed improved antioxidant activity (75% reduction in IC₅₀), highly tunable UV-shielding capacity, and enhanced antibacterial effectiveness against Staphylococcus aureus, Streptococcus pyogenes, and Cutibacterium acnes, with minimum bactericidal concentrations (MBC) values between 0.77 and 2.48 mg/mL, while maintaining acceptable cytocompatibility depending on the particle composition at relatively high concentrations. Overall, this work presents a sustainable approach to engineering multifunctional bioactive colloidal materials from undervalued industrial by-pr…",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154716"
+  },
+  {
+   "key": "doi:10.1111/1365-2664.70600",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "fe5f226c0900a7025104dcbb810ffd6679213890",
+   "doi": "10.1111/1365-2664.70600",
+   "pmid": "",
+   "title": "Joint species distribution modelling for restoration of American chestnut ( Castanea dentata ) in the United States under current and future climate conditions",
+   "journal": "Journal of Applied Ecology",
+   "date": "2026-10-01",
+   "authors": "Matthew E. Fertakos, Bethany A. Bradley, J. Doser, M. Itter",
+   "abstract": "American chestnut ( Castanea dentata ) was once a dominant tree species spanning the eastern temperate forests of the United States until the introduction of chestnut blight in the early twentieth century resulted in its functional extinction. Recent advances in the development of blight‐resistant American chestnut could support widespread restoration, but optimal locations for restoration plantings remain uncertain. Previous models of American chestnut created to address this question rely on post‐blight occurrence data and pseudo‐absences which likely underrepresent its distribution. They also omit abundance information, which may be critical for identifying successful restoration sites. Additionally, climate change is shifting the locations of suitable habitat for eastern temperate trees like American chestnut, complicating long‐term restoration planning. We use a Bayesian joint species distribution modelling (JSDM) framework to jointly model current and future suitability for 11 chestnut‐associated tree species within a broader assemblage of 39 tree species commonly found in eastern temperate forests. We identified a poleward shift in habitat for the forest communities American chestnut historically occurred with. Especially suitable areas were in the northeastern United States and northern Michigan, as well as possible refugia in higher elevation areas of the Appalachian Mountains. These areas overlap with 2988 existing conservation properties most suitable for restoration. Synthesis and applications . Our joint species distribution modelling approach highlights its value in guiding the adaptive restoration of functionally extinct species in forests shaped by past and ongoing disturbance. We predicted a northward shift in species associated with American chestnut a…",
+   "url": "https://doi.org/10.1111/1365-2664.70600"
+  },
+  {
+   "key": "doi:10.1002/slct.74707",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "e8c77818902edd6a0f92f90f34878b2c04296792",
+   "doi": "10.1002/slct.74707",
+   "pmid": "",
+   "title": "Investigation of Dark Adsorption Conditions for Textile Dyestuffs Removal Using Horse Chestnut‐Based Mesoporous Activated Carbons in Aqueous Media",
+   "journal": "ChemistrySelect",
+   "date": "2026-10-01",
+   "authors": "Veli Şimşek, R. Z. Yarbay, H. Sayğılı",
+   "abstract": "This study investigated the dark adsorption (DA) behavior of the textile dyes(TEDs) Methyl Orange (MO) and Methylene Blue (MB) onto porous activated carbons (PACs) synthesized via a carbonization–activation process. PACs were obtained using the carbonization/activation synthesis method. To synthesize PACs, Horse chestnut ( Aesculushippocastanum L .) as a precursor, and two different activating agents (ZnCl2 and K2CO3) were used. The synthesis of PACs was carried out in different ratios (1:1, 1:5, and 1:10; biomass/agent). The physicochemical characteristics of feedstock and PACs were determined by BET, FT‐IR, SEM/EDX, MAPPING, and XRD. Batch sorption studies were performed to compare the selected anionic and cationic TEDs. The removal of MO and MB was over 97% after 15 min, 0.005–0.01 g, and at the solution pH. The maximum qe values for 100 ppm MB and MO TEDs solution were calculated as 99.8 and 196.6 mg/g, respectively. Furthermore, comprehensive equilibrium, kinetic, and thermodynamic analyses of MO adsorption onto HCACZ5 and HCACK5 were conducted to elucidate the adsorption characteristics, rate‐controlling mechanism, and thermodynamic nature of the process. The results demonstrated that temperature exerted a distinct influence on the adsorption behavior of the two adsorbents, resulting in different responses.",
+   "url": "https://doi.org/10.1002/slct.74707"
+  },
+  {
+   "key": "doi:10.1016/j.funbio.2026.101831",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "e37ed16fe172076484b6172db3baec08651ada2d",
+   "doi": "10.1016/j.funbio.2026.101831",
+   "pmid": "42668170",
+   "title": "A novel Cryphonectria species (Cryphonectriaceae, Diaporthales) discovered on Eucalyptus, including insights into the mating biology of the genus.",
+   "journal": "Fungal Biology",
+   "date": "2026-10-01",
+   "authors": "N. Pham, BD Wingfield, S. Marincowitz, Y. M. Marpaung, Alinaswe P. Selebi, M. Tarigan",
+   "abstract": "The Cryphonectriaceae (Diaporthales, Ascomycota) accommodates numerous important fungal pathogens that cause branch and stem canker diseases on woody plants worldwide. These include, for example, Cryphonectria (Cry.) parasitica, the causal agent of chestnut blight, which caused the near eradication of the American chestnut (Castanea dentata) in North America. The profound ecological and economic impact of Cry. parasitica has prompted considerable research interest in the diversity, biology, and pathogenicity of other species in the Cryphonectriaceae globally. During a 2023 disease survey in North Sumatra, trees of a single Eucalyptus clone dying as result of infection by the vascular wilt pathogen Ceratocystis (Cer.) manginecans were also found to have structures typical of the Cryphonectriaceae on their bark. The aim of this study was to identify this fungus, to test its pathogenicity and to consider its mating biology in comparison to other related species. DNA sequence comparisons for six loci (ITS, LSU, TUB1, TUB2, TEF1, and RPB2), phylogenomic analyses, as well as morphological observations, revealed that the fungus was an undescribed species of Cryphonectria, for which the name Cry. eucalypticola is provided. Inoculation trials on four eucalypt genotypes showed that Cry. eucalypticola is only mildly pathogenic and different eucalypt genotypes differed in their susceptibility to infection. Mating-type locus analysis based on whole-genome data showed that the fungus is homothallic. Analyses of the genomes of six other Cryphonectria species showed for the first time that, the genus includes both homothallic and heterothallic taxa. This is the first confirmed report of a Cryphonectria species associated with trees in the Myrtales, whereas all previously described spec…",
+   "url": "https://doi.org/10.1016/j.funbio.2026.101831"
+  },
+  {
+   "key": "doi:10.1016/j.jece.2026.124189",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "dcdb3e4fb36d71fe31dcc63e0f409bd0f5e6bc93",
+   "doi": "10.1016/j.jece.2026.124189",
+   "pmid": "",
+   "title": "Insight into pyrolysis characteristics, kinetics and product distribution of chestnut shells via TG, Shuffled Complex Evolution algorithm and Py-GC/MS",
+   "journal": "Journal of Environmental Chemical Engineering",
+   "date": "2026-10-01",
+   "authors": "Ming Zhao, Donghua Ji, Jinglin Miao, Yongsheng Liu",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jece.2026.124189"
+  },
+  {
+   "key": "doi:10.1016/j.lwt.2026.120020",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "a35080362f2c6cb1b7b828b76adeed42091bd9ad",
+   "doi": "10.1016/j.lwt.2026.120020",
+   "pmid": "",
+   "title": "Formation of volatile compounds and glycation products in thermally processed chestnut protein–sugar systems: Effects of water activity and temperature",
+   "journal": "LWT",
+   "date": "2026-10-01",
+   "authors": "Hao-Xin Cui, Jing-Li Xin, Ya-Zhou Ji, Rui-Can Wang, Yi Sun, Zhen-Ting Yu",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.lwt.2026.120020"
+  },
+  {
+   "key": "doi:10.2118/1026-0005-jpt",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "7efc795bf4302d4379031487d95c4c1034293974",
+   "doi": "10.2118/1026-0005-jpt",
+   "pmid": "",
+   "title": "In a World Short on Big Discoveries, Offshore Oil Companies May Need To Double Down on Intervention Work",
+   "journal": "Journal of Petroleum Technology",
+   "date": "2026-10-01",
+   "authors": "Trent Jacobs",
+   "abstract": "There’s an old cliché in the upstream business that may be increasingly worth repeating. “The best place to find oil is in an oil field,” attribution unknown. Among the industry groups that have always held this old chestnut close to heart is the subsea well intervention community. For decades, this niche business has fought to make its case to offshore oil companies that reinvesting just a fraction of the original capex spent on what are often multibillion-dollar assets is very much worth it. There is also a new and mounting pressure on oil companies to sustain production from existing offshore fields as it becomes increasingly difficult to find new ones big enough to justify major infrastructure investments. This message was made by several speakers to those attending the recent SPE Subsea Well Intervention Symposium in Galveston, Texas. Dave Wilson, vice president of investor relations at global energy services company Expro, said “the industry is being asked to produce more energy molecules with fewer people, less resources” and that well intervention offers a way to do so more efficiently. He noted that a decade’s worth of infrastructure is already in place, wells represent significant sunk costs, and relatively modest investments can generate large returns. Wilson said that when speaking with investors about the upstream sector, he compares new projects to planting a tree, while brownfield assets are like a mature tree with fruit still waiting to be harvested. Subsea intervention offers companies a cost-effective way to “go back into the well and pick the rest of the fruit,” he said, adding that the future of the business is centered on asset optimization. “Optimize doesn’t mean necessarily spend less—it means spend wisely.” Among the others making the case for we…",
+   "url": "https://doi.org/10.2118/1026-0005-jpt"
+  },
+  {
+   "key": "doi:10.1016/j.fuproc.2026.108507",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "6e5474947d64b4efd7bff3cd3ea2ccd09a15dec7",
+   "doi": "10.1016/j.fuproc.2026.108507",
+   "pmid": "",
+   "title": "Hydrothermal synthesis of high surface area magnetically activated carbon nanocomposites from spinal chestnut shells for effective methylene blue removal",
+   "journal": "Fuel processing technology",
+   "date": "2026-10-01",
+   "authors": "Atakan Toprak, Muhammet Hüseyin Çokal",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.fuproc.2026.108507"
+  },
+  {
+   "key": "doi:10.1016/j.jece.2026.125378",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "66aab0d1fe9ab4c44502b52536eaa17ae0fccbf6",
+   "doi": "10.1016/j.jece.2026.125378",
+   "pmid": "",
+   "title": "Co-pyrolysis of chestnut shell and waste PET for lanthanum-functionalized biochar: In-situ gas-solid carbonation and non-pore-limited phosphate recovery",
+   "journal": "Journal of Environmental Chemical Engineering",
+   "date": "2026-10-01",
+   "authors": "Zhang-Hong Wang, Yi-Xing Li, Wei-Jian Li, Shuang Li, Tao Lu, Qi-Chang Wang",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jece.2026.125378"
+  },
+  {
+   "key": "doi:10.1016/j.fbio.2026.109833",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "209808a1d5e51944b17b6c5b7dfea5f096d8aae1",
+   "doi": "10.1016/j.fbio.2026.109833",
+   "pmid": "",
+   "title": "Engineering a 3D-printable chestnut flour: Starch-lipid complexation via heat-moisture treatment enhances printability and metabolic functions",
+   "journal": "Food Bioscience",
+   "date": "2026-10-01",
+   "authors": "Xiankang Xu, Xi-Xi Zeng, Qi-Yong Guo, Ling Chen",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.fbio.2026.109833"
+  },
+  {
+   "key": "doi:10.1016/j.foodcont.2026.112666",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "a2c067f97835147b27a68812a7e7508854fbc0c9",
+   "doi": "10.1016/j.foodcont.2026.112666",
+   "pmid": "",
+   "title": "Fine-Scale Geographical Authentication of Jingbai Pear (Pyrus ussuriensis Maxim.) via Untargeted Metabolomics: Uncovering Novel Oligopeptide Biomarkers",
+   "journal": "Food Control",
+   "date": "2026-10-01",
+   "authors": "Jie Zhao, Tian-Xiao Xue, Lin-Xia Wu, Meng Wang, An Li",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.foodcont.2026.112666"
+  },
+  {
+   "key": "doi:10.1016/j.fbio.2026.110142",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "9c15a01c7136ba8f1a1a94f8e3f3085ad8e00cb0",
+   "doi": "10.1016/j.fbio.2026.110142",
+   "pmid": "",
+   "title": "Liposomal Encapsulation of Hardy Kiwi (Actinidia arguta) Bioactives: Optimization, Characterization and Biological Screening in Physiological Barrier Models",
+   "journal": "Food Bioscience",
+   "date": "2026-10-01",
+   "authors": "Filipa Teixeira, F. Leyva-Jiménez, María de la Luz Cádiz-Gurrea, Stefano Dall'acqua, M. Oliveira, F. Rodrigues",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.fbio.2026.110142"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.151394",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "7edee78d2351d92a6adeecc15c9afeeb1c065db9",
+   "doi": "10.1016/j.foodchem.2026.151394",
+   "pmid": "42833176",
+   "title": "Perilla essential oil-loaded gelatin-hyaluronic acid films for kiwiberry preservation: Effects of dual crosslinking on film properties and proteomic responses.",
+   "journal": "Food Chemistry",
+   "date": "2026-10-01",
+   "authors": "Song Zhang, Qing-Rui Wang, Jian-Rui Hou, Hong-Yan Xu, Guang-Jun Xia",
+   "abstract": "A dual-crosslinked gelatin-hyaluronic acid (HA) film loaded with perilla essential oil was developed for Actinidia arguta preservation. Ca2+ and gallic acid reinforced the film network, giving GH/Ca/A₃ high tensile strength (40.39 MPa), low water vapor permeability (3.34 g/m2·day), improved hydrophobicity, and enhanced thermal stability. During 12 days of storage, the essential oil-free gelatin-HA film (GH-K) reduced fruit weight loss from 40.01% to 17.98%, confirming its physical barrier-based preservation effect under ambient storage conditions. Perilla essential oil further enhanced preservation, reducing weight loss to 10.00%, maintaining firmness at 27.6 N, and lowering total colony and yeast/mold counts to 4.26 and 2.19 log CFU/g, respectively. Proteomics showed that GH/P-K modulated antioxidant defense, glutathione metabolism, phenylpropanoid biosynthesis, redox regulation, and cell wall-related pathways, linking film performance with delayed kiwiberry deterioration.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151394"
+  },
+  {
+   "key": "doi:10.1016/j.foodres.2026.119833",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e8c1828160c15f682cc6f66a1fb700c38fc1304d",
+   "doi": "10.1016/j.foodres.2026.119833",
+   "pmid": "42629065",
+   "title": "Structural programmability of jujube polysaccharides: Extraction, molecular architecture, and microbiota-mediated fermentation Design for gut-Brain-Axis-Relevant Applications.",
+   "journal": "Food Research International",
+   "date": "2026-10-01",
+   "authors": "Fengling Liu, Zhihui Luo, Sidra Jabeen, Gang Liu, Pan Li, Tao Wu",
+   "abstract": "Jujube polysaccharides (JPs) are heterogeneous food pectic glycans, but how extraction and post-isolation modification define their molecular architecture and microbiota-accessible functionality remains insufficiently integrated. This review critically synthesizes evidence linking extraction conditions to JP structural templates and evaluates how post-isolation remodeling tunes molecular weight, RG-I/HG balance, side-chain architecture, esterification, charge, conformation, and assembly state. Using an evidence-stratified framework, we distinguish direct JP findings from mechanisms inferred from broader pectin and dietary-fiber literature. We propose that backbone architecture, RG-I-associated side chains, esterification, and supramolecular organization may shape microbial accessibility, fermentation kinetics, selective utilization, short-chain fatty acid production, and gastrointestinal substrate availability. This structure-microbiota-metabolite perspective supports a validation pipeline based on defined JP fractions, matched pectin controls, standardized fermentation models, and causal microbiome designs. Gut-brain-axis relevance is discussed as an indirect, evidence-limited downstream implication rather than an established JP mechanism.",
+   "url": "https://doi.org/10.1016/j.foodres.2026.119833"
+  },
+  {
+   "key": "doi:10.1016/j.sajb.2026.08.036",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "8974ae4d6dbf2e37c2564ba07fe3d77d00b67038",
+   "doi": "10.1016/j.sajb.2026.08.036",
+   "pmid": "",
+   "title": "Chemometric and computational structure–activity relationship analysis of Ziziphus jujuba and Nephrolepis cordifolia phenolics for antioxidant and antidiabetic potential",
+   "journal": "South African Journal of Botany",
+   "date": "2026-10-01",
+   "authors": "A. A, P. P, A. D, Vasantha Sakthi S., Y. A., J. S",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.sajb.2026.08.036"
+  },
+  {
+   "key": "doi:10.1016/j.jafr.2026.103234",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6333b32e26f6d1b46d0e1dd90c33a31dda19a20f",
+   "doi": "10.1016/j.jafr.2026.103234",
+   "pmid": "",
+   "title": "Integrated application programmes for jujube black spot management: Effects on defence-related enzyme activities and fruit quality",
+   "journal": "Journal of Agriculture and Food Research",
+   "date": "2026-10-01",
+   "authors": "Jiang-Ming Kou, Zheng Wang, Wuerkaixi Yali, Zhi-Rui Kang, Yisirefuli Yasheng, Yusufjon Gafforov",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jafr.2026.103234"
+  },
+  {
+   "key": "doi:10.1016/j.jfca.2026.109564",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "5a1e00653f650e91c6ffe55b565cf47bdf681992",
+   "doi": "10.1016/j.jfca.2026.109564",
+   "pmid": "",
+   "title": "Mineral Composition, Bioactive Compounds, and Antioxidant Potential of Persimmon Fruits",
+   "journal": "Journal of Food Composition and Analysis",
+   "date": "2026-10-01",
+   "authors": "Jakubčinová Jana, L. Judita, Čeryová Natália, Vollmannová Alena, Tóth Tomáš, Gallisová Simona",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jfca.2026.109564"
+  },
+  {
+   "key": "doi:10.3390/foods15193522",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "51d2aa183d0ba33386305912be2591343be1e521",
+   "doi": "10.3390/foods15193522",
+   "pmid": "",
+   "title": "From Waste to Value: Producing a Non-Astringent Persimmon Paste from Discarded ‘Rojo Brillante’ Fruit",
+   "journal": "Foods",
+   "date": "2026-10-01",
+   "authors": "Virginia Larrea, A. Tormos, I. Hernando, Gemma Moraga",
+   "abstract": "‘Rojo Brillante’ persimmon has positioned Spain as the second largest producer worldwide. Its rapid expansion has increased seasonal overproduction and postharvest losses, particularly of astringent fruit unsuitable for fresh markets; however, the high soluble tannin content of this cultivar limits processing opportunities. In this study, a persimmon paste was developed from astringent discarded fruit. The combined effects of thermal treatment (70 and 100 °C) and sugar concentration (30 and 50%, w/w) on soluble tannin content and physicochemical properties were evaluated, together with their evolution during refrigerated storage. A ranking test was conducted to assess the astringency and other sensory attributes among formulations. Processed pastes contained a maximum of 1.01 mg GAE/g, compared with 7.3 mg GAE/g in fresh fruit, showing a decrease in the values measured by the Folin–Ciocalteu assay during processing. Importantly, these values did not increase significantly during refrigerated storage. Formulations with 50% sugar exhibited the lowest soluble tannin contents, with no significant differences attributable to thermal treatment. In contrast, samples with 30% sugar developed firmer gel structures, showing higher mechanical resistance. Pastes processed at 100 °C presented improved color stability during storage, likely associated with inactivation of enzymatic browning. Positive purchase intention was 70%, while the 100 °C/50% formulation was the most frequently selected for purchase (60%). These findings demonstrate the potential of persimmon paste as a sustainable valorization pathway for astringent ‘Rojo Brillante’ discarded fruit.",
+   "url": "https://doi.org/10.3390/foods15193522"
+  },
+  {
+   "key": "doi:10.5423/ppj.rw.07.2026.0100",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "19474b94b8a3f2e8d04d5d9d96322227d762aa60",
+   "doi": "10.5423/ppj.rw.07.2026.0100",
+   "pmid": "",
+   "title": "Diversity and Host Associations of the Genus Colletotrichum in Korea",
+   "journal": "Plant Pathology Journal",
+   "date": "2026-10-01",
+   "authors": "L. D. Thao, Hyorim Choi, Jae Sung Lee, A. Mageswari, Dong-Hun Kang, Daseul Lee",
+   "abstract": "Colletotrichum is one of the most economically important genera of plant pathogenic fungi worldwide, yet its species diversity and host associations remain incompletely understood in many regions. In Korea, historical records based largely on morphological identification have underestimated species diversity and obscured host-association patterns. In this review, we provide an integrative reassessment of Colletotrichum diversity and host associations in Korea, combining published literature with recent taxonomic re-evaluations of 237 Colletotrichum isolates preserved in the Korean Agricultural Culture Collection. Of the 86 Colletotrichum species reported in Korea, 73 are currently accepted species worldwide; 61 are supported by DNA sequence data and belong to 15 species complexes and one singleton lineage, whereas the remaining records require taxonomic verification. Among the KACC isolates, 52 species are represented, comprising 36 species previously reported from Korea, 14 species newly recorded in Korea, and two newly described species. Our synthesis reveals extensive historical misidentification uncovered by multilocus re-evaluation. The 61 molecularly identified species are associated with 120 plant species across 102 genera and 54 families, forming 203 validated fungus-host combinations. Among the recorded species complexes, the C. gloeosporioides and C. acutatum complexes have the largest numbers of host associations in Korea. Major crops associated with Colletotrichum include pepper, apple, grape, persimmon, strawberry, peach, and ginseng, each often harboring multiple distinct Colletotrichum species. These findings underscore how advances in molecular systematics have substantially reshaped our understanding of Colletotrichum diversity and host associations in …",
+   "url": "https://doi.org/10.5423/ppj.rw.07.2026.0100"
+  },
+  {
+   "key": "doi:10.7860/jcdr/2026/85518.24490",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "d423093593a8e62c08c150806af76de76e70abdb",
+   "doi": "10.7860/jcdr/2026/85518.24490",
+   "pmid": "",
+   "title": "Phytochemical Characterisation and Antiinflammatory Evaluation of a Dual Extract In-situ Gel from Sesamum indicum and Rubus idaeus: An In-vitro Study",
+   "journal": "Journal of Clinical and Diagnostic Research",
+   "date": "2026-10-01",
+   "authors": "G. Ramalingam, TN Uma Maheshwari, S. Kumar",
+   "abstract": "Introduction: Rubus idaeus and Sesamum indicum have antiinflammatory and antioxidant qualities because they contain bioactive substances such as polyphenols, anthocyanins, tocopherols, and lignans. By reducing systemic adverse effects, combining these extracts in a topical (mucous membrane) in-situ gel may provide a safer substitute for traditional antiinflammatory medications. The study was undertaken with the rationale of exploring a natural therapeutic approach for managing inflammation. Aim: To develop, characterise, and evaluate a dual herbal insitu gel with extracts of sesame and raspberry for its potential to reduce inflammation in-vitro. Materials and Methods: This in-vitro study was conducted in the Institutional Research Laboratory, Nanobiomedicine lab, Saveetha Medical College and Hospital, Chennai, Tamil Nadu, India, from March to June 2025. Before biological evaluation, the herbal components were subjected to phytochemical characterisation to confirm the presence of bioactive constituents associated with anti-inflammatory activity. The formulated gel, prepared using a Carbopol-CMC gel base, was assessed at five concentrations (10-50 µg/mL). Anti-inflammatory activity was analysed using three standard in-vitro assays, namely the Bovine Serum Albumin (BSA) denaturation assay, Egg albumin denaturation assay, and Human Red Blood Cell (HRBC) membrane stabilisation assay, with diclofenac sodium serving as the standard reference drug. All experiments were performed in triplicate, resulting in a total sample size of 18, divided into two main groups based on the formulation, Group I (standard - diclofenac sodium) and Group II (sesame + raspberry gel). The data obtained were statistically analysed using Statistical Package for Social Sciences (SPSS) version 23.0. Nor…",
+   "url": "https://doi.org/10.7860/jcdr/2026/85518.24490"
+  },
+  {
+   "key": "doi:10.1111/gbb.70059",
+   "groups": [
+    "forest-genomics"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42723412",
+   "doi": "10.1111/gbb.70059",
+   "pmid": "42723412",
+   "title": "An Integrated Analysis of Manganese Metabolism-Related Genes and Their Association With Biomarkers, Immune Infiltration, and Clinical Subtypes in Alzheimer's Disease.",
+   "journal": "",
+   "date": "2026-10-01",
+   "authors": "Shu S, Hu J, Hu S, Yao Y.",
+   "abstract": "Alzheimer's disease (AD), a neurodegenerative condition marked by amyloid-beta plaques and tau protein neurofibrillary tangles, progresses against a backdrop of essential biological processes. Manganese, an indispensable trace element for vital functions including energy metabolism and antioxidant defense, is integral to neurological health. Its precise metabolic role throughout the course of AD pathogenesis is not fully elucidated. Four essential manganese metabolism-related genes were identified as diagnostic markers through a multi-omic framework. This approach integrated Weighted Gene Co-Expression Network Analysis with machine learning ensembles (Least Absolute Shrinkage and Selection Operator/Random Forest/Extreme Gradient Boosting), followed by rigorous testing in an independent dataset. Beyond identification, we utilized CIBERSORT and ssGSEA to characterize immune infiltration and leveraged GSEA/GO/KEGG for pathway elucidation. Finally, AD patients were stratified into molecular subgroups based on these hub genes, and their underlying regulatory networks involving miRNAs and transcription factors were reconstructed. An integrated bioinformatics framework identified 12 differentially expressed genes related to manganese metabolism in AD. Machine-learning-based feature selection further pinpointed four key diagnostic biomarkers (TSPO, PTBP1, GLO1, and ACACB) with high discriminative power (AUC: 0.831-0.905). Immune infiltration analysis revealed substantial immune remodeling in AD, including an elevation of naïve B cells. Moreover, AD samples were classified into two molecular subtypes displaying distinct immune and metabolic characteristics, and regulatory miRNA/TF interaction networks were constructed for the core genes. Our results shed new light on the molecul…",
+   "url": "https://doi.org/10.1111/gbb.70059"
+  }
+ ]
+}
