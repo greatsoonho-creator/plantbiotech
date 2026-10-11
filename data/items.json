@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-11T20:55:00+09:00",
+  "generated_at": "2026-10-11T21:20:00+09:00",
   "latest_run": "2026-10-11",
   "runs": [
+    {
+      "run": "2026-10-11",
+      "at": "2026-10-11T21:20:00+09:00",
+      "count": 8,
+      "note": "genome 2, fruit 5, pvp 0, policy 1 (피드 후보 17건 중 관련 7건 선별; 원문 미열람 1건; 초록 없음 2건; 품종보호·UPOV 신규 없음)"
+    },
     {
       "run": "2026-10-11",
       "at": "2026-10-11T20:55:00+09:00",
@@ -300,6 +306,46 @@
       "id": "20261008-fa8f67d2"
     },
     {
+      "id": "20261008-13611990",
+      "cat": "fruit",
+      "title": "Developmental dynamics of ascorbic acid metabolism in wild jujube fruit: an integrated physiological and transcriptomic analysis",
+      "title_ko": "산조(야생대추) 과실 발달 중 아스코르브산 대사 동태: 생리·전사체 통합 분석",
+      "source": "Plant Science",
+      "url": "https://doi.org/10.1016/j.plantsci.2026.113507",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "paper",
+      "summary_ko": "산조(Ziziphus jujuba var. spinosa) 과실은 아스코르브산(AsA)이 풍부하나 축적·효소·유전자 발현의 발달 단계별 조율은 불명확했다. 같은 과원의 재배종 'Lingwuchangzao'와 5개 발달 단계에서 과실 형질, 당·산, AsA, 총AsA, DHA 및 AsA 관련 효소 5종 활성을 비교하고 혼합효과 모형으로 분석했으며, 산조 RNA-seq 15개 샘플에 발현차이·WGCNA·RT-qPCR을 적용했다. 유과기 산조의 AsA는 778.75 mg/100g FW, 성숙기에는 612.34 대 321.22 mg/100g FW로 재배종보다 높았다. VTC2, GLDH, HXK2, PGMP와 bHLH 유전자(LOC107430586)가 후보로 도출되었고, ZjVTC2를 담배 잎에서 일시 과발현하자 AsA가 72.65% 증가했다. 대추 기능성 육종에서 비타민C 고함량 형질의 유전자원·표적 유전자로 참고할 만하다.",
+      "tags": [
+        "대추",
+        "산조",
+        "아스코르브산",
+        "VTC2",
+        "전사체"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
+      "id": "20261008-aeb57339",
+      "cat": "policy",
+      "title": "산림청, 주민이 지켜낸 ‘소각산불 없는 녹색마을’ 현판 수여",
+      "title_ko": "산림청, 주민이 지켜낸 ‘소각산불 없는 녹색마을’ 현판 수여",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10897236",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "news",
+      "summary_ko": "산림청은 10월 8일 충북 충주시 수안보면 온천2리 마을회관에서 ‘소각산불 없는 우수 녹색마을’ 현판 수여식을 열었다. 이 사업은 영농부산물·생활쓰레기 소각 관행을 개선하기 위해 2014년부터 추진되어 왔다. 올해는 전국 2만 3000여 마을이 참여했고, 산불조심기간 이후 소각산불 발생 여부와 예방 활동을 종합해 우수마을 300개소와 마을 대표 50명을 선정·포상했다. 산림재난 대응과 민방위 계획에서 주민 참여형 산불 예방 사례로 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "산림청",
+        "산불예방",
+        "녹색마을"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
       "cat": "policy",
       "title": "산림청, '임업인 소득에 정책 역량 집중'",
       "title_ko": "산림청, '임업인 소득에 정책 역량 집중'",
@@ -421,6 +467,107 @@
       "run": "2026-10-09"
     },
     {
+      "id": "20261007-db6cf01c",
+      "cat": "fruit",
+      "title": "Molecular Characterization and Evolutionary Relationships of WRKYs in Five Rubus Species and Functional Analysis of RiWRKY48",
+      "title_ko": "산딸기속 5종 WRKY 유전자family의 분자 특성·진화 관계와 RiWRKY48 기능 분석",
+      "source": "Horticulturae",
+      "url": "https://doi.org/10.3390/horticulturae12101249",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "WRKY 전사인자는 생장·스트레스 반응에 관여하지만 산딸기속(Rubus)에서의 진화와 기능은 충분히 규명되지 않았다. 이 연구는 Rubus 5종에서 WRKY 유전자 family를 전장 유전체 수준으로 동정하고 진화 분석과 기능 검증을 수행했다. 종별로 37~67개 WRKY가 확인되어 계통분석상 3개 그룹으로 분류되었고, 공선성·유전자 확장/수축 분석에서 외군인 양벚나무에 비해 Rubus 계통에서 수축 경향이 나타났다. 프로모터에는 호르몬·스트레스 반응 cis-element가 널리 존재했고, 대부분의 WRKY는 과실 발달 중 발현이 감소했다. 붉은산딸기(R. idaeus)의 RiWRKY48은 핵에 위치하며 전사활성이 없고, AlphaFold3 모델링과 dual-luciferase 분석에서 안토시아닌 합성 유전자 RiUFGT4 프로모터를 억제할 가능성이 제시되었다. 산딸기 품종보호 출원 시 과색·안토시아닌 관련 형질의 분자 근거와 마커 후보로 참고할 수 있다.",
+      "tags": [
+        "산딸기",
+        "Rubus",
+        "WRKY",
+        "안토시아닌"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
+      "id": "20261007-479f11a8",
+      "cat": "genome",
+      "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species identification",
+      "title_ko": "Rubus 품종 엽록체 유전체 비교 및 종 판별 분자마커 개발",
+      "source": "Plant Cell Reports",
+      "url": "https://doi.org/10.1007/s00299-026-04013-2",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "산딸기속은 종간 형태 변이와 잡종화로 품종·종 판별이 어렵다. 이 연구는 Rubus 재배 품종들의 엽록체 유전체(plastome)를 비교 분석하고 종 판별용 분자마커를 개발했다. (초록 없음) 제목 기준으로 plastome 비교를 통해 종 간 변이 부위를 찾아 마커로 전환한 연구로 보이며, 구체적 품종 수와 마커 수는 확인하지 못했다. 산딸기 품종보호 출원에서 품종·종 식별과 DUS 보완용 분자마커로 활용 가능성이 있어 원문 확인이 필요하다.",
+      "tags": [
+        "Rubus",
+        "plastome",
+        "분자마커",
+        "품종식별"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
+      "id": "20261007-2030238b",
+      "cat": "genome",
+      "title": "Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates under drought and Phytophthora cinnamomi",
+      "title_ko": "코르크참나무 NLR 전장 분석: RNL 관련 중복과 가뭄·역병 면역수용체 후보",
+      "source": "Frontiers in Genetics",
+      "url": "https://doi.org/10.3389/fgene.2026.1894037",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "NLR 유전자는 식물 면역의 핵심이지만 장수 목본에서의 다양성과 진화는 잘 알려지지 않았다. 연구진은 신규 주석 도구 InterNLR로 코르크참나무(Quercus suber) 유전체의 NLR을 동정·분류했다. 전형(canonical) NLR 374개와 비전형 NLR 544개가 확인되었고, 보조(helper) NLR인 RNL은 계통 특이적 유전자 중복 증거를 보였다. 줄기 조직 전사체에서 NLR 클래스별 발현 차이가 있었고, 가뭄에서 7개 NLR이 차등 발현했으며 그중 4개는 가뭄·Phytophthora cinnamomi 감염에 공통 반응하는 후보였다. 이베리아 2개 집단의 RNA-seq 변이에서는 Tajima's D 양의 값이 우세했다. 참나무류 유전체 기반 저항성 유전자 탐색의 참고 사례로 활용할 수 있다.",
+      "tags": [
+        "코르크참나무",
+        "NLR",
+        "저항성",
+        "유전체"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
+      "id": "20261007-b4966f36",
+      "cat": "fruit",
+      "title": "ZJP-2, a novel wild jujube polysaccharide, enhances longevity, cognitive function, and mitigates oxidative stress",
+      "title_ko": "산조 신규 다당류 ZJP-2의 수명 연장·산화스트레스 완화 효과",
+      "source": "International Journal of Biological Macromolecules",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154751",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "산화스트레스는 노화의 주요 요인이며 약용식물 다당류가 대안으로 주목받는다. 이 연구는 산조(Ziziphus jujuba var. spinosa)에서 분리한 신규 다당류 ZJP-2를 LPS·열충격·산화스트레스 모델의 예쁜꼬마선충(C. elegans)에서 평가했다. 0.25~1 mg/mL에서 독성이 없었고 운동성·인두 펌핑·번식능이 개선되었다. 최적 농도에서 평균 수명이 42.03% 늘고 장내 lipofuscin 축적이 52.89% 줄었으며, 활성산소와 MDA가 감소하고 SOD·catalase·glutathione 활성이 증가했다. p38 MAPK 관련 유전자와 daf-16 활성화가 관여했다. 대추 유래 기능성 소재 연구의 근거로 활용 가능하나 선충 모델 결과라는 한계가 있다.",
+      "tags": [
+        "대추",
+        "산조",
+        "다당류",
+        "항산화",
+        "기능성"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
+      "id": "20261007-87db66bd",
+      "cat": "fruit",
+      "title": "Post-harvest treatments to reduce emergence and damage caused by larvae of Curculio sayi (Coleoptera) in chestnuts",
+      "title_ko": "밤 저장 중 밤바구미류(Curculio sayi) 유충 발생·피해 저감 수확후 처리",
+      "source": "Journal of Economic Entomology",
+      "url": "https://doi.org/10.1093/jee/toag300",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "Curculio sayi 유충 피해는 미국 동부 밤 생산의 수량·상품성을 떨어뜨리며, 기존 온수 침지는 변색·저장성 저하가 문제였다. 이 연구는 밤을 22.5~60°C 물에 5~30분 침지한 뒤 1°C 저온저장 30·60·90일 동안 유충 발생과 품질을 평가했고, 상온 대조구와 curatura(물 숙성), 온·냉 교대처리도 비교했다. 대조구는 100개당 24~41마리가 발생한 반면, 49°C 15분, 54.4°C 10분, 60°C 5분 침지에서 100개당 1마리 미만으로 방제되었다. 54.4°C 25분이나 60°C 20~25분은 품질이 급격히 저하되었고, 54.4°C 10~20분이 최적으로 60일 저장 시 유충 없이 품질이 유지되었다. 처리 효과는 밤 크기에 따른 심부 온도 도달 시간에 좌우되었다. 국내 밤바구미 수확후 관리 지침 검토에 참고할 수 있다.",
+      "tags": [
+        "밤나무",
+        "밤바구미",
+        "수확후처리",
+        "온수침지"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
+    },
+    {
       "cat": "policy",
       "title": "\"재선충 피해목, 자원으로\"...산림청-충남도 '산업화 방제' 협력",
       "title_ko": "재선충 피해목을 자원으로 — 산림청·충남도 '산업화 방제' 업무협약",
@@ -440,6 +587,26 @@
       "run": "2026-10-11",
       "date_key": "2026-10-06",
       "id": "20261006-90e98e90"
+    },
+    {
+      "id": "20261005-ef578ecd",
+      "cat": "fruit",
+      "title": "Unveiling on-tree fruit softening: a new physiological disorder in sweet persimmon (Diospyros kaki Thunb.)",
+      "title_ko": "단감 수체 위 과실 연화: 새로운 생리장해 규명",
+      "source": "Horticulture, Environment, and Biotechnology",
+      "url": "https://doi.org/10.1007/s13580-026-00850-y",
+      "date": "2026-10-05",
+      "date_key": "2026-10-05",
+      "type": "paper",
+      "summary_ko": "단감에서 수확 전 나무 위에서 과실이 무르는 현상이 보고되어 새로운 생리장해로 논의된다. (초록 없음) 제목과 학술지 정보만 확인되었으며 구체적 시료·수치는 확인하지 못했다. 감 재배 지침과 수확기 품질관리에서 연화 장해의 원인 구명 여부를 확인할 필요가 있어 원문 열람을 권한다.",
+      "tags": [
+        "감",
+        "단감",
+        "생리장해",
+        "연화"
+      ],
+      "collected_at": "2026-10-11",
+      "run": "2026-10-11"
     },
     {
       "cat": "fruit",
