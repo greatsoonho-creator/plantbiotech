@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-11T21:20:00+09:00",
-  "latest_run": "2026-10-11",
+  "generated_at": "2026-10-12T06:52:36+09:00",
+  "latest_run": "2026-10-12",
   "runs": [
+    {
+      "run": "2026-10-12",
+      "at": "2026-10-12T06:52:36+09:00",
+      "count": 5,
+      "note": "genome 1, fruit 4, pvp 0, policy 0 (피드 후보 14건 중 5건 선별; 원문 미열람 0건; 초록 없음 2건; 뉴스·정책은 발행일 확인 불가로 제외, 웹 원문 DNS 차단)"
+    },
     {
       "run": "2026-10-11",
       "at": "2026-10-11T21:20:00+09:00",
@@ -265,6 +271,67 @@
       "id": "20261009-73228670"
     },
     {
+      "id": "20261009-4dddc96d",
+      "cat": "fruit",
+      "title": "Persimmon proanthocyanidins-mucins interaction mechanism: structural characteristics, rheological properties, and molecular docking",
+      "title_ko": "감 프로안토시아니딘–뮤신 상호작용 기전: 구조 특성, 유변학적 성질, 분자 도킹",
+      "source": "The Journal of the Science of Food and Agriculture",
+      "url": "https://doi.org/10.1002/jsfa.71110",
+      "date": "2026-10-09",
+      "date_key": "2026-10-09",
+      "type": "paper",
+      "summary_ko": "감 프로안토시아니딘의 장 흡수와 생체이용률에는 점액 뮤신(MUC)과의 상호작용이 중요하지만 그 기전은 불명확했다. 이 연구는 감 프로안토시아니딘(PPA)–MUC 복합체의 구조·유변학적 특성과 결합 기전을 규명했으며 학술지는 Journal of the Science of Food and Agriculture이다. 원자힘현미경으로 PPA가 MUC의 응집 상태와 입자 크기를 바꾸는 것을, 원편광이색성·X선회절로 MUC의 2차 구조와 결정 구조가 변하는 것을 확인했다. 유변학 측정에서는 복합체의 저장탄성률(G')과 손실탄성률(G″)이 주파수에 따라 증가해 탄성 유체 성질이 강화되었다. 등온적정열량계 결과 결합은 발열 반응(ΔG<0, ΔH<0, ΔS<0)으로 수소결합과 반데르발스 힘이 주도했고, 분자 도킹에서는 PPA 단량체의 7-OH, 5'-OH, 3'-OH, 3-O-갈레이트기가 MUC2의 LYS·SER·CYS 잔기와 결합하는 것으로 나타났다. 감 기능성 성분의 소화·흡수 기전 자료로, 감 기능성 소재 연구나 재배지침의 기능성 설명 근거로 참고할 수 있다.",
+      "tags": [
+        "감",
+        "프로안토시아니딘",
+        "뮤신",
+        "기능성"
+      ],
+      "collected_at": "2026-10-12",
+      "run": "2026-10-12"
+    },
+    {
+      "id": "20261009-ea574f2f",
+      "cat": "genome",
+      "title": "Distribution, Development, and Function of Resin Canals in Conifers: Insights from Cellular and Genomic Perspectives",
+      "title_ko": "침엽수 수지구의 분포·발달·기능: 세포 및 유전체 관점의 고찰",
+      "source": "Tree Physiology",
+      "url": "https://doi.org/10.1093/treephys/tpag150",
+      "date": "2026-10-09",
+      "date_key": "2026-10-09",
+      "type": "paper",
+      "summary_ko": "침엽수 수지구는 수지를 합성·분비해 병해충 방어에 핵심적이지만 형성·기능 기전은 아직 잘 알려지지 않았다. Tree Physiology에 실린 이 종설은 수지구의 세포 발달, 방어 기작, 분자 조절 연구를 정리했다. 침엽수 종별 수지구의 분포 양상과 세포하 특성, 형성 과정을 분석하고, 외상 수지구 연구를 토대로 형성층 활동에서 세포 분화·수지구 형성에 이르는 발달 모델을 제안했다. 또한 수지구 특이 유전자들의 기능과 발현 양상을 분석했으며, 침엽수 유전체 해독과 단일세포 기술의 발전이 조절 기전 규명의 기회가 될 것이라고 전망했다. 저자들은 스트레스 내성·병해충 저항성·재질 형질의 침엽수 육종을 위한 전략 틀을 제안한다. 소나무 재선충·병해충 저항성 육종과 소나무류 유전체 연구에서 후보 유전자 탐색의 배경 자료로 활용할 수 있다.",
+      "tags": [
+        "침엽수",
+        "수지구",
+        "소나무",
+        "유전체",
+        "저항성"
+      ],
+      "collected_at": "2026-10-12",
+      "run": "2026-10-12"
+    },
+    {
+      "id": "20261009-9de52a81",
+      "cat": "fruit",
+      "title": "Combined hot water treatment and ultraviolet light improve postharvest quality and extend market window of persimmon under ambient storage",
+      "title_ko": "온수 처리와 자외선 병행이 감의 상온 저장 중 수확후 품질을 개선하고 유통 가능 기간을 연장",
+      "source": "International Journal of Food Properties",
+      "url": "https://doi.org/10.1080/10942912.2026.2743963",
+      "date": "2026-10-09",
+      "date_key": "2026-10-09",
+      "type": "paper",
+      "summary_ko": "감은 수확 후 연화가 빠르고 부패가 쉬워 유통 기간이 짧은 것이 문제이다. International Journal of Food Properties에 실린 이 연구는 온수 처리와 자외선(UV) 조사를 병행해 감의 상온 저장 중 품질 유지와 유통 가능 기간 연장 효과를 평가했다. 제목에 따르면 두 처리의 병행이 수확후 품질을 개선하고 시장 출하 가능 기간을 늘렸다. 구체적 처리 조건과 수치는 초록이 제공되지 않아 확인하지 못했다. 감 수확후 관리·저장 기술 자료로 참고할 수 있다. (초록 없음)",
+      "tags": [
+        "감",
+        "수확후관리",
+        "온수처리",
+        "UV"
+      ],
+      "collected_at": "2026-10-12",
+      "run": "2026-10-12"
+    },
+    {
       "cat": "policy",
       "title": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
       "title_ko": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
@@ -344,6 +411,26 @@
       ],
       "collected_at": "2026-10-11",
       "run": "2026-10-11"
+    },
+    {
+      "id": "20261008-2dd821b9",
+      "cat": "fruit",
+      "title": "Microwave-assisted extraction of pectin from persimmon: physicochemical properties, structural characterization and greenness assessment",
+      "title_ko": "감 펙틴의 마이크로파 보조 추출: 물리화학적 특성, 구조 분석, 친환경성 평가",
+      "source": "Journal of Food Measurement & Characterization",
+      "url": "https://doi.org/10.1007/s11694-026-04931-5",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "paper",
+      "summary_ko": "감 가공 부산물의 활용 가치를 높이려면 효율적이고 친환경적인 펙틴 추출법이 필요하다. Journal of Food Measurement & Characterization에 실린 이 연구는 감에서 마이크로파 보조 추출로 펙틴을 얻고 그 물리화학적 특성과 구조를 분석했으며, 추출 공정의 친환경성(greenness)도 평가했다. 구체적 수율과 조건 수치는 초록이 제공되지 않아 확인하지 못했다. 감 가공·부산물 이용 연구의 참고 자료이다. (초록 없음)",
+      "tags": [
+        "감",
+        "펙틴",
+        "마이크로파추출",
+        "가공"
+      ],
+      "collected_at": "2026-10-12",
+      "run": "2026-10-12"
     },
     {
       "cat": "policy",
@@ -587,6 +674,26 @@
       "run": "2026-10-11",
       "date_key": "2026-10-06",
       "id": "20261006-90e98e90"
+    },
+    {
+      "id": "20261006-0bfabab6",
+      "cat": "fruit",
+      "title": "Strain identification, probiotic potential evaluation, and mannanase production optimisation of Lactiplantibacillus plantarum HDM10",
+      "title_ko": "동절 대추 발효즙에서 분리한 Lactiplantibacillus plantarum HDM10의 동정, 프로바이오틱 잠재력, 만난나아제 생산 최적화",
+      "source": "Natural Product Research",
+      "url": "https://doi.org/10.1080/14786419.2026.2740617",
+      "date": "2026-10-06",
+      "date_key": "2026-10-06",
+      "type": "paper",
+      "summary_ko": "대추 발효 유래 유산균의 프로바이오틱 활용 가능성을 평가한 연구로 Natural Product Research에 실렸다. 동절 대추(Ziziphus jujuba) 발효즙에서 분리한 L. plantarum HDM10을 생화학·분자 분석으로 동정했다. 이 균주는 γ-용혈성을 보이고 여러 항생제에 감수성이며, pH 2.0과 3.0에서 각각 72.63%, 80.00%가 생존하고 담즙산 0.05~0.5%에서 70% 이상, 1.0%에서 67.82% 생존했다. 모의 위·장 조건에서도 80% 넘게 생존했고, 반응표면법으로 만난나아제 생산을 87.73 U/mL로 최적화해 초기 대비 27.1% 높였다. 점액 부착률은 70% 이상이어서 안전성과 신바이오틱 소재 적용 가능성을 시사한다. 대추 가공·기능성 활용 연구의 참고 자료이다.",
+      "tags": [
+        "대추",
+        "유산균",
+        "프로바이오틱",
+        "발효"
+      ],
+      "collected_at": "2026-10-12",
+      "run": "2026-10-12"
     },
     {
       "id": "20261005-ef578ecd",
