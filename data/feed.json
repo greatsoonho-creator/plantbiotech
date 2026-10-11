@@ -1,13 +1,49 @@
 {
- "generated_at": "2026-10-11T12:11:54.451Z",
+ "generated_at": "2026-10-11T20:31:56.738Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 48,
- "errors": [],
+ "count": 50,
+ "errors": [
+  "semanticscholar:dus-pvp: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "doi:10.3390/biology15201794",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "4dde667feed5abbd65a35cb7d3e9f04502e0ff8a",
+   "doi": "10.3390/biology15201794",
+   "pmid": "",
+   "title": "Effects of Different Formulations of Exogenous Nutrient Bag Waste on Soil Properties and Physiological Activities and Root Transcriptomic Responses of Oat",
+   "journal": "Biology",
+   "date": "2026-10-09",
+   "authors": "Li-Bing Gong, Le Wang, Li-Ping Su, Wei Sa, Quan-Min Dong",
+   "abstract": "This study used typical chestnut soil from Huangyuan County, Qinghai Province as the experimental soil, and selected three oat varieties, “Baiyan 7”, “Qingyan 2”, and “Qinghai 444”, for mixed sowing. A blank control (CK) and five treatments with different ratios of exogenous nutrient bag waste (PF-R-1 to PF-R-5) were established. Through soil physicochemical analysis, microbial biomass determination, RNA sequencing (RNA-Seq), and weighted gene co-expression network analysis (WGCNA), the effects of exogenous nutrient bag waste with different ratios soil nutrient availability, microbial activity and root gene expression in oats were systematically evaluated. The results showed that most treatments enhanced soil organic matter, nitrogen content, and microbial activity. Transcriptomic analysis revealed that the comparison between PF-R-3 and PF-R-2 treatments exhibited the highest total number of differentially expressed genes (DEGs), with enrichment in pathways related to ribosomal protein translation, oxidative phosphorylation energy metabolism, and DNA damage repair. These enrichment patterns suggest potential changes in energy metabolism and protein synthesis, although direct functional validation was not performed. Moreover, DEGs uniquely identified in PF-R-3 were significantly enriched in nitrogen metabolism and secondary metabolite biosynthesis pathways; WGCNA identified the coral2 module as the core regulatory module, with its genes predominantly enriched in functions related to transmembrane transport and plant hormone signal transduction, which were highly consistent with efficient root nutrient acquisition and the maintenance of metabolic homeostasis. Fluorescence staining confirmed the successful colonization of oat root tissues by Morchella mycelium. Taken toget…",
+   "url": "https://doi.org/10.3390/biology15201794"
+  },
+  {
+   "key": "doi:10.1080/10942912.2026.2743963",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "d66b86cc637aba4c2007d083f01335ba344879d2",
+   "doi": "10.1080/10942912.2026.2743963",
+   "pmid": "",
+   "title": "Combined hot water treatment and ultraviolet light improve postharvest quality and extend market window of persimmon under ambient storage",
+   "journal": "International Journal of Food Properties",
+   "date": "2026-10-09",
+   "authors": "Muhammad Wasim Haider, M. T. Akram, Sarvet Jehan, W. Elmenofy, Sevda Alieva, Trobjon Makhkamov",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/10942912.2026.2743963"
+  },
   {
    "key": "doi:10.1002/jsfa.71110",
    "groups": [
@@ -22,7 +58,7 @@
    "journal": "The Journal of the Science of Food and Agriculture",
    "date": "2026-10-09",
    "authors": "Zhen-Zhen Ge, Xin-Jie Zhang, Yu-Xiang Zhao, Xin-Ru Li, Meng-Pei Liu, Rong-Zu Nie",
-   "abstract": "",
+   "abstract": "BACKGROUND Mucins (MUCs), as the principal constituents of mucus, are closely associated with the transportation and absorption of various bioactive compounds. This study investigated the structural and rheological characteristics of persimmon proanthocyanidin (PPA)-MUC complexes and the interaction mechanism between PPAs and MUCs to elucidate the influence of MUCs on the digestion behavior of PPAs. RESULTS Atomic force microscopy illustrated that the interaction between PPAs and MUC altered the aggregation state and particle size of MUC. Circular dichroism and X-ray diffraction analyses indicated that PPAs induced changes in the secondary and crystal structures of MUC. Rheological measurements demonstrated that both the storage (G') and loss (G″) moduli of PPA-MUC complexes increased with frequency, suggesting enhanced elastic fluid properties. Isothermal titration calorimetry indicated that the binding of PPAs and their structural monomers to MUC was exothermic (∆G < 0), with ∆H < 0 and ∆S < 0, indicating that the interaction was mainly driven by hydrogen bonding and van der Waals forces. An in silico molecular docking study further indicated that the 7-OH, 5'-OH, 3'-OH, and 3-O-gallate groups of PPA structural monomers could interact with the LYS, SER, and CYS amino acid residues of MUC2 through hydrogen bonding and van der Waals forces. CONCLUSION Proanthocyanidins and MUC exhibited characteristic intermolecular interactions. These results provide new insights into the development of MUC-based nanocarrier systems to improve the intestinal bioavailability of PPAs. © 2026 Society of Chemical Industry.",
    "url": "https://doi.org/10.1002/jsfa.71110"
   },
   {
