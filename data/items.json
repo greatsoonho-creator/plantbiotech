@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-12T06:52:36+09:00",
-  "latest_run": "2026-10-12",
+  "generated_at": "2026-10-13T06:58:00+09:00",
+  "latest_run": "2026-10-13",
   "runs": [
+    {
+      "run": "2026-10-13",
+      "at": "2026-10-13T06:58:00+09:00",
+      "count": 4,
+      "note": "genome 1, fruit 3, pvp 0, policy 1 (피드 후보 10건 중 4건 선별; 원문 미열람 1건; 초록 없음 2건; 산림청 사이트·기사 원문 DNS 차단, 뉴스는 검색요약 기반 1건, 품종보호 신규 없음)"
+    },
     {
       "run": "2026-10-12",
       "at": "2026-10-12T06:52:36+09:00",
@@ -332,6 +338,26 @@
       "run": "2026-10-12"
     },
     {
+      "id": "20261009-0e08c52d",
+      "cat": "fruit",
+      "title": "Cascading Valorization of Residual Chestnut Biomass: Linking Aqueous Extraction, Reverse Osmosis, Spray Drying, and Solid Reuse",
+      "title_ko": "밤나무 잔사 바이오매스의 단계적 가치화: 수추출·역삼투·분무건조·고형물 재활용",
+      "source": "Biomass",
+      "url": "https://doi.org/10.3390/biomass6050090",
+      "date": "2026-10-09",
+      "date_key": "2026-10-09",
+      "type": "paper",
+      "summary_ko": "밤나무(Castanea sativa) 부산물의 활용도를 높이기 위해 열수추출, 추출액 재사용, 역삼투(RO), 분무건조, 추출 후 고형물 재이용을 연계한 단계적 가치화 공정을 평가했다(학술지 Biomass). 성상이 다른 두 종류의 잔사를 실험실·파일럿 규모에서 100℃ 연속 추출한 결과 건물 1 g당 최대 141 mg GAE의 총페놀이 회수되었고, 신선 용수 4단계 만에 7단계 반응의 90~93%가 회수되었다. 추출액을 신선 바이오매스에 재사용하면 총페놀이 12.0~24.0 mg GAE/mL로 높아졌다. 한외여과는 분획 효과가 없었으나 RO는 총페놀 보유율 99.9% 이상, 부피 86.7~93.5% 감소를 보였고, 분무건조 분말은 488 mg GAE/g, DPPH IC50 13.7 μg/mL, d50 7.42 μm이었다. 2회 추출 후 잔사의 발열량은 18.1~18.2 MJ/kg으로 유지되었으나 펠릿 내구성은 떨어졌다. 밤 가공 부산물(밤껍질·속껍질)의 기능성 소재화와 에너지 이용 가능성을 가늠하는 참고 자료가 된다.",
+      "tags": [
+        "밤나무",
+        "Castanea",
+        "가공부산물",
+        "폴리페놀"
+      ],
+      "collected_at": "2026-10-13",
+      "run": "2026-10-13"
+    },
+    {
       "cat": "policy",
       "title": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
       "title_ko": "산림청, FAO 산림위원회서 '통합산불관리' 국제협력 강화",
@@ -431,6 +457,45 @@
       ],
       "collected_at": "2026-10-12",
       "run": "2026-10-12"
+    },
+    {
+      "id": "20261008-5b4b3e72",
+      "cat": "fruit",
+      "title": "Comparative Structural, Optical, Morphological and Elemental Characterisation of Jujube-Mediated Silver and Zinc Oxide Nanoparticles",
+      "title_ko": "대추 추출물로 합성한 은·산화아연 나노입자의 구조·광학·형태·원소 비교 특성",
+      "source": "FUDMA Journal of Sciences",
+      "url": "https://doi.org/10.33003/fjs-2026-1019-6073",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "paper",
+      "summary_ko": "식물추출물을 이용한 친환경 나노입자 합성의 일환으로 대추 추출물로 은(AgNPs)과 산화아연(ZnO) 나노입자를 만들어 동일한 분석 체계로 비교했다(FUDMA Journal of Sciences). XRD, FTIR, UV-Vis, SEM, EDX를 적용했으며, Ag는 38.27°, 44.45°, 64.55°, 77.57°에서 면심입방 피크를, ZnO는 31.91°~63.02° 범위의 육방정계 우르차이트 반사를 보였다. ZnO의 광학 흡수단은 약 392.5 nm(약 3.16 eV)였고, 두 시료 모두 표면이 거칠고 응집되어 있었다. FTIR에서 식물 유래 작용기 밴드가 확인되어 대추 성분이 입자 형성에 관여함을 시사한다. 대추의 비식품 고부가 활용 사례로 참고할 수 있으나 유전·육종 연구와의 직접 관련성은 낮다.",
+      "tags": [
+        "대추",
+        "나노입자",
+        "기능성"
+      ],
+      "collected_at": "2026-10-13",
+      "run": "2026-10-13"
+    },
+    {
+      "id": "20261008-faed3759",
+      "cat": "fruit",
+      "title": "Physiological investigation of arbuscular mycorrhizal fungi-mediated salt tolerance in persimmon (Diospyros kaki) seedlings",
+      "title_ko": "감(Diospyros kaki) 묘목에서 수지상 균근균 매개 내염성의 생리학적 조사",
+      "source": "PMC (Europe PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13642138/",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "paper",
+      "summary_ko": "감나무 묘목의 염 스트레스 내성을 수지상 균근균(AMF) 접종으로 높일 수 있는지를 생리학적으로 조사한 연구이다. 대상은 감(Diospyros kaki) 실생묘이며 제목 기준으로 AMF 접종과 염 처리에 따른 생리 반응을 비교한 것으로 보인다. (초록 없음) 구체적 수치는 확인하지 못했다. 감 재배지의 염류 집적·기후변화 대응이나 대목 묘 생산 시 균근 활용 가능성을 검토하는 데 참고할 수 있다.",
+      "tags": [
+        "감",
+        "Diospyros kaki",
+        "균근균",
+        "내염성"
+      ],
+      "collected_at": "2026-10-13",
+      "run": "2026-10-13"
     },
     {
       "cat": "policy",
@@ -653,6 +718,26 @@
       ],
       "collected_at": "2026-10-11",
       "run": "2026-10-11"
+    },
+    {
+      "id": "20261007-9a60df6b",
+      "cat": "genome",
+      "title": "Assembly and comparative analysis of the complete mitochondrial genomes of Pyrus calleryana Decne. and Pyrus betulifolia Bunge",
+      "title_ko": "콩배나무(Pyrus calleryana)와 두렁배나무(P. betulifolia) 미토콘드리아 전장 유전체 조립 및 비교분석",
+      "source": "PMC (Europe PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13640305/",
+      "date": "2026-10-07",
+      "date_key": "2026-10-07",
+      "type": "paper",
+      "summary_ko": "배 대목으로 널리 쓰이는 Pyrus calleryana와 P. betulifolia의 미토콘드리아 전장 유전체를 조립하고 비교한 연구이다. 제목상 두 야생 배속 종의 미토콘드리아 유전체 구조와 종간 차이를 분석한 것이다. (초록 없음) 유전체 크기, 유전자 수 등 구체적 수치는 확인하지 못했다. 돌배·산돌배 등 자생 배 자원의 계통 분석과 세포질 유전 마커 개발, 표준재배지침 작성 시 대목·품종 식별에 참고할 수 있다.",
+      "tags": [
+        "배나무",
+        "Pyrus",
+        "미토콘드리아 유전체",
+        "대목"
+      ],
+      "collected_at": "2026-10-13",
+      "run": "2026-10-13"
     },
     {
       "cat": "policy",
