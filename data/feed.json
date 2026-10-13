@@ -1,17 +1,30 @@
 {
- "generated_at": "2026-10-12T20:32:44.888Z",
+ "generated_at": "2026-10-13T20:31:02.631Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 51,
- "errors": [
-  "semanticscholar:pear-wild: HTTP 429",
-  "semanticscholar:raspberry: HTTP 429",
-  "semanticscholar:dus-pvp: HTTP 429"
- ],
+ "count": 53,
+ "errors": [],
  "items": [
+  {
+   "key": "doi:10.1007/s43621-026-04925-9",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "9e0ea1eb11d5b70f800925569c5abb7b401ec9e5",
+   "doi": "10.1007/s43621-026-04925-9",
+   "pmid": "",
+   "title": "Sustainable development of multifunctional epoxy composites reinforced with jujube seed particles",
+   "journal": "Discover Sustainability",
+   "date": "2026-10-11",
+   "authors": "C. Tamilarasan, Rakan Albarakati, C. Raja, N. B. Karthik Babu",
+   "abstract": "This study investigates the multi-functional performance of epoxy composites reinforced with Indian wild jujube ( Ziziphus mauritiana ) seed particles as a sustainable and low-cost reinforcement. Composites were fabricated by hand layup with particle concentrations of 4, 8, 12, 16, and 20 wt% in an LY-556 epoxy matrix cured with HY-951 at room temperature. Mechanical, tribological, water absorption, and thermal properties were evaluated, and scanning electron microscopy was used to relate performance to morphology and interfacial behaviour. Particle size analysis showed a bimodal distribution with an average hydrodynamic diameter of 1099 nm and a polydispersity index of 0.969. The composite with 12 wt% particles showed the highest tensile strength of 43.5 MPa, which is a 14.5% improvement over pure epoxy at 38.0 MPa. The maximum flexural strength of 148.7 MPa was obtained at 8 wt% with a 7.5% improvement. Water absorption increased with filler content under both conditions, while saltwater absorption remained lower due to ion-retarded diffusion. Erosion resistance improved for all composites, with the lowest erosion rate of 1.59 mg/min at 20 wt% compared to 1.74 mg/min for pure epoxy. The lowest wear rate of 7.560 × 10⁻⁶ mm³/(Nm) was observed at 4 wt%, after which wear increased with filler content. Thermal analysis showed slower degradation and higher char residue above 450 °C with increasing particle content. This study provides one of the first comprehensive evaluations of epoxy composites reinforced solely with jujube seed particles across mechanical, tribological, and thermal domains. The utilisation of agricultural jujube seed waste as reinforcement supports circular economy principles and contributes to SDG 9 (Industry, Innovation and Infrastructure), SDG 12 (Res…",
+   "url": "https://doi.org/10.1007/s43621-026-04925-9"
+  },
   {
    "key": "doi:10.3390/biomass6050090",
    "groups": [
@@ -79,6 +92,23 @@
    "authors": "Zhen-Zhen Ge, Xin-Jie Zhang, Yu-Xiang Zhao, Xin-Ru Li, Meng-Pei Liu, Rong-Zu Nie",
    "abstract": "BACKGROUND Mucins (MUCs), as the principal constituents of mucus, are closely associated with the transportation and absorption of various bioactive compounds. This study investigated the structural and rheological characteristics of persimmon proanthocyanidin (PPA)-MUC complexes and the interaction mechanism between PPAs and MUCs to elucidate the influence of MUCs on the digestion behavior of PPAs. RESULTS Atomic force microscopy illustrated that the interaction between PPAs and MUC altered the aggregation state and particle size of MUC. Circular dichroism and X-ray diffraction analyses indicated that PPAs induced changes in the secondary and crystal structures of MUC. Rheological measurements demonstrated that both the storage (G') and loss (G″) moduli of PPA-MUC complexes increased with frequency, suggesting enhanced elastic fluid properties. Isothermal titration calorimetry indicated that the binding of PPAs and their structural monomers to MUC was exothermic (∆G < 0), with ∆H < 0 and ∆S < 0, indicating that the interaction was mainly driven by hydrogen bonding and van der Waals forces. An in silico molecular docking study further indicated that the 7-OH, 5'-OH, 3'-OH, and 3-O-gallate groups of PPA structural monomers could interact with the LYS, SER, and CYS amino acid residues of MUC2 through hydrogen bonding and van der Waals forces. CONCLUSION Proanthocyanidins and MUC exhibited characteristic intermolecular interactions. These results provide new insights into the development of MUC-based nanocarrier systems to improve the intestinal bioavailability of PPAs. © 2026 Society of Chemical Industry.",
    "url": "https://doi.org/10.1002/jsfa.71110"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1970840",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "543478d03c4703e5b8a8a9593637dc189abe0fd6",
+   "doi": "10.3389/fpls.2026.1970840",
+   "pmid": "",
+   "title": "Fine-tuning improves deep learning-based digital phenotyping of lettuce genetic resources",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-10-09",
+   "authors": "Eunju Lee, Yuseok Jeong, H. Bae, Yoon-Jung Lee, Seong-Hoon Kim, Young-Wang Na",
+   "abstract": "Morphological characterization of agricultural genetic resources relies largely on visual assessment by experts, and applying the same criteria repeatedly to large collections is labor-intensive. Image-based deep learning can support this process, but systematic evidence on training strategies suited to genebank trait data remains limited. This study targeted six morphological traits of lettuce genetic resources characterized according to the test guidelines of the International Union for the Protection of New Varieties of Plants (UPOV). Using genebank images accumulated from 2012 to 2025, six convolutional neural networks were trained with three training strategies under identical conditions, and their performance was compared. Fine-tuning achieved the highest mean macro F1-score in 35 of the 36 backbone–trait combinations and significantly outperformed training from scratch and feature extraction, whereas no single backbone was superior across all traits. Misclassifications were concentrated in morphologically adjacent classes rather than randomly distributed, and for the ordinal traits, errors spanning two or more class levels were rare. These patterns suggest that the remaining classification difficulty was associated in part with the morphological continuity between neighboring classes. The attainable performance also differed among traits, distinguishing traits for which the training strategy alone achieved relatively high performance from those for which it did not. These results provide empirical evidence for selecting training strategies and for determining the role of model-assisted characterization on a trait-by-trait basis in genebanks.",
+   "url": "https://doi.org/10.3389/fpls.2026.1970840"
   },
   {
    "key": "doi:10.1093/treephys/tpag150",
@@ -235,40 +265,6 @@
    "url": "https://doi.org/10.1016/j.ijbiomac.2026.154751"
   },
   {
-   "key": "doi:10.3389/fgene.2026.1894037",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "0d8445fd8ff50dbbaff23d66fddef0767eaeac6e",
-   "doi": "10.3389/fgene.2026.1894037",
-   "pmid": "",
-   "title": "Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response",
-   "journal": "Frontiers in Genetics",
-   "date": "2026-10-07",
-   "authors": "L. M. Gonçalves, M. Oliveira, P. Barros",
-   "abstract": "The Nucleotide-Binding Domain Leucine-Rich Repeat (NLR) gene family is a central component of plant immune systems, yet its diversity and evolutionary dynamics remain poorly characterized in long-lived tree species. Here, we performed a genome-wide analysis of the NLR gene repertoire in Quercus suber (cork oak) using a newly developed annotation tool–InterNLR–which identifies and classifies NLRs as canonical and non-canonical. We identified a total of 374 canonical NLRs, and 544 non-canonical NLRs–which may represent pseudogenes, gene fragments or evolutionary intermediates. Phylogenetic analyses based on the NB-ARC domain highlighted the distinct evolutionary trajectory of RNL proteins, which function as “helper” NLRs and show evidence of clade-specific gene duplication. Transcriptomic analyses revealed significant differences in gene-level expression among NLR classes in cork oak stem tissues, mainly driven by contrasts involving the non-canonical N class. Seven cork oak NLR genes, sharing putative orthology with abiotic stress-responsive NLRs found in other species, were also differentially expressed in stems under drought conditions. From these, four candidate NLRs arise as candidate components of shared or convergent responses to drought and P. cinnamomi infection. Population-genetic analyses of RNA-seq-derived variants from expressed NLR loci in two Iberian populations further revealed heterogeneous patterns among expressed NLR loci, with a predominance of positive Tajima’s D values. Together, these results provide new insights into the evolution, expression, and functional diversification of NLRs in cork oak. This work advances our understanding of immune gene architecture in an ecologically and economically important forest tree species.",
-   "url": "https://doi.org/10.3389/fgene.2026.1894037"
-  },
-  {
-   "key": "t:needle extracts of pinus squamata x w li ameliorate obesity and modulate cecal microbiota in high fat diet induced obese",
-   "groups": [
-    "pine"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "PMC13638554",
-   "doi": "",
-   "pmid": "",
-   "title": "Needle extracts of Pinus squamata X.W. Li ameliorate obesity and modulate cecal microbiota in high-fat diet-induced obese mice",
-   "journal": "",
-   "date": "2026-10-07",
-   "authors": "Zhang X, Wang T, Chen H, Hu Y, Tang L, Chang S.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638554/?tool=EBI"
-  },
-  {
    "key": "doi:10.3390/horticulturae12101249",
    "groups": [
     "raspberry"
@@ -301,6 +297,40 @@
    "authors": "Li-Chao Hu, Ya-Qiong Wu, Zhuang Zhao, Wen-Long Wu, Fu-Liang Cao, Ze-Fu Wang",
    "abstract": "",
    "url": "https://doi.org/10.1007/s00299-026-04013-2"
+  },
+  {
+   "key": "doi:10.3389/fgene.2026.1894037",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0d8445fd8ff50dbbaff23d66fddef0767eaeac6e",
+   "doi": "10.3389/fgene.2026.1894037",
+   "pmid": "",
+   "title": "Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response",
+   "journal": "Frontiers in Genetics",
+   "date": "2026-10-07",
+   "authors": "L. M. Gonçalves, M. Oliveira, P. Barros",
+   "abstract": "The Nucleotide-Binding Domain Leucine-Rich Repeat (NLR) gene family is a central component of plant immune systems, yet its diversity and evolutionary dynamics remain poorly characterized in long-lived tree species. Here, we performed a genome-wide analysis of the NLR gene repertoire in Quercus suber (cork oak) using a newly developed annotation tool–InterNLR–which identifies and classifies NLRs as canonical and non-canonical. We identified a total of 374 canonical NLRs, and 544 non-canonical NLRs–which may represent pseudogenes, gene fragments or evolutionary intermediates. Phylogenetic analyses based on the NB-ARC domain highlighted the distinct evolutionary trajectory of RNL proteins, which function as “helper” NLRs and show evidence of clade-specific gene duplication. Transcriptomic analyses revealed significant differences in gene-level expression among NLR classes in cork oak stem tissues, mainly driven by contrasts involving the non-canonical N class. Seven cork oak NLR genes, sharing putative orthology with abiotic stress-responsive NLRs found in other species, were also differentially expressed in stems under drought conditions. From these, four candidate NLRs arise as candidate components of shared or convergent responses to drought and P. cinnamomi infection. Population-genetic analyses of RNA-seq-derived variants from expressed NLR loci in two Iberian populations further revealed heterogeneous patterns among expressed NLR loci, with a predominance of positive Tajima’s D values. Together, these results provide new insights into the evolution, expression, and functional diversification of NLRs in cork oak. This work advances our understanding of immune gene architecture in an ecologically and economically important forest tree species.",
+   "url": "https://doi.org/10.3389/fgene.2026.1894037"
+  },
+  {
+   "key": "t:needle extracts of pinus squamata x w li ameliorate obesity and modulate cecal microbiota in high fat diet induced obese",
+   "groups": [
+    "pine"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13638554",
+   "doi": "",
+   "pmid": "",
+   "title": "Needle extracts of Pinus squamata X.W. Li ameliorate obesity and modulate cecal microbiota in high-fat diet-induced obese mice",
+   "journal": "",
+   "date": "2026-10-07",
+   "authors": "Zhang X, Wang T, Chen H, Hu Y, Tang L, Chang S.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638554/?tool=EBI"
   },
   {
    "key": "doi:10.1186/s40104-026-01503-x",
@@ -422,23 +452,6 @@
    "url": "https://doi.org/10.1186/s12870-026-09842-7"
   },
   {
-   "key": "doi:10.1094/phyto-04-26-0106-r",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42490309",
-   "doi": "10.1094/phyto-04-26-0106-r",
-   "pmid": "42490309",
-   "title": "Recurrent Invasion of Oregon's Coastal Forests by the Sudden Oak Death Pathogen: The NA2 Lineage's First Escape into the Wild.",
-   "journal": "",
-   "date": "2026-10-03",
-   "authors": "Chase SM, Søndreli KL, Grünwald NJ, LeBoldus JM.",
-   "abstract": "Phytophthora ramorum , the sudden oak death (SOD) pathogen, has invaded U.S. nurseries and western forests repeatedly. Invasions by three distinct clonal lineages (NA1, NA2, and EU1) have affected U.S. wildland forests since 2001. Most recently, NA2 established an invasive population in coastal forests surrounding Port Orford in southwest Oregon. This is the first instance of NA2 encountered outside of a nursery. We assessed this new invasion's diversity and population structure using single-nucleotide polymorphisms from whole-genome sequences of 195 isolates. Genomes were sampled from the nursery trade and from the forest invasion surrounding Port Orford. The NA2 forest invasion lacks genetic diversity and likely originated from a single introduction. A subset of NA2 isolates (10.8%) were genetically distant from all other isolates including each other. This distance was correlated with frequency of genomic runs of homozygosity. No evidence of hybridization was found, though NA2 and EU1 mating types are compatible and their ranges in wild forests overlap. The aggressiveness and sporulation of NA2 isolates were measured on three host tree species and compared with isolates of other lineages. NA2 and EU1 phenotypes were similar. NA2 caused larger lesions on Douglas-fir and tanoak seedlings than NA1, the lineage of the original introduction into Oregon forests. Results indicate that the NA2 population is not distinct from the older EU1 Oregon population in terms of population diversity, disease aggressiveness, or potential for spread. However, the introduction of NA2 has increased the SOD epidemic's range, risk of hybridization, overall genetic diversity, and adaptive potential.",
-   "url": "https://doi.org/10.1094/phyto-04-26-0106-r"
-  },
-  {
    "key": "doi:10.14719/pst.15525",
    "groups": [
     "raspberry"
@@ -454,6 +467,23 @@
    "authors": "R. Gomathi, Maheswari T. N. Uma, K. Rajesh",
    "abstract": "Oxidative stress causes tissue damage, persistent inflammation and slowed wound healing. There is growing interest in plant-based antioxidants as safer substitutes for synthetic ones. Rich in lignans and polyphenols, sesame (Sesamum indicum L.) and raspberry (Rubus idaeus L.) have been shown to possess cytoprotective and free-radical-scavenging properties important for tissue protection. To develop an aqueous sesame–raspberry herbal formulation and evaluate its in vitro antioxidant potential using 2,2-diphenyl-1-picrylhydrazyl (DPPH), hydrogen peroxide (H2O₂) scavenging and ferric reducing antioxidant power (FRAP) assays. The roots of R. idaeus and S. indicum were cleaned, dried in the shade, ground into a powder and extracted separately with distilled water under controlled heating conditions. The extracts were oven-dried and combined in equal amounts to prepare the herbal formulation. The final dry extract yield was 10.46 %. Preliminary phytochemical screening was performed and the antioxidant activity of the formulation was evaluated using DPPH, H2O2 scavenging and FRAP assays at concentrations of 10–50 µg/mL, with ascorbic acid as the reference standard. Preliminary phytochemical screening revealed abundant flavonoids and phenols, moderate levels of alkaloids, tannins, glycosides, terpenoids and anthocyanins and the presence of saponins and steroids. The herbal formulation demonstrated concentration-dependent antioxidant activity, with responses ranging 62.25–89.99 % in the DPPH assay, 47.30–84.45 % in the H₂O₂ assay and 67.41–87.62 % in the FRAP assay across 10–50 µg/mL. The formulation showed lower antioxidant responses than the ascorbic acid standard across the tested concentrations. The aqueous sesame–raspberry herbal formulation demonstrated measurable in vitro…",
    "url": "https://doi.org/10.14719/pst.15525"
+  },
+  {
+   "key": "doi:10.1094/phyto-04-26-0106-r",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42490309",
+   "doi": "10.1094/phyto-04-26-0106-r",
+   "pmid": "42490309",
+   "title": "Recurrent Invasion of Oregon's Coastal Forests by the Sudden Oak Death Pathogen: The NA2 Lineage's First Escape into the Wild.",
+   "journal": "",
+   "date": "2026-10-03",
+   "authors": "Chase SM, Søndreli KL, Grünwald NJ, LeBoldus JM.",
+   "abstract": "Phytophthora ramorum , the sudden oak death (SOD) pathogen, has invaded U.S. nurseries and western forests repeatedly. Invasions by three distinct clonal lineages (NA1, NA2, and EU1) have affected U.S. wildland forests since 2001. Most recently, NA2 established an invasive population in coastal forests surrounding Port Orford in southwest Oregon. This is the first instance of NA2 encountered outside of a nursery. We assessed this new invasion's diversity and population structure using single-nucleotide polymorphisms from whole-genome sequences of 195 isolates. Genomes were sampled from the nursery trade and from the forest invasion surrounding Port Orford. The NA2 forest invasion lacks genetic diversity and likely originated from a single introduction. A subset of NA2 isolates (10.8%) were genetically distant from all other isolates including each other. This distance was correlated with frequency of genomic runs of homozygosity. No evidence of hybridization was found, though NA2 and EU1 mating types are compatible and their ranges in wild forests overlap. The aggressiveness and sporulation of NA2 isolates were measured on three host tree species and compared with isolates of other lineages. NA2 and EU1 phenotypes were similar. NA2 caused larger lesions on Douglas-fir and tanoak seedlings than NA1, the lineage of the original introduction into Oregon forests. Results indicate that the NA2 population is not distinct from the older EU1 Oregon population in terms of population diversity, disease aggressiveness, or potential for spread. However, the introduction of NA2 has increased the SOD epidemic's range, risk of hybridization, overall genetic diversity, and adaptive potential.",
+   "url": "https://doi.org/10.1094/phyto-04-26-0106-r"
   },
   {
    "key": "doi:10.1021/acs.jafc.6c05739",
