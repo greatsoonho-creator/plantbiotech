@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T06:58:00+09:00",
-  "latest_run": "2026-10-14",
+  "generated_at": "2026-10-15T06:53:11+09:00",
+  "latest_run": "2026-10-15",
   "runs": [
+    {
+      "run": "2026-10-15",
+      "at": "2026-10-15T06:53:11+09:00",
+      "count": 6,
+      "note": "논문 4(genome 3, fruit 1), 뉴스·정책 2(policy 2, pvp 0); 피드 후보 8건 중 관련 4건 선별; 원문 미열람 2건(뉴스)"
+    },
     {
       "run": "2026-10-14",
       "at": "2026-10-14T06:58:00+09:00",
@@ -81,6 +87,90 @@
       "run": "2026-10-09",
       "date_key": "2026-10-19",
       "id": "20261019-16f4586d"
+    },
+    {
+      "id": "20261012-ec30a7a2",
+      "cat": "genome",
+      "title": "Repeat-Rich Architecture and Gene Duplication Characterize the Expanded Genome of the Chestnut Gall Wasp",
+      "title_ko": "밤나무혹벌의 반복서열 풍부 구조와 유전자 중복이 특징인 확장 게놈",
+      "source": "Insects",
+      "url": "https://doi.org/10.3390/insects17101047",
+      "date": "2026-10-12",
+      "date_key": "2026-10-12",
+      "type": "paper",
+      "summary_ko": "밤나무혹벌(Dryocosmus kuriphilus)은 단위생식(thelytokous parthenogenesis)으로 번식하면서도 전 세계로 확산된 침입 해충이지만, 이를 가능케 하는 유전체 특성은 잘 알려져 있지 않았다. 이 연구는 염색체 수준 조립본을 곤충 7종의 대표 유전체와 비교해 반복서열, 오솔로그 그룹, 유전자 중복 양상을 분석했다(Insects). 2.28 Gb 크기의 유전체는 79.7%가 반복서열이었고 그중 62.3%가 전이인자(TE)였으며 대부분 유전자간 영역에 위치했다. OrthoFinder 분석에서 13,271개 유전자(단백질 코딩 유전자의 61.5%)가 다중 복사 오솔로그 그룹에 속했고, MCScanX 분석 결과 분절(segmental)·분산(dispersed) 중복이 가장 많았으며 분절 중복은 비교 종보다 현저히 많았다. TE 인근의 국소 중복에는 기주 인식, 영양 이용, 이물질 대사, 에너지 생산 관련 유전자가 포함되었고, 근연종 Belonocnema kinseyi보다 화학감각·해독·대사·스트레스 반응 유전자군의 복사 수가 높았다. 밤나무 재배·방제를 다루는 연구자에게 혹벌의 기주 적응과 저항성 육종 표적 이해에 참고가 되는 자료이다.",
+      "tags": [
+        "밤나무혹벌",
+        "유전체",
+        "유전자 중복",
+        "전이인자",
+        "해충"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
+    },
+    {
+      "id": "20261012-f2d62097",
+      "cat": "genome",
+      "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
+      "title_ko": "중국밤나무 GATA 유전자군 전장 분석: 염 스트레스 반응 핵심 조절인자",
+      "source": "Frontiers in Plant Science",
+      "url": "https://doi.org/10.3389/fpls.2026.1907055",
+      "date": "2026-10-12",
+      "date_key": "2026-10-12",
+      "type": "paper",
+      "summary_ko": "GATA 전사인자군은 식물 발생과 비생물·생물 스트레스 내성에 관여하지만 중국밤나무(Castanea mollissima)에서는 연구되지 않았다(Frontiers in Plant Science). 연구진은 N11-1 참조 유전체 조립본에서 CmGATA 유전자를 탐색하고 염 스트레스 처리 후 항산화효소 활성 및 RNA-seq 전사체를 분석했으며 WGCNA와 RT-qPCR로 검증했다. 총 21개 CmGATA 유전자가 12개 염색체에 분포했고 계통분석에서 4개 아과로 분류되었으며 같은 아과 내 유전자 구조와 보존 모티프가 유사했다. 공선성 분석상 분절 중복이 유전자군 확장의 주된 동인이었고 정화선택(purifying selection)이 작용했다. 염 처리가 길어질수록 DEG가 늘었으며 표현형 지표와 WGCNA를 통해 염 반응 후보 유전자를 도출했고 RT-qPCR 결과가 RNA-seq과 일치했다. 밤나무 리시퀀싱·내성 육종에서 스트레스 반응 후보 유전자 확보에 참고할 수 있다.",
+      "tags": [
+        "밤나무",
+        "GATA",
+        "염 스트레스",
+        "전사체",
+        "유전자군"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
+    },
+    {
+      "id": "20261010-27546193",
+      "cat": "genome",
+      "title": "Genome-Wide Identification of the Castanea mollissima MADS-Box Gene Family and Its Potential Roles in Female Flower Development Based on Transcriptomic and Morphological Analyses",
+      "title_ko": "중국밤나무 MADS-box 유전자군 전장 분석과 암꽃 발달에서의 역할",
+      "source": "International Journal of Molecular Sciences",
+      "url": "https://doi.org/10.3390/ijms27208994",
+      "date": "2026-10-10",
+      "date_key": "2026-10-10",
+      "type": "paper",
+      "summary_ko": "중국밤나무는 암꽃 분화가 늦고 적으며 불안정해 산업 발전의 제약이 되고 있다(IJMS). 연구진은 암꽃이 많은 '龍泉庄2호'(LQ)와 '燕秋'(YQ), 대조 품종 '燕山早丰'(ZF)을 발아 후 7~35일 5개 시기에 채취해 형태 관찰과 전사체 분석을 수행했다. 형태 차이는 발아 후 21일부터 뚜렷했고, 21일 LQ–ZF 비교에서 특이적 DEG 2,223개, 21~35일에 공통된 품종 간 DEG 791개가 확인되었다. 전사인자 예측에서 MADS-box가 후보로 나왔고 중국밤나무에서 60개 MADS-box(Type I 29개, Type II 31개; Type II는 13개 아과)를 동정했다. 암꽃에서 발현이 달라진 유전자는 Type II가 더 많았으며 4개 대표 유전자의 RT-qPCR 결과가 전사체와 일치했다. 밤나무 결실성 개량 육종과 리시퀀싱 연구에서 개화 관련 후보 유전자 자료로 활용할 수 있다.",
+      "tags": [
+        "밤나무",
+        "MADS-box",
+        "암꽃",
+        "전사체",
+        "육종"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
+    },
+    {
+      "id": "20261010-c8bc23ae",
+      "cat": "fruit",
+      "title": "Influence of Fermentation Methods on Jujube Wine Quality: A Volatile Metabolomics-Based Investigation",
+      "title_ko": "발효 방식이 대추 와인 품질에 미치는 영향: 휘발성 대사체 기반 연구",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15203604",
+      "date": "2026-10-10",
+      "date_key": "2026-10-10",
+      "type": "paper",
+      "summary_ko": "효모 혼합 발효는 과실주의 향 복잡성을 높이는 방법으로 알려져 있으나 대추 와인에서의 다중 접종 전략은 검토가 부족했다(Foods). 연구진은 토착 비사카로미세스 효모 Hanseniaspora uvarum TD74와 Metschnikowia pulcherrima HJ79를 Saccharomyces cerevisiae와 함께 순차 접종하고 이화학 특성과 휘발성 성분을 HS-SPME-GC–MS, 전자코·전자혀, 화학계량학으로 분석했다. 단일 균주 발효에 비해 두 비사카로미세스 효모를 순차 접종한 구에서 휘발성 프로파일이 뚜렷이 달랐다. 특히 3균주 순차 접종구(MHS)는 대부분의 에틸 에스터 반정량 함량이 높고 과일향이 강했으며 관능평가 결과와 일치했다. 대추 가공품 부가가치 향상과 스타터 균주 설계의 근거가 되며, 대추 기능성·가공 연구에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "와인",
+        "발효",
+        "휘발성 성분",
+        "가공"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
     },
     {
       "cat": "policy",
@@ -545,6 +635,26 @@
       "run": "2026-10-14"
     },
     {
+      "id": "20261008-1895cff4",
+      "cat": "policy",
+      "title": "산림청, ‘소각산불 없는 녹색마을’ 300곳 선정…산불 예방 실천 격려",
+      "title_ko": "산림청, ‘소각산불 없는 녹색마을’ 300곳 선정",
+      "source": "한국영농신문",
+      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71074",
+      "date": "2026-10-08",
+      "date_key": "2026-10-08",
+      "type": "news",
+      "summary_ko": "산림청은 논·밭두렁, 영농부산물, 생활쓰레기 소각이 산불의 주요 원인이라는 점에서 2014년부터 ‘소각산불 없는 녹색마을’ 캠페인을 추진해 왔다. 올해는 약 2만 3천 개 마을이 참여했고, 이 중 산불 예방 기여가 큰 우수 마을 300곳과 대표 이장 50명을 선정했다. 10월 8일 충북 충주시 수안보면 온천2리 마을회관에서 임하수 산림청 차장이 현판 수여식에 참석해 시상하고 격려했다. 이후 삼척시(노곡3리·궁촌4리, 강원사랑상품권 100만원), 여주시(4년 연속 산림청장 표창), 속초시 등 지자체별 현판식이 이어졌다. 산불·산사태 등 재난 대응 계획을 맡은 담당자에게는 마을 단위 산불 예방 사례와 포상 체계를 참고할 수 있는 자료이다. (원문 미열람)",
+      "tags": [
+        "산불",
+        "녹색마을",
+        "산림청",
+        "재난"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
+    },
+    {
       "cat": "policy",
       "title": "산림청, '임업인 소득에 정책 역량 집중'",
       "title_ko": "산림청, '임업인 소득에 정책 역량 집중'",
@@ -846,6 +956,26 @@
       ],
       "collected_at": "2026-10-11",
       "run": "2026-10-11"
+    },
+    {
+      "id": "20261002-cf3d7ec5",
+      "cat": "policy",
+      "title": "가을철 산불조심기간 시작, 산불예방 총력 대응!",
+      "title_ko": "가을철 산불조심기간 시작, 산불예방 총력 대응",
+      "source": "정책브리핑(korea.kr)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156720270&pWise=sub&pWiseSub=C3",
+      "date": "2026-10-02",
+      "date_key": "2026-10-02",
+      "type": "policy",
+      "summary_ko": "산림청은 2026년 가을철 산불조심기간에 들어가 산불예방 총력 대응 태세를 가동한다고 밝혔다. 검색 결과에 따르면 가을철 산불조심기간은 10월부터 11월 30일까지이며, 9월 14일~10월 31일에는 본청·5개 지방산림청·27개 국유림관리소와 지방정부가 합동단속반을 꾸려 산림 내 불법행위 집중단속을 한다. 드론감시단과 산불무인감시카메라가 동원되고, 올해 2월 시행된 산림재난방지법에 따라 산림 안이나 인접지역에서 불을 피우거나 불씨를 가지고 들어가는 행위의 과태료가 기존 50만원 이하에서 200만원 이하로 상향되었다. 산불 대응과 임산물 불법 채취 단속을 담당하는 기관과 연구자에게 법령 변경 사항을 확인할 수 있는 자료이다. (원문 미열람)",
+      "tags": [
+        "산불",
+        "산림재난방지법",
+        "과태료",
+        "단속"
+      ],
+      "collected_at": "2026-10-15",
+      "run": "2026-10-15"
     },
     {
       "cat": "fruit",
