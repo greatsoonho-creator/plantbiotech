@@ -1,13 +1,64 @@
 {
- "generated_at": "2026-10-13T20:31:02.631Z",
+ "generated_at": "2026-10-14T20:31:24.195Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 53,
+ "count": 58,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.3390/insects17101047",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "de2401a99f01d5a8fa6150739bebf5a10092a39b",
+   "doi": "10.3390/insects17101047",
+   "pmid": "",
+   "title": "Repeat-Rich Architecture and Gene Duplication Characterize the Expanded Genome of the Chestnut Gall Wasp",
+   "journal": "Insects",
+   "date": "2026-10-12",
+   "authors": "Ye-Song Ren, An-Kang Lv, Yang Zeng, Dao-Hong Zhu",
+   "abstract": "Dryocosmus kuriphilus, the chestnut gall wasp, is a globally invasive pest that reproduces by thelytokous parthenogenesis. Despite the absence of conventional sexual recombination, the species has spread widely and persists under diverse environmental conditions, but the genomic features associated with this capacity remain poorly understood. Here, a chromosome-level assembly of D. kuriphilus was compared with seven representative insect genomes, with emphasis on repetitive sequences, orthogroups, and gene-duplication patterns. The 2.28-Gb D. kuriphilus genome contained 79.7% repetitive sequences, including 62.3% transposable elements (TEs), most of which occurred in intergenic regions. OrthoFinder assigned 13,271 D. kuriphilus genes to multi-copy orthogroups, representing 61.5% of the protein-coding gene set. Independent MCScanX analysis classified genes into mutually exclusive dispersed, proximal, tandem, and segmental duplication modes, with segmental and dispersed representing the two largest duplicated-gene classes. D. kuriphilus contained substantially more segmental duplicates than the other species examined. Synonymous-substitution distributions revealed low- and high-Ks components representing different levels of synonymous divergence among duplicated genes, and genes in these components showed distinct functional profiles. Numerous local duplications were found near TEs and included genes involved in host recognition, nutrient utilisation, xenobiotic metabolism, and energy production. Compared with the closely related gall wasp Belonocnema kinseyi, D. kuriphilus has a broader reported distribution and host range and contains higher copy numbers in several gene families associated with chemosensation, detoxification, metabolism, and stress responses. Together, …",
+   "url": "https://doi.org/10.3390/insects17101047"
+  },
+  {
+   "key": "doi:10.3389/fanim.2026.1905042",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "71f0bd6184a8d60fd76ee8cb04415271fb295500",
+   "doi": "10.3389/fanim.2026.1905042",
+   "pmid": "",
+   "title": "Benefits of tannin added to concentrate diets fed to ruminants and monogastric livestock",
+   "journal": "Frontiers in Animal Science",
+   "date": "2026-10-12",
+   "authors": "J. Caradus",
+   "abstract": "Additives and supplements are often added to concentrate and conserved feeds for both ruminants and monogastrics to maximise feed efficiency, optimise animal health, bridge nutrient deficiencies, and improve economic returns. This may include incorporating polyphenols, such as tannins, extracted from natural plant by-products (e.g., grape pomace or extracts from wattle, quebracho and chestnut trees) to improve animal performance, biohydrogenation processes, quality and quantity of milk and meat, and to reduce methanogenesis. The focus is solely on the use of tannins as an additive—obtained from either extracts or natural variants of feedstuff containing higher amounts of these compounds —and the use of tannins as an additive directly from forages. A review of 72 studies where extracts of, or plants containing, tannins were added to concentrate or conserved feeds for ruminant animals indicated that 63% of cattle/cow studies and 54% of sheep/goat studies confirmed positive benefits. Reasons why benefits were not observed include using the ‘wrong’ type or concentration of tannin, the negation of tannin effects by other compounds in the extract, an unsuitable combination of tannin type and concentrate, or the developmental status of the ruminant. However, assuming this practice continues, this raises the question of whether tannin expression in the main ingredient of concentrate or conserved, feed such as maize or soybean, would be beneficial. For monogastrics, 20 studies for each poultry and swine were reviewed. The inclusion of tannins in feed for poultry provided little nutritional benefit reduced infection where coccidiosis severity due to microbial infection was measured. Tannin extracts fed to pigs produced variable results, ranging from no appreciable influence at lo…",
+   "url": "https://doi.org/10.3389/fanim.2026.1905042"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1907055",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "1bb1f6ca28a92f2eb1567d2e8ded6ddc24344bf7",
+   "doi": "10.3389/fpls.2026.1907055",
+   "pmid": "",
+   "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-10-12",
+   "authors": "Xiang-Yu Wang, Xi-Li Liu, Jun Liu, Le Niu, Huo-Qiang Quan, Tong Zhang",
+   "abstract": "The GATA gene family comprises important transcription factors (TFs) that affect plant ontogeny and abiotic/biotic stress tolerance. Castanea mollissima is a significant economic and food-producing tree species in the Northern Hemisphere, known for its strong wind resistance and soil stabilization capabilities. Nevertheless, existing studies have not explored the characteristics and functions of the GATA family in C. mollissima . The study identified 21 CmGATA genes from the N11–1 reference genome assembly of C. mollissima , which were dispersed among 12 chromosomes. Phylogenetic analysis helped to categorize these genes into four distinct subfamilies, with genes belonging to the same subfamily exhibiting considerable similarities in terms of structural characteristics and conserved motif composition. Collinear analysis further revealed that the major driver of CmGATA gene family expansion was segmental duplication, followed by evolutionary pressure predominantly shaped by purifying selection. Phenotypic indicators, such as antioxidant enzyme activity, exhibited significant alterations, and transcriptomic analysis revealed increasingly more differentially expressed genes (DEGs) as salt stress treatment continued. Notably, transcriptome analysis demonstrated the expression patterns of CmGATA genes under salt stress, and combined with their correlation with phenotype indicators and weighted gene co-expression network analysis (WGCNA), effectively benefiting the exploration of the function of CmGATA genes in C. mollissima salt stress response. Additionally, validation experiments utilizing reverse transcription-quantitative polymerase chain reaction (RT-qPCR) demonstrated gene expression trends consistent with those obtained from RNA sequencing (RNA-seq) analyses. This stu…",
+   "url": "https://doi.org/10.3389/fpls.2026.1907055"
+  },
   {
    "key": "doi:10.1007/s43621-026-04925-9",
    "groups": [
@@ -24,6 +75,40 @@
    "authors": "C. Tamilarasan, Rakan Albarakati, C. Raja, N. B. Karthik Babu",
    "abstract": "This study investigates the multi-functional performance of epoxy composites reinforced with Indian wild jujube ( Ziziphus mauritiana ) seed particles as a sustainable and low-cost reinforcement. Composites were fabricated by hand layup with particle concentrations of 4, 8, 12, 16, and 20 wt% in an LY-556 epoxy matrix cured with HY-951 at room temperature. Mechanical, tribological, water absorption, and thermal properties were evaluated, and scanning electron microscopy was used to relate performance to morphology and interfacial behaviour. Particle size analysis showed a bimodal distribution with an average hydrodynamic diameter of 1099 nm and a polydispersity index of 0.969. The composite with 12 wt% particles showed the highest tensile strength of 43.5 MPa, which is a 14.5% improvement over pure epoxy at 38.0 MPa. The maximum flexural strength of 148.7 MPa was obtained at 8 wt% with a 7.5% improvement. Water absorption increased with filler content under both conditions, while saltwater absorption remained lower due to ion-retarded diffusion. Erosion resistance improved for all composites, with the lowest erosion rate of 1.59 mg/min at 20 wt% compared to 1.74 mg/min for pure epoxy. The lowest wear rate of 7.560 × 10⁻⁶ mm³/(Nm) was observed at 4 wt%, after which wear increased with filler content. Thermal analysis showed slower degradation and higher char residue above 450 °C with increasing particle content. This study provides one of the first comprehensive evaluations of epoxy composites reinforced solely with jujube seed particles across mechanical, tribological, and thermal domains. The utilisation of agricultural jujube seed waste as reinforcement supports circular economy principles and contributes to SDG 9 (Industry, Innovation and Infrastructure), SDG 12 (Res…",
    "url": "https://doi.org/10.1007/s43621-026-04925-9"
+  },
+  {
+   "key": "doi:10.3390/ijms27208994",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "794fff1bbd8b2356a28ae11ce41d1cd5ad053a4e",
+   "doi": "10.3390/ijms27208994",
+   "pmid": "",
+   "title": "Genome-Wide Identification of the Castanea mollissima MADS-Box Gene Family and Its Potential Roles in Female Flower Development Based on Transcriptomic and Morphological Analyses",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-10-10",
+   "authors": "Liang-Yao Zeng, Xiao-Yan Hu, Hao Yang, Jia Song, Ru-Xin Guo, Haie Zhang",
+   "abstract": "Castanea mollissima is an important woody food crop in China. Late, sparse, and unstable female flower differentiation constrains the development of the chestnut industry. Here, two more-female cultivars, ‘Longquanzhuang No. 2’ (LQ) and ‘Yanqiu’ (YQ), and the control cultivar ‘Yanshanzaofeng’ (ZF) were sampled at five stages after budbreak (7–35 d) for morphological observation and transcriptome sequencing. Morphological divergence became evident at 21 d after budbreak. Transcriptome analysis identified 2223 differentially expressed genes specific to the LQ–ZF comparison at 21 d and 791 inter-cultivar differentially expressed genes shared across 21–35 d. GO enrichment analysis showed significant enrichment in transcription factor activity and related pathways. Transcription factor prediction identified MADS-box genes as candidates, and 60 MADS-box members were identified in Chinese chestnut. These comprised 29 Type I members and 31 Type II members, with the latter classified into 13 subfamilies. Integrated analysis of gene-expression patterns and predicted protein interactions showed that more Type II genes were differentially expressed in female flowers and that expression patterns differed between the more-female cultivars and the control. The contrasting expression patterns of putative positive and negative CmMADS regulators may be associated with differences in female flower developmental capacity among these cultivars. RT-qPCR analysis of four representative CmMADS genes showed that genes expressed at higher levels in female flowers generally increased during development, consistent with the transcriptome data. These findings reveal morphological divergence and dynamic CmMADS expression during female flower development in two more-female chestnut cultivars and a co…",
+   "url": "https://doi.org/10.3390/ijms27208994"
+  },
+  {
+   "key": "doi:10.3390/foods15203604",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "aa529b66341d61ba8d1e7104f2726408aa3de314",
+   "doi": "10.3390/foods15203604",
+   "pmid": "",
+   "title": "Influence of Fermentation Methods on Jujube Wine Quality: A Volatile Metabolomics-Based Investigation",
+   "journal": "Foods",
+   "date": "2026-10-10",
+   "authors": "Bin-Bin Li, Qian Mu, Hui-Jing Guo, Wen-Ting Jia, Ya Liu, Xin-Wen Jin",
+   "abstract": "Co-fermentation with Saccharomyces cerevisiae and selected non-Saccharomyces yeasts is an effective approach for producing fruit wines with distinctive aromas. This study aimed to improve the aroma complexity of jujube wine by evaluating multi-strain sequential inoculation strategies. Two indigenous non-Saccharomyces strains, Hanseniaspora uvarum TD74 and Metschnikowia pulcherrima HJ79, were sequentially inoculated for fermentation in combination with S. cerevisiae. The physicochemical properties and volatile compound profiles of jujube wines produced under different inoculation conditions were analyzed using HS-SPME-GC–MS, coupled with electronic nose, electronic tongue, and chemometric analyses. Compared with single-strain fermentation, sequential inoculation with the two non-Saccharomyces yeasts produced significantly more distinct volatile profiles. In particular, the triple-strain sequential inoculation group (MHS) exhibited higher semi-quantitative levels of most ethyl esters, with a more pronounced fruity aroma in the wine, consistent with the results of sensory analysis. These findings demonstrated that the use of multiple non-Saccharomyces yeasts is an effective strategy for enhancing the aromatic diversity and overall sensory quality of jujube wine, offering a theoretical basis for the rational design of optimized starter cultures for industrial jujube wine production.",
+   "url": "https://doi.org/10.3390/foods15203604"
   },
   {
    "key": "doi:10.3390/biomass6050090",
