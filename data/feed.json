@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-10-14T20:31:24.195Z",
+ "generated_at": "2026-10-15T20:31:44.454Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 58,
+ "count": 60,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1111/nph.71631",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "541d60ace05d14ae7c520ffd373a9b6466d46580",
+   "doi": "10.1111/nph.71631",
+   "pmid": "42870285",
+   "title": "Metabolic convergence on TOR signaling in the chestnut blight fungus and its regulation by host plant signals.",
+   "journal": "New Phytologist",
+   "date": "2026-10-13",
+   "authors": "Yo-han Ko, Jeesun Chun, Geonmin Kim, Jiwon Yu, Dae-Hyuk Kim",
+   "abstract": "Transcriptomic analysis of the chestnut blight fungus Cryphonectria parasitica identified 22 core genes regulated by Cryphonectria hypovirus 1 (CHV1) infection and sectorization. Twelve genes with common phenocopies were analyzed: all mutants displayed restricted colonial growth, intense pigmentation, hyperbranched terminal hyphae with swollen globose cells, and reduced conidiation. Although gene-specific mutant phenotypes existed, responses to most stressors were similar to those of the wild-type. Mutant growth was highly sensitive to nutrient conditions, and growth restriction was notably alleviated by supplementation with 1.0 M sorbitol, nutrient-deficient media, or skim milk. All mutants showed hallmarks consistent with reduced target of rapamycin (TOR) signaling. Trehalose accumulation, a canonical fungal response to TOR inhibition, was observed in mutants via transcriptional upregulation of core trehalose biosynthetic genes, resulting in altered hyphal osmolarity and common mutant cell phenotypes. Plant signals overrode the mutants' phenotypes, strongly promoting their growth and differentiation. Although a severely retarded growth defect was observed in mutants, mutants' virulence remained intact, which can be ascribed to the host-plant signals. Cryphonectria hypovirus 1 (CHV1)-infected mutants exhibited greater growth restriction, accompanied by genotype-specific CHV1 titers. Despite gene-specific variation, common phenocopies indicate that diverse metabolic pathways converge on the TOR pathway in the fungal response to host-plant and CHV1 infection.",
+   "url": "https://doi.org/10.1111/nph.71631"
+  },
   {
    "key": "doi:10.3390/insects17101047",
    "groups": [
@@ -450,6 +467,23 @@
    "authors": "Lu-Qing Huang, Ruo-Xi Yang, Zi-Jing Li, Shu-Han Yang, Dan Zhao",
    "abstract": "Lactiplantibacillus plantarum (L. plantarum) HDM10, isolated from fermented winter jujube (Ziziphus jujuba) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
    "url": "https://doi.org/10.1080/14786419.2026.2740617"
+  },
+  {
+   "key": "doi:10.1039/d6fo02120d",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42696025",
+   "doi": "10.1039/d6fo02120d",
+   "pmid": "42696025",
+   "title": "Chestnut flour-enriched bread reduces postprandial glycaemic response in healthy adults: a randomised, controlled crossover study.",
+   "journal": "",
+   "date": "2026-10-05",
+   "authors": "Houghton MJ, Peiris DR, Sulaimani N, Visvanathan R, Nicolotti L, Cardoso BR.",
+   "abstract": "Elevated postprandial glycaemic excursions contribute to cardiometabolic disease risk, highlighting the importance of dietary strategies to attenuate postprandial glycaemia for prevention. Chestnut ( Castanea spp.) is rich in dietary fibre, resistant starch and bioactive (poly)phenols that may modulate carbohydrate digestion, yet evidence in human studies remains limited. We investigated the effects of a chestnut flour-enriched bread on postprandial glycaemic and insulinaemic responses in healthy adults. In a randomised crossover trial, fourteen healthy participants consumed isocaloric meals providing 50 g available carbohydrate as either chestnut flour-enriched bread (50% chestnut flour/50% wheat flour) or control bread (100% wheat flour), following an overnight fast. Capillary blood glucose and insulin were measured over 180 min, and incremental area under the curve (iAUC) was assessed for each. The (poly)phenol composition of the wheat and chestnut flours and the control (wheat only) and chestnut flour-enriched breads was characterised using RP-HPLC-HRFTMS. Chestnut flour-enriched bread, containing (+)-catechin, myricetin, gallic, gentisic and p -coumaric acids (∼480 mg total (poly)phenols), significantly reduced glucose iAUC by 27% compared with control bread (∼100 mg total (poly)phenols) ( p = 0.0319, paired t-test; main effects of the meal: p = 0.0243, ANOVA). Glucose concentrations were 16% lower at 120 min ( p = 0.0131) and 14% lower at 150 min ( p = 0.0071). Total insulin exposure did not differ between the meals, but chestnut enrichment reduced the insulin peak time by approximately 24 min ( p = 0.0430). Partial substitution of wheat flour for chestnut flour in bread significantly attenuated postprandial glycaemia in healthy adults, mainly by lowering late-pha…",
+   "url": "https://doi.org/10.1039/d6fo02120d"
   },
   {
    "key": "doi:10.51886/1999-740x_2026_3_20",
