@@ -1,13 +1,151 @@
 {
- "generated_at": "2026-10-15T20:31:44.454Z",
+ "generated_at": "2026-10-16T20:31:42.197Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 60,
- "errors": [],
+ "count": 70,
+ "errors": [
+  "semanticscholar:pine: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "t:pyrochar versus hydrochar contrasting modulation of soil bacterial communities under severe nitrate dominated acid rain ",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13658203",
+   "doi": "",
+   "pmid": "",
+   "title": "Pyrochar versus hydrochar: contrasting modulation of soil bacterial communities under severe nitrate-dominated acid rain stress in a Quercus acutissima plantation",
+   "journal": "",
+   "date": "2026-10-16",
+   "authors": "Feng Y, Yao S, Yuan K, Hu H, Cui P, Feng Y, Xue L.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13658203/?tool=EBI"
+  },
+  {
+   "key": "t:spatiotemporal stability of dus characteristics in maize and evaluation of spatial replication testing models",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "europepmc",
+   "id": "PMC13655061",
+   "doi": "",
+   "pmid": "",
+   "title": "Spatiotemporal stability of DUS characteristics in maize and evaluation of spatial replication testing models",
+   "journal": "",
+   "date": "2026-10-16",
+   "authors": "Jiao X, Yu J, Shi X, Wang Y, Li J, Feng L, Zhang Z, Han R, Zhang H.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13655061/?tool=EBI"
+  },
+  {
+   "key": "doi:10.31466/kfbd.1885627",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "7033915a4464679dc62e0e6738d02ad310183e00",
+   "doi": "10.31466/kfbd.1885627",
+   "pmid": "",
+   "title": "Leaf Phenotypic Variation in Natural Populations of Chestnuts in Yağlıdere Forests (Giresun, Türkiye)",
+   "journal": "Karadeniz Fen Bilimleri Dergisi",
+   "date": "2026-10-14",
+   "authors": "N. Pul, Saim Zeki Bostan",
+   "abstract": "This study aimed to evaluate phenotypic diversity and population relationships among natural chestnut (Castanea sativa Mill.) populations in the forests of Yağlıdere district (Giresun, Türkiye) based on leaf morphological traits. Leaf samples were collected from 105 seed-propagated trees representing seven populations during the 2020 and 2021 growing seasons. Eleven leaf parameters, including lamina dimensions, petiole length, tooth characteristics, and leaf area, were measured, and several ratio-based traits were calculated. Descriptive statistics, correlation analysis, analysis of variance, principal component analysis (PCA), and hierarchical cluster analysis were applied to two-year average data. Significant differences were detected among genotypes and populations for most leaf traits. Strong correlations were observed among leaf size-related parameters, whereas marginal traits showed more variable relationships. PCA revealed that the first three components explained more than 80% of the total variation at the genotype level and over 90% at the population level, with leaf size, shape ratios, and tooth characteristics being the main contributors to morphological differentiation. Hierarchical clustering produced grouping patterns consistent with PCA results, clearly discriminating genotypes and populations based on leaf morphology. The findings demonstrate that leaf morphological traits provide a reliable and practical approach for the characterization, conservation, and utilization of chestnut genetic resources.",
+   "url": "https://doi.org/10.31466/kfbd.1885627"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1980416",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "2639a6f6b1561096ebc88f85305c05bc7a0a12c4",
+   "doi": "10.3389/fpls.2026.1980416",
+   "pmid": "",
+   "title": "Common-garden metabolomics reveals germplasm-associated metabolic diversity and candidate resources for functional food development in dried jujube (Ziziphus jujuba Mill.)",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-10-14",
+   "authors": "Shi-Yong Wen, Wen-Jia Leng, Hai-Yang Wang, Li-Guo Qiu, Wen-Jiao Li, Lan Wang",
+   "abstract": "Dried jujube ( Ziziphus jujuba Mill.) is valued for its nutritional and medicinal properties. However, metabolic assessments of jujube germplasm based on materials collected from different geographical regions are often confounded by environmental variation, making it difficult to distinguish germplasm-associated metabolic differences from environmental effects. This study aimed to characterize metabolic diversity among dried jujube germplasm resources under common-garden conditions and identify candidate resources with favorable nutritional and functional metabolite profiles. A total of 66 dried jujube germplasm resources originating from diverse regions of China were cultivated under a common environment and evaluated using LC-MS/MS-based broad-targeted metabolomics. Metabolic profiles were characterized by principal component analysis, uniform manifold approximation and projection, and hierarchical clustering. The accumulation patterns of major nutritional and functional metabolite classes were further compared for comprehensive evaluation of germplasm resources. A total of 460 metabolites were annotated, mainly including organic acids, terpenoids, flavonoids, nucleotides and derivatives, and lipids. Multivariate analyses revealed distinct metabolic profiles among germplasm resources, whereas metabolic clustering did not fully correspond to geographical origin, indicating substantial germplasm-associated variation under common-garden conditions. Organic acids, flavonoids, phenolic acids, triterpenoids, and alkaloids showed relatively large variation among germplasm resources and contributed substantially to differences in metabolic and nutritional profiles. SHX-J-C, SHX-Y-X, SHX-Y-D, and LN-G-D showed favorable profiles of key nutritional and functional metabolites. …",
+   "url": "https://doi.org/10.3389/fpls.2026.1980416"
+  },
+  {
+   "key": "doi:10.11646/zootaxa.5890.1.12",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "bbd5670a8c7fd03ac75e1292e41cd0cd8fce3a02",
+   "doi": "10.11646/zootaxa.5890.1.12",
+   "pmid": "",
+   "title": "First record of Parthenolecanium corni (Bouché, 1844) (Hemiptera: Coccidae) in Morocco on Diospyros kaki (Ebenaceae)",
+   "journal": "Zootaxa",
+   "date": "2026-10-14",
+   "authors": "I. Mrabti, H. Grijja, N. Brhadda, R. Ziri, M. Afechtal",
+   "abstract": "",
+   "url": "https://doi.org/10.11646/zootaxa.5890.1.12"
+  },
+  {
+   "key": "doi:10.3390/polym18202500",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "d0450683002c91e5dd5117458e5cc50749bef404",
+   "doi": "10.3390/polym18202500",
+   "pmid": "",
+   "title": "Comparative Performance of Stearoyl Chloride-Modified Cellulose Sponges from Five Lignocellulosic Wastes for Oil/Water Separation",
+   "journal": "Polymers",
+   "date": "2026-10-13",
+   "authors": "Emrecan Arpaci, Sami Imamoğlu",
+   "abstract": "Increasing industrial activity and oil spills have turned oil pollution into a serious threat to aquatic ecosystems. This study compares five lignocellulosic wastes—rice husk, chestnut shell, tissue dust, cotton lint and chemical pulp—as raw materials for chemically modified cellulose sponges as a sustainable oil-removal solution. Cellulose fibres were converted into three-dimensional porous sponges by freezing and lyophilisation, then rendered hydrophobic and oleophilic by esterification with stearoyl chloride, confirmed by a new ester carbonyl band in the FTIR spectra of all five sample series. After modification, static water contact angles increased from a superhydrophilic 0° to 115–136.5°, and the sponges adsorbed oils and organic solvents at 12–17 times their own dry weight, retaining over 70% of this capacity after ten regeneration cycles. Chemical purity (α-cellulose content and lignin/extractive ratio) was the main determinant of performance: sponges from cotton lint and chemical pulp outperformed those from unprocessed agricultural wastes (rice husk, chestnut shell) in hydrophobicity and sorption capacity, while the latter showed compensating gains in mechanical strength. These findings indicate that lignocellulosic-waste-derived cellulose sponges are an environmentally friendly, high-performance sorbent with strong potential for oil-spill clean-up and oily wastewater treatment, with raw material choice guided by the intended application’s priorities.",
+   "url": "https://doi.org/10.3390/polym18202500"
+  },
+  {
+   "key": "doi:10.47370/2072-0920-2026-22-3-137-148",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "b9ad71521409a47d70ae276d2892bb4266272e78",
+   "doi": "10.47370/2072-0920-2026-22-3-137-148",
+   "pmid": "",
+   "title": "Application of biological preparations in the cultivation of winter wheat in the North Ossetia",
+   "journal": "New Technologies",
+   "date": "2026-10-13",
+   "authors": "A. Tedeeva, D. Mamiev, V. Tedeeva",
+   "abstract": "Introduction. In modern agricultural practices, the use of new-generation biopreparations for normal plant growth and development has become essential. The research was conducted to determine the effect of biopreparations on winter wheat crops to achieve stable yields of high-quality grain. The object and methods. The research was conducted from 2023 to 2025 in the steppe zone of the Republic of North Ossetia-Alania on chestnut soils. Agrochemical parameters of the soil: humus content (according to Tyurin) – 3.0-3.5%, easily hydrolyzable nitrogen 60-68 mg/kg of soil, pH 7.5-7.8, mobile phosphorus content – 15-17 mg/kg (according to Machigin), exchangeable potassium – 201-282 mg/kg of soil. During the experiment, records, observations and analyses were carried out according to the generally accepted methods described in the “Educational and Methodological Guide for Conducting Research in Agronomy”. The results and discussion. It was revealed that the AgroMineral biopreparation in the amount of 2 l/ha provided the photosynthetic potential for varieties of 2.56-2.59 million m 2 /ha × days, respectively. On average, during the growing season, the NPF indicators in the experiment varied within the range of 4.38-4.72 g / m 2 per day for the Fedor variety, and 4.42-4.78 g / m 2 per day for the Bumba variety. The amount of dry matter accumulated from 4.92 to 5.64 t / ha for the Fedor variety experimental variants, from 4.97 to 5.570 t / ha for the Bumba variety, and its greatest amount – 4.72-4.78 t / ha was formed for the varieties using the Biostim Grain in the amount of 1.5 l / ha + AgroMineral in the amount of 1.5 l / ha. Conclusion. It was established that the yield of winter wheat in the control group was 4.23-4.29 t / ha. Biological products increased grain productivity …",
+   "url": "https://doi.org/10.47370/2072-0920-2026-22-3-137-148"
+  },
+  {
+   "key": "doi:10.47370/2072-0920-2026-22-3-162-172",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "80c9c1b5069a78bbe66e51505b62449392178df7",
+   "doi": "10.47370/2072-0920-2026-22-3-162-172",
+   "pmid": "",
+   "title": "Adaptability of winter wheat varieties to soil and climatic conditions of the Astrakhan region",
+   "journal": "New Technologies",
+   "date": "2026-10-13",
+   "authors": "N. Tyutyuma, A. Bondarenko, A. Tyutyuma",
+   "abstract": "Introduction. Wheat is one of the main agricultural crops in the Lower Volga region. However, the area under durum wheat varieties is small, accounting for only 8-9 %. The goal of the research was to evaluate the resistance of winter wheat breeding material to arid climate conditions in order to determine the source material for practical breeding. The objects and methods. The object of the research was seven winter wheat varieties (collection of the All-Russian Institute of Plant Genetic Resources named after N.I. Vavilov). A field experiment was conducted in the Astrakhan region from 2022 to 2025 on light chestnut soils (an experimental land use plot of Pavlov Federal Scientific Center of the Russian Academy of Sciences). The experiment aimed at studying and introducing promising durum wheat varieties. The analysis of the primary breeding material, including wheat varieties, was carried out in specialized nurseries using typical experimental methods for grain crops. The results and discussion. A study of the agrobiological characteristics of durum wheat in the soil and climatic conditions of the Astrakhan region revealed a significant correlation between tillering rates (total and productive) and productive stem density on the genotypic characteristics of varieties and environmental factors. Assessing resistance to the abiotic stressors of high temperatures and dry winds was necessary for formulating recommendations for varietal selection. Conclusion. A comparative analysis revealed that the Aksint, Onyx, and Amazonka varieties consistently demonstrated an advantage over the standard: their productive tillering rate exceeded the control values by 7-12 stems/m² annually. According to data obtained during the research period, the Aksint (28) and Amazonka and Onyx (26 ea…",
+   "url": "https://doi.org/10.47370/2072-0920-2026-22-3-162-172"
+  },
   {
    "key": "doi:10.1111/nph.71631",
    "groups": [
@@ -24,6 +162,40 @@
    "authors": "Yo-han Ko, Jeesun Chun, Geonmin Kim, Jiwon Yu, Dae-Hyuk Kim",
    "abstract": "Transcriptomic analysis of the chestnut blight fungus Cryphonectria parasitica identified 22 core genes regulated by Cryphonectria hypovirus 1 (CHV1) infection and sectorization. Twelve genes with common phenocopies were analyzed: all mutants displayed restricted colonial growth, intense pigmentation, hyperbranched terminal hyphae with swollen globose cells, and reduced conidiation. Although gene-specific mutant phenotypes existed, responses to most stressors were similar to those of the wild-type. Mutant growth was highly sensitive to nutrient conditions, and growth restriction was notably alleviated by supplementation with 1.0 M sorbitol, nutrient-deficient media, or skim milk. All mutants showed hallmarks consistent with reduced target of rapamycin (TOR) signaling. Trehalose accumulation, a canonical fungal response to TOR inhibition, was observed in mutants via transcriptional upregulation of core trehalose biosynthetic genes, resulting in altered hyphal osmolarity and common mutant cell phenotypes. Plant signals overrode the mutants' phenotypes, strongly promoting their growth and differentiation. Although a severely retarded growth defect was observed in mutants, mutants' virulence remained intact, which can be ascribed to the host-plant signals. Cryphonectria hypovirus 1 (CHV1)-infected mutants exhibited greater growth restriction, accompanied by genotype-specific CHV1 titers. Despite gene-specific variation, common phenocopies indicate that diverse metabolic pathways converge on the TOR pathway in the fungal response to host-plant and CHV1 infection.",
    "url": "https://doi.org/10.1111/nph.71631"
+  },
+  {
+   "key": "doi:10.1007/s11104-026-09172-5",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "8186d0152a920ced713144961314e6d5c90550af",
+   "doi": "10.1007/s11104-026-09172-5",
+   "pmid": "",
+   "title": "The uptake features of mineral elements in jujube trees and the relationship with soil supply",
+   "journal": "Plant and Soil",
+   "date": "2026-10-13",
+   "authors": "Kun-Mao Feng, Jia-Qing Cai, Xin-Yue Liu, Qian Cheng, Xiao-Feng Deng, Li-Ming Jia",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11104-026-09172-5"
+  },
+  {
+   "key": "doi:10.3390/pr14203282",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6c20bf885fc5c25fa7dd0b4e86167b77b15cdec7",
+   "doi": "10.3390/pr14203282",
+   "pmid": "",
+   "title": "Regulation of Sugar Content and Glass Transition in Jujube Slices via CP-Assisted Pulsed Vacuum Drying: Effects on Physicochemical Properties and Blood Glucose Regulation",
+   "journal": "Processes",
+   "date": "2026-10-13",
+   "authors": "Ming-Qiang Xu, Fei-Fan Tian, Wurile Bai, An-An Zhang, Shuang-Yu Cao, Yan Ma",
+   "abstract": "Although red dates (Ziziphus jujuba Mill.) are rich in nutrients and have both edible and medicinal properties, during the drying process, due to their high sugar content, they often result in a lower glass transition temperature (Tg), enhanced hygroscopicity, surface agglomeration, and a decline in storage quality, severely limiting the shelf stability of the products and the improvement of the processing quality. Cold plasma (CP) can form cavities through surface etching, promoting water migration, thereby increasing the drying rate and diffusion coefficient. Vacuum pulsation drying (PVD) has a higher drying rate, stronger mass transfer ability, and better quality retention effect compared to ordinary drying methods. Based on these characteristics, we believe that CP and PVD have a synergistic enhancing effect in the drying of date slices. Therefore, in this study, CK-PVD (without plasma pre-treatment, direct vacuum pulsation drying) was used as the control group, and CP-PVD (after plasma pre-treatment, vacuum pulsation drying), A1, A2, and A3 (after plasma treatment, soaking in different concentrations of ethanol and then vacuum pulsation drying) were used as experimental groups to study the effects of CP pre-treatment combined with ethanol extraction on the sugar composition, glass transition temperature (Tg), physical stability, and reduce blood sugar activity of dried date slices. The results showed that CP pre-treatment significantly improved the material transfer efficiency (confirmed by the increases in the areas of T22 and T23 peaks). Compared with the control group, the low-sugar group (A2) exhibited reduced total sugar content, the gel point increased to 35.6 °C, and the microscopic structure changed from regular and smooth to dense and irregular, thereby si…",
+   "url": "https://doi.org/10.3390/pr14203282"
   },
   {
    "key": "doi:10.3390/insects17101047",
@@ -162,6 +334,23 @@
    "url": "https://doi.org/10.3390/biology15201794"
   },
   {
+   "key": "doi:10.1002/jsfa.71110",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42852909",
+   "doi": "10.1002/jsfa.71110",
+   "pmid": "42852909",
+   "title": "Persimmon proanthocyanidins-mucins interaction mechanism: structural characteristics, rheological properties, and molecular docking.",
+   "journal": "The Journal of the Science of Food and Agriculture",
+   "date": "2026-10-09",
+   "authors": "Ge Z, Zhang X, Zhao Y, Li X, Liu M, Nie R, Zhao G, Wang X.",
+   "abstract": "Background Mucins (MUCs), as the principal constituents of mucus, are closely associated with the transportation and absorption of various bioactive compounds. This study investigated the structural and rheological characteristics of persimmon proanthocyanidin (PPA)-MUC complexes and the interaction mechanism between PPAs and MUCs to elucidate the influence of MUCs on the digestion behavior of PPAs. Results Atomic force microscopy illustrated that the interaction between PPAs and MUC altered the aggregation state and particle size of MUC. Circular dichroism and X-ray diffraction analyses indicated that PPAs induced changes in the secondary and crystal structures of MUC. Rheological measurements demonstrated that both the storage (G') and loss (G″) moduli of PPA-MUC complexes increased with frequency, suggesting enhanced elastic fluid properties. Isothermal titration calorimetry indicated that the binding of PPAs and their structural monomers to MUC was exothermic (∆G Conclusion Proanthocyanidins and MUC exhibited characteristic intermolecular interactions. These results provide new insights into the development of MUC-based nanocarrier systems to improve the intestinal bioavailability of PPAs. © 2026 Society of Chemical Industry.",
+   "url": "https://doi.org/10.1002/jsfa.71110"
+  },
+  {
    "key": "doi:10.1080/10942912.2026.2743963",
    "groups": [
     "persimmon"
@@ -177,23 +366,6 @@
    "authors": "Muhammad Wasim Haider, M. T. Akram, Sarvet Jehan, W. Elmenofy, Sevda Alieva, Trobjon Makhkamov",
    "abstract": "",
    "url": "https://doi.org/10.1080/10942912.2026.2743963"
-  },
-  {
-   "key": "doi:10.1002/jsfa.71110",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "cd3aae21aa7a843d807860fa823ee6f434159655",
-   "doi": "10.1002/jsfa.71110",
-   "pmid": "42852909",
-   "title": "Persimmon proanthocyanidins-mucins interaction mechanism: structural characteristics, rheological properties, and molecular docking.",
-   "journal": "The Journal of the Science of Food and Agriculture",
-   "date": "2026-10-09",
-   "authors": "Zhen-Zhen Ge, Xin-Jie Zhang, Yu-Xiang Zhao, Xin-Ru Li, Meng-Pei Liu, Rong-Zu Nie",
-   "abstract": "BACKGROUND Mucins (MUCs), as the principal constituents of mucus, are closely associated with the transportation and absorption of various bioactive compounds. This study investigated the structural and rheological characteristics of persimmon proanthocyanidin (PPA)-MUC complexes and the interaction mechanism between PPAs and MUCs to elucidate the influence of MUCs on the digestion behavior of PPAs. RESULTS Atomic force microscopy illustrated that the interaction between PPAs and MUC altered the aggregation state and particle size of MUC. Circular dichroism and X-ray diffraction analyses indicated that PPAs induced changes in the secondary and crystal structures of MUC. Rheological measurements demonstrated that both the storage (G') and loss (G″) moduli of PPA-MUC complexes increased with frequency, suggesting enhanced elastic fluid properties. Isothermal titration calorimetry indicated that the binding of PPAs and their structural monomers to MUC was exothermic (∆G < 0), with ∆H < 0 and ∆S < 0, indicating that the interaction was mainly driven by hydrogen bonding and van der Waals forces. An in silico molecular docking study further indicated that the 7-OH, 5'-OH, 3'-OH, and 3-O-gallate groups of PPA structural monomers could interact with the LYS, SER, and CYS amino acid residues of MUC2 through hydrogen bonding and van der Waals forces. CONCLUSION Proanthocyanidins and MUC exhibited characteristic intermolecular interactions. These results provide new insights into the development of MUC-based nanocarrier systems to improve the intestinal bioavailability of PPAs. © 2026 Society of Chemical Industry.",
-   "url": "https://doi.org/10.1002/jsfa.71110"
   },
   {
    "key": "doi:10.3389/fpls.2026.1970840",
@@ -253,14 +425,14 @@
     "jujube"
    ],
    "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "9749049240830c1820cfae4d02bb4167f93295c4",
+   "source": "europepmc",
+   "id": "42849815",
    "doi": "10.1016/j.plantsci.2026.113507",
    "pmid": "42849815",
    "title": "Developmental dynamics of ascorbic acid metabolism in wild jujube fruit: an integrated physiological and transcriptomic analysis.",
    "journal": "Plant Science",
    "date": "2026-10-08",
-   "authors": "Si-Jia Liu, Si-Si Li, Jia-Dong Wang, Kai-Ming He, Shu-Rong Gao, Jia-Jia Liu",
+   "authors": "Liu S, Li S, Wang J, He K, Gao S, Liu J.",
    "abstract": "Wild jujube (Ziziphus jujuba var. spinosa) fruit is rich in ascorbic acid (AsA), but developmental coordination among AsA accumulation, enzyme activities and candidate-gene expression remains unclear. We compared wild jujube with Ziziphus jujuba Mill. cv. 'Lingwuchangzao' grown in the same orchard across five developmental stages. We measured fruit traits, sugars, acids, AsA, total ascorbic acid (T-AsA), dehydroascorbic acid (DHA) and five AsA-related enzyme activities, and analyzed repeated sampling with linear mixed-effects models. Differential expression, weighted gene co-expression network analysis (WGCNA), predicted protein-interaction networks and RT-qPCR were applied to 15 wild-jujube RNA-seq samples; ZjVTC2 was transiently overexpressed in Nicotiana benthamiana. At the young-fruit stage, wild jujube contained 778.75 ± 19.14mg·100g⁻¹ FW AsA and 861.77 ± 17.44mg·100g⁻¹ FW T-AsA. At maturity, AsA content remained higher in wild jujube than in 'Lingwuchangzao' (612.34 ± 13.53 versus 321.22 ± 4.31mg·100g⁻¹ FW). Significant material × developmental-stage interactions occurred for AsA, T-AsA and DHA (P < 0.01). Material differences in DHAR, MDHAR, GalLDH and APX varied by stage, whereas the MIOX interaction was not significant. Transcriptomic and network analyses identified VTC2, GLDH, HXK2, PGMP, and the bHLH gene LOC107430586 as candidates. Transient ZjVTC2 overexpression increased leaf AsA by 72.65% (P < 0.01). Thus, AsA accumulation differed between materials in a stage-dependent manner, and ZjVTC2 was functionally supported, whereas the other candidate genes require validation.",
    "url": "https://doi.org/10.1016/j.plantsci.2026.113507"
   },
@@ -321,14 +493,14 @@
     "chestnut"
    ],
    "cat": "genome",
-   "source": "semanticscholar",
-   "id": "2d4e46bec191acf3c770d8a87a4165e0cd42d38b",
+   "source": "europepmc",
+   "id": "42842493",
    "doi": "10.1093/jee/toag300",
    "pmid": "42842493",
    "title": "Post-harvest treatments to reduce emergence and damage caused by larvae of Curculio sayi (Coleoptera: Curculionidae).",
    "journal": "Journal of Economic Entomology",
    "date": "2026-10-07",
-   "authors": "Maximilian Ferguson, D. Guyer, Deborah G. McCullough",
+   "authors": "Ferguson M, Guyer DE, McCullough DG.",
    "abstract": "Damage caused by lesser chestnut weevil (Curculio sayi Gyllenhal) larval feeding affects yield and marketability of chestnuts (Castanea spp.) produced by commercial growers and hobbyists across the eastern United States. Post-harvest treatments to mitigate weevil damage involve submerging chestnuts in heated water for ≥20 min. Prolonged submergence in hot water, however, can discolor chestnuts or diminish quality of chestnuts in cold storage. We assessed larval emergence from chestnuts held at room temperature (controls), or submerged in water at 22.5°C (unheated), 43.3°C, 49.0°C, 54.4°C, or 60°C for periods of 5 to 30 min. Subsets of treated chestnuts were quartered after submergence, then again following 30, 60, or 90 d of cold storage (1°C) to evaluate larval feeding damage, chestnut quality and storability. Effective control (less than 1 emerged larva per 100 chestnuts) corresponded to submergence for 15 min in 49°C water, 10 min in 54.4°C water or 5 min in 60°C water, while 24 to 41 larvae per 100 chestnuts emerged from controls. Quality of chestnuts in cold storage declined sharply for chestnuts submerged in 54.4°C water for 25 min or 60°C water for 20 to 25 min. Submerging chestnuts for 10 to 20 min in 54.4°C water appeared optimal; no larvae emerged and chestnut quality was retained for 60 d in cold storage. Time needed to attain core temperatures lethal to weevil larvae varied with chestnut size. Curatura (water curing) and exposure to alternating cycles of warm and cold temps were also evaluated.",
    "url": "https://doi.org/10.1093/jee/toag300"
   },
@@ -355,16 +527,33 @@
     "jujube"
    ],
    "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "3ab2d970c1a1b89239a14821974c91f81ff7a582",
+   "source": "europepmc",
+   "id": "42843481",
    "doi": "10.1016/j.ijbiomac.2026.154751",
    "pmid": "42843481",
    "title": "ZJP-2, a novel wild jujube polysaccharide, enhances longevity, cognitive function, and mitigates oxidative stress via mitochondrial regulation in Caenorhabditis elegans.",
    "journal": "International Journal of Biological Macromolecules",
    "date": "2026-10-07",
-   "authors": "Muhammad Zulqarnain Shakir, Inam Ullah, Muhammad Wasim Usmani, Jiang Ning, Ji-Xian Liu, Xu-Chen Zhou",
+   "authors": "Shakir MZ, Ullah I, Usmani MW, Ning J, Liu J, Zhou X, Zhao Y, Du Q, Chen H, Ali M, Wang N, Liu X.",
    "abstract": "Oxidative stress, caused by an imbalance between reactive oxygen species (ROS) production and antioxidant defenses, drives aging and age related functional decline. Natural polysaccharides from medicinal plants are promising interventions against oxidative stress related disorders. This study examined the protective effects of a novel polysaccharide (ZJP-2) isolated from wild jujube (Ziziphus jujuba Mill. var. spinosa) against stress induced physiological deterioration in Caenorhabditis elegans. Using lipopolysaccharide exposure, heat shock, and oxidative stress models, we assessed ZJP-2 effects on lifespan, health span, antioxidant capacity, and stress response pathways. ZJP-2 (0.25-1 mg/mL) showed no toxicity and did not inhibit Escherichia coli OP50 growth. Treatment significantly improved locomotor activity, pharyngeal pumping, and reproductive capacity. The optimal dose increased average lifespan by 42.03% and reduced intestinal lipofuscin accumulation by 52.89%. Under heat stress (37 °C), ZJP-2 enhanced thermotolerance and improved survival under oxidative stress. Intracellular ROS levels decreased in a dose dependent manner, accompanied by reductions in malondialdehyde and increases in superoxide dismutase, catalase, and glutathione activities. Gene expression analysis revealed modulation of antioxidant and mitochondrial-associated genes, along with p38 MAPK-associated genes. ZJP-2 also promoted activation of the longevity associated transcription factor daf-16. These findings demonstrate that ZJP-2 enhances stress resistance, reduces oxidative damage, and promotes a healthy lifespan, highlighting its potential as a natural bioactive compound to mitigate stress related aging.",
    "url": "https://doi.org/10.1016/j.ijbiomac.2026.154751"
+  },
+  {
+   "key": "doi:10.1007/s00299-026-04013-2",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42841991",
+   "doi": "10.1007/s00299-026-04013-2",
+   "pmid": "42841991",
+   "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species delimitation.",
+   "journal": "Plant Cell Reports",
+   "date": "2026-10-07",
+   "authors": "Hu L, Wu Y, Zhao Z, Wu W, Cao F, Wang Z, Li W.",
+   "abstract": "Key message Plastome analyses confirmed the taxonomic classification of cultivated Rubus and identified candidate InDel markers for distinguishing major cultivated groups, offering genetic resources for future studies of hybrid identification and breeding. The genus Rubus, belonging to the Rosaceae family, comprises numerous wild germplasm resources. Among its most economically valuable cultivars are red raspberry, black raspberry, blackberry, as well as raspberry × blackberry hybrids. In this study, we assembled and characterized 81 newly Rubus plastomes, including 22 wild species and 59 cultivars. All genomes exhibited the typical quadripartite structure, with sizes ranging from 155,385 to 157,012 bp and containing 130 annotated genes (113 unique functional genes), indicating a high degree of conservation in plastome architecture and gene order. A comparative analysis was further conducted using plastomes from 16 representative Rubus cultivars, representing all unique plastome sequences. The repeat sequences, codon usage bias, and hypervariable regions were systematically analyzed. Phylogenetic analysis revealed that modern Rubus cultivars primarily cluster within three subgenera: Rubus, Idaeobatus, and Melanobatus, with black raspberry phylogenetically placed within Melanobatus. Furthermore, four InDel markers were developed and validated for distinguishing three Rubus cultivar groups (black raspberry, red raspberry and hybrids). In summary, our research substantially expands available plastome resources for Rubus species and cultivars, thereby facilitating species delimitation and supporting future hybrid breeding.",
+   "url": "https://doi.org/10.1007/s00299-026-04013-2"
   },
   {
    "key": "doi:10.3390/horticulturae12101249",
@@ -382,23 +571,6 @@
    "authors": "Zhuang Wen, Jian-Xin Fan, Yao Jiang, Qin Yang, Xue-Jiao Cao",
    "abstract": "WRKY transcription factors play crucial roles in plant growth, development, and stress responses. However, their systematic evolution and functions within the genus Rubus remain incompletely understood. In this study, genome-wide identification, evolutionary analysis and functional characterization of the WRKY gene family were conducted in five Rubus species. A total of 37–67 members were identified and classified into three groups by phylogenetic analysis. The collinearity result, gene family expansion and contraction analyses revealed a contraction trend within the Rubus lineage compared with the outgroup sweet cherry. Promoter cis-acting element analysis predicted widespread involvement of these genes in hormone and stress responses. Expression profiling revealed tissue-specific patterns among WRKY genes, with most members down-regulated during fruit development and differentially regulated by biotic and abiotic stresses. Further correlation analysis and experimental validation were focused on RiWRKY48 in red raspberry (Rubus idaeus L.). This protein was localized to the nucleus and lacked transcriptional activation activity. Combined in silico modeling (AlphaFold3) and dual-luciferase reporter assays revealed that RiWRKY48 may repressed the promoter activity of RiUFGT4, a key anthocyanin biosynthetic gene, suggesting a putative interaction with the W-box element. In summary, this study systematically characterized the evolutionary features of the Rubus WRKY family and provided evidence for a potential regulatory role of RiWRKY48 in anthocyanin biosynthesis through modulation of RiUFGT4 promoter activity. These findings provided new insights into the regulatory roles of WRKY transcription factors in fruit quality development in Rubus species.",
    "url": "https://doi.org/10.3390/horticulturae12101249"
-  },
-  {
-   "key": "doi:10.1007/s00299-026-04013-2",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "7a9a4c0c5449b06c0f35713949ebc5c1347c70df",
-   "doi": "10.1007/s00299-026-04013-2",
-   "pmid": "42841991",
-   "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species delimitation",
-   "journal": "Plant Cell Reports",
-   "date": "2026-10-07",
-   "authors": "Li-Chao Hu, Ya-Qiong Wu, Zhuang Zhao, Wen-Long Wu, Fu-Liang Cao, Ze-Fu Wang",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s00299-026-04013-2"
   },
   {
    "key": "doi:10.3389/fgene.2026.1894037",
@@ -440,15 +612,15 @@
     "chestnut"
    ],
    "cat": "genome",
-   "source": "semanticscholar",
-   "id": "5a14d0c7741e12094f8e3e27866a8d493b85bebe",
+   "source": "europepmc",
+   "id": "42834399",
    "doi": "10.1186/s40104-026-01503-x",
    "pmid": "42834399",
-   "title": "Chestnut–quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production",
+   "title": "Chestnut-quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production.",
    "journal": "Journal of Animal Science and Biotechnology",
    "date": "2026-10-06",
-   "authors": "F. Correa, D. Luise, F. Palumbo, Daniel Scicchitano, S. Rampelli, Silvia Molino",
-   "abstract": "Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 (P = 0.032). Species-level beta diversity was consistently affected by treatment across time points (R2= 0.01–0.03; P < 0.01), whereas alpha diversity was mainly farm-driven during the early post-weaning phase. Linear discriminant analysis effect size identified farm-dependent taxonomic markers, including Escherichia coli in control pigs from W1 at T1 and Megasphaera elsdenii, Faecalibacterium prausnitzii, and Lactobacillus amylovorus in tannin-treated pigs at later time points. Untargeted metabolomics revealed treatment-related fecal signatures, with isourolithin A and urolithin B amon…",
+   "authors": "Correa F, Luise D, Palumbo F, Scicchitano D, Rampelli S, Molino S, Panciroli N, Candela M, Garay-Mayol B, Ávila-Gálvez MÁ, González-Sarrías A, Castagnetti A, Trevisi P.",
+   "abstract": "Background Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Results Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 (P = 0.032). Species-level beta diversity was consistently affected by treatment across time points (R 2 = 0.01-0.03; P Conclusions Overall, chestnut-quebracho tannins were associated with a farm-dependent reduction in post-weaning diarrhea and modulated the gut ecosystem through microbiota-dependent polyphenol metabolism.",
    "url": "https://doi.org/10.1186/s40104-026-01503-x"
   },
   {
@@ -457,15 +629,15 @@
     "jujube"
    ],
    "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "11d7e89e7e144550a616a5f26ab36546e26a8fbc",
+   "source": "europepmc",
+   "id": "42837179",
    "doi": "10.1080/14786419.2026.2740617",
    "pmid": "42837179",
-   "title": "Strain identification, probiotic potential evaluation, and mannanase production optimisation of Lactiplantibacillus plantarum HDM10.",
+   "title": "Strain identification, probiotic potential evaluation, and mannanase production optimisation of &lt;i&gt;Lactiplantibacillus plantarum&lt;/i&gt; HDM10.",
    "journal": "Natural Product Research",
    "date": "2026-10-06",
-   "authors": "Lu-Qing Huang, Ruo-Xi Yang, Zi-Jing Li, Shu-Han Yang, Dan Zhao",
-   "abstract": "Lactiplantibacillus plantarum (L. plantarum) HDM10, isolated from fermented winter jujube (Ziziphus jujuba) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
+   "authors": "Huang L, Yang R, Li Z, Yang S, Zhao D.",
+   "abstract": "Lactiplantibacillus plantarum ( L. plantarum ) HDM10, isolated from fermented winter jujube ( Ziziphus jujuba ) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
    "url": "https://doi.org/10.1080/14786419.2026.2740617"
   },
   {
