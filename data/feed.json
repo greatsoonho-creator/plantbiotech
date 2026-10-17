@@ -1,15 +1,32 @@
 {
- "generated_at": "2026-10-16T20:31:42.197Z",
+ "generated_at": "2026-10-17T20:31:48.293Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 70,
+ "count": 71,
  "errors": [
-  "semanticscholar:pine: HTTP 429"
+  "semanticscholar:raspberry: HTTP 429"
  ],
  "items": [
+  {
+   "key": "doi:10.1007/s43450-026-00815-3",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "150ca4d19b2a4f261c34f1695ae79c1d26cb02db",
+   "doi": "10.1007/s43450-026-00815-3",
+   "pmid": "",
+   "title": "Secondary Metabolites from Castanea mollissima Leaves: α-Glucosidase and PTP1B Inhibition, Suppression of LPS-Induced Nitric Oxide Production, and Molecular Docking Analysis",
+   "journal": "Revista Brasileira de Farmacognosia",
+   "date": "2026-10-16",
+   "authors": "Ngu Nhan Truong, T. Dam, X. L. Ngo, T. M. P. Lam, Hoai An Thi Nguyen, Tien Lam Do",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43450-026-00815-3"
+  },
   {
    "key": "t:pyrochar versus hydrochar contrasting modulation of soil bacterial communities under severe nitrate dominated acid rain ",
    "groups": [
@@ -549,28 +566,11 @@
    "doi": "10.1007/s00299-026-04013-2",
    "pmid": "42841991",
    "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species delimitation.",
-   "journal": "Plant Cell Reports",
+   "journal": "",
    "date": "2026-10-07",
    "authors": "Hu L, Wu Y, Zhao Z, Wu W, Cao F, Wang Z, Li W.",
    "abstract": "Key message Plastome analyses confirmed the taxonomic classification of cultivated Rubus and identified candidate InDel markers for distinguishing major cultivated groups, offering genetic resources for future studies of hybrid identification and breeding. The genus Rubus, belonging to the Rosaceae family, comprises numerous wild germplasm resources. Among its most economically valuable cultivars are red raspberry, black raspberry, blackberry, as well as raspberry × blackberry hybrids. In this study, we assembled and characterized 81 newly Rubus plastomes, including 22 wild species and 59 cultivars. All genomes exhibited the typical quadripartite structure, with sizes ranging from 155,385 to 157,012 bp and containing 130 annotated genes (113 unique functional genes), indicating a high degree of conservation in plastome architecture and gene order. A comparative analysis was further conducted using plastomes from 16 representative Rubus cultivars, representing all unique plastome sequences. The repeat sequences, codon usage bias, and hypervariable regions were systematically analyzed. Phylogenetic analysis revealed that modern Rubus cultivars primarily cluster within three subgenera: Rubus, Idaeobatus, and Melanobatus, with black raspberry phylogenetically placed within Melanobatus. Furthermore, four InDel markers were developed and validated for distinguishing three Rubus cultivar groups (black raspberry, red raspberry and hybrids). In summary, our research substantially expands available plastome resources for Rubus species and cultivars, thereby facilitating species delimitation and supporting future hybrid breeding.",
    "url": "https://doi.org/10.1007/s00299-026-04013-2"
-  },
-  {
-   "key": "doi:10.3390/horticulturae12101249",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "b1d10cb050f972c3250623a0f3f5d5b37a92a8fc",
-   "doi": "10.3390/horticulturae12101249",
-   "pmid": "",
-   "title": "Molecular Characterization and Evolutionary Relationships of WRKYs in Five Rubus Species and Functional Analysis of RiWRKY48 in Rubus idaeus",
-   "journal": "Horticulturae",
-   "date": "2026-10-07",
-   "authors": "Zhuang Wen, Jian-Xin Fan, Yao Jiang, Qin Yang, Xue-Jiao Cao",
-   "abstract": "WRKY transcription factors play crucial roles in plant growth, development, and stress responses. However, their systematic evolution and functions within the genus Rubus remain incompletely understood. In this study, genome-wide identification, evolutionary analysis and functional characterization of the WRKY gene family were conducted in five Rubus species. A total of 37–67 members were identified and classified into three groups by phylogenetic analysis. The collinearity result, gene family expansion and contraction analyses revealed a contraction trend within the Rubus lineage compared with the outgroup sweet cherry. Promoter cis-acting element analysis predicted widespread involvement of these genes in hormone and stress responses. Expression profiling revealed tissue-specific patterns among WRKY genes, with most members down-regulated during fruit development and differentially regulated by biotic and abiotic stresses. Further correlation analysis and experimental validation were focused on RiWRKY48 in red raspberry (Rubus idaeus L.). This protein was localized to the nucleus and lacked transcriptional activation activity. Combined in silico modeling (AlphaFold3) and dual-luciferase reporter assays revealed that RiWRKY48 may repressed the promoter activity of RiUFGT4, a key anthocyanin biosynthetic gene, suggesting a putative interaction with the W-box element. In summary, this study systematically characterized the evolutionary features of the Rubus WRKY family and provided evidence for a potential regulatory role of RiWRKY48 in anthocyanin biosynthesis through modulation of RiUFGT4 promoter activity. These findings provided new insights into the regulatory roles of WRKY transcription factors in fruit quality development in Rubus species.",
-   "url": "https://doi.org/10.3390/horticulturae12101249"
   },
   {
    "key": "doi:10.3389/fgene.2026.1894037",
@@ -605,6 +605,23 @@
    "authors": "Zhang X, Wang T, Chen H, Hu Y, Tang L, Chang S.",
    "abstract": "",
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638554/?tool=EBI"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12101249",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "b1d10cb050f972c3250623a0f3f5d5b37a92a8fc",
+   "doi": "10.3390/horticulturae12101249",
+   "pmid": "",
+   "title": "Molecular Characterization and Evolutionary Relationships of WRKYs in Five Rubus Species and Functional Analysis of RiWRKY48 in Rubus idaeus",
+   "journal": "Horticulturae",
+   "date": "2026-10-07",
+   "authors": "Zhuang Wen, Jian-Xin Fan, Yao Jiang, Qin Yang, Xue-Jiao Cao",
+   "abstract": "WRKY transcription factors play crucial roles in plant growth, development, and stress responses. However, their systematic evolution and functions within the genus Rubus remain incompletely understood. In this study, genome-wide identification, evolutionary analysis and functional characterization of the WRKY gene family were conducted in five Rubus species. A total of 37–67 members were identified and classified into three groups by phylogenetic analysis. The collinearity result, gene family expansion and contraction analyses revealed a contraction trend within the Rubus lineage compared with the outgroup sweet cherry. Promoter cis-acting element analysis predicted widespread involvement of these genes in hormone and stress responses. Expression profiling revealed tissue-specific patterns among WRKY genes, with most members down-regulated during fruit development and differentially regulated by biotic and abiotic stresses. Further correlation analysis and experimental validation were focused on RiWRKY48 in red raspberry (Rubus idaeus L.). This protein was localized to the nucleus and lacked transcriptional activation activity. Combined in silico modeling (AlphaFold3) and dual-luciferase reporter assays revealed that RiWRKY48 may repressed the promoter activity of RiUFGT4, a key anthocyanin biosynthetic gene, suggesting a putative interaction with the W-box element. In summary, this study systematically characterized the evolutionary features of the Rubus WRKY family and provided evidence for a potential regulatory role of RiWRKY48 in anthocyanin biosynthesis through modulation of RiUFGT4 promoter activity. These findings provided new insights into the regulatory roles of WRKY transcription factors in fruit quality development in Rubus species.",
+   "url": "https://doi.org/10.3390/horticulturae12101249"
   },
   {
    "key": "doi:10.1186/s40104-026-01503-x",
