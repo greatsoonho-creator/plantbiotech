@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-17T06:53:27+09:00",
-  "latest_run": "2026-10-17",
+  "generated_at": "2026-10-18T06:56:00+09:00",
+  "latest_run": "2026-10-18",
   "runs": [
+    {
+      "run": "2026-10-18",
+      "at": "2026-10-18T06:56:00+09:00",
+      "count": 2,
+      "note": "논문 2(밤나무1·대추1)+뉴스·정책 0. 피드 후보 10건 중 관련 3건 선별(옥수수 DUS는 DOI 없어 제외), 초록 없음·원문 미열람 2건(doi.org·NCBI DNS 차단). 7일 내 신규 법령·품종보호 뉴스 확인 안 됨(검색 결과가 10월 초순분 위주), 피드 semanticscholar:raspberry HTTP 429"
+    },
     {
       "run": "2026-10-17",
       "at": "2026-10-17T06:53:27+09:00",
@@ -99,6 +105,27 @@
       "run": "2026-10-09",
       "date_key": "2026-10-19",
       "id": "20261019-16f4586d"
+    },
+    {
+      "id": "20261016-b3b9b055",
+      "cat": "genome",
+      "title": "Secondary Metabolites from Castanea mollissima Leaves: α-Glucosidase and PTP1B Inhibition, Suppression of LPS-Induced Nitric Oxide Production, and Molecular Docking Analysis",
+      "title_ko": "밤나무 잎(Castanea mollissima)의 2차대사산물과 α-글루코시다제·PTP1B 저해 및 LPS 유도 염증 억제 활성",
+      "source": "Revista Brasileira de Farmacognosia",
+      "url": "https://doi.org/10.1007/s43450-026-00815-3",
+      "date": "2026-10-16",
+      "date_key": "2026-10-16",
+      "type": "paper",
+      "summary_ko": "밤나무(Castanea mollissima) 잎에서 분리한 2차대사산물이 α-글루코시다제 및 PTP1B 효소를 저해하고 LPS로 유도된 염증 반응을 억제하는지를 다룬 Revista Brasileira de Farmacognosia 게재 논문이다. 제목상 항당뇨·항염증 기능성 소재로서 밤나무 잎의 활용 가능성을 평가한 연구로 보인다. 초록이 피드에 없어 화합물 종류와 저해 수치(IC50 등)는 확인하지 못했다. 밤나무 부산물인 잎의 기능성 활용은 밤나무 리시퀀싱 연구와 연계해 대사산물 생합성 유전자를 탐색하는 출발점이 될 수 있어 원문 확인이 필요하다. (초록 없음, 원문 미열람)",
+      "tags": [
+        "밤나무",
+        "기능성",
+        "2차대사산물",
+        "항당뇨",
+        "항염증"
+      ],
+      "collected_at": "2026-10-18",
+      "run": "2026-10-18"
     },
     {
       "id": "20261014-f72c0f0b",
@@ -220,6 +247,26 @@
       ],
       "collected_at": "2026-10-17",
       "run": "2026-10-17"
+    },
+    {
+      "id": "20261013-05766f59",
+      "cat": "fruit",
+      "title": "The uptake features of mineral elements in jujube trees and the relationship with soil supply",
+      "title_ko": "대추나무의 무기원소 흡수 특성과 토양 공급과의 관계",
+      "source": "Plant and Soil",
+      "url": "https://doi.org/10.1007/s11104-026-09172-5",
+      "date": "2026-10-13",
+      "date_key": "2026-10-13",
+      "type": "paper",
+      "summary_ko": "대추나무(jujube)가 무기원소를 어떻게 흡수하는지와 토양 공급량과의 관계를 다룬 Plant and Soil 게재 논문이다. 초록이 피드에 없어 조사 품종, 원소 종류, 시기별 흡수량 등 구체적 수치는 확인하지 못했다. 대추 재배지침과 시비 기준 마련 시 참고할 수 있어 원문 확인 후 활용 여부를 판단할 필요가 있다. (초록 없음, 원문 미열람)",
+      "tags": [
+        "대추",
+        "시비",
+        "무기영양",
+        "재배"
+      ],
+      "collected_at": "2026-10-18",
+      "run": "2026-10-18"
     },
     {
       "id": "20261012-ec30a7a2",
