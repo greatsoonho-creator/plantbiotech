@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T20:31:48.293Z",
+ "generated_at": "2026-10-18T20:32:58.911Z",
  "window_days": 10,
  "sources": [
   "europepmc",
@@ -7,26 +7,12 @@
  ],
  "count": 71,
  "errors": [
+  "semanticscholar:chestnut: HTTP 429",
+  "semanticscholar:pear-wild: HTTP 429",
+  "semanticscholar:hardy-kiwi: HTTP 429",
   "semanticscholar:raspberry: HTTP 429"
  ],
  "items": [
-  {
-   "key": "doi:10.1007/s43450-026-00815-3",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "150ca4d19b2a4f261c34f1695ae79c1d26cb02db",
-   "doi": "10.1007/s43450-026-00815-3",
-   "pmid": "",
-   "title": "Secondary Metabolites from Castanea mollissima Leaves: α-Glucosidase and PTP1B Inhibition, Suppression of LPS-Induced Nitric Oxide Production, and Molecular Docking Analysis",
-   "journal": "Revista Brasileira de Farmacognosia",
-   "date": "2026-10-16",
-   "authors": "Ngu Nhan Truong, T. Dam, X. L. Ngo, T. M. P. Lam, Hoai An Thi Nguyen, Tien Lam Do",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s43450-026-00815-3"
-  },
   {
    "key": "t:pyrochar versus hydrochar contrasting modulation of soil bacterial communities under severe nitrate dominated acid rain ",
    "groups": [
@@ -62,21 +48,21 @@
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13655061/?tool=EBI"
   },
   {
-   "key": "doi:10.31466/kfbd.1885627",
+   "key": "doi:10.1007/s43450-026-00815-3",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "semanticscholar",
-   "id": "7033915a4464679dc62e0e6738d02ad310183e00",
-   "doi": "10.31466/kfbd.1885627",
+   "id": "150ca4d19b2a4f261c34f1695ae79c1d26cb02db",
+   "doi": "10.1007/s43450-026-00815-3",
    "pmid": "",
-   "title": "Leaf Phenotypic Variation in Natural Populations of Chestnuts in Yağlıdere Forests (Giresun, Türkiye)",
-   "journal": "Karadeniz Fen Bilimleri Dergisi",
-   "date": "2026-10-14",
-   "authors": "N. Pul, Saim Zeki Bostan",
-   "abstract": "This study aimed to evaluate phenotypic diversity and population relationships among natural chestnut (Castanea sativa Mill.) populations in the forests of Yağlıdere district (Giresun, Türkiye) based on leaf morphological traits. Leaf samples were collected from 105 seed-propagated trees representing seven populations during the 2020 and 2021 growing seasons. Eleven leaf parameters, including lamina dimensions, petiole length, tooth characteristics, and leaf area, were measured, and several ratio-based traits were calculated. Descriptive statistics, correlation analysis, analysis of variance, principal component analysis (PCA), and hierarchical cluster analysis were applied to two-year average data. Significant differences were detected among genotypes and populations for most leaf traits. Strong correlations were observed among leaf size-related parameters, whereas marginal traits showed more variable relationships. PCA revealed that the first three components explained more than 80% of the total variation at the genotype level and over 90% at the population level, with leaf size, shape ratios, and tooth characteristics being the main contributors to morphological differentiation. Hierarchical clustering produced grouping patterns consistent with PCA results, clearly discriminating genotypes and populations based on leaf morphology. The findings demonstrate that leaf morphological traits provide a reliable and practical approach for the characterization, conservation, and utilization of chestnut genetic resources.",
-   "url": "https://doi.org/10.31466/kfbd.1885627"
+   "title": "Secondary Metabolites from Castanea mollissima Leaves: α-Glucosidase and PTP1B Inhibition, Suppression of LPS-Induced Nitric Oxide Production, and Molecular Docking Analysis",
+   "journal": "Revista Brasileira de Farmacognosia",
+   "date": "2026-10-16",
+   "authors": "Ngu Nhan Truong, T. Dam, X. L. Ngo, T. M. P. Lam, Hoai An Thi Nguyen, Tien Lam Do",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43450-026-00815-3"
   },
   {
    "key": "doi:10.3389/fpls.2026.1980416",
@@ -111,6 +97,57 @@
    "authors": "I. Mrabti, H. Grijja, N. Brhadda, R. Ziri, M. Afechtal",
    "abstract": "",
    "url": "https://doi.org/10.11646/zootaxa.5890.1.12"
+  },
+  {
+   "key": "doi:10.31466/kfbd.1885627",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "7033915a4464679dc62e0e6738d02ad310183e00",
+   "doi": "10.31466/kfbd.1885627",
+   "pmid": "",
+   "title": "Leaf Phenotypic Variation in Natural Populations of Chestnuts in Yağlıdere Forests (Giresun, Türkiye)",
+   "journal": "Karadeniz Fen Bilimleri Dergisi",
+   "date": "2026-10-14",
+   "authors": "N. Pul, Saim Zeki Bostan",
+   "abstract": "This study aimed to evaluate phenotypic diversity and population relationships among natural chestnut (Castanea sativa Mill.) populations in the forests of Yağlıdere district (Giresun, Türkiye) based on leaf morphological traits. Leaf samples were collected from 105 seed-propagated trees representing seven populations during the 2020 and 2021 growing seasons. Eleven leaf parameters, including lamina dimensions, petiole length, tooth characteristics, and leaf area, were measured, and several ratio-based traits were calculated. Descriptive statistics, correlation analysis, analysis of variance, principal component analysis (PCA), and hierarchical cluster analysis were applied to two-year average data. Significant differences were detected among genotypes and populations for most leaf traits. Strong correlations were observed among leaf size-related parameters, whereas marginal traits showed more variable relationships. PCA revealed that the first three components explained more than 80% of the total variation at the genotype level and over 90% at the population level, with leaf size, shape ratios, and tooth characteristics being the main contributors to morphological differentiation. Hierarchical clustering produced grouping patterns consistent with PCA results, clearly discriminating genotypes and populations based on leaf morphology. The findings demonstrate that leaf morphological traits provide a reliable and practical approach for the characterization, conservation, and utilization of chestnut genetic resources.",
+   "url": "https://doi.org/10.31466/kfbd.1885627"
+  },
+  {
+   "key": "doi:10.1007/s11104-026-09172-5",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "8186d0152a920ced713144961314e6d5c90550af",
+   "doi": "10.1007/s11104-026-09172-5",
+   "pmid": "",
+   "title": "The uptake features of mineral elements in jujube trees and the relationship with soil supply",
+   "journal": "Plant and Soil",
+   "date": "2026-10-13",
+   "authors": "Kun-Mao Feng, Jia-Qing Cai, Xin-Yue Liu, Qian Cheng, Xiao-Feng Deng, Li-Ming Jia",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11104-026-09172-5"
+  },
+  {
+   "key": "doi:10.3390/pr14203282",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6c20bf885fc5c25fa7dd0b4e86167b77b15cdec7",
+   "doi": "10.3390/pr14203282",
+   "pmid": "",
+   "title": "Regulation of Sugar Content and Glass Transition in Jujube Slices via CP-Assisted Pulsed Vacuum Drying: Effects on Physicochemical Properties and Blood Glucose Regulation",
+   "journal": "Processes",
+   "date": "2026-10-13",
+   "authors": "Ming-Qiang Xu, Fei-Fan Tian, Wurile Bai, An-An Zhang, Shuang-Yu Cao, Yan Ma",
+   "abstract": "Although red dates (Ziziphus jujuba Mill.) are rich in nutrients and have both edible and medicinal properties, during the drying process, due to their high sugar content, they often result in a lower glass transition temperature (Tg), enhanced hygroscopicity, surface agglomeration, and a decline in storage quality, severely limiting the shelf stability of the products and the improvement of the processing quality. Cold plasma (CP) can form cavities through surface etching, promoting water migration, thereby increasing the drying rate and diffusion coefficient. Vacuum pulsation drying (PVD) has a higher drying rate, stronger mass transfer ability, and better quality retention effect compared to ordinary drying methods. Based on these characteristics, we believe that CP and PVD have a synergistic enhancing effect in the drying of date slices. Therefore, in this study, CK-PVD (without plasma pre-treatment, direct vacuum pulsation drying) was used as the control group, and CP-PVD (after plasma pre-treatment, vacuum pulsation drying), A1, A2, and A3 (after plasma treatment, soaking in different concentrations of ethanol and then vacuum pulsation drying) were used as experimental groups to study the effects of CP pre-treatment combined with ethanol extraction on the sugar composition, glass transition temperature (Tg), physical stability, and reduce blood sugar activity of dried date slices. The results showed that CP pre-treatment significantly improved the material transfer efficiency (confirmed by the increases in the areas of T22 and T23 peaks). Compared with the control group, the low-sugar group (A2) exhibited reduced total sugar content, the gel point increased to 35.6 °C, and the microscopic structure changed from regular and smooth to dense and irregular, thereby si…",
+   "url": "https://doi.org/10.3390/pr14203282"
   },
   {
    "key": "doi:10.3390/polym18202500",
@@ -181,40 +218,6 @@
    "url": "https://doi.org/10.1111/nph.71631"
   },
   {
-   "key": "doi:10.1007/s11104-026-09172-5",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "8186d0152a920ced713144961314e6d5c90550af",
-   "doi": "10.1007/s11104-026-09172-5",
-   "pmid": "",
-   "title": "The uptake features of mineral elements in jujube trees and the relationship with soil supply",
-   "journal": "Plant and Soil",
-   "date": "2026-10-13",
-   "authors": "Kun-Mao Feng, Jia-Qing Cai, Xin-Yue Liu, Qian Cheng, Xiao-Feng Deng, Li-Ming Jia",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s11104-026-09172-5"
-  },
-  {
-   "key": "doi:10.3390/pr14203282",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "6c20bf885fc5c25fa7dd0b4e86167b77b15cdec7",
-   "doi": "10.3390/pr14203282",
-   "pmid": "",
-   "title": "Regulation of Sugar Content and Glass Transition in Jujube Slices via CP-Assisted Pulsed Vacuum Drying: Effects on Physicochemical Properties and Blood Glucose Regulation",
-   "journal": "Processes",
-   "date": "2026-10-13",
-   "authors": "Ming-Qiang Xu, Fei-Fan Tian, Wurile Bai, An-An Zhang, Shuang-Yu Cao, Yan Ma",
-   "abstract": "Although red dates (Ziziphus jujuba Mill.) are rich in nutrients and have both edible and medicinal properties, during the drying process, due to their high sugar content, they often result in a lower glass transition temperature (Tg), enhanced hygroscopicity, surface agglomeration, and a decline in storage quality, severely limiting the shelf stability of the products and the improvement of the processing quality. Cold plasma (CP) can form cavities through surface etching, promoting water migration, thereby increasing the drying rate and diffusion coefficient. Vacuum pulsation drying (PVD) has a higher drying rate, stronger mass transfer ability, and better quality retention effect compared to ordinary drying methods. Based on these characteristics, we believe that CP and PVD have a synergistic enhancing effect in the drying of date slices. Therefore, in this study, CK-PVD (without plasma pre-treatment, direct vacuum pulsation drying) was used as the control group, and CP-PVD (after plasma pre-treatment, vacuum pulsation drying), A1, A2, and A3 (after plasma treatment, soaking in different concentrations of ethanol and then vacuum pulsation drying) were used as experimental groups to study the effects of CP pre-treatment combined with ethanol extraction on the sugar composition, glass transition temperature (Tg), physical stability, and reduce blood sugar activity of dried date slices. The results showed that CP pre-treatment significantly improved the material transfer efficiency (confirmed by the increases in the areas of T22 and T23 peaks). Compared with the control group, the low-sugar group (A2) exhibited reduced total sugar content, the gel point increased to 35.6 °C, and the microscopic structure changed from regular and smooth to dense and irregular, thereby si…",
-   "url": "https://doi.org/10.3390/pr14203282"
-  },
-  {
    "key": "doi:10.3390/insects17101047",
    "groups": [
     "chestnut"
@@ -283,23 +286,6 @@
    "url": "https://doi.org/10.1007/s43621-026-04925-9"
   },
   {
-   "key": "doi:10.3390/ijms27208994",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "794fff1bbd8b2356a28ae11ce41d1cd5ad053a4e",
-   "doi": "10.3390/ijms27208994",
-   "pmid": "",
-   "title": "Genome-Wide Identification of the Castanea mollissima MADS-Box Gene Family and Its Potential Roles in Female Flower Development Based on Transcriptomic and Morphological Analyses",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-10-10",
-   "authors": "Liang-Yao Zeng, Xiao-Yan Hu, Hao Yang, Jia Song, Ru-Xin Guo, Haie Zhang",
-   "abstract": "Castanea mollissima is an important woody food crop in China. Late, sparse, and unstable female flower differentiation constrains the development of the chestnut industry. Here, two more-female cultivars, ‘Longquanzhuang No. 2’ (LQ) and ‘Yanqiu’ (YQ), and the control cultivar ‘Yanshanzaofeng’ (ZF) were sampled at five stages after budbreak (7–35 d) for morphological observation and transcriptome sequencing. Morphological divergence became evident at 21 d after budbreak. Transcriptome analysis identified 2223 differentially expressed genes specific to the LQ–ZF comparison at 21 d and 791 inter-cultivar differentially expressed genes shared across 21–35 d. GO enrichment analysis showed significant enrichment in transcription factor activity and related pathways. Transcription factor prediction identified MADS-box genes as candidates, and 60 MADS-box members were identified in Chinese chestnut. These comprised 29 Type I members and 31 Type II members, with the latter classified into 13 subfamilies. Integrated analysis of gene-expression patterns and predicted protein interactions showed that more Type II genes were differentially expressed in female flowers and that expression patterns differed between the more-female cultivars and the control. The contrasting expression patterns of putative positive and negative CmMADS regulators may be associated with differences in female flower developmental capacity among these cultivars. RT-qPCR analysis of four representative CmMADS genes showed that genes expressed at higher levels in female flowers generally increased during development, consistent with the transcriptome data. These findings reveal morphological divergence and dynamic CmMADS expression during female flower development in two more-female chestnut cultivars and a co…",
-   "url": "https://doi.org/10.3390/ijms27208994"
-  },
-  {
    "key": "doi:10.3390/foods15203604",
    "groups": [
     "jujube"
@@ -317,38 +303,21 @@
    "url": "https://doi.org/10.3390/foods15203604"
   },
   {
-   "key": "doi:10.3390/biomass6050090",
+   "key": "doi:10.3390/ijms27208994",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "semanticscholar",
-   "id": "c880a3ec038a199741aeede8e35e87f62468d325",
-   "doi": "10.3390/biomass6050090",
+   "id": "794fff1bbd8b2356a28ae11ce41d1cd5ad053a4e",
+   "doi": "10.3390/ijms27208994",
    "pmid": "",
-   "title": "Cascading Valorization of Residual Chestnut Biomass: Linking Aqueous Extraction, Reverse Osmosis, Spray Drying, and Solid Reuse",
-   "journal": "Biomass",
-   "date": "2026-10-09",
-   "authors": "Pablo Fernández Santos, Claudia García-Revuelta, Lucía García-Flórez, M. A. González-Arrojo, José Ramón Álvarez Saiz, Susana Luque",
-   "abstract": "Residual chestnut biomass was evaluated in a cascading valorization route combining hot-water extraction, extractant reuse, reverse osmosis (RO), spray drying, and subsequent use of the extracted solid. Two heterogeneous residual Castanea sativa streams were studied at laboratory and pilot scale. Successive extraction at 100 ∘C recovered up to 141 mg gallic acid equivalents (GAE) g−1 dry biomass as Folin-reactive TPC, with 90–93% of the seven-stage response recovered after four fresh-water stages. Reusing the liquid on fresh biomass increased Folin-reactive TPC to 12.0–24.0 mg GAE mL−1. Ultrafiltration did not provide useful fractionation, whereas RO gave >99.9% apparent Folin-reactive TPC retention and 96.5–97.6% total-solids retention; standard batches achieved 86.7–93.5% volume reduction. Carrier-free laboratory spray drying gave a maximum dry-solids collection recovery of approximately 60–62% in the favorable region near 20% feed solids. A representative powder contained 488±27 mg GAE g−1 dry matter, showed a DPPH IC50 of 13.7±1.1μg mL−1, water activity of 0.5850, and a volume-median particle size d50 of 7.42 μm. SEM showed predominantly spherical/sub-spherical particles together with hollow, concave, and partially collapsed particles. Complementary FTIR, MALDI-TOF, SEC-GPC, and qualitative on-flow ESI-MS provided structural and molecular-size fingerprints consistent with chestnut hydrolysable-tannin-related species, while individual assignments remain tentative. After two extraction cycles, residual biomass retained a net calorific value of 18.1–18.2 MJ kg−1 dry basis, although pellet durability decreased. The results define practical trade-offs linking liquid-product recovery and solid-residue valorization in an integrated chestnut-biomass cascade.",
-   "url": "https://doi.org/10.3390/biomass6050090"
-  },
-  {
-   "key": "doi:10.3390/biology15201794",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "4dde667feed5abbd65a35cb7d3e9f04502e0ff8a",
-   "doi": "10.3390/biology15201794",
-   "pmid": "",
-   "title": "Effects of Different Formulations of Exogenous Nutrient Bag Waste on Soil Properties and Physiological Activities and Root Transcriptomic Responses of Oat",
-   "journal": "Biology",
-   "date": "2026-10-09",
-   "authors": "Li-Bing Gong, Le Wang, Li-Ping Su, Wei Sa, Quan-Min Dong",
-   "abstract": "This study used typical chestnut soil from Huangyuan County, Qinghai Province as the experimental soil, and selected three oat varieties, “Baiyan 7”, “Qingyan 2”, and “Qinghai 444”, for mixed sowing. A blank control (CK) and five treatments with different ratios of exogenous nutrient bag waste (PF-R-1 to PF-R-5) were established. Through soil physicochemical analysis, microbial biomass determination, RNA sequencing (RNA-Seq), and weighted gene co-expression network analysis (WGCNA), the effects of exogenous nutrient bag waste with different ratios soil nutrient availability, microbial activity and root gene expression in oats were systematically evaluated. The results showed that most treatments enhanced soil organic matter, nitrogen content, and microbial activity. Transcriptomic analysis revealed that the comparison between PF-R-3 and PF-R-2 treatments exhibited the highest total number of differentially expressed genes (DEGs), with enrichment in pathways related to ribosomal protein translation, oxidative phosphorylation energy metabolism, and DNA damage repair. These enrichment patterns suggest potential changes in energy metabolism and protein synthesis, although direct functional validation was not performed. Moreover, DEGs uniquely identified in PF-R-3 were significantly enriched in nitrogen metabolism and secondary metabolite biosynthesis pathways; WGCNA identified the coral2 module as the core regulatory module, with its genes predominantly enriched in functions related to transmembrane transport and plant hormone signal transduction, which were highly consistent with efficient root nutrient acquisition and the maintenance of metabolic homeostasis. Fluorescence staining confirmed the successful colonization of oat root tissues by Morchella mycelium. Taken toget…",
-   "url": "https://doi.org/10.3390/biology15201794"
+   "title": "Genome-Wide Identification of the Castanea mollissima MADS-Box Gene Family and Its Potential Roles in Female Flower Development Based on Transcriptomic and Morphological Analyses",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-10-10",
+   "authors": "Liang-Yao Zeng, Xiao-Yan Hu, Hao Yang, Jia Song, Ru-Xin Guo, Haie Zhang",
+   "abstract": "Castanea mollissima is an important woody food crop in China. Late, sparse, and unstable female flower differentiation constrains the development of the chestnut industry. Here, two more-female cultivars, ‘Longquanzhuang No. 2’ (LQ) and ‘Yanqiu’ (YQ), and the control cultivar ‘Yanshanzaofeng’ (ZF) were sampled at five stages after budbreak (7–35 d) for morphological observation and transcriptome sequencing. Morphological divergence became evident at 21 d after budbreak. Transcriptome analysis identified 2223 differentially expressed genes specific to the LQ–ZF comparison at 21 d and 791 inter-cultivar differentially expressed genes shared across 21–35 d. GO enrichment analysis showed significant enrichment in transcription factor activity and related pathways. Transcription factor prediction identified MADS-box genes as candidates, and 60 MADS-box members were identified in Chinese chestnut. These comprised 29 Type I members and 31 Type II members, with the latter classified into 13 subfamilies. Integrated analysis of gene-expression patterns and predicted protein interactions showed that more Type II genes were differentially expressed in female flowers and that expression patterns differed between the more-female cultivars and the control. The contrasting expression patterns of putative positive and negative CmMADS regulators may be associated with differences in female flower developmental capacity among these cultivars. RT-qPCR analysis of four representative CmMADS genes showed that genes expressed at higher levels in female flowers generally increased during development, consistent with the transcriptome data. These findings reveal morphological divergence and dynamic CmMADS expression during female flower development in two more-female chestnut cultivars and a co…",
+   "url": "https://doi.org/10.3390/ijms27208994"
   },
   {
    "key": "doi:10.1002/jsfa.71110",
@@ -402,6 +371,40 @@
    "url": "https://doi.org/10.3389/fpls.2026.1970840"
   },
   {
+   "key": "doi:10.3390/biomass6050090",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "c880a3ec038a199741aeede8e35e87f62468d325",
+   "doi": "10.3390/biomass6050090",
+   "pmid": "",
+   "title": "Cascading Valorization of Residual Chestnut Biomass: Linking Aqueous Extraction, Reverse Osmosis, Spray Drying, and Solid Reuse",
+   "journal": "Biomass",
+   "date": "2026-10-09",
+   "authors": "Pablo Fernández Santos, Claudia García-Revuelta, Lucía García-Flórez, M. A. González-Arrojo, José Ramón Álvarez Saiz, Susana Luque",
+   "abstract": "Residual chestnut biomass was evaluated in a cascading valorization route combining hot-water extraction, extractant reuse, reverse osmosis (RO), spray drying, and subsequent use of the extracted solid. Two heterogeneous residual Castanea sativa streams were studied at laboratory and pilot scale. Successive extraction at 100 ∘C recovered up to 141 mg gallic acid equivalents (GAE) g−1 dry biomass as Folin-reactive TPC, with 90–93% of the seven-stage response recovered after four fresh-water stages. Reusing the liquid on fresh biomass increased Folin-reactive TPC to 12.0–24.0 mg GAE mL−1. Ultrafiltration did not provide useful fractionation, whereas RO gave >99.9% apparent Folin-reactive TPC retention and 96.5–97.6% total-solids retention; standard batches achieved 86.7–93.5% volume reduction. Carrier-free laboratory spray drying gave a maximum dry-solids collection recovery of approximately 60–62% in the favorable region near 20% feed solids. A representative powder contained 488±27 mg GAE g−1 dry matter, showed a DPPH IC50 of 13.7±1.1μg mL−1, water activity of 0.5850, and a volume-median particle size d50 of 7.42 μm. SEM showed predominantly spherical/sub-spherical particles together with hollow, concave, and partially collapsed particles. Complementary FTIR, MALDI-TOF, SEC-GPC, and qualitative on-flow ESI-MS provided structural and molecular-size fingerprints consistent with chestnut hydrolysable-tannin-related species, while individual assignments remain tentative. After two extraction cycles, residual biomass retained a net calorific value of 18.1–18.2 MJ kg−1 dry basis, although pellet durability decreased. The results define practical trade-offs linking liquid-product recovery and solid-residue valorization in an integrated chestnut-biomass cascade.",
+   "url": "https://doi.org/10.3390/biomass6050090"
+  },
+  {
+   "key": "doi:10.3390/biology15201794",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "4dde667feed5abbd65a35cb7d3e9f04502e0ff8a",
+   "doi": "10.3390/biology15201794",
+   "pmid": "",
+   "title": "Effects of Different Formulations of Exogenous Nutrient Bag Waste on Soil Properties and Physiological Activities and Root Transcriptomic Responses of Oat",
+   "journal": "Biology",
+   "date": "2026-10-09",
+   "authors": "Li-Bing Gong, Le Wang, Li-Ping Su, Wei Sa, Quan-Min Dong",
+   "abstract": "This study used typical chestnut soil from Huangyuan County, Qinghai Province as the experimental soil, and selected three oat varieties, “Baiyan 7”, “Qingyan 2”, and “Qinghai 444”, for mixed sowing. A blank control (CK) and five treatments with different ratios of exogenous nutrient bag waste (PF-R-1 to PF-R-5) were established. Through soil physicochemical analysis, microbial biomass determination, RNA sequencing (RNA-Seq), and weighted gene co-expression network analysis (WGCNA), the effects of exogenous nutrient bag waste with different ratios soil nutrient availability, microbial activity and root gene expression in oats were systematically evaluated. The results showed that most treatments enhanced soil organic matter, nitrogen content, and microbial activity. Transcriptomic analysis revealed that the comparison between PF-R-3 and PF-R-2 treatments exhibited the highest total number of differentially expressed genes (DEGs), with enrichment in pathways related to ribosomal protein translation, oxidative phosphorylation energy metabolism, and DNA damage repair. These enrichment patterns suggest potential changes in energy metabolism and protein synthesis, although direct functional validation was not performed. Moreover, DEGs uniquely identified in PF-R-3 were significantly enriched in nitrogen metabolism and secondary metabolite biosynthesis pathways; WGCNA identified the coral2 module as the core regulatory module, with its genes predominantly enriched in functions related to transmembrane transport and plant hormone signal transduction, which were highly consistent with efficient root nutrient acquisition and the maintenance of metabolic homeostasis. Fluorescence staining confirmed the successful colonization of oat root tissues by Morchella mycelium. Taken toget…",
+   "url": "https://doi.org/10.3390/biology15201794"
+  },
+  {
    "key": "doi:10.1093/treephys/tpag150",
    "groups": [
     "raspberry",
@@ -418,23 +421,6 @@
    "authors": "Yi Feng, Shu Diao, Xiao-Hui Lin, Cai-Xia Wang, Xiao-Ping Wang, Yang-Dong Wang",
    "abstract": "Resin canals are tunnel-like tissue structures primarily responsible for synthesizing and secreting resin. They consist of specialized secondary metabolite-synthesizing epithelial cells and supportive subsidiary cells, which are arranged to form distinctive intercellular spaces. In conifers, resin canals can develop during normal development or be induced by environmental stimuli, which often form an interconnected network and play a crucial role in defense against pathogens and insects. Despite their importance in resin secretion and defense, the mechanisms underlying their formation and function remain poorly understood. In this review, we summarize recent advances in the study of resin canals in conifers from the perspectives of cellular development, defense mechanisms, and molecular regulation. We analyze the distribution patterns, subcellular characteristics and formation and developmental processes of resin canals across different conifer species. Based on studies of traumatic resin canals, we propose a developmental model that depicts the initiation from cambial activity to cell differentiation and canal formation. Furthermore, we focus on resin canal-specific genes and analyze the functions and expression patterns of identified related genes. With the advancement of conifer genome sequencing and single-cell technologies, future research on resin canal regulatory mechanisms and functions is facing unprecedented opportunities. We propose a strategic framework aimed at enhancing conifer breeding, particularly for traits such as stress resilience, disease resistance and wood quality.",
    "url": "https://doi.org/10.1093/treephys/tpag150"
-  },
-  {
-   "key": "doi:10.3390/architecture6040180",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "386dd455143d0631a6eb34b48226da2a560790f1",
-   "doi": "10.3390/architecture6040180",
-   "pmid": "",
-   "title": "Density Estimation in Heritage Timber Elements Using Resistograph Drilling Resistance",
-   "journal": "Architecture",
-   "date": "2026-10-08",
-   "authors": "Yilién Cabrera Martín, C. Baggio, Silvia Santini, G. Íñiguez-González",
-   "abstract": "Accurate structural diagnosis of timber elements in historic buildings requires minimally invasive and operationally reliable assessment methods compatible with heritage conservation principles. This study aims to estimate timber density in situ directly from Resistograph drilling resistance. To achieve this objective, density estimates derived from Woodpecker impact penetration tests were paired with Resistograph drilling resistance measurements through a mesh to develop a point to point correspondence and calibrate a linear model relating density to drilling resistance and enabling its direct application through Resistograph measurements. The database comprised thirteen historic sweet chestnut (Castanea sativa Mill.) beams from the Cloister of Michelangelo in the Baths of Diocletian complex, Rome, Italy. Statistical analyses included the assessment of multiple window sizes, segmented penetration intervals, model calibration, and Leave-One-Beam-Out (LOBO) cross validation. The resulting model enables density estimation using only Resistograph measurements and demonstrated high predictive accuracy, achieving a coefficient of determination of 92%.",
-   "url": "https://doi.org/10.3390/architecture6040180"
   },
   {
    "key": "doi:10.1016/j.plantsci.2026.113507",
@@ -503,6 +489,23 @@
    "authors": "Ö. Yılmaz, N. Kutlu, A. Kamiloğlu, Tuğba Elbir Abca",
    "abstract": "",
    "url": "https://doi.org/10.1007/s11694-026-04931-5"
+  },
+  {
+   "key": "doi:10.3390/architecture6040180",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "386dd455143d0631a6eb34b48226da2a560790f1",
+   "doi": "10.3390/architecture6040180",
+   "pmid": "",
+   "title": "Density Estimation in Heritage Timber Elements Using Resistograph Drilling Resistance",
+   "journal": "Architecture",
+   "date": "2026-10-08",
+   "authors": "Yilién Cabrera Martín, C. Baggio, Silvia Santini, G. Íñiguez-González",
+   "abstract": "Accurate structural diagnosis of timber elements in historic buildings requires minimally invasive and operationally reliable assessment methods compatible with heritage conservation principles. This study aims to estimate timber density in situ directly from Resistograph drilling resistance. To achieve this objective, density estimates derived from Woodpecker impact penetration tests were paired with Resistograph drilling resistance measurements through a mesh to develop a point to point correspondence and calibrate a linear model relating density to drilling resistance and enabling its direct application through Resistograph measurements. The database comprised thirteen historic sweet chestnut (Castanea sativa Mill.) beams from the Cloister of Michelangelo in the Baths of Diocletian complex, Rome, Italy. Statistical analyses included the assessment of multiple window sizes, segmented penetration intervals, model calibration, and Leave-One-Beam-Out (LOBO) cross validation. The resulting model enables density estimation using only Resistograph measurements and demonstrated high predictive accuracy, achieving a coefficient of determination of 92%.",
+   "url": "https://doi.org/10.3390/architecture6040180"
   },
   {
    "key": "doi:10.1093/jee/toag300",
