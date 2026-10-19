@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-19T06:58:00+09:00",
-  "latest_run": "2026-10-19",
+  "generated_at": "2026-10-20T06:53:06+09:00",
+  "latest_run": "2026-10-20",
   "runs": [
+    {
+      "run": "2026-10-20",
+      "at": "2026-10-20T06:53:06+09:00",
+      "count": 6,
+      "note": "논문 6(fruit 4·genome 1·pvp 1)+뉴스·정책 0. 피드 후보 17건 중 관련 6건 선별. 원문 미열람 3건(doi.org DNS 차단, 초록 없음 3건). 7일 내 뉴스·법령은 검색에서 확인 안 됨(10/1 MOU·10/8 지침은 7일 초과)."
+    },
     {
       "run": "2026-10-19",
       "at": "2026-10-19T06:58:00+09:00",
@@ -155,6 +161,88 @@
       "run": "2026-10-19"
     },
     {
+      "id": "20261016-d86b82d9",
+      "cat": "pvp",
+      "title": "Spatiotemporal stability of DUS characteristics in maize and evaluation of spatial replication testing models",
+      "title_ko": "옥수수 DUS 형질의 시공간 안정성과 공간 반복 시험 모델 평가",
+      "source": "Europe PMC (PMC13655061)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13655061/",
+      "date": "2026-10-16",
+      "date_key": "2026-10-16",
+      "type": "paper",
+      "summary_ko": "DUS(구별성·균일성·안정성) 시험의 신뢰도는 형질이 장소·연도에 걸쳐 안정적인지에 좌우된다. Jiao, Yu, Shi, Wang, Li, Feng, Zhang, Zhang, Han, Zhang이 옥수수 DUS 형질의 시공간 안정성과 공간 반복 시험 모델을 평가했다. (초록 없음) 제목 외 구체 결과는 확인하지 못했다. 다른 작물이지만 DUS 시험 설계의 방법론 참고 자료로 삼을 수 있다.",
+      "tags": [
+        "DUS",
+        "품종보호",
+        "옥수수",
+        "시험설계"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
+    },
+    {
+      "id": "20261015-1ce92451",
+      "cat": "fruit",
+      "title": "Discordant Chloroplast and Nuclear Divergence Among Eight Rubus crataegifolius (Rosaceae) Cultivars",
+      "title_ko": "산딸기(Rubus crataegifolius) 8개 품종의 엽록체·핵 유전체 분기 불일치",
+      "source": "Genes",
+      "url": "https://doi.org/10.3390/genes17101287",
+      "date": "2026-10-15",
+      "date_key": "2026-10-15",
+      "type": "paper",
+      "summary_ko": "품종 식별과 육종 계통 복원에는 양친 정보를 반영하는 마커가 필요한데, 엽록체 유전체 단독 활용의 한계가 충분히 검증되지 않았다. 저자들(Kim, Kim, Kwon)은 한국 육종 프로그램에서 나온 산딸기 8개 품종을 품종당 1개체씩 사용해 엽록체 전체 유전체(155,664–155,770 bp)를 조립하고 같은 개체의 핵 리시퀀싱 자료와 비교했다. 526개의 플라스톰 변이는 비암호 영역에 집중됐고 Ka/Ks가 1보다 크게 낮아 강한 순화선택을 보였으며, 8개 품종은 5개의 플라스톰 하플로타입만 가졌다(3개 품종은 동일 서열, 2개 품종은 또 다른 동일 서열). Rubus idaeus 기준 유전체에 매핑해 4,872,213개의 품종 간 다형성 핵 SNP를 얻었고 이는 플라스톰이 동일한 4개 품종을 포함한 모든 품종 쌍을 구분했으며 이질접합 호출을 엄격히 걸러도 결과가 같았다. 플라스톰이 동일한 품종들도 핵 거리 전체 범위의 27%에 걸쳐 있었고 두 척도의 상관은 약했다. 결론적으로 플라스톰 서열은 품종 정체성이 아니라 모계 계통을 나타내며, 핵 SNP에서 도출한 5-SNP 패널은 독립 개체 검증이 필요한 후보 도구다. 산딸기 품종보호 출원 시 DUS 보완용 분자 식별 근거로 직접 활용할 수 있는 자료다.",
+      "tags": [
+        "산딸기",
+        "Rubus crataegifolius",
+        "엽록체 유전체",
+        "핵 SNP",
+        "품종 식별"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
+    },
+    {
+      "id": "20261015-e284138b",
+      "cat": "fruit",
+      "title": "Anthracnose of Persimmon in Korea: Pathogen Diversity, Epidemiology, and Management Approach",
+      "title_ko": "한국 감 탄저병: 병원균 다양성, 역학 및 관리 방안",
+      "source": "Horticultural Science and Technology",
+      "url": "https://doi.org/10.7235/hort.20260038",
+      "date": "2026-10-15",
+      "date_key": "2026-10-15",
+      "type": "paper",
+      "summary_ko": "감 탄저병은 국내 감 재배의 주요 병해이다. Mao, Yoo, Lee, Won 등이 Horticultural Science and Technology에 병원균 다양성, 역학, 관리 접근을 다룬 논문을 발표했다. (초록 없음) 제목상 한국 내 병원균 종 구성과 발생 생태, 방제 전략을 종합한 내용으로 보인다. 감 재배 지침 작성 시 병해 관리 항목의 참고 문헌이 될 수 있다.",
+      "tags": [
+        "감",
+        "탄저병",
+        "병해 관리",
+        "재배"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
+    },
+    {
+      "id": "20261015-c959911b",
+      "cat": "fruit",
+      "title": "Postharvest Quality Maintenance of ‘Gampung’ Persimmon Fruit using Modified Atmosphere Packaging, 1-Methylcyclopropene, and an Ethylene Absorbent under Simulated Marketing Conditions",
+      "title_ko": "'감풍' 감 과실의 MAP·1-MCP·에틸렌 흡수제 처리를 통한 유통 모의 조건 수확 후 품질 유지",
+      "source": "Horticultural Science and Technology",
+      "url": "https://doi.org/10.7235/hort.20260037",
+      "date": "2026-10-15",
+      "date_key": "2026-10-15",
+      "type": "paper",
+      "summary_ko": "감은 수확 후 연화로 유통 기간이 짧아 품질 유지 기술이 필요하다. Shin, Moon, Kim, Kim, Jayasooriya, Kim 등이 '감풍' 감 과실에 MAP(기능성 포장), 1-MCP, 에틸렌 흡수제를 적용해 모의 유통 조건에서 품질 유지 효과를 평가했다. (초록 없음) 구체 수치는 확인하지 못했다. 감 수확 후 관리·가공 기술 정리에 참고할 수 있다.",
+      "tags": [
+        "감",
+        "수확 후 관리",
+        "1-MCP",
+        "MAP",
+        "감풍"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
+    },
+    {
       "id": "20261014-f72c0f0b",
       "cat": "policy",
       "title": "산림 불법행위 5년여간 1만 4,221건 적발…피해액 약 3,039억 원",
@@ -233,6 +321,27 @@
       ],
       "collected_at": "2026-10-17",
       "run": "2026-10-17"
+    },
+    {
+      "id": "20261014-1c8fe83b",
+      "cat": "fruit",
+      "title": "SMXL neofunctionalization and small RNAs underlie the recent evolution of a plant sex-determining system in Sapindaceae",
+      "title_ko": "SMXL 신기능화와 small RNA가 무환자나무과 성결정 시스템의 최근 진화를 이끈다",
+      "source": "Molecular Plant",
+      "url": "https://doi.org/10.1016/j.molp.2026.10.005",
+      "date": "2026-10-14",
+      "date_key": "2026-10-14",
+      "type": "paper",
+      "summary_ko": "식물에서 암수딴그루(dioecy)가 양성 조상으로부터 독립적으로 진화한 과정은 성결정 유전자가 거의 확정되지 못해 잘 알려지지 않았다. Zheng 등(Xia R, Charlesworth D 등)은 무환자나무과 유일의 암수딴그루 종 Eurycorymbus cavaleriei의 유전체를 해독해 XY 성결정 체계를 확인했다. 집단유전학·비교유전학 분석으로 SMXL 계열 SUN(애기장대 SMXL6/7과 유연, 스트리고락톤 신호 억제자)이 꽃의 성결정에 신기능화된 역할을 획득했음을 보였다. Y 연관 비암호 대립유전자 SUN MAO가 small RNA를 만들어 X 연관 SUN을 침묵시켜 수꽃을 촉진하고, 암꽃에서는 SUN이 HD-ZIP 인자 KUN을 안정화하고 KUN이 다시 SUN을 활성화하는 양성 되먹임 고리가 �portion 약(anther) 발달을 억제한다. 단성화인 리치에서도 같은 SUN-KUN 관계가 관찰됐다. 특히 KUN은 감나무 성결정 인자 MeGI의 오솔로그로, 먼 분류군 간 성결정 요소가 보존됨을 시사한다. 감 암수 성 발현과 육종 연구에 비교 기준을 제공하는 논문이다.",
+      "tags": [
+        "감",
+        "성결정",
+        "MeGI",
+        "SMXL",
+        "유전체"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
     },
     {
       "id": "20261013-50bd4cce",
@@ -336,6 +445,27 @@
       ],
       "collected_at": "2026-10-15",
       "run": "2026-10-15"
+    },
+    {
+      "id": "20261012-569d537b",
+      "cat": "genome",
+      "title": "NUTRITIONAL AND TECHNICAL POTENTIAL OF FRUITS OF FAGACEAE TREES",
+      "title_ko": "참나무과 수목 열매의 영양적·기술적 활용 가능성",
+      "source": "Food Science and Technology",
+      "url": "https://doi.org/10.15673/fst.v20i3.3606",
+      "date": "2026-10-12",
+      "date_key": "2026-10-12",
+      "type": "paper",
+      "summary_ko": "기후변화와 식량안보 압박 속에서 대체 재생 식물 원료의 필요성이 커지고 있으나 참나무과(Quercus, Fagus, Castanea) 열매는 상당량이 미수집·비효율적으로 쓰이고 있다. 저자 T. Filinska, A. Filinska는 최근 25년간 Scopus·Web of Science·PubMed 색인 문헌을 분석해 참나무과 열매의 식물화학 조성과 기술적 특성을 체계화한 리뷰를 냈다. 도토리(Quercus)와 밤(Castanea)은 전분 함량이 곡물과 비슷하고, 너도밤나무(Fagus) 열매는 지질 비율이 높아 유지 원료로 가치가 있다고 정리했다. 무폐기물 순환경제 틀에서 글루텐프리 분말 혼합물·천연 전분·오일 등 식품 경로와 기술적 경로를 아우르는 통합 가공 개념을 제안했다. 밤나무 연구자에게는 밤 가공·부산물 이용 및 기능성 연구의 배경 문헌으로 참고할 수 있다.",
+      "tags": [
+        "밤",
+        "참나무과",
+        "도토리",
+        "가공",
+        "리뷰"
+      ],
+      "collected_at": "2026-10-20",
+      "run": "2026-10-20"
     },
     {
       "id": "20261010-27546193",
