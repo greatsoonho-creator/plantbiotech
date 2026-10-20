@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T20:31:13.920Z",
+ "generated_at": "2026-10-20T20:31:09.371Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 81,
+ "count": 88,
  "errors": [],
  "items": [
   {
@@ -43,6 +43,40 @@
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13672192/?tool=EBI"
   },
   {
+   "key": "doi:10.1016/j.ijbiomac.2026.154889",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42893737",
+   "doi": "10.1016/j.ijbiomac.2026.154889",
+   "pmid": "42893737",
+   "title": "Magnesium-associated persimmon polysaccharide modulates the structure, water mobility, and texture of kudzu starch gels.",
+   "journal": "International Journal of Biological Macromolecules",
+   "date": "2026-10-18",
+   "authors": "Lu L, Shi T, Zhu Y, Li X, Wu C, Zhou D, Li T, Fan G.",
+   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (Ci = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154889"
+  },
+  {
+   "key": "doi:10.1186/s12870-026-10035-5",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "89bf59b950d9d3bd1d6efdb42412b04cf3149342",
+   "doi": "10.1186/s12870-026-10035-5",
+   "pmid": "",
+   "title": "Endophytic bacteria from Ziziphus jujuba enhance growth and salinity resilience in pearl millet under reduced fertilizer input",
+   "journal": "BMC Plant Biology",
+   "date": "2026-10-17",
+   "authors": "S. Shafqat, R. Ullah, Muhammad Ali, Zakir Ullah, Tilahun Yai Fayesa",
+   "abstract": "",
+   "url": "https://doi.org/10.1186/s12870-026-10035-5"
+  },
+  {
    "key": "doi:10.1007/s43450-026-00815-3",
    "groups": [
     "chestnut"
@@ -58,6 +92,40 @@
    "authors": "Ngu Nhan Truong, T. Dam, X. L. Ngo, T. M. P. Lam, H. Nguyen, Tien Lam Do",
    "abstract": "",
    "url": "https://doi.org/10.1007/s43450-026-00815-3"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12101286",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "c27b68266d9ca281d17d55b1c58e286ca5bf6b1f",
+   "doi": "10.3390/horticulturae12101286",
+   "pmid": "",
+   "title": "Detection of Eulecanium giganteum Infestation in Jujube Orchards Based on UAV Multispectral Remote Sensing",
+   "journal": "Horticulturae",
+   "date": "2026-10-16",
+   "authors": "Y. Chao, Yu-Long Wang, Zhuo-Yang Xu, Ruo-Hong He, Rina Yangdao, Hong-Qiang Dong",
+   "abstract": "The application of remote sensing technology to monitor agricultural pests and diseases provides an effective approach for rapid and non-destructive assessment of crop health. This study evaluated a UAV multispectral remote sensing framework integrating vegetation indices and SPAD information for assessing Eulecanium giganteum infestation in jujube orchards. Initially, 24 vegetation indices were extracted from canopy multispectral imagery, and Pearson correlation analysis was used for feature screening, resulting in a refined subset of 19 vegetation indices. Seven machine learning algorithms were evaluated during model development, with Grid Search combined with tree-level grouped 7-fold cross-validation for hyperparameter selection. Vegetation indices were used as predictor variables, while SPAD value and infestation severity were treated as response variables in the regression and classification tasks, respectively. During internal model development, the CatBoost-19opt model achieved an R2 of 0.81 and an RMSE of 1.84 for SPAD estimation. On the independent test set consisting of 58 jujube trees, the previously selected model achieved an R2 of 0.84 and an RMSE of 1.56. During internal model development, incorporating measured SPAD values improved pest classification performance, with XGBoost-19sopt achieving an OA of 0.89 and a Kappa coefficient of 0.84. On the independent test set, the measured-SPAD configuration achieved an OA of 0.88, whereas both the VI-only and VI combined with predicted-SPAD configurations achieved an OA of 0.71. Thus, incorporating predicted SPAD did not improve overall classification accuracy relative to using vegetation indices alone. Further model optimization and additional validation across different orchards, growing seasons, and phenologi…",
+   "url": "https://doi.org/10.3390/horticulturae12101286"
+  },
+  {
+   "key": "doi:10.3389/fenvs.2026.1942065",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "b87670e4b34e0dbde8af24fdae9e9a616e2f378d",
+   "doi": "10.3389/fenvs.2026.1942065",
+   "pmid": "",
+   "title": "Achieving sustainable desertification control: insights from symbiosis between the Taklamakan Desert-fringe shelter-belt enclosure project and desert-based industries",
+   "journal": "Frontiers in Environmental Science",
+   "date": "2026-10-16",
+   "authors": "Hua Li",
+   "abstract": "There is an inherent trade-off between ecological restoration goals and the survival needs of inhabitants in desertification control. From an ecological perspective, large-scale planting of trees and grasses, sand fixation through enclosed forest cultivation, and rotational cropping are core measures for curbing shifting sands, restoring soil and water, and building robust ecological barriers to prevent further desertification. From an economic perspective, local residents in desert areas rely heavily on traditional grassland grazing, desert reclamation, and the harvesting of desert shrubs for fuel and forage. This gives rise to the tangible dilemma of “ecological restoration versus subsistence survival” in desertification control. Desert-based industries are considered conducive to addressing the trade-off dilemma between ecological restoration and economic gain. This study was conducted through a multi-case study of the symbiosis between the Taklamakan Desert-fringe Shelter-belt Enclosure Project (TDSEP), a part of China’s Three Norths Shelterbelt Program (TNSP), and six types of desert-based industries embedded in the TDSEP, including the Yutian rose industry, Kunyu jujube industry, Hetian walnut + jujube industry, Shache Eucommia Industry, Shaya centralized photovoltaic industry, and Shaya “saxaul + cistanche deserticola + distributed photovoltaic” industry. It was found that the factors and mechanisms impacting the symbiosis between TDSEP and industry-based industries are categorized into three categories: the symbiotic environment and material factors of production, the technological factors of production, and the transformative agencies enabling symbiosis, thus responding to the research questions proposed in the introduction section. Therefore, policy insights a…",
+   "url": "https://doi.org/10.3389/fenvs.2026.1942065"
   },
   {
    "key": "t:pyrochar versus hydrochar contrasting modulation of soil bacterial communities under severe nitrate dominated acid rain ",
@@ -92,6 +160,40 @@
    "authors": "Jiao X, Yu J, Shi X, Wang Y, Li J, Feng L, Zhang Z, Han R, Zhang H.",
    "abstract": "",
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13655061/?tool=EBI"
+  },
+  {
+   "key": "doi:10.3390/molecules31203723",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "b3cf505709c41f7808bab6821437d90c7a54b019",
+   "doi": "10.3390/molecules31203723",
+   "pmid": "",
+   "title": "From Wild-Growing Plants to Promising Candidates for Hemp Variety Development: Morphological and Phytochemical Characterization of Macedonian Cannabis sativa L.",
+   "journal": "Molecules",
+   "date": "2026-10-16",
+   "authors": "V. Stoilkovska Gjorgievska, Ivana Cvetkovikj-Karanfilova, N. Geškovski, A. Trajkovska Matevska, Iskra Davkova Stojanovski, F. Todorov",
+   "abstract": "Background: Wild-growing Cannabis sativa L. represents an underexplored source of hemp-type plant material, but its value for future selection depends on standardized morphological and phytochemical characterization. This study evaluated cultivated Macedonian Cannabis sativa plants of wild-origin (CsW) in comparison with selected commercial cultivars and literature-reported European hemp varieties, based on the assessment of phenotypic differentiation and cannabinoid diversity. Methods: Seeds from five wild-growing plant groups from two N. Macedonian regions, Kočani (W1, W2, W6) and Strumica (W3 and W4), were planted outdoors together with four commercial cultivars with differing cannabinoid composition. Morphological traits were assessed using selected UPOV descriptors and multivariate analysis. Cannabinoids were determined by HPLC-DAD. Results: UPOV-based PCA clearly differentiated CsW from the commercial cultivars (R2X = 0.92, Q2 = 0.86), while the expanded comparative UPOV analysis indicated phenotypic affinity with registered hemp-type material, particularly Kompolti, supporting its potential relevance as a phenotypic reference in future DUS-oriented evaluation. Among the cultivated wild-origin groups, W1 from the Kočani region showed the highest proportion of female plants (10:1), representing a favorable agronomic characteristic for flower-oriented production. All CsW were CBD-predominant chemotype III class, with total CBD of 5.14–7.61%, while total Δ9-THC did not exceed 0.20%. This CBD/THC balance positioned the CsW within the higher-CBD range reported for selected European hemp cultivars, while maintaining a favorable low-THC profile. Conclusions: CsW represent morphologically distinct, CBD-rich and low-THC plant material displaying characteristics consistent …",
+   "url": "https://doi.org/10.3390/molecules31203723"
+  },
+  {
+   "key": "doi:10.3390/jof12100778",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "61f9717eb250af551cac7aa59189db5a8d69d669",
+   "doi": "10.3390/jof12100778",
+   "pmid": "",
+   "title": "Accurate Extraction of Phenotypic Parameters for DUS Testing of Oudemansiella raphanipes Based on Deep Learning",
+   "journal": "Journal of Fungi",
+   "date": "2026-10-16",
+   "authors": "Tao Yuan, Dong Hu, Meng-Yuan Xu, Ming-Lu Tian, Hai-Long Yu, Lin-Yi Li",
+   "abstract": "To enable the rapid and accurate acquisition of phenotypic parameters during distinctness, uniformity, and stability (DUS) testing of edible mushroom varieties, and to address the low efficiency, strong subjectivity, and insufficient standardization of conventional manual measurement methods, this study used the fruiting bodies of Oudemansiella raphanipes as the research object and proposed an automatic phenotypic parameter extraction method based on deep learning instance segmentation. An instance-segmentation dataset containing 473 O. raphanipes images and 1419 annotated objects was constructed, and the YOLOv11s-seg model was improved by introducing the lightweight feature-extraction network StarNet_s050 to construct the YOLOv11s-star-seg model, thereby improving model inference efficiency and meeting practical application requirements. Under standardized imaging conditions, pileus and stipe regions were obtained from the instance-segmentation results, and image-scale calibration was combined to automatically extract DUS phenotypic parameters, including pileus diameter, pileus context thickness, stipe length, and stipe diameter, while quantitatively describing stipe shape. The experimental results showed that the YOLOv11s-star-seg model performed well in the instance segmentation of O. raphanipes, achieving an mAP50 of 99.1%, an F1 value of 98.9%, and an mIoU of 97.86%; compared with the YOLOv11s-seg model, the number of parameters was reduced by 39% and the inference time was reduced by 27%, thereby achieving model lightweighting while maintaining high segmentation accuracy. The automatically extracted results showed high consistency with the manual measurements; the coefficients of determination (R2) from linear regression fitting for stipe length, stipe diameter, a…",
+   "url": "https://doi.org/10.3390/jof12100778"
   },
   {
    "key": "doi:10.3390/soilsystems10100127",
@@ -143,6 +245,23 @@
    "authors": "L. R. Bogoutdinova, Е. М. Савенко, A. Gulevich, E. Baranova",
    "abstract": "Cameraria ohridella Deschka & Dimić was recorded from Macedonia in the 1980s (Deschka G, Dimić N (1986)). The primary host plant is Aesculus hippocastanum. In Russia, this pest was first discovered in 2003 in Kaliningrad. Since the first introduction of C. ohridella into Europe, many studies have been conducted on C. ohridella parasitoids to identify natural control factors. In this review, we examine the spread of invasive insects identified in recent years, particularly Ohrid horse chestnut leaf miner (Cameraria ohridella Deschka & Dimić), and consider the strategies used by native parasitoids to defeat this phytophage. The review also discusses entomophages that feed on C. ohridella. Studies show that in Europe, C. ohridella is attacked by a diverse range of parasitoids—predominantly native polyphagous Hymenoptera, with the family Eulophidae predominating. The most significant species are M. frontalis, P. saulius, C. trifasciatus, and P. agraules. Significant regional differences in recorded parasitism levels—ranging from 1% to 33.6%—have been identified; these may be attributed not only to biological and ecological factors (such as host developmental stage preferences, as well as spatial, climatic, and phenological conditions) but also to the calculation methodology. The low effectiveness of the C. ohridella parasitoid complex in Europe is largely due to poor developmental synchrony between the parasitoids and their hosts. The composition of the assemblage in urban plantings is also influenced by habitat type and anthropogenic disturbance, particularly the removal of fallen leaves. Finally, we provide an overview of future research prospects, with an emphasis on the influence of parasitoids on C. ohridella population densities.",
    "url": "https://doi.org/10.3390/biology15201854"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.151582",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42892035",
+   "doi": "10.1016/j.foodchem.2026.151582",
+   "pmid": "42892035",
+   "title": "Decoding jujube aroma: Integrated extraction, advanced analytical strategies, formation mechanisms, influencing factors, and future perspectives.",
+   "journal": "",
+   "date": "2026-10-15",
+   "authors": "Gou M, Chen Q, Liu G, Hu X, Bi J.",
+   "abstract": "Jujube is a characteristic fruit of China with distinctive aroma and high nutritional value. This review summarizes advances in the extraction and analysis of free and glycosidically bound volatile organic compounds (VOCs), odor-active compounds, aroma formation mechanisms, and influencing factors. More than 300 VOCs have been identified, including esters, ketones, aldehydes, acids, and pyrazines. Esters, particularly ethyl decanoate, are important contributors to fruity aroma and are formed through alcohol and fatty acid metabolism, followed by acyl-CoA formation and alcohol acyltransferase (AAT)-catalyzed esterification. The lipoxygenase-hydroperoxide lyase-alcohol dehydrogenase pathway and β-oxidation also contribute to precursor supply. Multi-omics and enzymology facilitate the identification of key genes, enzymes, and pathways. Emerging approaches, including stable isotope tracing, molecular docking, machine learning, neuroimaging, and olfactory cell-based biosensors, offer new opportunities to elucidate aroma formation and perception and enable aroma prediction and quality control. This review provides insights into jujube aroma formation and quality improvement.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151582"
   },
   {
    "key": "doi:10.7235/hort.20260038",
