@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-10-20T20:31:09.371Z",
+ "generated_at": "2026-10-21T20:31:09.540Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 88,
+ "count": 90,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.3390/jof12100783",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "ee8be71da1432f0f12a8ce6b47a1c0658cd1e5ca",
+   "doi": "10.3390/jof12100783",
+   "pmid": "",
+   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against Diaporthe nobilis",
+   "journal": "Journal of Fungi",
+   "date": "2026-10-19",
+   "authors": "Shuang Zhou, Xue-Song Wang, Zi-Ye Wang, L. Duan, Jian-Hua Feng, Dong-Hui Yan",
+   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts (Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5–20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
+   "url": "https://doi.org/10.3390/jof12100783"
+  },
   {
    "key": "doi:10.66540/afn/2026.1031",
    "groups": [
@@ -53,10 +70,10 @@
    "doi": "10.1016/j.ijbiomac.2026.154889",
    "pmid": "42893737",
    "title": "Magnesium-associated persimmon polysaccharide modulates the structure, water mobility, and texture of kudzu starch gels.",
-   "journal": "International Journal of Biological Macromolecules",
+   "journal": "",
    "date": "2026-10-18",
    "authors": "Lu L, Shi T, Zhu Y, Li X, Wu C, Zhou D, Li T, Fan G.",
-   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (Ci = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
+   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl 2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (C i = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
    "url": "https://doi.org/10.1016/j.ijbiomac.2026.154889"
   },
   {
@@ -483,6 +500,23 @@
    "authors": "Ming-Qiang Xu, Fei-Fan Tian, Wurile Bai, An-An Zhang, Shuang-Yu Cao, Yan Ma",
    "abstract": "Although red dates (Ziziphus jujuba Mill.) are rich in nutrients and have both edible and medicinal properties, during the drying process, due to their high sugar content, they often result in a lower glass transition temperature (Tg), enhanced hygroscopicity, surface agglomeration, and a decline in storage quality, severely limiting the shelf stability of the products and the improvement of the processing quality. Cold plasma (CP) can form cavities through surface etching, promoting water migration, thereby increasing the drying rate and diffusion coefficient. Vacuum pulsation drying (PVD) has a higher drying rate, stronger mass transfer ability, and better quality retention effect compared to ordinary drying methods. Based on these characteristics, we believe that CP and PVD have a synergistic enhancing effect in the drying of date slices. Therefore, in this study, CK-PVD (without plasma pre-treatment, direct vacuum pulsation drying) was used as the control group, and CP-PVD (after plasma pre-treatment, vacuum pulsation drying), A1, A2, and A3 (after plasma treatment, soaking in different concentrations of ethanol and then vacuum pulsation drying) were used as experimental groups to study the effects of CP pre-treatment combined with ethanol extraction on the sugar composition, glass transition temperature (Tg), physical stability, and reduce blood sugar activity of dried date slices. The results showed that CP pre-treatment significantly improved the material transfer efficiency (confirmed by the increases in the areas of T22 and T23 peaks). Compared with the control group, the low-sugar group (A2) exhibited reduced total sugar content, the gel point increased to 35.6 °C, and the microscopic structure changed from regular and smooth to dense and irregular, thereby si…",
    "url": "https://doi.org/10.3390/pr14203282"
+  },
+  {
+   "key": "doi:10.51318/fret.2026.98.3.004",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "99c20daa3b88529f5a0a7e61caf967365c85f5eb",
+   "doi": "10.51318/fret.2026.98.3.004",
+   "pmid": "",
+   "title": "ВИДОВОЕ РАЗНООБРАЗИЕ ПОДЛЕСКА В ЛЕСНОМ ПАРКЕ ИМЕНИ ЛЕСОВОДОВ РОССИИ И ПУТИ ЕГО ОБОГАЩЕНИЯ",
+   "journal": "Леса России и хозяйство в них",
+   "date": "2026-10-13",
+   "authors": "А. Н. Марковская, Н. П. Бунькова, С. В. Залесов",
+   "abstract": "На основе использования современных лесоводственных методик изучен видовой состав, встречаемость и санитарное состояние подлесочных видов в лесном парке имени Лесоводов России, территория которого относится к Средне-Уральскому таежному лесному району. В процессе исследований установлено, что на территории лесного парка встречается 30 подлесочных видов, в состав которых входят как аборигенные виды, так и интродуценты. Для более объективной оценки видового разнообразия территория лесного парка была разбита на семь отдельных объектов с учетом типа леса, удаленности от дачных участков, дорог и линий электропередач (ЛЭП). Исследования показали, что максимальным разнообразием характеризуется подлесок вдоль дорожно-тропиночной сети – 27 видов, или 90 % от общего количества. Большинство видов подлеска характеризуется низкой встречаемостью. Так, встречаемость более 10 % зафиксирована только у четырех видов подлеска: черемухи обыкновенной (Padus racemose (Lam.) Gilib.), малины лесной (Rubus idaeus L.), рябины обыкновенной (Sorbus aucuparia L.) и видов рода ива (Salix L.). Большинство видов характеризуется хорошим и вполне удовлетворительным состоянием. Однако для улучшения состояния и декоративности целесообразно было бы провести омоложение части подлеска путем посадки его на пень. Кроме того, в целях обеспечения рекреационной привлекательности и создания условий для гнездования мелких птиц целесообразно было бы вдоль дорожно-тропиночной сети и на ЛЭП высадить красиво цветущие ягодниковые кустарники. В лесном парке зафиксировано два инвазивных вида подлеска: клен ясенелистный (Aser negundo L.) и рябинник рябинолистный (Sorbaria sorbifolia (L.) A. Br.), которые нуждаются в удалении путем инъекции арборицида. Using modern forestry techniques, the species composition, occurrence, an…",
+   "url": "https://doi.org/10.51318/fret.2026.98.3.004"
   },
   {
    "key": "doi:10.3390/insects17101047",
