@@ -1,13 +1,32 @@
 {
- "generated_at": "2026-10-21T20:31:09.540Z",
+ "generated_at": "2026-10-22T20:31:59.924Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 90,
- "errors": [],
+ "count": 91,
+ "errors": [
+  "semanticscholar:forest-genomics: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "doi:10.3390/app162010363",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "7f7de99dabd172a74d0abb62e2769236464983ec",
+   "doi": "10.3390/app162010363",
+   "pmid": "",
+   "title": "Application of Machine Learning to Assess the Effects of Ozone Treatment on Selected Mechanical Properties of Fresh Persimmon Fruit During Storage",
+   "journal": "Applied Sciences",
+   "date": "2026-10-20",
+   "authors": "J. Gorzelany, K. Pentoś, Piotr Kuźniar, M. Zardzewiały",
+   "abstract": "The aim of this study was to assess the effects of gaseous ozone treatment and storage time on selected physicochemical and mechanical properties of ‘Rojo Brillante’ persimmon fruit (Diospyros kaki L.), as well as to develop machine learning models for predicting their mechanical properties. The fruits were exposed to ozone at a concentration of 10 ppm for 15 or 30 min, while the control samples remained untreated. The ozonation treatment was applied once as a pre-treatment on day 0, prior to the start of storage; no further ozone exposure was applied during the subsequent 20-day storage period. The fruits were then stored for 20 days at 3 °C and 80% relative humidity. The analysed parameters included CIE Lab* colour coordinates, chemical and morphological properties, water content, puncture force, deformation, failure energy, and the Fmax/dL ratio. Gradient Boosting, Support Vector Regression, and XGBoost algorithms were used to predict the mechanical properties, and their performance was evaluated using 10-fold cross-validation. Storage time significantly affected all analysed mechanical properties, resulting in decreases in water content, puncture force, failure energy, and the Fmax/dL ratio, accompanied by an increase in fruit deformation. The 30 min treatment was associated with slightly higher values of selected mechanical parameters; however, the differences among the ozonation variants were limited and did not apply to all of the analysed characteristics. The highest predictive accuracy was obtained for failure force, failure energy, and the Fmax/dL ratio, with correlation coefficients of 0.807, 0.805, and 0.823, respectively. Deformation modelling showed markedly lower predictive performance (R = 0.283–0.629) and should not be considered sufficiently accurate f…",
+   "url": "https://doi.org/10.3390/app162010363"
+  },
   {
    "key": "doi:10.3390/jof12100783",
    "groups": [
