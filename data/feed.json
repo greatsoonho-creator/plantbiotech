@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-23T20:31:43.430Z",
+ "generated_at": "2026-10-24T20:31:37.155Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 71,
+ "count": 67,
  "errors": [],
  "items": [
   {
@@ -1147,74 +1147,6 @@
    "authors": "Chase SM, Søndreli KL, Grünwald NJ, LeBoldus JM.",
    "abstract": "Phytophthora ramorum , the sudden oak death (SOD) pathogen, has invaded U.S. nurseries and western forests repeatedly. Invasions by three distinct clonal lineages (NA1, NA2, and EU1) have affected U.S. wildland forests since 2001. Most recently, NA2 established an invasive population in coastal forests surrounding Port Orford in southwest Oregon. This is the first instance of NA2 encountered outside of a nursery. We assessed this new invasion's diversity and population structure using single-nucleotide polymorphisms from whole-genome sequences of 195 isolates. Genomes were sampled from the nursery trade and from the forest invasion surrounding Port Orford. The NA2 forest invasion lacks genetic diversity and likely originated from a single introduction. A subset of NA2 isolates (10.8%) were genetically distant from all other isolates including each other. This distance was correlated with frequency of genomic runs of homozygosity. No evidence of hybridization was found, though NA2 and EU1 mating types are compatible and their ranges in wild forests overlap. The aggressiveness and sporulation of NA2 isolates were measured on three host tree species and compared with isolates of other lineages. NA2 and EU1 phenotypes were similar. NA2 caused larger lesions on Douglas-fir and tanoak seedlings than NA1, the lineage of the original introduction into Oregon forests. Results indicate that the NA2 population is not distinct from the older EU1 Oregon population in terms of population diversity, disease aggressiveness, or potential for spread. However, the introduction of NA2 has increased the SOD epidemic's range, risk of hybridization, overall genetic diversity, and adaptive potential.",
    "url": "https://doi.org/10.1094/phyto-04-26-0106-r"
-  },
-  {
-   "key": "doi:10.1021/acs.jafc.6c05739",
-   "groups": [
-    "hardy-kiwi"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "40df39dedcdb5d5739f9f8a185495603ac870452",
-   "doi": "10.1021/acs.jafc.6c05739",
-   "pmid": "",
-   "title": "Hyperoside Derived from Actinidia arguta Bee Pollen Alleviates Zearalenone-Induced Hepatotoxicity and Oxidative Stress in Piglets via the PI3K/AKT Signaling Pathway",
-   "journal": "Journal of Agricultural and Food Chemistry",
-   "date": "2026-10-02",
-   "authors": "Nan-Nan Liu, Dong-Fei You, Yun-Fei Jiang, Tian-Yu Han, Guang-Liang Shi",
-   "abstract": "Zearalenone (ZEA) is a prevalent mycotoxin inducing hepatotoxic effects. Hyperoside (HYP), a flavonoid derived from Actinidia arguta bee pollen, exhibits hepatoprotective properties against ZEA; however, the molecular mechanisms underlying this protection remain incompletely characterized. This study integrated in vivo piglet models, in vitro porcine hepatocytes, network pharmacology, and molecular docking to characterize the molecular targets of HYP. The results demonstrated that HYP significantly attenuated ZEA-induced hepatic lesions and oxidative stress. Computational analyses pinpointed the PI3K/AKT signaling pathway as the core target of HYP. In vitro validation revealed that HYP phenocopied the AKT activator SC79 in suppressing ZEA-induced hepatocyte apoptosis, an efficacy partially abrogated by the PI3K inhibitor LY294002. Conclusively, HYP ameliorates ZEA-induced hepatotoxicity by activating the PI3K/AKT axis to mitigate oxidative stress and apoptosis, underscoring its translational potential as a functional detoxifying additive for food and feed applications.",
-   "url": "https://doi.org/10.1021/acs.jafc.6c05739"
-  },
-  {
-   "key": "doi:10.3390/gels12100893",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "1b8d0da0f6a3d87759196a4d8f06d9299038a3df",
-   "doi": "10.3390/gels12100893",
-   "pmid": "",
-   "title": "pH-Responsive Chitosan–Alginate Hydrogel Beads Co-Encapsulating Jujube Polysaccharides and cAMP: Enhanced Antioxidant Activity and Gastrointestinal Controlled Release",
-   "journal": "Gels",
-   "date": "2026-10-02",
-   "authors": "Guang-Hui Zhao, Chi Han, Wei-Hua Wang, Jian-Kang Lu, Chun-Lan Zhang, Khan Nazeer",
-   "abstract": "Jujube polysaccharides (ZJPA) and cyclic adenosine monophosphate (cAMP) are bioactive compounds with antioxidant and health-promoting potential, and their combination exhibits enhanced antioxidant activity. However, their limited stability and susceptibility to gastrointestinal environmental stresses restrict their applications in functional foods. In this study, a pH-responsive composite hydrogel bead delivery system was developed using chitosan (CS) and sodium alginate (SA) as wall materials to co-encapsulate ZJPA and cAMP, aiming to protect these bioactive compounds during gastrointestinal digestion while maintaining their enhanced functionality. The hydrogel beads were fabricated via the ionotropic gelation method, and the formulation parameters were optimized using single-factor experiments combined with response surface methodology (RSM). The optimized hydrogel beads were obtained under the conditions of calcium chloride concentration of 3%, CS concentration of 0.5%, SA concentration of 3%, and core-to-wall ratio of 1:6, with a cAMP microencapsulation yield (MEY) of 97.79%. Structural characterization confirmed that ZJPA and cAMP were successfully incorporated into the CS-SA network through electrostatic interactions and intermolecular hydrogen bonding without the formation of new covalent bonds. Furthermore, the hydrogel beads exhibited distinct pH-responsive swelling and gastrointestinal release behaviors, providing effective protection under acidic gastric conditions and enabling sustained release under intestinal conditions. Importantly, the DPPH radical scavenging assay demonstrated that the co-encapsulation strategy preserved the enhanced antioxidant activity between ZJPA and cAMP. Overall, this study establishes a multifunctional hydrogel bead delivery stra…",
-   "url": "https://doi.org/10.3390/gels12100893"
-  },
-  {
-   "key": "doi:10.3390/antiox15101274",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "ff699b5e4bc7c002abfffefed10a7394509ae13b",
-   "doi": "10.3390/antiox15101274",
-   "pmid": "",
-   "title": "Integrated UHPLC-MS/MS Metabolomics, Network Pharmacology, Molecular Docking, and Experimental Validation Reveal the Anti-Inflammatory Mechanisms of Pyrus pyrifolia Peel Extract",
-   "journal": "Antioxidants",
-   "date": "2026-10-02",
-   "authors": "Ducdat Le, D. Rhyu, Mi-Na Lee",
-   "abstract": "Pyrus pyrifolia (Burm. f.) Nakai has long been utilized in traditional East Asian medicine to treat respiratory disorders, fever, cough, and inflammatory conditions. This study aimed to evaluate the antioxidative and anti-inflammatory effects of P. pyrifolia. UHPLC-MS/MS analysis revealed that P. pyrifolia contained 22 primary and other putative compounds belonging to diverse phytochemical groups—phenolics, flavonoids, fatty acids, terpenoids, alkaloids, and other compounds. Network pharmacology identified a subset of overlapping targets associated with inflammatory diseases, which were significantly enriched in immune- and inflammation-related biological processes. KEGG pathway analysis demonstrated that the Toll-like receptor was the principal pathway potentially regulated by overlapping targets. PPI network analysis revealed TNF to be the most influential hub target, which was verified by molecular docking analysis. Interestingly, the P. pyrifolia extract significantly inhibited LPS-induced TNF-α production by modulating IκBα phosphorylation and restoring IκBα expression in the NF-κB signaling pathway. Additionally, the P. pyrifolia extract also markedly reduced the phosphorylation of ERK, p38, and JNK, thereby affecting MAPK signaling pathways. Our findings provide mechanistic evidence supporting the traditional medicinal use of P. pyrifolia to establish a theoretical framework to develop phytopharmaceuticals for inflammatory diseases.",
-   "url": "https://doi.org/10.3390/antiox15101274"
-  },
-  {
-   "key": "doi:10.52415/23126701-2026-0303",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "dd91afc1bb0a532241896d3d4cb88f9a0a7d8725",
-   "doi": "10.52415/23126701-2026-0303",
-   "pmid": "",
-   "title": "Comparative effectiveness of adenine cytokinins and diphenylurea derivatives during in vitro clonal micropropagation of raspberry cultivars Karamelka and Octavia",
-   "journal": "Contemporary Horticulture",
-   "date": "2026-10-02",
-   "authors": "N. Solovykh",
-   "abstract": "Red raspberry (Rubus idaeusL.) exhibits cultivar-specific requirements for nutrient medium composition duringin vitroclonal micropropagation. Therefore, research aimed at optimizing micropropagation protocols for promising cultivars remains relevant. The objective of this study was to evaluate the effectiveness of various cytokinins at the multiplication stagein vitro for the cultivars Karamelka and Octavia. For the first time, a comparative assessment was conducted on the effects of plant growth regulators from the adenine and diphenylurea groups on the micropropagation process. Microcuttings were cultured on MS medium supplemented with 0.1 mg/L β-indole-3-butyric acid (IBA), 0.5 mg/L gibberellic acid (GA), and one of the cytokinins tested. The study employed adenine-type cytokinins: kinetin, zeatin, N⁶-(Δ²-isopentenyl)adenine (2iP), and 6-benzylaminopurine (BAP) at concentrations ranging from 0.6 to 1.8 mg/L, as well as diphenylurea derivatives: thidiazuron (TDZ) and forchlorfenuron (CPPU) at concentrations of 0.06–0.18 mg/L. Among the adenine group, 2iP proved to be the least effective, while kinetin yielded low multiplication coefficients: 1.56 (Octavia) and 2.03 (Karamelka). These cytokinins cannot be recommended for cloning the studied raspberry cultivars. In the presence of BAP (0.6–0.9 mg/L), multiplication coefficients reached 3.67 (cv. Karamelka) and 4.26 (cv. Octavia), with the proportion of shoots at least 20 mm in length amounting to 45.32–49.33% and 60.33–64.67%, respectively. Zeatin was found to be relatively ineffective, with multiplication coefficients at optimal concentrations of 2.08 (Octavia) and 1.90 (Karamelka); however, the proportion of shoots exceeding 20 mm in length surpassed 70%. Zeatin may therefore be recommended for shoot elongation prior …",
-   "url": "https://doi.org/10.52415/23126701-2026-0303"
   }
  ]
 }
