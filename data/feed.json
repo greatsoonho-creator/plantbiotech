@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-10-24T20:31:37.155Z",
+ "generated_at": "2026-10-25T20:32:20.101Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 67,
- "errors": [],
+ "count": 65,
+ "errors": [
+  "semanticscholar:oak: HTTP 429",
+  "semanticscholar:dus-pvp: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "doi:10.1016/j.foodchem.2026.151663",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42925603",
+   "doi": "10.1016/j.foodchem.2026.151663",
+   "pmid": "42925603",
+   "title": "Persimmon peel polyphenols modulate the flavonoid biosynthesis pathway to exert prebiotic effects: implications for high-value utilization.",
+   "journal": "",
+   "date": "2026-10-21",
+   "authors": "Zhou X, Zhang C, Tian B, Zhang B, Zhao H.",
+   "abstract": "Persimmon (Diospyros kaki 'Fuping Jianshi') peel is a by-product of persimmon processing, which is rich in polyphenols. In this study, the ultrasound-assisted ethanol extraction and purification of persimmon peel polyphenols (PPP) were optimized, and the PPP with yielding a final total phenolic content (TPC) of 287.52 ± 4.10 mg GAE/g of 287.52 ± 4.10 mg GAE/g was obtained. Using UPLC-MS/MS, 796 compounds were identified from PPP, which were primarily phenolic acids. PPP significantly promoted the growth of Lactobacillus acidophilus NCFM and exhibited prebiotic activity. In vitro colonic fermentation showed that PPP promoted Firmicutes and Bacteroidetes, inhibited Proteobacteria and Escherichia-Shigella, and significantly increased Short-Chain Fatty Acids (SCFAs) production. Multi-omics analysis elucidated that the biotransformation of PPP is closely associated with a reciprocal feedback loop with gut microbiota, potentially modulated by the specific enrichment of flavonoid biosynthetic pathways. These results indicated that PPP possesses strong antioxidant and gut regulatory properties, supporting its value as a functional food ingredient or nutritional component, and promoting the valorization of persimmon peel.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151663"
+  },
   {
    "key": "doi:10.3389/fpls.2026.1974694",
    "groups": [
@@ -77,6 +97,23 @@
    "url": "https://doi.org/10.66540/afn/2026.1031"
   },
   {
+   "key": "doi:10.1016/j.ijbiomac.2026.154889",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42893737",
+   "doi": "10.1016/j.ijbiomac.2026.154889",
+   "pmid": "42893737",
+   "title": "Magnesium-associated persimmon polysaccharide modulates the structure, water mobility, and texture of kudzu starch gels.",
+   "journal": "",
+   "date": "2026-10-19",
+   "authors": "Lu L, Shi T, Zhu Y, Li X, Wu C, Zhou D, Li T, Fan G.",
+   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl 2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (C i = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154889"
+  },
+  {
    "key": "t:bacterial diversity in gut compartments of tomicus brevipilosus from shoot boring preconditioning of pinus yunnanensis t",
    "groups": [
     "pine"
@@ -92,23 +129,6 @@
    "authors": "Yang M, Xie H, Dong S, Li Z, Kang W.",
    "abstract": "",
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13672192/?tool=EBI"
-  },
-  {
-   "key": "doi:10.1016/j.ijbiomac.2026.154889",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42893737",
-   "doi": "10.1016/j.ijbiomac.2026.154889",
-   "pmid": "42893737",
-   "title": "Magnesium-associated persimmon polysaccharide modulates the structure, water mobility, and texture of kudzu starch gels.",
-   "journal": "",
-   "date": "2026-10-18",
-   "authors": "Lu L, Shi T, Zhu Y, Li X, Wu C, Zhou D, Li T, Fan G.",
-   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl 2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (C i = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
-   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154889"
   },
   {
    "key": "doi:10.1186/s12870-026-10035-5",
@@ -1096,57 +1116,6 @@
    "authors": "Lucia Ranieri, Roberta Piredda, A. Mottola, Chiara Intermite, Martina Denami, Lucilia Lorusso",
    "abstract": "Honey is highly vulnerable to botanical mislabeling and fraud, highlighting the need for dedicated analytical approaches capable of reliably supporting authenticity assessment. To the best of our knowledge, this study is the first to integrate traditional melissopalynology and rbcL DNA metabarcoding for the botanical characterization of honeys collected from Apulian beekeepers. Melissopalynological analysis confirmed the labeled floral source in 6/10 (60%) samples, while four samples were reclassified. One cherry honey was identified as polyfloral, and one robinia (acacia) honey as crimson clover honey. The two samples labeled as polyfloral showed a predominance of chestnut and coriander pollen. In contrast, molecular results confirmed label declarations for chestnut and cherry honeys, whereas robinia (acacia) honeys highlighted known limitations associated with under-represented pollen taxa. In terms of biodiversity, DNA metabarcoding identified 128 plant families, whereas melissopalynology detected only 42. Despite this difference in taxonomic resolution, both approaches converged on the core botanical composition of the honey matrix, sharing 39 plant families that represent the principal nectariferous and entomophilous taxa. Overall, melissopalynology proved decisive for regulatory label verification, while DNA metabarcoding provided a broader qualitative description of the botanical composition. As a preliminary pilot study, the combined application of melissopalynology and DNA metabarcoding may contribute to a more comprehensive assessment of honey botanical origin and traceability; however, molecular detection alone cannot be considered sufficient to establish compliance with legal requirements for unifloral honey labeling.",
    "url": "https://doi.org/10.3390/foods15193542"
-  },
-  {
-   "key": "doi:10.1186/s12870-026-09842-7",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "475d08262c47d4f5c3be41549476f079457a441f",
-   "doi": "10.1186/s12870-026-09842-7",
-   "pmid": "",
-   "title": "A collaborative perception framework for green jujube: from lightweight key point detection to posture-aware harvest analysis",
-   "journal": "BMC Plant Biology",
-   "date": "2026-10-03",
-   "authors": "Hong-Yan Zhu, Run-Long Cao, Shuai Qin, Cheng-Zhi Lin, Wei-Zhen Sun, Yan-Li Zou",
-   "abstract": "Automated harvesting is pivotal to smart agriculture, yet precisely localizing picking points in complex orchard environments remains a key challenge for robotic harvesting systems. To this end, this study proposes a collaborative perception framework integrating a lightweight pose estimation model termed RepViT-DSConv-ARC-PoseHead enhanced YOLO (RDA-YOLO) with Segment Anything Model 2 (SAM2). RDA-YOLO is the lightweight component responsible for real-time fruit detection and keypoint localization, while SAM2 is adopted for fruit contour segmentation and occlusion assessment. Based on the YOLOv11n-POSE architecture, we introduce Distribution Shift Convolution (DSConv) to reduce computational overhead and design the C3k2_RepViT module to enhance multi-scale feature fusion. Crucially, a specialized Adaptive Regression Coordination Pose Head (ARC-PoseHead) is developed to replace traditional prediction structures, employing log-scale polar regression and subpixel refinement to significantly improve coordinate perception of jujubes and key points under complex backgrounds. RDA-YOLO performs real-time detection and locates key points such as the pedicel-fruit transition zone to calculate optimal harvesting angles, while SAM2 performs fine-grained contour segmentation based on detection boxes to determine occlusion status and establish harvesting priority. Experimental results show that RDA-YOLO achieves 93.9% precision and 94.9% mAP@50 for green jujube detection, while for key point detection, it attains a superior precision of 90.4% and a mAP@50 of 83.6%. Notably, the model achieves a lightweight design by reducing parameters to 2.490 million and computational load to 5.7 GFLOPs. Deployment feasibility was verified on the field robot control computer and a robotic platform …",
-   "url": "https://doi.org/10.1186/s12870-026-09842-7"
-  },
-  {
-   "key": "doi:10.14719/pst.15525",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "3c6a59a4cf58f3e7aa5e416237a2967c8ba44301",
-   "doi": "10.14719/pst.15525",
-   "pmid": "",
-   "title": "In vitro antioxidant evaluation of a herbal formulation containing sesame root (Sesamum indicum L.) and raspberry (Rubus idaeus L.)",
-   "journal": "Plant Science Today",
-   "date": "2026-10-03",
-   "authors": "R. Gomathi, Maheswari T. N. Uma, K. Rajesh",
-   "abstract": "Oxidative stress causes tissue damage, persistent inflammation and slowed wound healing. There is growing interest in plant-based antioxidants as safer substitutes for synthetic ones. Rich in lignans and polyphenols, sesame (Sesamum indicum L.) and raspberry (Rubus idaeus L.) have been shown to possess cytoprotective and free-radical-scavenging properties important for tissue protection. To develop an aqueous sesame–raspberry herbal formulation and evaluate its in vitro antioxidant potential using 2,2-diphenyl-1-picrylhydrazyl (DPPH), hydrogen peroxide (H2O₂) scavenging and ferric reducing antioxidant power (FRAP) assays. The roots of R. idaeus and S. indicum were cleaned, dried in the shade, ground into a powder and extracted separately with distilled water under controlled heating conditions. The extracts were oven-dried and combined in equal amounts to prepare the herbal formulation. The final dry extract yield was 10.46 %. Preliminary phytochemical screening was performed and the antioxidant activity of the formulation was evaluated using DPPH, H2O2 scavenging and FRAP assays at concentrations of 10–50 µg/mL, with ascorbic acid as the reference standard. Preliminary phytochemical screening revealed abundant flavonoids and phenols, moderate levels of alkaloids, tannins, glycosides, terpenoids and anthocyanins and the presence of saponins and steroids. The herbal formulation demonstrated concentration-dependent antioxidant activity, with responses ranging 62.25–89.99 % in the DPPH assay, 47.30–84.45 % in the H₂O₂ assay and 67.41–87.62 % in the FRAP assay across 10–50 µg/mL. The formulation showed lower antioxidant responses than the ascorbic acid standard across the tested concentrations. The aqueous sesame–raspberry herbal formulation demonstrated measurable in vitro…",
-   "url": "https://doi.org/10.14719/pst.15525"
-  },
-  {
-   "key": "doi:10.1094/phyto-04-26-0106-r",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42490309",
-   "doi": "10.1094/phyto-04-26-0106-r",
-   "pmid": "42490309",
-   "title": "Recurrent Invasion of Oregon's Coastal Forests by the Sudden Oak Death Pathogen: The NA2 Lineage's First Escape into the Wild.",
-   "journal": "",
-   "date": "2026-10-03",
-   "authors": "Chase SM, Søndreli KL, Grünwald NJ, LeBoldus JM.",
-   "abstract": "Phytophthora ramorum , the sudden oak death (SOD) pathogen, has invaded U.S. nurseries and western forests repeatedly. Invasions by three distinct clonal lineages (NA1, NA2, and EU1) have affected U.S. wildland forests since 2001. Most recently, NA2 established an invasive population in coastal forests surrounding Port Orford in southwest Oregon. This is the first instance of NA2 encountered outside of a nursery. We assessed this new invasion's diversity and population structure using single-nucleotide polymorphisms from whole-genome sequences of 195 isolates. Genomes were sampled from the nursery trade and from the forest invasion surrounding Port Orford. The NA2 forest invasion lacks genetic diversity and likely originated from a single introduction. A subset of NA2 isolates (10.8%) were genetically distant from all other isolates including each other. This distance was correlated with frequency of genomic runs of homozygosity. No evidence of hybridization was found, though NA2 and EU1 mating types are compatible and their ranges in wild forests overlap. The aggressiveness and sporulation of NA2 isolates were measured on three host tree species and compared with isolates of other lineages. NA2 and EU1 phenotypes were similar. NA2 caused larger lesions on Douglas-fir and tanoak seedlings than NA1, the lineage of the original introduction into Oregon forests. Results indicate that the NA2 population is not distinct from the older EU1 Oregon population in terms of population diversity, disease aggressiveness, or potential for spread. However, the introduction of NA2 has increased the SOD epidemic's range, risk of hybridization, overall genetic diversity, and adaptive potential.",
-   "url": "https://doi.org/10.1094/phyto-04-26-0106-r"
   }
  ]
 }
