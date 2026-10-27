@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:30:56.883Z",
+ "generated_at": "2026-10-27T20:31:00.178Z",
  "window_days": 10,
  "sources": [
   "europepmc",
@@ -8,6 +8,40 @@
  "count": 71,
  "errors": [],
  "items": [
+  {
+   "key": "t:genome wide analysis of the gata gene family in castanea mollissima reveals key regulators involved in salt stress respo",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13696283",
+   "doi": "",
+   "pmid": "",
+   "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
+   "journal": "",
+   "date": "2026-10-27",
+   "authors": "Wang X, Liu X, Liu J, Niu L, Quan H, Zhang T, Li Q, Zhang G, Yu L.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13696283/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1007/s11270-026-10097-z",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "90434a06f78a017fcdbb65f68b2a1693d2d0ff89",
+   "doi": "10.1007/s11270-026-10097-z",
+   "pmid": "",
+   "title": "Evaluation of Nutrient Release and Ecotoxicological Effects of a Double-Coated Controlled-Release Fertilizer Prepared with Boric Acid and Citric Acid Crosslinker Using Bioinspired Polyurethane Derived from Horse Chestnut Starch",
+   "journal": "Water, Air and Soil Pollution",
+   "date": "2026-10-26",
+   "authors": "Özaytekin İlkay, Özaytekin H. Hüseyin, Kara Gulnihal, Oflaz Kamil",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11270-026-10097-z"
+  },
   {
    "key": "doi:10.1007/s10681-026-03828-0",
    "groups": [
@@ -58,6 +92,23 @@
    "authors": "Aman Mahajan, A. Rana, J. Jyoti, Yogendra Kumar, Rama Kant, Ashok Kumar",
    "abstract": "",
    "url": "https://doi.org/10.1007/s44372-026-00926-0"
+  },
+  {
+   "key": "doi:10.1007/s11094-026-03582-6",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "a11d6f4a75450e5c46aa8b1212872826d6fffa0a",
+   "doi": "10.1007/s11094-026-03582-6",
+   "pmid": "",
+   "title": "Correction to: Isolation and Biological Activity of Polysaccharides from Horse Chestnut Leaves (Aesculus hippocastanum L.)",
+   "journal": "Pharmaceutical Chemistry Journal",
+   "date": "2026-10-23",
+   "authors": "A. V. Filatova, L. B. Azimova, A. S. Turaev, D. G. Abdugafurova",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11094-026-03582-6"
   },
   {
    "key": "doi:10.3390/agronomy16212082",
@@ -184,16 +235,33 @@
     "chestnut"
    ],
    "cat": "genome",
-   "source": "semanticscholar",
-   "id": "ee8be71da1432f0f12a8ce6b47a1c0658cd1e5ca",
+   "source": "europepmc",
+   "id": "42930748",
    "doi": "10.3390/jof12100783",
-   "pmid": "",
-   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against Diaporthe nobilis",
+   "pmid": "42930748",
+   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against Diaporthe nobilis .",
    "journal": "Journal of Fungi",
    "date": "2026-10-19",
-   "authors": "Shuang Zhou, Xue-Song Wang, Zi-Ye Wang, L. Duan, Jian-Hua Feng, Dong-Hui Yan",
-   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts (Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5–20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
+   "authors": "Zhou S, Wang X, Wang Z, Duan L, Feng J, Yan DH.",
+   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts (Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5-20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
    "url": "https://doi.org/10.3390/jof12100783"
+  },
+  {
+   "key": "doi:10.67048/qxju2026ai130issmaxsusson3m1274",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "a2783d9db4943e17bee633179ce24ffc62dace18",
+   "doi": "10.67048/qxju2026ai130issmaxsusson3m1274",
+   "pmid": "",
+   "title": "TURLI TUPROQ-IQLIM SHAROITLARIDA DORIVOR O‘SIMLIK MARMARAK (SALVIA L.) NING MORFOLOGIK VA BIOLOGIK XUSUSIYATLARI",
+   "journal": "Agro ilm",
+   "date": "2026-10-19",
+   "authors": "Suroj Qurbanboyev",
+   "abstract": "The article analyzes the morphological and biological characteristics of the medicinal plant sage (Salvia L.) grown under different soil-climatic conditions. On sierozem, chestnut, and saline soils of lowland, foothill, and mountain zones, plant height, leaf structure, glandular hair density, and tissue thickness were found to vary depending on ecological factors. The content of essential oil, phenolic compounds, and flavonoids was comparatively assessed. The findings help identify optimal agroecological zones for producing raw material with high biological activity.",
+   "url": "https://doi.org/10.67048/qxju2026ai130issmaxsusson3m1274"
   },
   {
    "key": "doi:10.66540/afn/2026.1031",
@@ -1147,74 +1215,6 @@
    "authors": "Huang L, Yang R, Li Z, Yang S, Zhao D.",
    "abstract": "Lactiplantibacillus plantarum ( L. plantarum ) HDM10, isolated from fermented winter jujube ( Ziziphus jujuba ) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
    "url": "https://doi.org/10.1080/14786419.2026.2740617"
-  },
-  {
-   "key": "doi:10.1039/d6fo02120d",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42696025",
-   "doi": "10.1039/d6fo02120d",
-   "pmid": "42696025",
-   "title": "Chestnut flour-enriched bread reduces postprandial glycaemic response in healthy adults: a randomised, controlled crossover study.",
-   "journal": "",
-   "date": "2026-10-05",
-   "authors": "Houghton MJ, Peiris DR, Sulaimani N, Visvanathan R, Nicolotti L, Cardoso BR.",
-   "abstract": "Elevated postprandial glycaemic excursions contribute to cardiometabolic disease risk, highlighting the importance of dietary strategies to attenuate postprandial glycaemia for prevention. Chestnut ( Castanea spp.) is rich in dietary fibre, resistant starch and bioactive (poly)phenols that may modulate carbohydrate digestion, yet evidence in human studies remains limited. We investigated the effects of a chestnut flour-enriched bread on postprandial glycaemic and insulinaemic responses in healthy adults. In a randomised crossover trial, fourteen healthy participants consumed isocaloric meals providing 50 g available carbohydrate as either chestnut flour-enriched bread (50% chestnut flour/50% wheat flour) or control bread (100% wheat flour), following an overnight fast. Capillary blood glucose and insulin were measured over 180 min, and incremental area under the curve (iAUC) was assessed for each. The (poly)phenol composition of the wheat and chestnut flours and the control (wheat only) and chestnut flour-enriched breads was characterised using RP-HPLC-HRFTMS. Chestnut flour-enriched bread, containing (+)-catechin, myricetin, gallic, gentisic and p -coumaric acids (∼480 mg total (poly)phenols), significantly reduced glucose iAUC by 27% compared with control bread (∼100 mg total (poly)phenols) ( p = 0.0319, paired t-test; main effects of the meal: p = 0.0243, ANOVA). Glucose concentrations were 16% lower at 120 min ( p = 0.0131) and 14% lower at 150 min ( p = 0.0071). Total insulin exposure did not differ between the meals, but chestnut enrichment reduced the insulin peak time by approximately 24 min ( p = 0.0430). Partial substitution of wheat flour for chestnut flour in bread significantly attenuated postprandial glycaemia in healthy adults, mainly by lowering late-pha…",
-   "url": "https://doi.org/10.1039/d6fo02120d"
-  },
-  {
-   "key": "doi:10.51886/1999-740x_2026_3_20",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "8df3fa17e91af3012529e4a337e83a53e23c14aa",
-   "doi": "10.51886/1999-740x_2026_3_20",
-   "pmid": "",
-   "title": "Humus content and group composition in rainfed soil of southeastern Kazakhstan under the influence of fertilizers in a grain crop rotation",
-   "journal": "Soil Science and Agrichemistry",
-   "date": "2026-10-05",
-   "authors": "V. Gusev, S. Kenenbayev, E. Zhusupbekov, K. Rustemova",
-   "abstract": "The aim of the study was to assess the effect of manure, straw, and mineral fertilizers on the humus content and fractional composition of humus in light chestnut soil under a rainfed grain crop rotation in southeastern Kazakhstan. It was found that organic fertilizers had a more pronounced positive effect on the humus status of the soil than the mineral fertilizer system. The most distinct effect was observed after manure application under winter wheat, where humus content increased from 1.67–1.70% to 1.74%. Straw incorporation had a more moderate and not always statistically significant effect on humus content, increasing it from 1.68% to 1.70%. The application of mineral fertilizers did not cause significant changes in this indicator compared with the control. The effect of fertilizers on the fractional composition of humus was less pronounced than their effect on total humus content. The most noticeable changes were recorded under manure application, where the Cha/Cfa ratio decreased to 0.72 compared with 0.74 in the control. It was shown that under rainfed farming conditions, manure is the most effective factor for maintaining the humus status of the soil, while the changes identified at the initial stage of fertilizer application may be regarded as indicators of the direction of subsequent organic matter transformation under the long-term application of organic materials.",
-   "url": "https://doi.org/10.51886/1999-740x_2026_3_20"
-  },
-  {
-   "key": "doi:10.51886/1999-740x_2026_3_82",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "12128ba06519d5c92fcf75a50a71db0c4685313a",
-   "doi": "10.51886/1999-740x_2026_3_82",
-   "pmid": "",
-   "title": "Effect of the combined application of biological products and mineral fertilizers on soil agrochemical properties and spring barley productivity under the conditions of the Zhetysu region",
-   "journal": "Soil Science and Agrichemistry",
-   "date": "2026-10-05",
-   "authors": "S. Tanirbergenov, K. Tynybayeva, S. Bazarbayev, M. Zhumagulova, Zh. P. Bimurza, M. Tulegenova",
-   "abstract": "This study evaluated the effects of mineral fertilizers and biological products on the agrochemical properties of light chestnut soil and the productivity of spring barley under rainfed conditions in the Zhetysu Region, Kazakhstan. The objective was to assess the effects of different fertilization systems on soil agrochemical properties, plant growth, and grain yield of spring barley. The field experiment was conducted with three replicates using a mineral fertilizer background of N 60 P 90 K 80 and four biological products - BioEcoGum, BIOGRANO forte, BioAzoPhashit, and BioPhos - applied either alone or in combination with mineral fertilizers. Soil total humus, nitrate nitrogen, easily hydrolysable nitrogen, available phosphorus, exchangeable potassium, carbonates, and soil reaction were determined, along with plant growth parameters and grain yield. Fertilizer application had no substantial effect on total humus content or soil reaction but was associated with changes in the concentrations of available nutrients. The highest nitrate nitrogen (24.0 mg/kg) and available phosphorus (26.5 mg/kg) contents were recorded with N 60 P 90 K 80 + BioAzoPhashit. The greatest plant height (51.3±1.1 cm) was observed with N 60 P 90 K 80 + BioEcoGum. The highest grain yield (1.13 t/ha) and a statistically significant yield increase over the untreated control (0.33 t/ha, or 41.2%) were obtained with N 60 P 90 K 80 + BIOGRANO forte. When applied alone, the biological products produced grain yields ranging from 0.887 to 0.956 t/ha, with yield increases over the control not exceeding the least significant d ifference. Statistical analysis confirmed a significant effect of mineral fertilization on spring barley grain yield, whereas no significant additional effect of the biological produc…",
-   "url": "https://doi.org/10.51886/1999-740x_2026_3_82"
-  },
-  {
-   "key": "doi:10.1007/s13580-026-00850-y",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "3f445dd38c14977e336f196a1ac231f6acde9a5e",
-   "doi": "10.1007/s13580-026-00850-y",
-   "pmid": "",
-   "title": "Unveiling on-tree fruit softening: a new physiological disorder in sweet persimmon (Diospyros kaki Thunb.) triggered by pre-harvest high temperature stress",
-   "journal": "Horticulture Environment and Biotechnology",
-   "date": "2026-10-05",
-   "authors": "Taeyeup Kim, Pandiyan Muthuramalingam, Jaeeun Jung, Eungyeong Kim, Seongjin Choi, Gwanghwan Ahn",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s13580-026-00850-y"
   }
  ]
 }
