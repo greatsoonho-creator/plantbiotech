@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-29T06:53:41+09:00",
-  "latest_run": "2026-10-29",
+  "generated_at": "2026-10-30T06:53:09+09:00",
+  "latest_run": "2026-10-30",
   "runs": [
+    {
+      "run": "2026-10-30",
+      "at": "2026-10-30T06:53:09+09:00",
+      "count": 3,
+      "note": "논문 2(대추 가공, DUS), 정책 1(가을철 산불방지대책). 피드 후보 6건(7일 내 미등록), 원문 미열람 1건. 밤나무 GATA 논문·대추/보호구역 기사는 기존 등록분. 일부 언론 도메인 DNS 차단"
+    },
     {
       "run": "2026-10-29",
       "at": "2026-10-29T06:53:41+09:00",
@@ -173,6 +179,26 @@
       "run": "2026-10-29"
     },
     {
+      "id": "20261028-efa34fc1",
+      "cat": "policy",
+      "title": "Korea Forest Service announces 2026 autumn wildfire prevention measures",
+      "title_ko": "산림청, '2026 가을철 산불방지대책' 추진: 진화헬기 261대→315대, 실화자 징역 상향",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610281548001/",
+      "date": "2026-10-28",
+      "date_key": "2026-10-28",
+      "type": "policy",
+      "summary_ko": "가을철 산불 위험이 커지는 시기에 맞춰 산림청이 관계기관 협력과 공동대응체계를 강화한 '2026년 가을철 산불방지대책'을 10월 28일 발표했다. 범부처 진화헬기 동원 규모는 지난해 261대에서 315대로 늘리고, 고성능 진화차량은 29대에서 108대로 확충하며, 야간비행 조종사는 6명을 더 확보해 14명으로 늘린다. 개정 산림재난방지법이 11월 13일부터 시행되어 실화로 인한 산불의 처벌이 징역 3년 이하에서 5년 이하로 상향되고, 허가 없이 불을 피우는 행위의 과태료는 200만원에서 300만원으로 오른다. 또 산주 동의 시 건축물로부터 25m 이내 입목은 임의 벌채가 허용된다. 산림재난 대응 계획과 민방위 업무 담당자는 시행일(11월 13일)과 야간·헬기 대응 체계 변화를 대응계획에 반영할 필요가 있다. (원문 미열람)",
+      "tags": [
+        "산불",
+        "산림재난방지법",
+        "산림청",
+        "가을철"
+      ],
+      "collected_at": "2026-10-30",
+      "run": "2026-10-30"
+    },
+    {
       "id": "20261027-53fb5b5d",
       "cat": "genome",
       "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
@@ -309,6 +335,46 @@
       ],
       "collected_at": "2026-10-27",
       "run": "2026-10-27"
+    },
+    {
+      "id": "20261026-7f5f23f1",
+      "cat": "fruit",
+      "title": "Constructing restructured jujube using blackened jujube pulp and carrageenan to resolve Peel-induced rough mouthfeel",
+      "title_ko": "흑대추 과육과 카라기난을 이용한 재구성 대추 제조: 껍질에 의한 거친 식감 개선",
+      "source": "Food Chemistry",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.151801",
+      "date": "2026-10-26",
+      "date_key": "2026-10-26",
+      "type": "paper",
+      "summary_ko": "흑대추(blackened jujube)는 영양가가 높지만 껍질 때문에 식감이 거칠어 스낵류 제품으로 활용하기 어렵다는 문제가 있다. 이 연구는 흑대추 과육을 κ-카라기난(KC)으로 재구성해 자립형 복합 겔을 만드는 방법을 제시했으며, Food Chemistry에 게재되었다. 과육만으로 또는 0.5% KC만으로는 자립형 겔이 형성되지 않았으나, 과육에 0.5% KC를 넣은 복합 겔은 자립형이 되어 과육 매트릭스가 낮은 KC 농도에서도 겔화를 돕는 것으로 나타났다. KC를 0.5%에서 2.5%로 높이자 경도는 약 2.5 N에서 16.7 N으로, 수분보유력은 53.45%에서 77.01%로 증가했고 냉동-해동 이수율은 68.94%에서 26.69%로 감소했으며 T22 이완시간은 75.8 ms에서 37.0 ms로 짧아져 네트워크가 치밀해졌다. 관능평가에서도 껍질에서 오는 까칠한 식감이 크게 줄고 전반적 식감이 개선되었다. 대추 가공·기능성 연구자에게 가공 제품 개발과 식감 조절의 참고가 되며, 임산물 대추의 부가가치 제고 방안으로 활용할 수 있다.",
+      "tags": [
+        "대추",
+        "가공",
+        "흑대추",
+        "카라기난"
+      ],
+      "collected_at": "2026-10-30",
+      "run": "2026-10-30"
+    },
+    {
+      "id": "20261026-4130a7a9",
+      "cat": "pvp",
+      "title": "DUS (Distinctness, Uniformity and Stability) Descriptor-Based Multivariate Analysis Reveals Morphological Diversity and Breeding Potential in Gladiolus (Gladiolus L.) Genotypes",
+      "title_ko": "DUS 기술형질 기반 다변량 분석으로 본 글라디올러스 유전자원의 형태적 다양성과 육종 잠재력",
+      "source": "New Zealand Journal of Crop and Horticultural Science",
+      "url": "https://doi.org/10.1002/nzc2.70265",
+      "date": "2026-10-26",
+      "date_key": "2026-10-26",
+      "type": "paper",
+      "summary_ko": "유전자원의 정밀한 특성조사는 구별되는 형질을 찾고 품종 혼입을 줄이며 교배친을 선발하는 데 필요하다. 이 연구는 인도 Dr. YS Parmar 원예·임학대학(Nauni, Solan)에서 2022~2023년 글라디올러스 14개 유전자원을 대상으로 인도 PPV&FRA가 표준화한 66개 DUS 기술형질을 이용해 형태 특성을 조사했다(3반복 난괴법). 영양·화기·구근 형질에서 변이가 컸고 21개 형질에서 최대 변이가 나타났으며, 혼합형 자료 인자분석(FAMD)에서 초장, 저장 전후 구근 무게(기여율 각 4.24%, 4.23%, 4.35%)와 약 기공색(6.09%), 외포 안토시아닌 발현(5.91%)이 주요 기여 형질이었다. 처음 5개 차원이 전체 변이의 60% 이상을 설명했고 HCPC는 7개 군집, UPGMA는 3개 주요 군집으로 유사한 분류를 보였으며, 서로 다른 군집의 유전자원은 교배친 후보가 될 수 있다. DUS 형질과 다변량 분석을 결합하면 기준 품종 컬렉션 구축과 오동정 최소화가 가능하다. 산딸기 등 품종보호 출원 시 DUS 형질 정리와 유사 품종 군집 분석 방법을 설계하는 데 참고할 수 있다.",
+      "tags": [
+        "DUS",
+        "품종보호",
+        "다변량분석",
+        "글라디올러스"
+      ],
+      "collected_at": "2026-10-30",
+      "run": "2026-10-30"
     },
     {
       "id": "20261025-bc7bcc11",
