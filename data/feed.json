@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27T20:31:00.178Z",
+ "generated_at": "2026-10-29T20:31:26.060Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 71,
+ "count": 66,
  "errors": [],
  "items": [
   {
@@ -38,7 +38,7 @@
    "title": "Evaluation of Nutrient Release and Ecotoxicological Effects of a Double-Coated Controlled-Release Fertilizer Prepared with Boric Acid and Citric Acid Crosslinker Using Bioinspired Polyurethane Derived from Horse Chestnut Starch",
    "journal": "Water, Air and Soil Pollution",
    "date": "2026-10-26",
-   "authors": "Özaytekin İlkay, Özaytekin H. Hüseyin, Kara Gulnihal, Oflaz Kamil",
+   "authors": "Ozaytekin Ilkay, Özaytekin H. Hüseyin, Kara Gulnihal, Oflaz Kamil",
    "abstract": "",
    "url": "https://doi.org/10.1007/s11270-026-10097-z"
   },
@@ -60,6 +60,23 @@
    "url": "https://doi.org/10.1007/s10681-026-03828-0"
   },
   {
+   "key": "doi:10.1016/j.foodchem.2026.151801",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42945880",
+   "doi": "10.1016/j.foodchem.2026.151801",
+   "pmid": "42945880",
+   "title": "Constructing restructured jujube using blackened jujube pulp and carrageenan to resolve Peel-induced rough mouthfeel.",
+   "journal": "Food Chemistry",
+   "date": "2026-10-26",
+   "authors": "Zhang H, Wang Y, Sun X, Gao L, Zhang D, Zhang R.",
+   "abstract": "Blackened jujube offers improved nutritional value, while its peel-induced coarse mouthfeel limits its broader use in snack-style products. To address this limitation, this study proposes restructuring blackened jujube pulp into self-supporting composite gels using κ-carrageenan (KC). While neither 0.5% KC nor the pulp alone formed a self-supporting gel, composite gels containing 0.5% KC were observed to be self-supporting, indicating that the pulp matrix facilitates gelation at a lower KC level. Increasing KC from 0.5% to 2.5% progressively strengthened the network, increasing hardness from ~2.5 N to 16.7 N, water-holding capacity from 53.45% to 77.01%, and freeze-thaw syneresis from 68.94% to 26.69%, alongside network densification and T₂₂ shortening (75.8 to 37.0 ms). Sensory evaluation also confirmed that restructuring markedly reduced grittiness and improved overall mouthfeel. Overall, this work offers a practical strategy for converting fruit pulps into self-supporting composite gels, thereby enabling blackened jujube products with tunable texture and improved mouthfeel. The authors contributed equally to this work.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151801"
+  },
+  {
    "key": "doi:10.1007/s11483-026-10240-7",
    "groups": [
     "raspberry"
@@ -77,6 +94,23 @@
    "url": "https://doi.org/10.1007/s11483-026-10240-7"
   },
   {
+   "key": "doi:10.1002/nzc2.70265",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "53d9362282ba10b6d939d89ce4af464e80e124f7",
+   "doi": "10.1002/nzc2.70265",
+   "pmid": "",
+   "title": "DUS (Distinctness, Uniformity and Stability) Descriptor‐Based Multivariate Analysis Reveals Morphological Diversity and Breeding Potential in Gladiolus ( Gladiolus L.) Genotypes",
+   "journal": "New Zealand journal of crop and horticultural science",
+   "date": "2026-10-26",
+   "authors": "R. Bhardwaj, Puja Sharma, S. Dhiman, Anju Sharma, R. Dogra, Y. C. Gupta",
+   "abstract": "Precise characterisation of genotypes helps identify distinct morphological traits, minimise varietal mixtures and select suitable genotypes for hybridisation. The present study was conducted at Dr. YS Parmar University of Horticulture and Forestry, Nauni, Solan (H.P.), during 2022–2023, involving morphological characterisation of 14 gladiolus genotypes using 66 distinctness, uniformity and stability (DUS) descriptors standardised by the Protection of Plant Varieties and Farmers’ Rights Authority (PPV&FRA). The experiment was conducted in a randomised block design with three replications. A considerable amount of variability was detected for the studied vegetative, floral and corm traits with genotypes showing maximum variation for 21 traits comprising three continuous variables: plant height, corm weight before and after storage which subsequently contributed maximum to variability, that is, 4.24%, 4.23% and 4.35% respectively along dimension 1, and several categorical variables with anther: colour of stomium (6.09%) and outer bract: anthocyanin colouration (5.91%) as key contributors along dimension 2, as confirmed by factor analysis of mixed data (FAMD). The first five dimensions accounted for >60% of the total variation, with dimensions 1 and 2 explaining 17.4% and 13.9%, respectively. Hierarchical Clustering on Principal Components (HCPC) grouped the genotypes into seven clusters, whereas unweighted pair group method with arithmetic mean (UPGMA) generated three major clusters, with considerable similarity in grouping. Genotypes from distinct clusters may serve as potential parents for hybridisation. Classification based on DUS descriptors, combined with multivariate analyses, can facilitate reliable reference collections, minimise misidentification, maintain germpl…",
+   "url": "https://doi.org/10.1002/nzc2.70265"
+  },
+  {
    "key": "doi:10.1007/s44372-026-00926-0",
    "groups": [
     "dus-pvp"
@@ -90,7 +124,7 @@
    "journal": "Discover Plants",
    "date": "2026-10-26",
    "authors": "Aman Mahajan, A. Rana, J. Jyoti, Yogendra Kumar, Rama Kant, Ashok Kumar",
-   "abstract": "",
+   "abstract": "Azadirachta indica A. Juss. (neem) is a multipurpose tree species of agricultural, medicinal, pesticidal and industrial importance. Increasing demand for neem-derived products, particularly neem oil for neem-coated urea, has stimulated genetic improvement programme for development of superior planting material with enhanced production and biochemical traits. In this context, Forest Research Institute (FRI), Dehradun, in collaboration with the Indian Farmers Fertiliser Cooperative Limited (IFFCO), released six elite neem varieties characterized by early flowering and fruiting, with oil content ranging from 35.44 to 43.51% and azadirachtin content from 6047 to 9760 ppm. The development and release of such improved varieties necessitate reliable and standardized distinctness, uniformity and stability (DUS) characterization for their identification, registration and legal protection. However, application of DUS testing in neem is challenging because of its perennial growth habit, extended juvenile phase, phenotypic plasticity and environmental influence on morphological traits. This systematic review synthesizes available information on DUS characterization in neem and critically examines morphological, quantitative, pseudo-qualitative and biochemical descriptors used for varietal identification. It identifies limitations in existing descriptor framework and highlights need for systematic validation across environments and developmental stages. Importantly, review contextualizes neem DUS characterization within recent advances in varietal development and considers its broader utility in breeding, germplasm characterization, conservation, and variety protection. Based on identified gaps, priorities are proposed for refining and validating existing descriptors and, where appr…",
    "url": "https://doi.org/10.1007/s44372-026-00926-0"
   },
   {
@@ -106,7 +140,7 @@
    "title": "Correction to: Isolation and Biological Activity of Polysaccharides from Horse Chestnut Leaves (Aesculus hippocastanum L.)",
    "journal": "Pharmaceutical Chemistry Journal",
    "date": "2026-10-23",
-   "authors": "A. V. Filatova, L. B. Azimova, A. S. Turaev, D. G. Abdugafurova",
+   "authors": "Александра Вячеславовна Филатова, Луиза Бахтияровна Азимова, A. Turaev, D. Abdugafurova",
    "abstract": "",
    "url": "https://doi.org/10.1007/s11094-026-03582-6"
   },
@@ -126,6 +160,23 @@
    "authors": "Athanasios K. Margaritidis, Ioannis Charalampopoulos",
    "abstract": "Actinidia arguta (kiwiberry) is a cold-hardy perennial fruit crop with increasing cultivation interest outside its native East Asian range. This study assessed its climatic suitability across Europe using an ensemble species distribution modeling (SDM) framework calibrated with occurrence records from East Asia. After occurrence filtering and spatial thinning, 1483 presence records were retained. Twenty-one candidate environmental predictors were screened for multicollinearity and four variables—temperature seasonality (BIO4), maximum temperature of the warmest month (BIO5), precipitation seasonality (BIO15) and precipitation of the warmest quarter (BIO18)—were retained in the final SDM. Five algorithms (GLM, RF, MAXNET, GAM, GBM) were evaluated using environmental cross-validation and models meeting a TSS ≥ 0.60 threshold were combined in a TSS-weighted ensemble. Temperature seasonality showed the highest permutation importance (0.491), followed by precipitation of the warmest quarter (0.316). The European projection identified comparatively high climatic suitability primarily in parts of Central and Southeastern Europe, with approximately 68,226 km2 exceeding a suitability value of 0.50 and 21,634 km2 exceeding 0.60. Environmental clamping affected 10.2% of the European projection domain but only 0.4% of the area with suitability ≥ 0.50 and none of the area with suitability ≥ 0.60. A complementary March-May analysis of climatological minimum temperature showed that spring low-temperature exposure was strongly seasonal. In March, 32.4% and 23.4% of the area with suitability ≥ 0.50 overlapped with Tmin ≤ −1.0 °C and ≤−1.5 °C scenarios respectively, whereas no corresponding overlap occurred in April or May. These temperature scenarios represent climatological exposure ra…",
    "url": "https://doi.org/10.3390/agronomy16212082"
+  },
+  {
+   "key": "doi:10.3390/ecologies7040114",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "0fddc33dbc83b80fade934be1a856e109cb3fb8b",
+   "doi": "10.3390/ecologies7040114",
+   "pmid": "",
+   "title": "Comparative Study of Soil Respiration Characteristics and Influencing Factors of Four Land-Use Types in the Aksu Desert–Oasis Ecotone",
+   "journal": "Ecologies",
+   "date": "2026-10-23",
+   "authors": "Jia-Fei Liang, Hai-Lian Liang, Ruo-Xi Li, Lu-Qing Zhou, Wen-Jie Zhou, Fei Chen",
+   "abstract": "Aims: Land-use types and soil salinization in arid desert–oasis ecotones are associated with differences in soil CO2 efflux, yet the combined effects of multiple environmental factors remain poorly understood. This study aims to characterise the seasonal patterns, temperature sensitivity, and major correlates of soil respiration across four typical land-use types, thereby supporting regional carbon budget assessments. Methods: We conducted in situ soil respiration monitoring during the 2024 growing season (April–October) in four representative habitats (Populus euphratica forest, jujube orchard, grassland, and wetland) in the Aksu desert–oasis ecotone, Xinjiang. Concurrent measurements of topsoil (0–20 cm) physicochemical properties and extracellular enzyme activities were taken. Pearson correlation, variation partitioning, and the Van’t Hoff temperature-response model were employed. Results: Soil respiration exhibited a unimodal seasonal pattern peaking in July, with growing-season mean fluxes ranked as grassland > wetland > jujube orchard > Populus euphratica forest. Temperature sensitivity (Q10) followed wetland (3.23) > grassland (2.44) > orchard (2.08) > forest (1.57), a pattern consistent with differences in soil moisture and salinity among the sites. Respiration correlated positively with pH, electrical conductivity, total salt, organic matter, urease, and sucrase, and negatively with available N, P, K, and peroxidase (p < 0.05). Physicochemical properties and enzyme activities jointly explained 70.7% of variation, with total soil salt (12.5%), sucrase (12.2%), and available N (11.1%) as the top contributors. Root and heterotrophic respiration accounted for 37.2% and 62.8% of total soil respiration, respectively, with heterotrophic respiration dominating in all s…",
+   "url": "https://doi.org/10.3390/ecologies7040114"
   },
   {
    "key": "doi:10.1556/066.2026.00245",
@@ -160,6 +211,23 @@
    "authors": "Rui-Jing He, Jing-Yi Zhang, Meng-Qin Li, Shun-Shun Lin, Dao-Wen Wang, Kun-Pu Zhang",
    "abstract": "The incorporation form of fruit-derived ingredients may influence the quality and antioxidant responses of whole-wheat steamed bread. Jujube was incorporated into white- and colored-wheat whole-wheat flours either as dry powder or as prehydrated pulp at 5%, 10%, and 15% on a dry-matter basis, while the total water addition was kept constant across all formulations. Product geometry, surface color, texture, cross-sectional appearance, anthocyanin content, and ABTS radical scavenging activity were evaluated. Specific volume showed relatively limited variation across the tested formulations, including a range of 1.59–1.67 mL/g in the white-wheat powder series. Colored-wheat flour contained 4.24 mg/100 g anthocyanins compared with 0.99 mg/100 g in white-wheat flour, and anthocyanin content in steamed bread was governed mainly by wheat matrix. ABTS activity was affected by wheat matrix, jujube form, addition level, and their two-way interactions, reaching 66.15% in colored-wheat steamed bread containing 15% jujube pulp. Among the formulations tested, 10% jujube pulp in the colored-wheat system provided a more balanced response in product shape and antioxidant activity, whereas increasing the level to 15% further enhanced ABTS activity but reduced several instrumental texture attributes.",
    "url": "https://doi.org/10.3390/foods15213769"
+  },
+  {
+   "key": "doi:10.1186/s12870-026-10180-x",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "29cf11e9df3cba6d15ec35364c8bfd4e5d789147",
+   "doi": "10.1186/s12870-026-10180-x",
+   "pmid": "",
+   "title": "Genome-wide identification and characterization of UDP-glycosyltransferases gene family in sour jujube (Ziziphus jujuba var. Spinosa)",
+   "journal": "BMC Plant Biology",
+   "date": "2026-10-21",
+   "authors": "Yu Zhang, Ning Wang, Ya-Ru Yan, Wan-Fang Yang, Mei-Zhao Xue, Hai-Xi Zhan",
+   "abstract": "",
+   "url": "https://doi.org/10.1186/s12870-026-10180-x"
   },
   {
    "key": "doi:10.1016/j.foodchem.2026.151663",
@@ -239,11 +307,11 @@
    "id": "42930748",
    "doi": "10.3390/jof12100783",
    "pmid": "42930748",
-   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against Diaporthe nobilis .",
-   "journal": "Journal of Fungi",
+   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against &lt;i&gt;Diaporthe nobilis&lt;/i&gt;.",
+   "journal": "",
    "date": "2026-10-19",
    "authors": "Zhou S, Wang X, Wang Z, Duan L, Feng J, Yan DH.",
-   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts (Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5-20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
+   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts ( Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5-20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
    "url": "https://doi.org/10.3390/jof12100783"
   },
   {
@@ -1062,159 +1130,6 @@
    "authors": "Yilién Cabrera Martín, C. Baggio, Silvia Santini, G. Íñiguez-González",
    "abstract": "Accurate structural diagnosis of timber elements in historic buildings requires minimally invasive and operationally reliable assessment methods compatible with heritage conservation principles. This study aims to estimate timber density in situ directly from Resistograph drilling resistance. To achieve this objective, density estimates derived from Woodpecker impact penetration tests were paired with Resistograph drilling resistance measurements through a mesh to develop a point to point correspondence and calibrate a linear model relating density to drilling resistance and enabling its direct application through Resistograph measurements. The database comprised thirteen historic sweet chestnut (Castanea sativa Mill.) beams from the Cloister of Michelangelo in the Baths of Diocletian complex, Rome, Italy. Statistical analyses included the assessment of multiple window sizes, segmented penetration intervals, model calibration, and Leave-One-Beam-Out (LOBO) cross validation. The resulting model enables density estimation using only Resistograph measurements and demonstrated high predictive accuracy, achieving a coefficient of determination of 92%.",
    "url": "https://doi.org/10.3390/architecture6040180"
-  },
-  {
-   "key": "doi:10.1093/jee/toag300",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42842493",
-   "doi": "10.1093/jee/toag300",
-   "pmid": "42842493",
-   "title": "Post-harvest treatments to reduce emergence and damage caused by larvae of Curculio sayi (Coleoptera: Curculionidae).",
-   "journal": "Journal of Economic Entomology",
-   "date": "2026-10-07",
-   "authors": "Ferguson M, Guyer DE, McCullough DG.",
-   "abstract": "Damage caused by lesser chestnut weevil (Curculio sayi Gyllenhal) larval feeding affects yield and marketability of chestnuts (Castanea spp.) produced by commercial growers and hobbyists across the eastern United States. Post-harvest treatments to mitigate weevil damage involve submerging chestnuts in heated water for ≥20 min. Prolonged submergence in hot water, however, can discolor chestnuts or diminish quality of chestnuts in cold storage. We assessed larval emergence from chestnuts held at room temperature (controls), or submerged in water at 22.5°C (unheated), 43.3°C, 49.0°C, 54.4°C, or 60°C for periods of 5 to 30 min. Subsets of treated chestnuts were quartered after submergence, then again following 30, 60, or 90 d of cold storage (1°C) to evaluate larval feeding damage, chestnut quality and storability. Effective control (less than 1 emerged larva per 100 chestnuts) corresponded to submergence for 15 min in 49°C water, 10 min in 54.4°C water or 5 min in 60°C water, while 24 to 41 larvae per 100 chestnuts emerged from controls. Quality of chestnuts in cold storage declined sharply for chestnuts submerged in 54.4°C water for 25 min or 60°C water for 20 to 25 min. Submerging chestnuts for 10 to 20 min in 54.4°C water appeared optimal; no larvae emerged and chestnut quality was retained for 60 d in cold storage. Time needed to attain core temperatures lethal to weevil larvae varied with chestnut size. Curatura (water curing) and exposure to alternating cycles of warm and cold temps were also evaluated.",
-   "url": "https://doi.org/10.1093/jee/toag300"
-  },
-  {
-   "key": "t:assembly and comparative analysis of the complete mitochondrial genomes of pyrus calleryana decne and pyrus betulifolia ",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "PMC13640305",
-   "doi": "",
-   "pmid": "",
-   "title": "Assembly and comparative analysis of the complete mitochondrial genomes of Pyrus calleryana Decne. and Pyrus betulifolia Bunge",
-   "journal": "",
-   "date": "2026-10-07",
-   "authors": "Zhang H, Ji H, Chi Y, Li X, Wang R, Yang Y, Li D.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13640305/?tool=EBI"
-  },
-  {
-   "key": "doi:10.1016/j.ijbiomac.2026.154751",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42843481",
-   "doi": "10.1016/j.ijbiomac.2026.154751",
-   "pmid": "42843481",
-   "title": "ZJP-2, a novel wild jujube polysaccharide, enhances longevity, cognitive function, and mitigates oxidative stress via mitochondrial regulation in Caenorhabditis elegans.",
-   "journal": "International Journal of Biological Macromolecules",
-   "date": "2026-10-07",
-   "authors": "Shakir MZ, Ullah I, Usmani MW, Ning J, Liu J, Zhou X, Zhao Y, Du Q, Chen H, Ali M, Wang N, Liu X.",
-   "abstract": "Oxidative stress, caused by an imbalance between reactive oxygen species (ROS) production and antioxidant defenses, drives aging and age related functional decline. Natural polysaccharides from medicinal plants are promising interventions against oxidative stress related disorders. This study examined the protective effects of a novel polysaccharide (ZJP-2) isolated from wild jujube (Ziziphus jujuba Mill. var. spinosa) against stress induced physiological deterioration in Caenorhabditis elegans. Using lipopolysaccharide exposure, heat shock, and oxidative stress models, we assessed ZJP-2 effects on lifespan, health span, antioxidant capacity, and stress response pathways. ZJP-2 (0.25-1 mg/mL) showed no toxicity and did not inhibit Escherichia coli OP50 growth. Treatment significantly improved locomotor activity, pharyngeal pumping, and reproductive capacity. The optimal dose increased average lifespan by 42.03% and reduced intestinal lipofuscin accumulation by 52.89%. Under heat stress (37 °C), ZJP-2 enhanced thermotolerance and improved survival under oxidative stress. Intracellular ROS levels decreased in a dose dependent manner, accompanied by reductions in malondialdehyde and increases in superoxide dismutase, catalase, and glutathione activities. Gene expression analysis revealed modulation of antioxidant and mitochondrial-associated genes, along with p38 MAPK-associated genes. ZJP-2 also promoted activation of the longevity associated transcription factor daf-16. These findings demonstrate that ZJP-2 enhances stress resistance, reduces oxidative damage, and promotes a healthy lifespan, highlighting its potential as a natural bioactive compound to mitigate stress related aging.",
-   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154751"
-  },
-  {
-   "key": "doi:10.1007/s00299-026-04013-2",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42841991",
-   "doi": "10.1007/s00299-026-04013-2",
-   "pmid": "42841991",
-   "title": "Comparative analysis of plastomes of Rubus cultivars and development of molecular markers for species delimitation.",
-   "journal": "",
-   "date": "2026-10-07",
-   "authors": "Hu L, Wu Y, Zhao Z, Wu W, Cao F, Wang Z, Li W.",
-   "abstract": "Key message Plastome analyses confirmed the taxonomic classification of cultivated Rubus and identified candidate InDel markers for distinguishing major cultivated groups, offering genetic resources for future studies of hybrid identification and breeding. The genus Rubus, belonging to the Rosaceae family, comprises numerous wild germplasm resources. Among its most economically valuable cultivars are red raspberry, black raspberry, blackberry, as well as raspberry × blackberry hybrids. In this study, we assembled and characterized 81 newly Rubus plastomes, including 22 wild species and 59 cultivars. All genomes exhibited the typical quadripartite structure, with sizes ranging from 155,385 to 157,012 bp and containing 130 annotated genes (113 unique functional genes), indicating a high degree of conservation in plastome architecture and gene order. A comparative analysis was further conducted using plastomes from 16 representative Rubus cultivars, representing all unique plastome sequences. The repeat sequences, codon usage bias, and hypervariable regions were systematically analyzed. Phylogenetic analysis revealed that modern Rubus cultivars primarily cluster within three subgenera: Rubus, Idaeobatus, and Melanobatus, with black raspberry phylogenetically placed within Melanobatus. Furthermore, four InDel markers were developed and validated for distinguishing three Rubus cultivar groups (black raspberry, red raspberry and hybrids). In summary, our research substantially expands available plastome resources for Rubus species and cultivars, thereby facilitating species delimitation and supporting future hybrid breeding.",
-   "url": "https://doi.org/10.1007/s00299-026-04013-2"
-  },
-  {
-   "key": "doi:10.3389/fgene.2026.1894037",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "0d8445fd8ff50dbbaff23d66fddef0767eaeac6e",
-   "doi": "10.3389/fgene.2026.1894037",
-   "pmid": "",
-   "title": "Genome-wide analysis of cork oak NLRs reveals RNL-associated duplications and immune receptor candidates associated with biotic and abiotic stress response",
-   "journal": "Frontiers in Genetics",
-   "date": "2026-10-07",
-   "authors": "L. M. Gonçalves, M. Oliveira, P. Barros",
-   "abstract": "The Nucleotide-Binding Domain Leucine-Rich Repeat (NLR) gene family is a central component of plant immune systems, yet its diversity and evolutionary dynamics remain poorly characterized in long-lived tree species. Here, we performed a genome-wide analysis of the NLR gene repertoire in Quercus suber (cork oak) using a newly developed annotation tool–InterNLR–which identifies and classifies NLRs as canonical and non-canonical. We identified a total of 374 canonical NLRs, and 544 non-canonical NLRs–which may represent pseudogenes, gene fragments or evolutionary intermediates. Phylogenetic analyses based on the NB-ARC domain highlighted the distinct evolutionary trajectory of RNL proteins, which function as “helper” NLRs and show evidence of clade-specific gene duplication. Transcriptomic analyses revealed significant differences in gene-level expression among NLR classes in cork oak stem tissues, mainly driven by contrasts involving the non-canonical N class. Seven cork oak NLR genes, sharing putative orthology with abiotic stress-responsive NLRs found in other species, were also differentially expressed in stems under drought conditions. From these, four candidate NLRs arise as candidate components of shared or convergent responses to drought and P. cinnamomi infection. Population-genetic analyses of RNA-seq-derived variants from expressed NLR loci in two Iberian populations further revealed heterogeneous patterns among expressed NLR loci, with a predominance of positive Tajima’s D values. Together, these results provide new insights into the evolution, expression, and functional diversification of NLRs in cork oak. This work advances our understanding of immune gene architecture in an ecologically and economically important forest tree species.",
-   "url": "https://doi.org/10.3389/fgene.2026.1894037"
-  },
-  {
-   "key": "t:needle extracts of pinus squamata x w li ameliorate obesity and modulate cecal microbiota in high fat diet induced obese",
-   "groups": [
-    "pine"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "PMC13638554",
-   "doi": "",
-   "pmid": "",
-   "title": "Needle extracts of Pinus squamata X.W. Li ameliorate obesity and modulate cecal microbiota in high-fat diet-induced obese mice",
-   "journal": "",
-   "date": "2026-10-07",
-   "authors": "Zhang X, Wang T, Chen H, Hu Y, Tang L, Chang S.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638554/?tool=EBI"
-  },
-  {
-   "key": "doi:10.3390/horticulturae12101249",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "b1d10cb050f972c3250623a0f3f5d5b37a92a8fc",
-   "doi": "10.3390/horticulturae12101249",
-   "pmid": "",
-   "title": "Molecular Characterization and Evolutionary Relationships of WRKYs in Five Rubus Species and Functional Analysis of RiWRKY48 in Rubus idaeus",
-   "journal": "Horticulturae",
-   "date": "2026-10-07",
-   "authors": "Zhuang Wen, Jian-Xin Fan, Yao Jiang, Qin Yang, Xue-Jiao Cao",
-   "abstract": "WRKY transcription factors play crucial roles in plant growth, development, and stress responses. However, their systematic evolution and functions within the genus Rubus remain incompletely understood. In this study, genome-wide identification, evolutionary analysis and functional characterization of the WRKY gene family were conducted in five Rubus species. A total of 37–67 members were identified and classified into three groups by phylogenetic analysis. The collinearity result, gene family expansion and contraction analyses revealed a contraction trend within the Rubus lineage compared with the outgroup sweet cherry. Promoter cis-acting element analysis predicted widespread involvement of these genes in hormone and stress responses. Expression profiling revealed tissue-specific patterns among WRKY genes, with most members down-regulated during fruit development and differentially regulated by biotic and abiotic stresses. Further correlation analysis and experimental validation were focused on RiWRKY48 in red raspberry (Rubus idaeus L.). This protein was localized to the nucleus and lacked transcriptional activation activity. Combined in silico modeling (AlphaFold3) and dual-luciferase reporter assays revealed that RiWRKY48 may repressed the promoter activity of RiUFGT4, a key anthocyanin biosynthetic gene, suggesting a putative interaction with the W-box element. In summary, this study systematically characterized the evolutionary features of the Rubus WRKY family and provided evidence for a potential regulatory role of RiWRKY48 in anthocyanin biosynthesis through modulation of RiUFGT4 promoter activity. These findings provided new insights into the regulatory roles of WRKY transcription factors in fruit quality development in Rubus species.",
-   "url": "https://doi.org/10.3390/horticulturae12101249"
-  },
-  {
-   "key": "doi:10.1186/s40104-026-01503-x",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42834399",
-   "doi": "10.1186/s40104-026-01503-x",
-   "pmid": "42834399",
-   "title": "Chestnut-quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production.",
-   "journal": "Journal of Animal Science and Biotechnology",
-   "date": "2026-10-06",
-   "authors": "Correa F, Luise D, Palumbo F, Scicchitano D, Rampelli S, Molino S, Panciroli N, Candela M, Garay-Mayol B, Ávila-Gálvez MÁ, González-Sarrías A, Castagnetti A, Trevisi P.",
-   "abstract": "Background Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, diarrhea occurrence, gut metagenome, and fecal metabolome in piglets reared under two commercial farm conditions. A total of 160 weaned piglets (initial body weight 6.53 ± 0.13 kg) were assigned to a 2 × 2 factorial design comprising 2 weaning units (W1 and W2) and 2 dietary treatments (control diet or control diet + 2 g/kg tannin blend; 40 piglets per treatment × farm). The trial lasted 76 d, with weighings at T0 (entry into weaning, median 28 d), T1 (d 35), T2 (d 49), and T3 (d 76). Fecal scores and samples were collected at T1, T2, and T3 for shotgun metagenomics (155 samples per time point) and untargeted metabolomics, and targeted urolithin quantification was performed in tannin-treated piglets at T1 and T2. Results Tannin supplementation did not affect overall growth performance throughout the weaning phase, but reduced diarrhea occurrence at T2 in W2 (P = 0.032). Species-level beta diversity was consistently affected by treatment across time points (R 2 = 0.01-0.03; P Conclusions Overall, chestnut-quebracho tannins were associated with a farm-dependent reduction in post-weaning diarrhea and modulated the gut ecosystem through microbiota-dependent polyphenol metabolism.",
-   "url": "https://doi.org/10.1186/s40104-026-01503-x"
-  },
-  {
-   "key": "doi:10.1080/14786419.2026.2740617",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42837179",
-   "doi": "10.1080/14786419.2026.2740617",
-   "pmid": "42837179",
-   "title": "Strain identification, probiotic potential evaluation, and mannanase production optimisation of &lt;i&gt;Lactiplantibacillus plantarum&lt;/i&gt; HDM10.",
-   "journal": "Natural Product Research",
-   "date": "2026-10-06",
-   "authors": "Huang L, Yang R, Li Z, Yang S, Zhao D.",
-   "abstract": "Lactiplantibacillus plantarum ( L. plantarum ) HDM10, isolated from fermented winter jujube ( Ziziphus jujuba ) juice, was identified by biochemical and molecular analyses. The strain exhibited γ-haemolysis, susceptibility to several tested antibiotics, and strong gastrointestinal tolerance, with survival rates of 72.63% and 80.00% at pH 2.0 and 3.0, respectively. Survival remained above 70% in 0.05-0.5% bile salts and reached 67.82% at 1.0%. More than 80% of cells survived simulated gastric and intestinal conditions. Response surface methodology optimised mannanase production to 87.73 U/mL, representing a 27.1% increase over the initial activity. Congo red staining confirmed enhanced polysaccharide hydrolysis. HDM10 also showed strong mucin adhesion (>70%) and slight growth promotion in the presence of mucin. These results demonstrate its safety, probiotic potential, and suitability for -synbiotic applications.",
-   "url": "https://doi.org/10.1080/14786419.2026.2740617"
   }
  ]
 }
