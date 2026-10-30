@@ -1,13 +1,115 @@
 {
- "generated_at": "2026-10-29T20:31:26.060Z",
+ "generated_at": "2026-10-30T20:31:30.534Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 66,
+ "count": 70,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.68372/bt90q205",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "5a8409a7a0157b090ed9c4179989de2e5cf5ffb5",
+   "doi": "10.68372/bt90q205",
+   "pmid": "",
+   "title": "Sirdaryo viloyati sharoitida chilonjiydaning istiqbolli navlari ko'chatlarini yetishtirish texnologiyasini takomillashtirish",
+   "journal": "AGROBUSINESS, SCIENCE AND TECHNOLOGY",
+   "date": "2026-10-30",
+   "authors": "Jasur Eshquvvatov",
+   "abstract": "This article analyzes the scientific basis for improving the technology of growing seedlings of promising jujube (Ziziphus jujuba Mill.) cultivars under the conditions of the Syrdarya region of Uzbekistan. The relevance of the study is associated with the adaptability of jujube to arid and continental climatic conditions, the nutritional and biological value of its fruits, and the increasing interest in expanding jujube cultivation in Uzbekistan. Scientific information on jujube cultivars introduced into Uzbekistan, seed and vegetative propagation methods, pre-sowing seed treatments, cutting rooting, and grafting techniques used for the production of planting material is reviewed. Previous research conducted under Uzbek conditions investigated nine jujube cultivars introduced from China, including Xiangzao, Zanhuangdazao, Tangzao, Mayabaizao, Junzao, Dabailing, Dongzao, Linyilizao, and Jixinzao, with several cultivars demonstrating promising adaptability. Recent research on seed propagation has also demonstrated the importance of pre-sowing treatment and sowing depth. Under the conditions of the Republic of Karakalpakstan, the highest seed germination was observed at a sowing depth of 2.5–3.0 cm, while scarification accelerated seed germination and improved germination performance. Studies of vegetative propagation have demonstrated that indole-3-butyric acid (IBA) can significantly improve the rooting of jujube cuttings and root development characteristics. The reviewed scientific evidence provides a basis for developing an adapted technology for producing high-quality jujube planting material under the soil and climatic conditions of the Syrdarya region.",
+   "url": "https://doi.org/10.68372/bt90q205"
+  },
+  {
+   "key": "doi:10.1111/jfb.70711",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42957444",
+   "doi": "10.1111/jfb.70711",
+   "pmid": "42957444",
+   "title": "A new species of the genus Dysommina from the Lakshadweep Sea, India (Anguilliformes: Synaphobranchidae: Ilyophinae).",
+   "journal": "",
+   "date": "2026-10-29",
+   "authors": "Kodeeswaran P.",
+   "abstract": "This study describes a new Dysommina species, based on two specimens collected at a depth of ca. 600 m in the Lakshadweep Sea off south-western India. The new species differs from its congeners in having fewer total vertebrae (120-127 vs. 134 in D. castanea, 133-134 in D. brevis, and 137-141 in D. orientalis), fewer predorsal vertebrae (14-15 vs. 16 in D. pygmaea), fewer preanal vertebrae (24-27 vs. 28-31 in D. rugosa), and in a combination of morphometric, meristic, dentition and colouration characters. DNA sequences were generated and analysed.",
+   "url": "https://doi.org/10.1111/jfb.70711"
+  },
+  {
+   "key": "doi:10.1139/cjm-2026-0110",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42956384",
+   "doi": "10.1139/cjm-2026-0110",
+   "pmid": "42956384",
+   "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
+   "journal": "",
+   "date": "2026-10-29",
+   "authors": "Abed S, Kumar A, Hausner G.",
+   "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
+   "url": "https://doi.org/10.1139/cjm-2026-0110"
+  },
+  {
+   "key": "doi:10.1094/pdis-10-25-2150-re",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42067980",
+   "doi": "10.1094/pdis-10-25-2150-re",
+   "pmid": "42067980",
+   "title": "Testing the Potential of &lt;i&gt;Pseudomonas&lt;/i&gt; Bacteria for the Biocontrol of Ink Disease of Chestnut.",
+   "journal": "",
+   "date": "2026-10-28",
+   "authors": "Dennert F, Troxler V, Bossert OX, Schneider S, Maurhofer M, Prospero S.",
+   "abstract": "Ink disease, caused by the two oomycetes Phytophthora cinnamomi and Phytophthora × cambivora , is one of the most devastating diseases of sweet chestnut ( Castanea sativa ) in Europe. Its control is particularly difficult, with few fungicides showing a satisfactory effect, and those being progressively banned in forest ecosystems or in forest-like plantations because of ecological concerns. Therefore, alternative, nature-friendly control methods are urgently needed. The bacterial genus Pseudomonas includes many species with antifungal and antimicrobial properties. In this study, we isolated Pseudomonas bacteria from the rhizosphere of healthy and diseased chestnut trees in southern Switzerland. Out of 166 isolated Pseudomonas strains, 5 showed significant growth inhibition of P . cinnamomi and/or P . × cambivora in vitro. Three strains that significantly inhibited the growth of both pathogens were tested against a collection of 20 isolates of each species, showing that the in vitro inhibition is independent of the pathogen isolate. The mechanisms underlying this inhibition remain unclear because none of the three strains harbored biosynthesis genes coding for well-known antimicrobial secondary metabolites. Phylogenetic analysis of whole genome sequences showed that two of the strains belong to the P . fluorescens subgroup, whereas one strain probably belongs to a previously unrecognized species closely related to the P . putida subgroup. The results of this study indicate that Pseudomonas have the potential to be used as biocontrol agents against ink disease. Further experiments are needed to confirm their inhibitory effect against P . cinnamomi and P . × cambivora in vivo.",
+   "url": "https://doi.org/10.1094/pdis-10-25-2150-re"
+  },
+  {
+   "key": "doi:10.3390/insects17111119",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "069b0e337bf621abf0cf62174db722bbf5d4797f",
+   "doi": "10.3390/insects17111119",
+   "pmid": "",
+   "title": "Identification and Expression Profiling of Olfactory-Related Genes in Exolontha castanea (Coleoptera: Melolonthinae) Using Tissue-Specific Transcriptomics",
+   "journal": "Insects",
+   "date": "2026-10-28",
+   "authors": "Wen-Jing He, Yu-Xin Yang, Cheng-Hua Huang, Xue-Hong Pan, Gen Xia, Zi-Xuan Wu",
+   "abstract": "Exolontha castanea is an important subterranean pest of sugarcane in China, currently controlled mainly by chemical insecticides. However, prolonged and improperly timed insecticide application has exacerbated infestations, necessitating the development of eco-friendly management strategies. Given the pivotal role of olfactory-related genes in host-seeking, mating, and oviposition, deciphering the olfactory mechanisms of E. castanea may support environmentally sound pest management. In this study, we sequenced transcriptomes from different tissues of male and female E. castanea and annotated olfactory-related genes. We identified 35 odorant binding proteins (OBPs), 12 chemosensory proteins (CSPs), 51 odorant receptors (ORs), 21 ionotropic receptors (IRs), and 4 sensory neuron membrane proteins (SNMPs). Expression profiling indicated that 13 OBPs, 6 CSPs, 16 ORs, 5 IRs, and 2 SNMPs were moderately or highly expressed in the antennae, and among these, 4 OBPs, 4 CSPs, 1 IR and 1 SNMP were also moderately or highly expressed in non-olfactory tissues. In addition, 8 OBPs, 1 CSP, 5 IRs and 1 SNMP displayed moderate or high expression levels only in non-olfactory tissues, including the head, leg, thorax, and abdomen. Based on these findings, the potential functions of these olfactory-related genes are discussed. This study represents the first comprehensive catalog of olfactory-related genes in E. castanea, laying a solid foundation for future functional characterization and novel sustainable pest management strategy development.",
+   "url": "https://doi.org/10.3390/insects17111119"
+  },
+  {
+   "key": "doi:10.22207/jpam.20.4.16",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "5fabe2c6578cd6a6654b8b8d27f1fcc70c19860a",
+   "doi": "10.22207/jpam.20.4.16",
+   "pmid": "",
+   "title": "Physicochemical Characterization and Antibacterial Efficacy of Selected Pakistani Honeys Compared with Manuka Honey Against Staphylococcus aureus and Escherichia coli Reference Strains",
+   "journal": "Journal of Pure and Applied Microbiology",
+   "date": "2026-10-28",
+   "authors": "M. Aslam, M. Khan, I. Muhammad, A. Huma, Sana Ghayas, S. Alam",
+   "abstract": "Antimicrobial resistance, driven by antimicrobial misuse and declining therapeutic innovation, poses a critical global health challenge. This study evaluated the physicochemical profiles and antimicrobial efficacy of five monofloral Pakistani honeys, namely Helianthus annuus L. (Sunflower), Ziziphus jujuba (Beri), Acacia modesta (Phulai), Justicia adhatoda L. (Baikar), and Brassica spp. (Mustard), alongside Leptospermum scoparium (Manuka) honey containing methylglyoxal (MGO 550+), against Staphylococcus aureus American Type Culture Collection (ATCC 6538) and Escherichia coli (ATCC 8739). Physicochemical properties were assessed according to AOAC guidelines, whereas antibacterial activity was determined using agar well diffusion and broth microdilution assays. Quality parameters across the honey varieties met international standards, with ranges of 28.9-78.2 mm Pfund for color, 3.36-4.20 for pH, 29.6-43.5 meq/kg for acidity, 16.0%-19.2% for moisture, 0.14-0.43 g/100 g for ash, 6.0-6.7 g/100 g for sucrose, 76.0-81.6 g/100 g for total sugars, 0.28-0.65 mS/cm for electrical conductivity, and 21.2-40.0 mg/kg for hydroxymethylfurfural. Proline content (≥180 mg/kg), diastase numbers (DN) (10.0 ± 0.46 to 39.32 ± 0.58 DN), and invertase activity IN (63.00 ± 8.70 to 75.33 ± 5.70 IN) confirmed the freshness and purity of the honeys. In diffusion assays, Manuka honey produced the largest inhibition zones against E. coli (13.40 mm) and S. aureus (14.40 mm). Among the local varieties, Mustard honey showed strong activity against E. coli (13.40 mm), whereas Baikar honey showed the greatest activity against S. aureus (13.90 mm); Sunflower honey showed the lowest efficacy against E. coli (8.90 mm). The lowest minimum inhibitory concentrations (MICs) were recorded for Manuka honey (7.8% …",
+   "url": "https://doi.org/10.22207/jpam.20.4.16"
+  },
   {
    "key": "t:genome wide analysis of the gata gene family in castanea mollissima reveals key regulators involved in salt stress respo",
    "groups": [
@@ -128,6 +230,40 @@
    "url": "https://doi.org/10.1007/s44372-026-00926-0"
   },
   {
+   "key": "doi:10.18619/2072-9146-2026-4-77-83",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "9625a615127760a67d195310dbd588f7bdf05d9d",
+   "doi": "10.18619/2072-9146-2026-4-77-83",
+   "pmid": "",
+   "title": "Agrobiological assessment of rapid-maturing varieties and F1 hybrids of white cabbage in the Republic of Dagestan",
+   "journal": "Vegetable crops of Russia",
+   "date": "2026-10-25",
+   "authors": "E. G. Gadzhimustapaeva",
+   "abstract": "Relevance . White cabbage (Brassica oleracea L. var. capitata (L.) Alef. var. alba DC.) is one of the main vegetable crops. The vegetable, the crop – adapted, widespread and used by all peoples and throughout Russia. Purpose of the work . To give an assessment of a new set of samples of white cabbage, early-ripening group. Material and Methods . Materials and methods. The work was carried out in 2023-2025 in the experimental field of the Dagestan experimental station, a branch of the VIR, on chestnut soils with heavy mechanical composition. 8 samples were studied, including: - 6 hybrids and -2 varieties. Results . This paper discusses varieties and hybrids of white cabbage that were studied for the first time at the Dagestan Research Station. Hybrids stood out when growing in the summer-autumn period: in terms of precocity – Nastya F1 – 108 days, Rosberg F1 – 108, Milana F1 – 113, Primavera F1 – 115; in terms of yield, the average weight of a Primavera F1 head is 1.50 kg, Milana F1 – 1.19; in terms of product quality, the heads do not crack – Prestar F1, Nastya F1; according to the length of formation of the head – Milan F1 – 7-9 days, Prestar F1 – 9-11, Landa F1 – 6; The average weight of the head during the winterspring growing period: Primavera F1 – 1.23 kg, Nastya F1 – 1.20, Prestar F1 – 1.05 and Webber variety 1.30 kg. Early-ripening varieties and hybrids are sown in autumn (15.09.), and planted in autumn (16.11.). We observe the verbalization stage, and the plants do not form a dense head. Conclusion. The data obtained during the cultivation of early-ripening varieties and hybrids of a new set of white cabbage, allow for cultivation in different terms of sowing and planting: summer-autumn and winter-spring-summer periods. The hybrids stood out during the cultivati…",
+   "url": "https://doi.org/10.18619/2072-9146-2026-4-77-83"
+  },
+  {
+   "key": "doi:10.17803/lexgen-2026-5-3-86-97",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "9a381d940eb73293475f1707058588d3922c4bf0",
+   "doi": "10.17803/lexgen-2026-5-3-86-97",
+   "pmid": "",
+   "title": "Construction of China’s Legal Protection System for New Animal Varieties",
+   "journal": "Lex Genetica",
+   "date": "2026-10-25",
+   "authors": "F. Chong",
+   "abstract": "While new animal breeds have long been at the center of advancing both animal husbandry and the broader bioeconomy, there is considerable confusion regarding their legal protection in China. While the Patent Law specifically excludes the patenting of new animal varieties, the Animal Husbandry Law has historically focused upon administrative approvals of breeds rather than the establishment of proprietary rights. For this reason, it is not surprising that a gap exists in the law, since breeders of new animal varieties (novel, distinct, uniform, and stable) currently lack an exclusive civil right that may be established, sold, or enforced. This paper considers the experience of the EU under the Biotech Directive and the U.S. dual regulatory model in protecting biotechnological innovations involving non-human animals. Drawing upon an analysis of both systems, it proposes a multi-tiered protection system for new animal breeds in China. It is argued that China needs to break free from the current binary division between protected/unprotected animal varieties versus patentable/unpatentable inventions derived from animals. The proposed multi-tiered protection system for new animal breeds is based on the level of technological intervention involved, along with the level of ethical concerns raised by each type of new animal variety. Animals bred using genetic editing techniques that do not involve the introduction of foreign DNA – and therefore represent lower risk from an ethical standpoint – should be protected through a sui generis Animal Breeder’s Right modeled on the existing Plant Variety Protection system. Transgenic animals created using genetic engineering techniques that introduce foreign DNA could similarly continue to be patented under similar conditions to those app…",
+   "url": "https://doi.org/10.17803/lexgen-2026-5-3-86-97"
+  },
+  {
    "key": "doi:10.1007/s11094-026-03582-6",
    "groups": [
     "chestnut"
@@ -143,6 +279,23 @@
    "authors": "Александра Вячеславовна Филатова, Луиза Бахтияровна Азимова, A. Turaev, D. Abdugafurova",
    "abstract": "",
    "url": "https://doi.org/10.1007/s11094-026-03582-6"
+  },
+  {
+   "key": "doi:10.3390/biotech15050097",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0877e0fd2b870d363d77e39833c16a1ebce90f2e",
+   "doi": "10.3390/biotech15050097",
+   "pmid": "",
+   "title": "Antioxidants and Trace Elements in Honey: A Positive Balance for Honeybees and Beekeeping Production",
+   "journal": "BioTech",
+   "date": "2026-10-23",
+   "authors": "C. Naccari, V. Ferrantelli, G. Cammilleri, Roberto Bava, E. Palma, Mariateresa Cristani",
+   "abstract": "Antioxidants play a crucial role in preventing and treating various diseases in both humans and animals, and the consumption of nutraceuticals represents a major source of these compounds. Among nutraceuticals, special attention is focused on honey, which is the most widely used apicultural product due to its complex composition and several beneficial effects on humans and pets. Furthermore, it is a valid bio-indicator of environmental pollution within apiary foraging areas for the possible presence of pollutants, such as heavy metals, absorbed by honeybees. Particularly, the antioxidant contents and mineral profiles of honey are directly correlated with the floral origin of the nectar and, at the same time, influenced by climatic conditions, geo-chemical features and environmental pollution. The aim of this study, therefore, was to investigate the antioxidant/free radical scavenging capacity in honey samples of different floral varieties (Wildflower, Citrus, Acacia, Eucalyptus, Chestnut, Honeydew, and Erica), using TPC, DPPH and FRAP assays, in relation to their mineral profile (essential microelements, toxic metals and metalloids) analyzed through ICP-MS. The results document good antioxidant activity in honey samples of different floral origins with high TPC and good radical scavenger activity on DPPH radicals. The best antioxidant activity measured by FRAP was observed in Honeydew and Wildflower honeys (9.40 ± 1.53 and 5.22 ± 0.08 mmol Fe2+E/kg, respectively). All honey samples showed a complete mineral profile with an abundance of essential microelements (Mn > Zn > Fe > Cu > Se > Cr > Co > Mo), although traces of heavy metals and metalloids (Pb >> Cd > As) were present in most of the samples analyzed. The correlations found in all data obtained were analyzed using …",
+   "url": "https://doi.org/10.3390/biotech15050097"
   },
   {
    "key": "doi:10.3390/agronomy16212082",
@@ -225,7 +378,7 @@
    "title": "Genome-wide identification and characterization of UDP-glycosyltransferases gene family in sour jujube (Ziziphus jujuba var. Spinosa)",
    "journal": "BMC Plant Biology",
    "date": "2026-10-21",
-   "authors": "Yu Zhang, Ning Wang, Ya-Ru Yan, Wan-Fang Yang, Mei-Zhao Xue, Hai-Xi Zhan",
+   "authors": "Yue-Dong Zhang, Ning Wang, Ya-Ru Yan, Wan-Fang Yang, Mei-Zhao Xue, Hai-Xi Zhan",
    "abstract": "",
    "url": "https://doi.org/10.1186/s12870-026-10180-x"
   },
@@ -1045,91 +1198,6 @@
    "authors": "Yi Feng, Shu Diao, Xiao-Hui Lin, Cai-Xia Wang, Xiao-Ping Wang, Yang-Dong Wang",
    "abstract": "Resin canals are tunnel-like tissue structures primarily responsible for synthesizing and secreting resin. They consist of specialized secondary metabolite-synthesizing epithelial cells and supportive subsidiary cells, which are arranged to form distinctive intercellular spaces. In conifers, resin canals can develop during normal development or be induced by environmental stimuli, which often form an interconnected network and play a crucial role in defense against pathogens and insects. Despite their importance in resin secretion and defense, the mechanisms underlying their formation and function remain poorly understood. In this review, we summarize recent advances in the study of resin canals in conifers from the perspectives of cellular development, defense mechanisms, and molecular regulation. We analyze the distribution patterns, subcellular characteristics and formation and developmental processes of resin canals across different conifer species. Based on studies of traumatic resin canals, we propose a developmental model that depicts the initiation from cambial activity to cell differentiation and canal formation. Furthermore, we focus on resin canal-specific genes and analyze the functions and expression patterns of identified related genes. With the advancement of conifer genome sequencing and single-cell technologies, future research on resin canal regulatory mechanisms and functions is facing unprecedented opportunities. We propose a strategic framework aimed at enhancing conifer breeding, particularly for traits such as stress resilience, disease resistance and wood quality.",
    "url": "https://doi.org/10.1093/treephys/tpag150"
-  },
-  {
-   "key": "doi:10.1016/j.plantsci.2026.113507",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42849815",
-   "doi": "10.1016/j.plantsci.2026.113507",
-   "pmid": "42849815",
-   "title": "Developmental dynamics of ascorbic acid metabolism in wild jujube fruit: an integrated physiological and transcriptomic analysis.",
-   "journal": "Plant Science",
-   "date": "2026-10-08",
-   "authors": "Liu S, Li S, Wang J, He K, Gao S, Liu J.",
-   "abstract": "Wild jujube (Ziziphus jujuba var. spinosa) fruit is rich in ascorbic acid (AsA), but developmental coordination among AsA accumulation, enzyme activities and candidate-gene expression remains unclear. We compared wild jujube with Ziziphus jujuba Mill. cv. 'Lingwuchangzao' grown in the same orchard across five developmental stages. We measured fruit traits, sugars, acids, AsA, total ascorbic acid (T-AsA), dehydroascorbic acid (DHA) and five AsA-related enzyme activities, and analyzed repeated sampling with linear mixed-effects models. Differential expression, weighted gene co-expression network analysis (WGCNA), predicted protein-interaction networks and RT-qPCR were applied to 15 wild-jujube RNA-seq samples; ZjVTC2 was transiently overexpressed in Nicotiana benthamiana. At the young-fruit stage, wild jujube contained 778.75 ± 19.14mg·100g⁻¹ FW AsA and 861.77 ± 17.44mg·100g⁻¹ FW T-AsA. At maturity, AsA content remained higher in wild jujube than in 'Lingwuchangzao' (612.34 ± 13.53 versus 321.22 ± 4.31mg·100g⁻¹ FW). Significant material × developmental-stage interactions occurred for AsA, T-AsA and DHA (P < 0.01). Material differences in DHAR, MDHAR, GalLDH and APX varied by stage, whereas the MIOX interaction was not significant. Transcriptomic and network analyses identified VTC2, GLDH, HXK2, PGMP, and the bHLH gene LOC107430586 as candidates. Transient ZjVTC2 overexpression increased leaf AsA by 72.65% (P < 0.01). Thus, AsA accumulation differed between materials in a stage-dependent manner, and ZjVTC2 was functionally supported, whereas the other candidate genes require validation.",
-   "url": "https://doi.org/10.1016/j.plantsci.2026.113507"
-  },
-  {
-   "key": "doi:10.33003/fjs-2026-1019-6073",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "1a6b9027244014d80a1ad982215192d6e96f74f8",
-   "doi": "10.33003/fjs-2026-1019-6073",
-   "pmid": "",
-   "title": "Comparative Structural, Optical, Morphological and Elemental Characterisation of Jujube-Mediated Silver and Zinc Oxide Nanoparticles",
-   "journal": "FUDMA Journal of Sciences",
-   "date": "2026-10-08",
-   "authors": "H. M. Umar, Jamilatu Sumaila, T. Zangina",
-   "abstract": "Plant extracts offer a practical route for nanoparticle synthesis because naturally occurring compounds can participate in particle formation and remain associated with the resulting material. In this study, jujube extract was used to prepare silver nanoparticles (AgNPs) and zinc oxide nanoparticles (ZnO NPs). Both products were examined using the same set of characterization techniques: X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FTIR), ultraviolet-visible (UV–Vis) spectroscopy, scanning electron microscopy (SEM), and energy-dispersive X-ray spectroscopy (EDX). The XRD results clearly differentiated the two materials. The Ag sample showed peaks at approximately 38.27°, 44.45°, 64.55°, and 77.57°, characteristic of face-centered-cubic Ag, while the ZnO sample displayed reflections at 31.91°, 34.55°, 36.38°, 47.60°, 56.78°, and 63.02°, consistent with hexagonal wurtzite ZnO. FTIR spectra from both samples contained bands associated with plant-derived functional groups, along with low-wavenumber features related to their respective inorganic phases. Their optical responses were also distinct. Ag showed the characteristic response of metallic nanoparticles, whereas ZnO exhibited an optical edge at about 392.5 nm, corresponding to approximately 3.16 eV. This value was calculated from the optical-edge wavelength and is not presented as a formal Tauc band gap. SEM images showed rough, uneven, and strongly aggregated surfaces in both samples. EDX further showed strong Ag signals in the silver sample and Zn and O as the main detected elements in the ZnO sample. Overall, the study compares two different nanomaterials produced using the same jujube-based approach and shows how their structural, optical, morphological, and elemental characteristics differ.",
-   "url": "https://doi.org/10.33003/fjs-2026-1019-6073"
-  },
-  {
-   "key": "t:physiological investigation of arbuscular mycorrhizal fungi mediated salt tolerance in persimmon diospyros kaki seedling",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "PMC13642138",
-   "doi": "",
-   "pmid": "",
-   "title": "Physiological investigation of arbuscular mycorrhizal fungi-mediated salt tolerance in persimmon (Diospyros kaki) seedlings",
-   "journal": "",
-   "date": "2026-10-08",
-   "authors": "Cimen B, Incesu M, Ortas I, Guney M.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13642138/?tool=EBI"
-  },
-  {
-   "key": "doi:10.1007/s11694-026-04931-5",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "691fa8bab5d3dcaa164a0e75eb4b77820c6151ed",
-   "doi": "10.1007/s11694-026-04931-5",
-   "pmid": "",
-   "title": "Microwave-assisted extraction of pectin from persimmon: physicochemical properties, structural characterization and greenness assessment",
-   "journal": "Journal of Food Measurement & Characterization",
-   "date": "2026-10-08",
-   "authors": "Ö. Yılmaz, N. Kutlu, A. Kamiloğlu, Tuğba Elbir Abca",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s11694-026-04931-5"
-  },
-  {
-   "key": "doi:10.3390/architecture6040180",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "386dd455143d0631a6eb34b48226da2a560790f1",
-   "doi": "10.3390/architecture6040180",
-   "pmid": "",
-   "title": "Density Estimation in Heritage Timber Elements Using Resistograph Drilling Resistance",
-   "journal": "Architecture",
-   "date": "2026-10-08",
-   "authors": "Yilién Cabrera Martín, C. Baggio, Silvia Santini, G. Íñiguez-González",
-   "abstract": "Accurate structural diagnosis of timber elements in historic buildings requires minimally invasive and operationally reliable assessment methods compatible with heritage conservation principles. This study aims to estimate timber density in situ directly from Resistograph drilling resistance. To achieve this objective, density estimates derived from Woodpecker impact penetration tests were paired with Resistograph drilling resistance measurements through a mesh to develop a point to point correspondence and calibrate a linear model relating density to drilling resistance and enabling its direct application through Resistograph measurements. The database comprised thirteen historic sweet chestnut (Castanea sativa Mill.) beams from the Cloister of Michelangelo in the Baths of Diocletian complex, Rome, Italy. Statistical analyses included the assessment of multiple window sizes, segmented penetration intervals, model calibration, and Leave-One-Beam-Out (LOBO) cross validation. The resulting model enables density estimation using only Resistograph measurements and demonstrated high predictive accuracy, achieving a coefficient of determination of 92%.",
-   "url": "https://doi.org/10.3390/architecture6040180"
   }
  ]
 }
