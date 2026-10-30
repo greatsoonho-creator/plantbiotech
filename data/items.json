@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-30T06:53:09+09:00",
-  "latest_run": "2026-10-30",
+  "generated_at": "2026-10-31T06:55:00+09:00",
+  "latest_run": "2026-10-31",
   "runs": [
+    {
+      "run": "2026-10-31",
+      "at": "2026-10-31T06:55:00+09:00",
+      "count": 4,
+      "note": "논문 4(밤나무 잉크병 생물방제, Ophiostomatales 유전체, 대추 묘목, 동물 신품종 법제), 뉴스·정책 0. 피드 후보 9건(7일 내 미등록, 무관 5건 제외), 원문 미열람 0건. 웹검색 신규 7일내 자료는 기존 등록분(가을철 산불대책) 외 없음"
+    },
     {
       "run": "2026-10-30",
       "at": "2026-10-30T06:53:09+09:00",
@@ -159,6 +165,46 @@
   ],
   "items": [
     {
+      "id": "20261030-c3ed8c15",
+      "cat": "fruit",
+      "title": "Improving the technology of growing seedlings of promising jujube cultivars in the Syrdarya region (Uzbekistan)",
+      "title_ko": "시르다리야 지역 전망 대추 품종의 묘목 생산기술 개선",
+      "source": "Agrobusiness, Science and Technology",
+      "url": "https://doi.org/10.68372/bt90q205",
+      "date": "2026-10-30",
+      "date_key": "2026-10-30",
+      "type": "paper",
+      "summary_ko": "대추(Ziziphus jujuba)는 건조·대륙성 기후에 잘 적응하고 과실의 영양가가 높아 우즈베키스탄에서 재배 확대에 관심이 커지고 있다. Eshquvvatov는 시르다리야 지역 조건에서 대추 묘목 생산기술의 과학적 근거를 문헌 중심으로 정리했다. 중국에서 도입된 9개 품종(Xiangzao, Zanhuangdazao, Tangzao, Junzao, Dongzao 등)이 우즈베키스탄에서 적응성을 보였고, 카라칼팍스탄에서는 파종 깊이 2.5~3.0 cm에서 발아율이 가장 높았으며 종피 상처 처리(scarification)가 발아를 촉진했다. 삽목에서는 IBA 처리가 발근과 뿌리 발달을 유의하게 개선했다고 정리된다. 이는 현지 적응형 고품질 묘목 생산 기술 개발의 근거로 제시되었으며 신규 실험 수치는 없는 종설형 논문이다. 대추 번식(종자·삽목·접목) 및 재배지침 작성 시 비교 자료로 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "묘목",
+        "번식",
+        "IBA"
+      ],
+      "collected_at": "2026-10-31",
+      "run": "2026-10-31"
+    },
+    {
+      "id": "20261029-612d1fd1",
+      "cat": "genome",
+      "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes",
+      "title_ko": "Ophiostomatales 균류의 비교유전체: 생합성 유전자군과 CAZyme 분석",
+      "source": "Canadian Journal of Microbiology",
+      "url": "https://doi.org/10.1139/cjm-2026-0110",
+      "date": "2026-10-29",
+      "date_key": "2026-10-29",
+      "type": "paper",
+      "summary_ko": "Ophiostomatales 균류는 나무좀·암브로시아 딱정벌레와 공생하며 수목병과 변재 변색을 일으키지만 그 유전체 기반은 잘 알려져 있지 않았다. Abed, Kumar, Hausner 연구진은 3개 속 6종(7균주)의 주석된 유전체 조립본을 제시했다. 유전체 크기는 21~32 Mb로 완전성이 높았고, CAZyme은 글리코시드 가수분해효소와 글리코실전이효소 중심으로 보존되었으며 Ophiostoma quercus와 Leptographium truncatum에서 산화 보조활성 계열이 확장되었다. antiSMASH는 균주당 12~19개 생합성 유전자군(BGC)을 예측했고, DHN 멜라닌 클러스터는 전 균주, fujikurin 유사 T1PKS 클러스터는 L. truncatum을 제외한 전 균주에 보존되었으며 Ophiostoma 특이적 NRPS 기반 siderophore 유사 클러스터도 확인되었다. 참나무·소나무 등 산림 병해충 및 재선충 매개 곤충 연관 균류의 병원성 기작을 이해하는 기초 자료가 된다.",
+      "tags": [
+        "유전체",
+        "수목병",
+        "Ophiostomatales",
+        "CAZyme"
+      ],
+      "collected_at": "2026-10-31",
+      "run": "2026-10-31"
+    },
+    {
       "id": "20261028-b446f2c0",
       "cat": "policy",
       "title": "윤용근 의원, 산림재난방지법 개정안 대표발의…재선충병 대응 변화 기대",
@@ -197,6 +243,26 @@
       ],
       "collected_at": "2026-10-30",
       "run": "2026-10-30"
+    },
+    {
+      "id": "20261028-22563b34",
+      "cat": "fruit",
+      "title": "Testing the Potential of Pseudomonas Bacteria for the Biocontrol of Ink Disease of Chestnut",
+      "title_ko": "밤나무 잉크병 생물방제를 위한 슈도모나스균의 잠재력 평가",
+      "source": "Plant Disease",
+      "url": "https://doi.org/10.1094/pdis-10-25-2150-re",
+      "date": "2026-10-28",
+      "date_key": "2026-10-28",
+      "type": "paper",
+      "summary_ko": "잉크병(Phytophthora cinnamomi, P. × cambivora)은 유럽 밤나무(Castanea sativa)의 가장 파괴적인 병해이나 살균제는 효과가 제한적이고 산림 내 사용도 점차 금지되고 있어 친환경 방제법이 필요하다. 스위스 남부(Prospero 연구진)에서 건강목과 발병목의 근권으로부터 Pseudomonas 166균주를 분리해 시험했다. 이 중 5균주가 시험관 내에서 병원균 생장을 유의하게 억제했고, 두 병원균 모두를 억제한 3균주는 각 종 20개 분리주에 대해서도 병원균 계통과 무관하게 억제 효과를 보였다. 3균주 모두 잘 알려진 항균 2차대사산물 합성 유전자를 갖고 있지 않아 억제 기작은 불명이며, 전장 유전체 계통분석에서 2균주는 P. fluorescens 그룹, 1균주는 P. putida 그룹에 가까운 미기재종으로 추정되었다. 아직 in vivo 검증 전이며 포장 효과는 추가 실험이 필요하다. 밤나무 재배·병해 관리와 근권 미생물 활용을 검토하는 데 참고할 만하다.",
+      "tags": [
+        "밤나무",
+        "잉크병",
+        "생물방제",
+        "Pseudomonas"
+      ],
+      "collected_at": "2026-10-31",
+      "run": "2026-10-31"
     },
     {
       "id": "20261027-53fb5b5d",
@@ -395,6 +461,26 @@
       ],
       "collected_at": "2026-10-26",
       "run": "2026-10-26"
+    },
+    {
+      "id": "20261025-46298eb8",
+      "cat": "pvp",
+      "title": "Construction of China's Legal Protection System for New Animal Varieties",
+      "title_ko": "중국의 신동물품종 법적 보호체계 구축",
+      "source": "Lex Genetica",
+      "url": "https://doi.org/10.17803/lexgen-2026-5-3-86-97",
+      "date": "2026-10-25",
+      "date_key": "2026-10-25",
+      "type": "paper",
+      "summary_ko": "중국은 특허법이 동물 신품종을 특허 대상에서 제외하고 축산법도 승인 행정 중심이어서, 신규성·구별성·균일성·안정성을 갖춘 동물 신품종 육성자에게 양도·집행 가능한 배타적 민사 권리가 없는 법적 공백이 있다. Chong은 EU 바이오기술지침과 미국의 이원적 규제 체계를 비교 분석해 다층적 보호체계를 제안한다. 핵심은 기술 개입 수준과 윤리적 우려에 따라 보호를 나누는 것으로, 외래 DNA 도입이 없는 유전자편집 품종은 식물품종보호(PVP)제도를 본뜬 sui generis 동물육성자권으로, 외래 DNA를 도입한 형질전환 동물은 기존 요건에 따라 특허로 보호하자는 것이다. 동물 대상 논문이나 PVP 제도의 DUS 요건과 육성자권 설계 논리를 비교하는 자료가 된다. 산림 신품종 출원 업무 담당자에게는 간접적 참고에 그친다.",
+      "tags": [
+        "품종보호",
+        "UPOV",
+        "육성자권",
+        "DUS"
+      ],
+      "collected_at": "2026-10-31",
+      "run": "2026-10-31"
     },
     {
       "id": "20261023-81233bdd",
