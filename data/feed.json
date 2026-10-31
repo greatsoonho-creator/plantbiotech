@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-10-30T20:31:30.534Z",
+ "generated_at": "2026-10-31T20:31:22.879Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 70,
+ "count": 67,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1038/s41538-026-01188-6",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42963353",
+   "doi": "10.1038/s41538-026-01188-6",
+   "pmid": "42963353",
+   "title": "Profiling of pollen in honey using multispectral imaging flow cytometry.",
+   "journal": "",
+   "date": "2026-10-30",
+   "authors": "Walther F, Hofmann M, Janke M, Erler S, Friedrich E, Treder M, Rakosy D, Harpole WS, Mäder P, Berdún A, Hornick T, Dunker S.",
+   "abstract": "Pollen identification from honey (melissopalynology) is of great economic and consumer relevance. Traditional microscopy is time-consuming and dependent on expert knowledge, thus limiting high-throughput analyses. We tested whether pollen images generated with Multispectral Imaging Flow Cytometry (MIFC) classified by machine learning (ML) (convolution neural networks (CNNs) and random forest (RF)) can serve as a fast and reproducible method for identifying pollen in honey. We examined how the classification of honey pollen is affected by images from different matrices (anther and honey samples), how results compare with traditional microscopic analysis and used a set of human-interpretable image features to better explain ML results. The study focused on the six common target pollen in honey Brassica, Castanea, Centaurea, Helianthus, Phacelia and Tilia type. A classifier trained with a combination of anther and honey brightfield and fluorescence images provided the best predictions for 13 monofloral and 10 polyfloral honeys. Yielding pollen identification results comparable to microscopy, three times more pollen can be evaluated, and a measurement time of a maximum of 10 min, the method demonstrates its high potential as a powerful screening tool in melissopalynology.",
+   "url": "https://doi.org/10.1038/s41538-026-01188-6"
+  },
   {
    "key": "doi:10.68372/bt90q205",
    "groups": [
@@ -109,6 +126,23 @@
    "authors": "M. Aslam, M. Khan, I. Muhammad, A. Huma, Sana Ghayas, S. Alam",
    "abstract": "Antimicrobial resistance, driven by antimicrobial misuse and declining therapeutic innovation, poses a critical global health challenge. This study evaluated the physicochemical profiles and antimicrobial efficacy of five monofloral Pakistani honeys, namely Helianthus annuus L. (Sunflower), Ziziphus jujuba (Beri), Acacia modesta (Phulai), Justicia adhatoda L. (Baikar), and Brassica spp. (Mustard), alongside Leptospermum scoparium (Manuka) honey containing methylglyoxal (MGO 550+), against Staphylococcus aureus American Type Culture Collection (ATCC 6538) and Escherichia coli (ATCC 8739). Physicochemical properties were assessed according to AOAC guidelines, whereas antibacterial activity was determined using agar well diffusion and broth microdilution assays. Quality parameters across the honey varieties met international standards, with ranges of 28.9-78.2 mm Pfund for color, 3.36-4.20 for pH, 29.6-43.5 meq/kg for acidity, 16.0%-19.2% for moisture, 0.14-0.43 g/100 g for ash, 6.0-6.7 g/100 g for sucrose, 76.0-81.6 g/100 g for total sugars, 0.28-0.65 mS/cm for electrical conductivity, and 21.2-40.0 mg/kg for hydroxymethylfurfural. Proline content (≥180 mg/kg), diastase numbers (DN) (10.0 ± 0.46 to 39.32 ± 0.58 DN), and invertase activity IN (63.00 ± 8.70 to 75.33 ± 5.70 IN) confirmed the freshness and purity of the honeys. In diffusion assays, Manuka honey produced the largest inhibition zones against E. coli (13.40 mm) and S. aureus (14.40 mm). Among the local varieties, Mustard honey showed strong activity against E. coli (13.40 mm), whereas Baikar honey showed the greatest activity against S. aureus (13.90 mm); Sunflower honey showed the lowest efficacy against E. coli (8.90 mm). The lowest minimum inhibitory concentrations (MICs) were recorded for Manuka honey (7.8% …",
    "url": "https://doi.org/10.22207/jpam.20.4.16"
+  },
+  {
+   "key": "doi:10.54097/pwanqz92",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "47a8208a2ec698866032ce6dd30cc3f3fc9fb6c3",
+   "doi": "10.54097/pwanqz92",
+   "pmid": "",
+   "title": "Research on Image Enhancement of Crisp-Ripe Stage Red Jujube Based on Particle Swarm Optimization Algorithm",
+   "journal": "Journal of Innovation and Development",
+   "date": "2026-10-27",
+   "authors": "Qi-Hang Yuan, Long Wang, Lu Shi, Qiao-Nan Yang, Yong-De Zhang",
+   "abstract": "Machine vision technology plays a crucial role in non-destructive detection and online monitoring of deep processing for red dates during the crisp-ripe stage. However, due to factors such as uneven illumination in the collection environment and illumination attenuation on the curved surface of quasi-spherical objects, the collected images of red dates during the crisp-ripe stage often suffer from issues such as low overall image quality, difficulty in recognizing epidermal fruit spots and fine textures, low contrast between fruit surface crack defects and normal fruit surfaces, and blurred fruit body edges, which increase the difficulty of accurately identifying fruit surface features. In response to the common problems of over-enhancement and loss of details in current image enhancement methods when processing images of red dates during the crisp-ripe stage, this paper combines the practical requirements of preserving details of the fruit body and crack edges, enhancing epidermal texture clarity, balancing contrast and noise, and constructs a multi-dimensional image enhancement fitness function. A method for enhancing images of red dates during the crisp-ripe stage based on the Particle Swarm Optimization (PSO) algorithm is proposed. Through comparative experiments on image enhancement of red dates during the crisp-ripe stage, the effectiveness and superiority of the proposed image enhancement method are verified from both subjective visual effects and objective evaluation indicators.",
+   "url": "https://doi.org/10.54097/pwanqz92"
   },
   {
    "key": "t:genome wide analysis of the gata gene family in castanea mollissima reveals key regulators involved in salt stress respo",
@@ -330,6 +364,23 @@
    "authors": "Jia-Fei Liang, Hai-Lian Liang, Ruo-Xi Li, Lu-Qing Zhou, Wen-Jie Zhou, Fei Chen",
    "abstract": "Aims: Land-use types and soil salinization in arid desert–oasis ecotones are associated with differences in soil CO2 efflux, yet the combined effects of multiple environmental factors remain poorly understood. This study aims to characterise the seasonal patterns, temperature sensitivity, and major correlates of soil respiration across four typical land-use types, thereby supporting regional carbon budget assessments. Methods: We conducted in situ soil respiration monitoring during the 2024 growing season (April–October) in four representative habitats (Populus euphratica forest, jujube orchard, grassland, and wetland) in the Aksu desert–oasis ecotone, Xinjiang. Concurrent measurements of topsoil (0–20 cm) physicochemical properties and extracellular enzyme activities were taken. Pearson correlation, variation partitioning, and the Van’t Hoff temperature-response model were employed. Results: Soil respiration exhibited a unimodal seasonal pattern peaking in July, with growing-season mean fluxes ranked as grassland > wetland > jujube orchard > Populus euphratica forest. Temperature sensitivity (Q10) followed wetland (3.23) > grassland (2.44) > orchard (2.08) > forest (1.57), a pattern consistent with differences in soil moisture and salinity among the sites. Respiration correlated positively with pH, electrical conductivity, total salt, organic matter, urease, and sucrase, and negatively with available N, P, K, and peroxidase (p < 0.05). Physicochemical properties and enzyme activities jointly explained 70.7% of variation, with total soil salt (12.5%), sucrase (12.2%), and available N (11.1%) as the top contributors. Root and heterotrophic respiration accounted for 37.2% and 62.8% of total soil respiration, respectively, with heterotrophic respiration dominating in all s…",
    "url": "https://doi.org/10.3390/ecologies7040114"
+  },
+  {
+   "key": "t:young persimmon fruit extract as a multifunctional natural additive in ice cream effects on physical properties antioxid",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "PMC13722081",
+   "doi": "",
+   "pmid": "",
+   "title": "Young persimmon fruit extract as a multifunctional natural additive in ice cream: Effects on physical properties, antioxidant functionality, and sensory acceptability",
+   "journal": "",
+   "date": "2026-10-23",
+   "authors": "Kobayashi M, Hara T, Sunahara A, Ishigaki M, Tsurunaga Y.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13722081/?tool=EBI"
   },
   {
    "key": "doi:10.1556/066.2026.00245",
@@ -1095,109 +1146,6 @@
    "authors": "Bin-Bin Li, Qian Mu, Hui-Jing Guo, Wen-Ting Jia, Ya Liu, Xin-Wen Jin",
    "abstract": "Co-fermentation with Saccharomyces cerevisiae and selected non-Saccharomyces yeasts is an effective approach for producing fruit wines with distinctive aromas. This study aimed to improve the aroma complexity of jujube wine by evaluating multi-strain sequential inoculation strategies. Two indigenous non-Saccharomyces strains, Hanseniaspora uvarum TD74 and Metschnikowia pulcherrima HJ79, were sequentially inoculated for fermentation in combination with S. cerevisiae. The physicochemical properties and volatile compound profiles of jujube wines produced under different inoculation conditions were analyzed using HS-SPME-GC–MS, coupled with electronic nose, electronic tongue, and chemometric analyses. Compared with single-strain fermentation, sequential inoculation with the two non-Saccharomyces yeasts produced significantly more distinct volatile profiles. In particular, the triple-strain sequential inoculation group (MHS) exhibited higher semi-quantitative levels of most ethyl esters, with a more pronounced fruity aroma in the wine, consistent with the results of sensory analysis. These findings demonstrated that the use of multiple non-Saccharomyces yeasts is an effective strategy for enhancing the aromatic diversity and overall sensory quality of jujube wine, offering a theoretical basis for the rational design of optimized starter cultures for industrial jujube wine production.",
    "url": "https://doi.org/10.3390/foods15203604"
-  },
-  {
-   "key": "doi:10.3390/biomass6050090",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "c880a3ec038a199741aeede8e35e87f62468d325",
-   "doi": "10.3390/biomass6050090",
-   "pmid": "",
-   "title": "Cascading Valorization of Residual Chestnut Biomass: Linking Aqueous Extraction, Reverse Osmosis, Spray Drying, and Solid Reuse",
-   "journal": "Biomass",
-   "date": "2026-10-09",
-   "authors": "Pablo Fernández Santos, Claudia García-Revuelta, Lucía García-Flórez, M. A. González-Arrojo, José Ramón Álvarez Saiz, Susana Luque",
-   "abstract": "Residual chestnut biomass was evaluated in a cascading valorization route combining hot-water extraction, extractant reuse, reverse osmosis (RO), spray drying, and subsequent use of the extracted solid. Two heterogeneous residual Castanea sativa streams were studied at laboratory and pilot scale. Successive extraction at 100 ∘C recovered up to 141 mg gallic acid equivalents (GAE) g−1 dry biomass as Folin-reactive TPC, with 90–93% of the seven-stage response recovered after four fresh-water stages. Reusing the liquid on fresh biomass increased Folin-reactive TPC to 12.0–24.0 mg GAE mL−1. Ultrafiltration did not provide useful fractionation, whereas RO gave >99.9% apparent Folin-reactive TPC retention and 96.5–97.6% total-solids retention; standard batches achieved 86.7–93.5% volume reduction. Carrier-free laboratory spray drying gave a maximum dry-solids collection recovery of approximately 60–62% in the favorable region near 20% feed solids. A representative powder contained 488±27 mg GAE g−1 dry matter, showed a DPPH IC50 of 13.7±1.1μg mL−1, water activity of 0.5850, and a volume-median particle size d50 of 7.42 μm. SEM showed predominantly spherical/sub-spherical particles together with hollow, concave, and partially collapsed particles. Complementary FTIR, MALDI-TOF, SEC-GPC, and qualitative on-flow ESI-MS provided structural and molecular-size fingerprints consistent with chestnut hydrolysable-tannin-related species, while individual assignments remain tentative. After two extraction cycles, residual biomass retained a net calorific value of 18.1–18.2 MJ kg−1 dry basis, although pellet durability decreased. The results define practical trade-offs linking liquid-product recovery and solid-residue valorization in an integrated chestnut-biomass cascade.",
-   "url": "https://doi.org/10.3390/biomass6050090"
-  },
-  {
-   "key": "doi:10.3390/biology15201794",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "4dde667feed5abbd65a35cb7d3e9f04502e0ff8a",
-   "doi": "10.3390/biology15201794",
-   "pmid": "",
-   "title": "Effects of Different Formulations of Exogenous Nutrient Bag Waste on Soil Properties and Physiological Activities and Root Transcriptomic Responses of Oat",
-   "journal": "Biology",
-   "date": "2026-10-09",
-   "authors": "Li-Bing Gong, Le Wang, Li-Ping Su, Wei Sa, Quan-Min Dong",
-   "abstract": "This study used typical chestnut soil from Huangyuan County, Qinghai Province as the experimental soil, and selected three oat varieties, “Baiyan 7”, “Qingyan 2”, and “Qinghai 444”, for mixed sowing. A blank control (CK) and five treatments with different ratios of exogenous nutrient bag waste (PF-R-1 to PF-R-5) were established. Through soil physicochemical analysis, microbial biomass determination, RNA sequencing (RNA-Seq), and weighted gene co-expression network analysis (WGCNA), the effects of exogenous nutrient bag waste with different ratios soil nutrient availability, microbial activity and root gene expression in oats were systematically evaluated. The results showed that most treatments enhanced soil organic matter, nitrogen content, and microbial activity. Transcriptomic analysis revealed that the comparison between PF-R-3 and PF-R-2 treatments exhibited the highest total number of differentially expressed genes (DEGs), with enrichment in pathways related to ribosomal protein translation, oxidative phosphorylation energy metabolism, and DNA damage repair. These enrichment patterns suggest potential changes in energy metabolism and protein synthesis, although direct functional validation was not performed. Moreover, DEGs uniquely identified in PF-R-3 were significantly enriched in nitrogen metabolism and secondary metabolite biosynthesis pathways; WGCNA identified the coral2 module as the core regulatory module, with its genes predominantly enriched in functions related to transmembrane transport and plant hormone signal transduction, which were highly consistent with efficient root nutrient acquisition and the maintenance of metabolic homeostasis. Fluorescence staining confirmed the successful colonization of oat root tissues by Morchella mycelium. Taken toget…",
-   "url": "https://doi.org/10.3390/biology15201794"
-  },
-  {
-   "key": "doi:10.1002/jsfa.71110",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42852909",
-   "doi": "10.1002/jsfa.71110",
-   "pmid": "42852909",
-   "title": "Persimmon proanthocyanidins-mucins interaction mechanism: structural characteristics, rheological properties, and molecular docking.",
-   "journal": "The Journal of the Science of Food and Agriculture",
-   "date": "2026-10-09",
-   "authors": "Ge Z, Zhang X, Zhao Y, Li X, Liu M, Nie R, Zhao G, Wang X.",
-   "abstract": "Background Mucins (MUCs), as the principal constituents of mucus, are closely associated with the transportation and absorption of various bioactive compounds. This study investigated the structural and rheological characteristics of persimmon proanthocyanidin (PPA)-MUC complexes and the interaction mechanism between PPAs and MUCs to elucidate the influence of MUCs on the digestion behavior of PPAs. Results Atomic force microscopy illustrated that the interaction between PPAs and MUC altered the aggregation state and particle size of MUC. Circular dichroism and X-ray diffraction analyses indicated that PPAs induced changes in the secondary and crystal structures of MUC. Rheological measurements demonstrated that both the storage (G') and loss (G″) moduli of PPA-MUC complexes increased with frequency, suggesting enhanced elastic fluid properties. Isothermal titration calorimetry indicated that the binding of PPAs and their structural monomers to MUC was exothermic (∆G Conclusion Proanthocyanidins and MUC exhibited characteristic intermolecular interactions. These results provide new insights into the development of MUC-based nanocarrier systems to improve the intestinal bioavailability of PPAs. © 2026 Society of Chemical Industry.",
-   "url": "https://doi.org/10.1002/jsfa.71110"
-  },
-  {
-   "key": "doi:10.1080/10942912.2026.2743963",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "d66b86cc637aba4c2007d083f01335ba344879d2",
-   "doi": "10.1080/10942912.2026.2743963",
-   "pmid": "",
-   "title": "Combined hot water treatment and ultraviolet light improve postharvest quality and extend market window of persimmon under ambient storage",
-   "journal": "International Journal of Food Properties",
-   "date": "2026-10-09",
-   "authors": "Muhammad Wasim Haider, M. T. Akram, Sarvet Jehan, W. Elmenofy, Sevda Alieva, Trobjon Makhkamov",
-   "abstract": "",
-   "url": "https://doi.org/10.1080/10942912.2026.2743963"
-  },
-  {
-   "key": "doi:10.3389/fpls.2026.1970840",
-   "groups": [
-    "dus-pvp"
-   ],
-   "cat": "pvp",
-   "source": "semanticscholar",
-   "id": "543478d03c4703e5b8a8a9593637dc189abe0fd6",
-   "doi": "10.3389/fpls.2026.1970840",
-   "pmid": "",
-   "title": "Fine-tuning improves deep learning-based digital phenotyping of lettuce genetic resources",
-   "journal": "Frontiers in Plant Science",
-   "date": "2026-10-09",
-   "authors": "Eunju Lee, Yuseok Jeong, H. Bae, Yoon-Jung Lee, Seong-Hoon Kim, Young-Wang Na",
-   "abstract": "Morphological characterization of agricultural genetic resources relies largely on visual assessment by experts, and applying the same criteria repeatedly to large collections is labor-intensive. Image-based deep learning can support this process, but systematic evidence on training strategies suited to genebank trait data remains limited. This study targeted six morphological traits of lettuce genetic resources characterized according to the test guidelines of the International Union for the Protection of New Varieties of Plants (UPOV). Using genebank images accumulated from 2012 to 2025, six convolutional neural networks were trained with three training strategies under identical conditions, and their performance was compared. Fine-tuning achieved the highest mean macro F1-score in 35 of the 36 backbone–trait combinations and significantly outperformed training from scratch and feature extraction, whereas no single backbone was superior across all traits. Misclassifications were concentrated in morphologically adjacent classes rather than randomly distributed, and for the ordinal traits, errors spanning two or more class levels were rare. These patterns suggest that the remaining classification difficulty was associated in part with the morphological continuity between neighboring classes. The attainable performance also differed among traits, distinguishing traits for which the training strategy alone achieved relatively high performance from those for which it did not. These results provide empirical evidence for selecting training strategies and for determining the role of model-assisted characterization on a trait-by-trait basis in genebanks.",
-   "url": "https://doi.org/10.3389/fpls.2026.1970840"
-  },
-  {
-   "key": "doi:10.1093/treephys/tpag150",
-   "groups": [
-    "raspberry",
-    "pine"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "46661c385c1f68a1ab50a05398dac4a0f6b9322f",
-   "doi": "10.1093/treephys/tpag150",
-   "pmid": "42852828",
-   "title": "Distribution, Development, and Function of Resin Canals in Conifers: Insights from Cellular and Genomic Perspectives.",
-   "journal": "Tree Physiology",
-   "date": "2026-10-09",
-   "authors": "Yi Feng, Shu Diao, Xiao-Hui Lin, Cai-Xia Wang, Xiao-Ping Wang, Yang-Dong Wang",
-   "abstract": "Resin canals are tunnel-like tissue structures primarily responsible for synthesizing and secreting resin. They consist of specialized secondary metabolite-synthesizing epithelial cells and supportive subsidiary cells, which are arranged to form distinctive intercellular spaces. In conifers, resin canals can develop during normal development or be induced by environmental stimuli, which often form an interconnected network and play a crucial role in defense against pathogens and insects. Despite their importance in resin secretion and defense, the mechanisms underlying their formation and function remain poorly understood. In this review, we summarize recent advances in the study of resin canals in conifers from the perspectives of cellular development, defense mechanisms, and molecular regulation. We analyze the distribution patterns, subcellular characteristics and formation and developmental processes of resin canals across different conifer species. Based on studies of traumatic resin canals, we propose a developmental model that depicts the initiation from cambial activity to cell differentiation and canal formation. Furthermore, we focus on resin canal-specific genes and analyze the functions and expression patterns of identified related genes. With the advancement of conifer genome sequencing and single-cell technologies, future research on resin canal regulatory mechanisms and functions is facing unprecedented opportunities. We propose a strategic framework aimed at enhancing conifer breeding, particularly for traits such as stress resilience, disease resistance and wood quality.",
-   "url": "https://doi.org/10.1093/treephys/tpag150"
   }
  ]
 }
