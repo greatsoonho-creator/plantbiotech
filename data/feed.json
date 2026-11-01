@@ -1,13 +1,149 @@
 {
- "generated_at": "2026-10-31T20:31:22.879Z",
+ "generated_at": "2026-11-01T20:31:18.779Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 67,
+ "count": 77,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1016/j.jfca.2026.109576",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "d0bd69f165910c80ebdedfa3897d7d0631cde599",
+   "doi": "10.1016/j.jfca.2026.109576",
+   "pmid": "",
+   "title": "Effect of thermal sterilization intensity on starch composition, structure and in vitro hydrolysis behavior of chestnuts",
+   "journal": "Journal of Food Composition and Analysis",
+   "date": "2026-11-01",
+   "authors": "Shi-Qi Liao, Hui-Yu Kuang, Shao-Jia Wang, Chun-Li Kong, Bei Wang",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jfca.2026.109576"
+  },
+  {
+   "key": "doi:10.21273/hortsci19557-26",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "614c1c0dae7684dd84b12e14e7b349ebf1908aef",
+   "doi": "10.21273/hortsci19557-26",
+   "pmid": "",
+   "title": "Duanhuayunfeng: A New Cultivar of Chinese Chestnut with Short Catkins",
+   "journal": "Hortscience",
+   "date": "2026-11-01",
+   "authors": "Yang Liu, Yu Xing, L. Qin, Wei-Wei Zhang, Bo-Qian Yan, Bin Yan",
+   "abstract": "",
+   "url": "https://doi.org/10.21273/hortsci19557-26"
+  },
+  {
+   "key": "doi:10.1016/j.conbuildmat.2026.148503",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "54788d433f6e8622bfd8b8e97beb7477db6a8bdc",
+   "doi": "10.1016/j.conbuildmat.2026.148503",
+   "pmid": "",
+   "title": "Experimental assessment of bond-line shear strength and delamination resistance in sweet chestnut glulam",
+   "journal": "Construction and Building Materials",
+   "date": "2026-11-01",
+   "authors": "Leonardo Pianosi, Angelo Aloisio, Jakob Sanger, Ronny Bredesen, Yue Wang, Bruno Briseghella",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.conbuildmat.2026.148503"
+  },
+  {
+   "key": "doi:10.1016/j.lwt.2026.120134",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "ff4e2aaaf5fa9be9046aa0b9ba74be6b21746e6f",
+   "doi": "10.1016/j.lwt.2026.120134",
+   "pmid": "",
+   "title": "One-step BEM-based immobilization and purification of levansucrase for biocatalytic production of levan-enriched jujube juice",
+   "journal": "LWT",
+   "date": "2026-11-01",
+   "authors": "Kai-Ge Peng, Qing-Yong Meng, Ya-Kun Hou, Fang-Kun Zhao, Ya-Xin Sang",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.lwt.2026.120134"
+  },
+  {
+   "key": "doi:10.1016/j.jarmap.2026.100748",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "ce39f80cb1e51d70dafc6f578308fb554f5eed20",
+   "doi": "10.1016/j.jarmap.2026.100748",
+   "pmid": "",
+   "title": "Contrasting developmental patterns of secondary-metabolite concentration and per-seed content in Ziziphus jujuba var. spinosa seeds: Implications for harvest-stage selection",
+   "journal": "Journal of Applied Research on Medicinal and Aromatic Plants",
+   "date": "2026-11-01",
+   "authors": "Jing Xuan, Qing-Feng Huai, Jing Tian, He-Ming Ran, Xiang-Qian Lv, Ji-Dong Ju",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jarmap.2026.100748"
+  },
+  {
+   "key": "doi:10.21273/hortsci19395-26",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "2d5ea0f4aece674cef076e834208558ab2769f2f",
+   "doi": "10.21273/hortsci19395-26",
+   "pmid": "",
+   "title": "Free Amino Acid Composition in Various Organs, Fruit Maturity Stages, and Varieties of Jujube",
+   "journal": "Hortscience",
+   "date": "2026-11-01",
+   "authors": "Chen Yang, Bi-Cong Li, Jin Yu, Xiao-Hua Yu, Ai-Ling Zhao, Xiao-Fang Xue",
+   "abstract": "Jujubes ( Ziziphus jujuba Mill.) are rich in a variety of nutrients, among which free amino acids are important indicators, reflecting their nutritional quality and functional value. We investigated the dynamic changes in free amino acid contents during jujube fruit ripening, analyzed the differences among different organs and varieties, and provide a scientific basis for the quality evaluation and comprehensive utilization of amino acids in jujubes. Free amino acid contents in different jujube organs (fruit, flower, leaf), at five different developmental stages, and in the fruit of eight jujube varieties were determined using an automatic amino acid analyzer. Twelve free amino acids were detected in all tested samples, with total contents ranging from 50.35 to 76.26 mg/100 g fresh weight (FW). In terms of dynamic changes, in general the total free amino acid contents in fruit of the four varieties showed a decreasing trend and then an increase during ripening. Specifically, the total content was highest at the young fruit stage and second highest at the full-red stage in ‘Beijingsuanzao’. It was highest at the full-red stage and second greatest at the half-red stage in ‘Huanghuadongzao’, ‘Xinzhenghuizao’, and ‘Tailihong’. The total content was lowest at the expansion stage in ‘Tailihong’, but lowest at the white-ripe stage in the other three varieties. In terms of organ differences, the total free amino acid content in different organs followed the order fruit > flower > leaf. For varietal differences, the total free amino acid content in eight jujube varieties at the crisp-ripe stage differed significantly, ranging from 154.89 to 544.46 mg/100 g FW. The order from high to low was ‘Huanghuadongzao’ > ‘Tailihong’ > ‘Beijingsuanzao’ > ‘Jinsixiaozao’ > ‘Xinzhenghuizao’ > …",
+   "url": "https://doi.org/10.21273/hortsci19395-26"
+  },
+  {
+   "key": "doi:10.1111/1755-0998.70221",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42958609",
+   "doi": "10.1111/1755-0998.70221",
+   "pmid": "42958609",
+   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
+   "journal": "Molecular Ecology Resources",
+   "date": "2026-11-01",
+   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
+   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
+   "url": "https://doi.org/10.1111/1755-0998.70221"
+  },
+  {
+   "key": "doi:10.1094/phyto-08-26-0249-r",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42965945",
+   "doi": "10.1094/phyto-08-26-0249-r",
+   "pmid": "42965945",
+   "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe.",
+   "journal": "",
+   "date": "2026-10-31",
+   "authors": "Hellin P, Richet P, Demonty E, de Koning PPM, de Krom C, den Hartog WGSA, Westenberg M, Botermans M, Druciarek T, Winter S, Rimbaud L, Dubuis N, Blouin AG, Kovačec E, Grubar B, Toplak N, Steyer S, Mav",
+   "abstract": "A novel emaravirus provisionally named blackberry leaf blotch virus (BLBV), was identified from cultivated and wild blackberry plants (Rubus sp.) exhibiting leaf blotch and vein banding/feathering symptoms. BLBV has been detected in Belgium, France, the Netherlands and Slovenia. The virus is most closely related to raspberry leaf blotch virus (RLBV, Emaravirus idaeobati) infecting raspberry (Rubus idaeus) in Europe, and is distant from blackberry leaf mottle-associated virus (BLMaV, Emaravirus rubi), infecting blackberry in the USA. Up to eight RNA segments were identified in BLBV isolates, including the four core RNA segments present in all emaraviruses and up to four additional non-core RNA segments. Spherical virus-like particles (70-90 nm), morphologically similar to emaravirus virions, were observed in sap from symptomatic blackberry tissue by transmission electron microscopy. The proteins encoded by the core RNA segments were all more than 20% divergent from their closest known emaravirus homologues, supporting the classification of BLBV as a new species. Genetic diversity was found among isolates even at the country level, with some additional RNA segments only detected for some isolates. Eriophyoid mites, known vectors of emaraviruses, were found on several infected plants and molecular barcoding identified the them as Epitrimerus gibbosus, an eriophyoid species previously reported on Rubus spp. in Europe. Transmission bioassays performed with these mites in a greenhouse supported E. gibbosus as a putative vector of BLBV. This discovery raises questions about the impact of BLBV on blackberry crops and the need for virus surveillance in plant propagation material.",
+   "url": "https://doi.org/10.1094/phyto-08-26-0249-r"
+  },
   {
    "key": "doi:10.1038/s41538-026-01188-6",
    "groups": [
@@ -19,7 +155,7 @@
    "doi": "10.1038/s41538-026-01188-6",
    "pmid": "42963353",
    "title": "Profiling of pollen in honey using multispectral imaging flow cytometry.",
-   "journal": "",
+   "journal": "npj Science of Food",
    "date": "2026-10-30",
    "authors": "Walther F, Hofmann M, Janke M, Erler S, Friedrich E, Treder M, Rakosy D, Harpole WS, Mäder P, Berdún A, Hornick T, Dunker S.",
    "abstract": "Pollen identification from honey (melissopalynology) is of great economic and consumer relevance. Traditional microscopy is time-consuming and dependent on expert knowledge, thus limiting high-throughput analyses. We tested whether pollen images generated with Multispectral Imaging Flow Cytometry (MIFC) classified by machine learning (ML) (convolution neural networks (CNNs) and random forest (RF)) can serve as a fast and reproducible method for identifying pollen in honey. We examined how the classification of honey pollen is affected by images from different matrices (anther and honey samples), how results compare with traditional microscopic analysis and used a set of human-interpretable image features to better explain ML results. The study focused on the six common target pollen in honey Brassica, Castanea, Centaurea, Helianthus, Phacelia and Tilia type. A classifier trained with a combination of anther and honey brightfield and fluorescence images provided the best predictions for 13 monofloral and 10 polyfloral honeys. Yielding pollen identification results comparable to microscopy, three times more pollen can be evaluated, and a measurement time of a maximum of 10 min, the method demonstrates its high potential as a powerful screening tool in melissopalynology.",
@@ -58,6 +194,23 @@
    "authors": "Kodeeswaran P.",
    "abstract": "This study describes a new Dysommina species, based on two specimens collected at a depth of ca. 600 m in the Lakshadweep Sea off south-western India. The new species differs from its congeners in having fewer total vertebrae (120-127 vs. 134 in D. castanea, 133-134 in D. brevis, and 137-141 in D. orientalis), fewer predorsal vertebrae (14-15 vs. 16 in D. pygmaea), fewer preanal vertebrae (24-27 vs. 28-31 in D. rugosa), and in a combination of morphometric, meristic, dentition and colouration characters. DNA sequences were generated and analysed.",
    "url": "https://doi.org/10.1111/jfb.70711"
+  },
+  {
+   "key": "doi:10.32854/vztqxm65",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "c3b5f9352f49b8b647c69fdbd28af7d473bbaa3c",
+   "doi": "10.32854/vztqxm65",
+   "pmid": "",
+   "title": "Somatic embryogenesis from leaf segments of Quercus castanea Mill.",
+   "journal": "Agro Productividad",
+   "date": "2026-10-29",
+   "authors": "C. Castillo-Martínez, E. Velasco-Bautista, M. Vallejo-Reyna, M. T. González-Arnao, Lizbeth Fernández-Cruz",
+   "abstract": "Objective: To evaluate the capacity of leaf segments obtained from young shoots collected from adult Quercus castanea Mill. trees to form embryogenic callus and somatic embryos under in vitro conditions. Design/methodology/approach: The study was conducted in two stages. In the first stage, two culture media were compared to induce embryogenic callus and somatic embryos from leaf segments. In the second stage, the medium that produced the best response was evaluated under two incubation conditions, light and darkness, to determine their effect on callus growth and somatic embryo development. Results: In the first stage, WPM medium supplemented with 0.5 mg L⁻¹ 2,4-D showed the best response, with 82% embryogenic callus formation and 32% somatic embryo formation. In the second stage, no statistically significant differences were detected between light and darkness, indicating that these conditions did not substantially did not significantly affect callus volume.. Somatic embryos maturation reached 95%after transfer to MS medium without growth regulators and supplemented with 100 mg L⁻¹ polyvinylpyrrolidone. Limitations/implications: The study was conducted under controlled in vitro culture conditions and focused on the response of leaf explants obtained from young shoots of adult trees; therefore, further studies are required to strengthen the protocol and evaluate its reproducibility under broader experimental conditions. Findings/conclusions: Leaf segments of Q. castanea constitute a viable source of explants for the induction of somatic embryogenesis. WPM medium supplemented with 2,4-D promoted embryogenic callus induction and somatic embryo formation, whereas incubation under light or darkness did not significantly modify the response.",
+   "url": "https://doi.org/10.32854/vztqxm65"
   },
   {
    "key": "doi:10.1139/cjm-2026-0110",
@@ -160,6 +313,23 @@
    "authors": "Wang X, Liu X, Liu J, Niu L, Quan H, Zhang T, Li Q, Zhang G, Yu L.",
    "abstract": "",
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13696283/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1016/j.chroma.2026.467584",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42965990",
+   "doi": "10.1016/j.chroma.2026.467584",
+   "pmid": "42965990",
+   "title": "Agricultural Waste-derived bio-sorbents used for the analysis of UV filters in sea water samples: An in-depth comparison with commercial sorbents.",
+   "journal": "",
+   "date": "2026-10-26",
+   "authors": "Voutsas P, Perrucci M, Locatelli M, Tolkou AK, Samanidou V.",
+   "abstract": "The development of sustainable sample preparation strategies is increasingly important for reducing the environmental footprint of analytical methods. In this study, waste-derived biosorbents were investigated as low-cost and green alternatives to commercial materials for the extraction of organic UV filters from sea water samples. Banana (BAN), lime, orange, and pomegranate peels, alongside with activated carbon derived from waste chestnut shells (ACCHE), were evaluated for the extraction efficiency of oxybenzone, enzacamene, avobenzone, octocrylene, and ethylhexyl salicylate. BAN and ACCHE exhibited the highest adsorption performance, with BAN selected for further optimization. A dispersive solid-phase extraction (d-SPE) procedure using BAN as sorbent, coupled with HPLC- DAD was developed and validated. The method demonstrated good linearity (R² > 0.99), relative recoveries of 84.4-106.8% in intra-day study and 88.8-103.6% in inter-day study, and satisfactory precision (RSD: 0.7-12.6%). Natural sorbents BAN and ACCHE were also compared with commercial SPE sorbents, Oasis HLB, LiChrolut RP-18, and Discovery C18 and showed comparable extraction performance. The optimised method was applied to seawater samples to confirm its suitability, with avobenzone and octocrylene detected at sub-ng/mL concentrations in samples collected during the summer season. Green analytical metrics (RAPI, ComplexMoGAPI, BAGI and VIGI) were utilised to further support the sustainability, practicality, robustness and innovation of the proposed method. Overall, this study demonstrates the potential use of banana peels as an effective waste-derived sorbent for the extraction and preconcentration of UV filters, offering an efficient alternative to conventional sorbents, while valorising biomass was…",
+   "url": "https://doi.org/10.1016/j.chroma.2026.467584"
   },
   {
    "key": "doi:10.1007/s11270-026-10097-z",
@@ -298,6 +468,23 @@
    "url": "https://doi.org/10.17803/lexgen-2026-5-3-86-97"
   },
   {
+   "key": "doi:10.3897/imafungus.17.208364",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42967114",
+   "doi": "10.3897/imafungus.17.208364",
+   "pmid": "42967114",
+   "title": "Molecular and morphological characterization of nine new Gnomoniopsis species ( Diaporthales , Gnomoniaceae ): Genomic insights into evolution and phylogeny.",
+   "journal": "",
+   "date": "2026-10-23",
+   "authors": "Wang X, Jiang Y, Liu W, Yan X, Sheng J, Ai C, Liu X, Zhang X, Meng Z, Wang S.",
+   "abstract": "Gnomoniopsis comprises parasitic, endophytic, and saprophytic fungi. Since its establishment, this genus has presented considerable taxonomic challenges owing to extensive morphological overlap among species, rendering traditional classification systems that rely predominantly on phenotypic characteristics no longer applicable. To resolve the current taxonomic confusion and clarify the species diversity, phylogenetic relationships, and genomic adaptive characteristics of Gnomoniopsis, the present study was carried out. In this study, the internal transcriptional spacer (ITS), translation extension factor 1-α (tef1), and partial beta-tubulin (tub2) were analyzed and combined to observe morphological characteristics of Gnomoniopsis. The isolates were identified from chestnut (Castanea), Embelia vestita, tea (Camellia sinensis), and other hosts in Sichuan Province, as well as from Quercus species and partial leaf rot from Fujian Province. Nine new species, namely G. xiaoheijiangensissp. nov., G. embeliaesp. nov., G. yunvfengensissp. nov., G. quercussp. nov., G. ledongensissp. nov., G. yonganensissp. nov., G. conghuaensissp. nov., G. loropetalisp. nov., and G. qixiensissp. nov., were obtained. Phylogenomic analysis based on 7,942 orthologous proteins' clusters revealed distinct species boundaries within Gnomoniopsis. Phylogenomics has thus effectively resolved the ambiguous phylogenetic relationships in this genus. This work identifies nine previously undescribed Gnomoniopsis species, clarifies the species diversity and conserved genomic characteristics within the genus, and lays a foundation for subsequent taxonomic analyses of Gnomoniopsis.",
+   "url": "https://doi.org/10.3897/imafungus.17.208364"
+  },
+  {
    "key": "doi:10.1007/s11094-026-03582-6",
    "groups": [
     "chestnut"
@@ -364,6 +551,23 @@
    "authors": "Jia-Fei Liang, Hai-Lian Liang, Ruo-Xi Li, Lu-Qing Zhou, Wen-Jie Zhou, Fei Chen",
    "abstract": "Aims: Land-use types and soil salinization in arid desert–oasis ecotones are associated with differences in soil CO2 efflux, yet the combined effects of multiple environmental factors remain poorly understood. This study aims to characterise the seasonal patterns, temperature sensitivity, and major correlates of soil respiration across four typical land-use types, thereby supporting regional carbon budget assessments. Methods: We conducted in situ soil respiration monitoring during the 2024 growing season (April–October) in four representative habitats (Populus euphratica forest, jujube orchard, grassland, and wetland) in the Aksu desert–oasis ecotone, Xinjiang. Concurrent measurements of topsoil (0–20 cm) physicochemical properties and extracellular enzyme activities were taken. Pearson correlation, variation partitioning, and the Van’t Hoff temperature-response model were employed. Results: Soil respiration exhibited a unimodal seasonal pattern peaking in July, with growing-season mean fluxes ranked as grassland > wetland > jujube orchard > Populus euphratica forest. Temperature sensitivity (Q10) followed wetland (3.23) > grassland (2.44) > orchard (2.08) > forest (1.57), a pattern consistent with differences in soil moisture and salinity among the sites. Respiration correlated positively with pH, electrical conductivity, total salt, organic matter, urease, and sucrase, and negatively with available N, P, K, and peroxidase (p < 0.05). Physicochemical properties and enzyme activities jointly explained 70.7% of variation, with total soil salt (12.5%), sucrase (12.2%), and available N (11.1%) as the top contributors. Root and heterotrophic respiration accounted for 37.2% and 62.8% of total soil respiration, respectively, with heterotrophic respiration dominating in all s…",
    "url": "https://doi.org/10.3390/ecologies7040114"
+  },
+  {
+   "key": "doi:10.1016/j.fochx.2026.104662",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42964807",
+   "doi": "10.1016/j.fochx.2026.104662",
+   "pmid": "42964807",
+   "title": "Young persimmon fruit extract as a multifunctional natural additive in ice cream: Effects on physical properties, antioxidant functionality, and sensory acceptability.",
+   "journal": "",
+   "date": "2026-10-23",
+   "authors": "Kobayashi M, Hara T, Sunahara A, Ishigaki M, Tsurunaga Y.",
+   "abstract": "Young persimmon fruit extract (YPE), a tannin-rich fruit-thinning by-product, was added to ice cream at added soluble tannin content (STC) levels of 0.0-1.0%. YPE imparted a natural reddish-brown color and significantly enhanced antioxidant activity without substantially altering pH or Brix. Microstructural, particle size, viscosity, and overrun analyses indicated that tannin-milk protein interactions densified the matrix and reduced air incorporation, improving melting resistance: complete melting required 51-54 min at 0.1-0.5% (peaking at 0.3%) added STC and 75 min at 1.0% added STC, versus 42 min for the control. Hardness, adhesiveness, and gumminess increased with added STC. Overall acceptability was maintained up to 0.5% added STC but declined at 1.0%, indicating a practical range of 0.1-0.5%. Exploratory sandwich ELISA showed a modest, concentration-dependent reduction in detectable casein and β-lactoglobulin content (up to 26%). YPE is a promising clean-label, multifunctional additive for valorizing an agricultural by-product.",
+   "url": "https://doi.org/10.1016/j.fochx.2026.104662"
   },
   {
    "key": "t:young persimmon fruit extract as a multifunctional natural additive in ice cream effects on physical properties antioxid",
@@ -1112,40 +1316,6 @@
    "authors": "C. Tamilarasan, Rakan Albarakati, C. Raja, N. B. Karthik Babu",
    "abstract": "This study investigates the multi-functional performance of epoxy composites reinforced with Indian wild jujube ( Ziziphus mauritiana ) seed particles as a sustainable and low-cost reinforcement. Composites were fabricated by hand layup with particle concentrations of 4, 8, 12, 16, and 20 wt% in an LY-556 epoxy matrix cured with HY-951 at room temperature. Mechanical, tribological, water absorption, and thermal properties were evaluated, and scanning electron microscopy was used to relate performance to morphology and interfacial behaviour. Particle size analysis showed a bimodal distribution with an average hydrodynamic diameter of 1099 nm and a polydispersity index of 0.969. The composite with 12 wt% particles showed the highest tensile strength of 43.5 MPa, which is a 14.5% improvement over pure epoxy at 38.0 MPa. The maximum flexural strength of 148.7 MPa was obtained at 8 wt% with a 7.5% improvement. Water absorption increased with filler content under both conditions, while saltwater absorption remained lower due to ion-retarded diffusion. Erosion resistance improved for all composites, with the lowest erosion rate of 1.59 mg/min at 20 wt% compared to 1.74 mg/min for pure epoxy. The lowest wear rate of 7.560 × 10⁻⁶ mm³/(Nm) was observed at 4 wt%, after which wear increased with filler content. Thermal analysis showed slower degradation and higher char residue above 450 °C with increasing particle content. This study provides one of the first comprehensive evaluations of epoxy composites reinforced solely with jujube seed particles across mechanical, tribological, and thermal domains. The utilisation of agricultural jujube seed waste as reinforcement supports circular economy principles and contributes to SDG 9 (Industry, Innovation and Infrastructure), SDG 12 (Res…",
    "url": "https://doi.org/10.1007/s43621-026-04925-9"
-  },
-  {
-   "key": "doi:10.3390/ijms27208994",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "794fff1bbd8b2356a28ae11ce41d1cd5ad053a4e",
-   "doi": "10.3390/ijms27208994",
-   "pmid": "",
-   "title": "Genome-Wide Identification of the Castanea mollissima MADS-Box Gene Family and Its Potential Roles in Female Flower Development Based on Transcriptomic and Morphological Analyses",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-10-10",
-   "authors": "L. Zeng, Xiao-Yan Hu, Hao Yang, Jia Song, Ru-Xin Guo, Haie Zhang",
-   "abstract": "Castanea mollissima is an important woody food crop in China. Late, sparse, and unstable female flower differentiation constrains the development of the chestnut industry. Here, two more-female cultivars, ‘Longquanzhuang No. 2’ (LQ) and ‘Yanqiu’ (YQ), and the control cultivar ‘Yanshanzaofeng’ (ZF) were sampled at five stages after budbreak (7–35 d) for morphological observation and transcriptome sequencing. Morphological divergence became evident at 21 d after budbreak. Transcriptome analysis identified 2223 differentially expressed genes specific to the LQ–ZF comparison at 21 d and 791 inter-cultivar differentially expressed genes shared across 21–35 d. GO enrichment analysis showed significant enrichment in transcription factor activity and related pathways. Transcription factor prediction identified MADS-box genes as candidates, and 60 MADS-box members were identified in Chinese chestnut. These comprised 29 Type I members and 31 Type II members, with the latter classified into 13 subfamilies. Integrated analysis of gene-expression patterns and predicted protein interactions showed that more Type II genes were differentially expressed in female flowers and that expression patterns differed between the more-female cultivars and the control. The contrasting expression patterns of putative positive and negative CmMADS regulators may be associated with differences in female flower developmental capacity among these cultivars. RT-qPCR analysis of four representative CmMADS genes showed that genes expressed at higher levels in female flowers generally increased during development, consistent with the transcriptome data. These findings reveal morphological divergence and dynamic CmMADS expression during female flower development in two more-female chestnut cultivars and a co…",
-   "url": "https://doi.org/10.3390/ijms27208994"
-  },
-  {
-   "key": "doi:10.3390/foods15203604",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "aa529b66341d61ba8d1e7104f2726408aa3de314",
-   "doi": "10.3390/foods15203604",
-   "pmid": "",
-   "title": "Influence of Fermentation Methods on Jujube Wine Quality: A Volatile Metabolomics-Based Investigation",
-   "journal": "Foods",
-   "date": "2026-10-10",
-   "authors": "Bin-Bin Li, Qian Mu, Hui-Jing Guo, Wen-Ting Jia, Ya Liu, Xin-Wen Jin",
-   "abstract": "Co-fermentation with Saccharomyces cerevisiae and selected non-Saccharomyces yeasts is an effective approach for producing fruit wines with distinctive aromas. This study aimed to improve the aroma complexity of jujube wine by evaluating multi-strain sequential inoculation strategies. Two indigenous non-Saccharomyces strains, Hanseniaspora uvarum TD74 and Metschnikowia pulcherrima HJ79, were sequentially inoculated for fermentation in combination with S. cerevisiae. The physicochemical properties and volatile compound profiles of jujube wines produced under different inoculation conditions were analyzed using HS-SPME-GC–MS, coupled with electronic nose, electronic tongue, and chemometric analyses. Compared with single-strain fermentation, sequential inoculation with the two non-Saccharomyces yeasts produced significantly more distinct volatile profiles. In particular, the triple-strain sequential inoculation group (MHS) exhibited higher semi-quantitative levels of most ethyl esters, with a more pronounced fruity aroma in the wine, consistent with the results of sensory analysis. These findings demonstrated that the use of multiple non-Saccharomyces yeasts is an effective strategy for enhancing the aromatic diversity and overall sensory quality of jujube wine, offering a theoretical basis for the rational design of optimized starter cultures for industrial jujube wine production.",
-   "url": "https://doi.org/10.3390/foods15203604"
   }
  ]
 }
