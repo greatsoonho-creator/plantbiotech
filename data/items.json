@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-01T06:58:00+09:00",
-  "latest_run": "2026-11-01",
+  "generated_at": "2026-11-02T06:58:00+09:00",
+  "latest_run": "2026-11-02",
   "runs": [
+    {
+      "run": "2026-11-02",
+      "at": "2026-11-02T06:58:00+09:00",
+      "count": 5,
+      "note": "논문 5건(밤나무1·대추1·참나무2·산딸기/블랙베리1). 피드 후보 17건 중 무관·초록없음·중복(GATA) 제외. 뉴스·정책은 기등록 가을철 산불대책 외 신규 확인 안 됨. 원문 미열람 0건, 초록 없음 1건"
+    },
     {
       "run": "2026-11-01",
       "at": "2026-11-01T06:58:00+09:00",
@@ -171,6 +177,86 @@
   ],
   "items": [
     {
+      "id": "20261101-543d28c5",
+      "cat": "genome",
+      "title": "Duanhuayunfeng: A New Cultivar of Chinese Chestnut with Short Catkins",
+      "title_ko": "수꽃이삭이 짧은 중국밤 신품종 'Duanhuayunfeng'",
+      "source": "HortScience",
+      "url": "https://doi.org/10.21273/hortsci19557-26",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "중국밤(Castanea mollissima) 재배에서 긴 수꽃이삭(웅화서)은 양분 소모와 관리 부담의 원인이 되어 단화서 품종 육성이 관심을 받는다. Yang Liu, Bin Yan 등이 HortScience에 단화서 특성을 가진 신품종 'Duanhuayunfeng'을 보고했다. 초록이 제공되지 않아 구체적 수량·수확·품질 수치는 확인하지 못했고, 제목상 짧은 수꽃이삭이 이 품종의 핵심 특성이다. 밤나무 품종보호 출원 시 구별성(DUS) 형질로 화서 길이를 활용할 수 있는지, 그리고 밤나무 리시퀀싱 연구에서 화서 형질 관련 변이를 탐색할 때 참고할 만한 사례다. (초록 없음)",
+      "tags": [
+        "밤나무",
+        "신품종",
+        "중국밤",
+        "단화서"
+      ],
+      "collected_at": "2026-11-02",
+      "run": "2026-11-02"
+    },
+    {
+      "id": "20261101-8989c9d7",
+      "cat": "fruit",
+      "title": "Free Amino Acid Composition in Various Organs, Fruit Maturity Stages, and Varieties of Jujube",
+      "title_ko": "대추의 기관·과실 성숙단계·품종별 유리아미노산 조성",
+      "source": "HortScience",
+      "url": "https://doi.org/10.21273/hortsci19395-26",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "유리아미노산은 대추(Ziziphus jujuba)의 영양 품질과 기능성을 보여주는 지표지만 기관·성숙·품종에 따른 변화는 체계적으로 정리되어 있지 않았다. 연구진은 아미노산 자동분석기로 과실·꽃·잎, 5개 발육단계, 8개 품종 과실의 유리아미노산을 측정했다. 모든 시료에서 12종이 검출되었고 총량은 50.35~76.26 mg/100 g FW 범위였다. 기관별로는 과실>꽃>잎 순이었고, 성숙 중 총량은 감소 후 증가하는 경향을 보였다. 'Huanghuadongzao'는 완전적숙기에 최고였으며, 아삭숙기 8개 품종 간 총량은 154.89~544.46 mg/100 g FW로 유의한 차이가 있었다(Huanghuadongzao>Tailihong>Beijingsuanzao 순). 대추 품종 선발과 수확적기 판단, 품질 평가 기준 마련 시 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "유리아미노산",
+        "품종",
+        "성숙단계"
+      ],
+      "collected_at": "2026-11-02",
+      "run": "2026-11-02"
+    },
+    {
+      "id": "20261101-34a15ad7",
+      "cat": "genome",
+      "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus)",
+      "title_ko": "교잡하는 유럽 흰참나무류 종 판별 SNP 세트 2종 비교",
+      "source": "Molecular Ecology Resources",
+      "url": "https://doi.org/10.1111/1755-0998.70221",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "교잡이 잦은 참나무류는 형태만으로 종 판별이 어렵고, 전장유전체 분석은 비용 부담이 크다. Rellstab, Guichoux, Gugerli, Kremer 등은 앰플리콘 시퀀싱 기반과 전장유전체 기반의 독립 개발 SNP 세트 2종을 Quercus robur, Q. petraea, Q. pubescens 및 추가 4종 등 총 560개 시료(순수 계통, 인공교배, 자연집단 포함)에 적용해 비교했다. 두 세트의 결과 일치도는 매우 높았으나 각 세트의 개발용 기준 시료에서 종 배정 정확도가 약간 더 높았다. 1세대 잡종의 조상 계수는 전장유전체 기반 세트가 더 정밀했고, 자연집단의 혼합 정도 추정에서는 세트 간 일치도가 제한적이었다. 최대 2종의 추가 흰참나무류도 식별 가능했으나 ascertainment bias 주의가 필요하다. 참나무류 유전체 연구와 수종 판별 마커 개발·품종 식별 체계 설계에 참고할 수 있다.",
+      "tags": [
+        "참나무",
+        "SNP",
+        "종판별",
+        "교잡"
+      ],
+      "collected_at": "2026-11-02",
+      "run": "2026-11-02"
+    },
+    {
+      "id": "20261031-aa9d2794",
+      "cat": "fruit",
+      "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe",
+      "title_ko": "유럽 재배·야생 블랙베리를 감염시키는 신규 에마라바이러스 BLBV",
+      "source": "Phytopathology",
+      "url": "https://doi.org/10.1094/phyto-08-26-0249-r",
+      "date": "2026-10-31",
+      "date_key": "2026-10-31",
+      "type": "paper",
+      "summary_ko": "잎 얼룩과 엽맥 띠 증상을 보이는 블랙베리에서 신규 바이러스가 발견되어 Rubus 속 바이러스 관리의 새 과제가 되었다. Hellin 등은 재배·야생 블랙베리(Rubus sp.)에서 blackberry leaf blotch virus(BLBV)를 동정했고 벨기에·프랑스·네덜란드·슬로베니아에서 검출했다. 핵심 RNA 분절 4개를 포함해 최대 8개 RNA 분절이 확인되었고, 핵심 단백질은 가까운 에마라바이러스와 20% 이상 상이해 신종으로 분류되었다. 전자현미경으로 70~90 nm 구형 입자를 관찰했으며, 응애 Epitrimerus gibbosus가 온실 전염 실험에서 매개 후보로 지목되었다. 산딸기 등 Rubus 속 품종 증식·보급 시 무병묘 관리와 바이러스 모니터링의 필요성을 시사하며, 산딸기 품종보호 출원 자원의 건전성 점검에 참고할 수 있다.",
+      "tags": [
+        "산딸기",
+        "블랙베리",
+        "바이러스",
+        "Rubus"
+      ],
+      "collected_at": "2026-11-02",
+      "run": "2026-11-02"
+    },
+    {
       "id": "20261030-c3ed8c15",
       "cat": "fruit",
       "title": "Improving the technology of growing seedlings of promising jujube cultivars in the Syrdarya region (Uzbekistan)",
@@ -209,6 +295,26 @@
       ],
       "collected_at": "2026-10-31",
       "run": "2026-10-31"
+    },
+    {
+      "id": "20261029-27d076ef",
+      "cat": "genome",
+      "title": "Somatic embryogenesis from leaf segments of Quercus castanea Mill.",
+      "title_ko": "Quercus castanea 잎 절편의 체세포배 발생",
+      "source": "Agro Productividad",
+      "url": "https://doi.org/10.32854/vztqxm65",
+      "date": "2026-10-29",
+      "date_key": "2026-10-29",
+      "type": "paper",
+      "summary_ko": "성숙목에서 유래한 참나무류 외식체로 체세포배를 유도하는 기술은 증식과 보존에 중요하다. Castillo-Martínez 등은 성목의 어린 가지 잎 절편으로 배발생 캘러스와 체세포배 형성 능력을 평가했다. 1단계에서 WPM 배지에 2,4-D 0.5 mg/L를 첨가한 처리가 배발생 캘러스 82%, 체세포배 32%로 가장 좋았다. 2단계에서 광/암 조건은 캘러스 부피에 유의한 차이를 주지 않았고, 호르몬 무첨가 MS에 PVP 100 mg/L를 넣은 배지로 옮기자 체세포배 성숙이 95%에 도달했다. 재현성 검증이 더 필요하다는 한계가 있다. 참나무류 조직배양 증식 및 형질전환 기반 연구 설계 시 참고할 수 있다.",
+      "tags": [
+        "참나무",
+        "체세포배",
+        "조직배양",
+        "2,4-D"
+      ],
+      "collected_at": "2026-11-02",
+      "run": "2026-11-02"
     },
     {
       "id": "20261028-b446f2c0",
