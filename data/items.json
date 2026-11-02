@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-02T06:58:00+09:00",
-  "latest_run": "2026-11-02",
+  "generated_at": "2026-11-03T06:58:00+09:00",
+  "latest_run": "2026-11-03",
   "runs": [
+    {
+      "run": "2026-11-03",
+      "at": "2026-11-03T06:58:00+09:00",
+      "count": 5,
+      "note": "논문 4(genome1·fruit3), 뉴스·정책 2; 피드 후보 10건(관련 4건 선별); 초록 없음 4건, 원문 미열람 2건; ncbi·news1·businesskorea DNS 차단; pvp 신규 없음"
+    },
     {
       "run": "2026-11-02",
       "at": "2026-11-02T06:58:00+09:00",
@@ -177,6 +183,44 @@
   ],
   "items": [
     {
+      "id": "20261102-714593d3",
+      "cat": "policy",
+      "title": "산림청, 소나무재선충병 국가방제대응단 회의…방제 추진상황 점검",
+      "title_ko": "산림청, 소나무재선충병 국가방제대응단 회의…방제 추진상황 점검",
+      "source": "뉴스1·파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611021503314116",
+      "date": "2026-11-02",
+      "date_key": "2026-11-02",
+      "type": "news",
+      "summary_ko": "올해 소나무재선충병 감염목이 늘어 방제 체계 점검이 필요한 상황이다. 산림청은 11월 2일 정부대전청사에서 국가방제 상황관리 회의(국가방제대응단 회의)를 열어 지역별 방제 전략과 추진 상황을 점검했다. 뉴스1 보도에 따르면 올해 감염목은 약 177만 그루로 전년 대비 18% 늘었고, 원인으로 예찰·방제 공백과 기후변화가 거론되었다. 겨울철 방제 시기를 앞두고 지역별 대응이 강화될 것으로 보이며, 소나무 유전체·저항성 연구 및 산림재난 대응 계획 수립 시 참고할 만한 현황이다. (원문 미열람)",
+      "tags": [
+        "소나무재선충병",
+        "방제",
+        "산림청"
+      ],
+      "collected_at": "2026-11-03",
+      "run": "2026-11-03"
+    },
+    {
+      "id": "20261102-986b102a",
+      "cat": "policy",
+      "title": "산림청, 제7회 임업인의 날 기념식 개최",
+      "title_ko": "산림청, 제7회 임업인의 날 기념식 개최",
+      "source": "Businesskorea",
+      "url": "https://businesskorea.co.kr/news/articleView.html?idxno=280237",
+      "date": "2026-11-02",
+      "date_key": "2026-11-02",
+      "type": "news",
+      "summary_ko": "임업인의 사기 진작과 소득 증대를 위한 연례 행사 보도다. 산림청은 서울 코엑스에서 제7회 임업인의 날 기념식을 열었고 박은식 산림청장이 기념사를 했다. 같은 날 동부지방산림청장에 이광호 씨가 11월 1일자로 임명되는 인사도 보도되었다. 세부 포상·정책 발표 내용은 확인하지 못했다. 임업인 소득정책 및 임산물 산업 동향 파악에 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "임업인의 날",
+        "산림청",
+        "인사"
+      ],
+      "collected_at": "2026-11-03",
+      "run": "2026-11-03"
+    },
+    {
       "id": "20261101-543d28c5",
       "cat": "genome",
       "title": "Duanhuayunfeng: A New Cultivar of Chinese Chestnut with Short Catkins",
@@ -235,6 +279,66 @@
       ],
       "collected_at": "2026-11-02",
       "run": "2026-11-02"
+    },
+    {
+      "id": "20261101-a12aa2e9",
+      "cat": "fruit",
+      "title": "Effect of thermal sterilization intensity on starch composition, structure and in vitro hydrolysis behavior of chestnuts",
+      "title_ko": "열 살균 강도가 밤의 전분 조성·구조 및 시험관 내 가수분해 특성에 미치는 영향",
+      "source": "Journal of Food Composition and Analysis",
+      "url": "https://doi.org/10.1016/j.jfca.2026.109576",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "밤은 전분 함량이 높아 가공·저장 시 열처리 조건이 품질과 소화 특성을 좌우한다. 이 연구는 열 살균 강도를 달리한 밤에서 전분의 조성과 구조, 시험관 내 가수분해(소화) 거동이 어떻게 달라지는지를 분석했다(저자: Liao, Kuang, Wang, Kong, Wang). Journal of Food Composition and Analysis에 게재되었다. 피드에 초록이 없어 살균 온도·시간 조건과 수치 결과는 확인하지 못했다. 밤 가공품(군밤·밤 페이스트·레토르트)의 품질 설계와 기능성 평가에 참고할 수 있다. (초록 없음)",
+      "tags": [
+        "밤",
+        "전분",
+        "열처리",
+        "가공"
+      ],
+      "collected_at": "2026-11-03",
+      "run": "2026-11-03"
+    },
+    {
+      "id": "20261101-311ffa89",
+      "cat": "fruit",
+      "title": "Contrasting developmental patterns of secondary-metabolite concentration and per-seed content in Ziziphus jujuba var. spinosa seeds: Implications for harvest-stage selection",
+      "title_ko": "산조인(Ziziphus jujuba var. spinosa) 종자의 이차대사산물 농도와 종자당 함량의 발달 단계별 대조적 양상: 수확 시기 선택에의 시사점",
+      "source": "Journal of Applied Research on Medicinal and Aromatic Plants",
+      "url": "https://doi.org/10.1016/j.jarmap.2026.100748",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "산조인은 약용으로 쓰이는 대추 근연 종자로, 수확 시기에 따라 유효성분 함량이 달라질 수 있다. 이 연구는 산조인 종자 발달 과정에서 이차대사산물의 농도와 종자 1립당 함량이 서로 다른 패턴을 보임을 보고하고 수확 단계 선택에 대한 시사점을 논한다(저자: Xuan, Huai, Tian, Ran, Lv, Ju). 피드에 초록이 없어 대상 성분과 수치는 확인하지 못했다. 대추 계통 종자의 기능성 성분 평가와 수확 적기 설정 연구의 참고가 된다. (초록 없음)",
+      "tags": [
+        "대추",
+        "산조인",
+        "이차대사산물",
+        "수확시기"
+      ],
+      "collected_at": "2026-11-03",
+      "run": "2026-11-03"
+    },
+    {
+      "id": "20261101-804efc17",
+      "cat": "fruit",
+      "title": "One-step BEM-based immobilization and purification of levansucrase for biocatalytic production of levan-enriched jujube juice",
+      "title_ko": "BEM 기반 레반수크라제 일단계 고정화·정제 및 레반 강화 대추 주스의 생촉매 생산",
+      "source": "LWT",
+      "url": "https://doi.org/10.1016/j.lwt.2026.120134",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "대추 주스에 기능성 다당인 레반을 효소적으로 도입하려는 가공 연구다. 레반수크라제를 BEM 기반 방법으로 한 번에 고정화·정제하고, 이를 이용해 레반이 강화된 대추 주스를 생촉매로 생산했다(저자: Peng, Meng, Hou, Zhao, Sang). LWT에 게재되었다. 피드에 초록이 없어 수율·활성 수치는 확인하지 못했다. 대추 가공품의 부가가치 및 기능성 제고 사례로 참고할 수 있다. (초록 없음)",
+      "tags": [
+        "대추",
+        "레반",
+        "효소 고정화",
+        "가공"
+      ],
+      "collected_at": "2026-11-03",
+      "run": "2026-11-03"
     },
     {
       "id": "20261031-aa9d2794",
