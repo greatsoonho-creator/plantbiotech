@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-03T06:58:00+09:00",
-  "latest_run": "2026-11-03",
+  "generated_at": "2026-11-04T06:58:00+09:00",
+  "latest_run": "2026-11-04",
   "runs": [
+    {
+      "run": "2026-11-04",
+      "at": "2026-11-04T06:58:00+09:00",
+      "count": 8,
+      "note": "논문5(genome2,fruit2,pvp1; 피드 후보11), 뉴스·정책3, 원문 미열람3. 11월 보도자료·입법예고 직접 확인 안 됨; 피드 SemanticScholar 429 일부"
+    },
     {
       "run": "2026-11-03",
       "at": "2026-11-03T06:58:00+09:00",
@@ -183,6 +189,26 @@
   ],
   "items": [
     {
+      "id": "20261103-b0e81e42",
+      "cat": "policy",
+      "title": "산림청 개발 산불진화차 육군 전력화",
+      "title_ko": "산림청 개발 산불진화차, 육군 시험운용 인계",
+      "source": "재외동포신문",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=61451",
+      "date": "2026-11-03",
+      "date_key": "2026-11-03",
+      "type": "news",
+      "summary_ko": "산림청이 개발한 산불 진화차가 육군에 전력화되어 접경지역 산불 대응에 투입된다. 11월 3일 산림청은 2,000리터 물탱크를 갖춘 진화차 시제품을 육군 21사단에 인계해 현장 시험을 하도록 했다. 헬기 접근이 어려운 비무장지대(DMZ)와 일반전초(GOP) 등 접경지역의 초기 진화 능력을 높일 것으로 기대된다. 담당 기관은 산림청과 육군이다. 산불·산사태 등 산림재난 대응 및 민방위 계획 수립 시 군·산림 협력 사례로 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "산불",
+        "산림재난",
+        "산림청",
+        "육군"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
+    },
+    {
       "id": "20261102-714593d3",
       "cat": "policy",
       "title": "산림청, 소나무재선충병 국가방제대응단 회의…방제 추진상황 점검",
@@ -219,6 +245,25 @@
       ],
       "collected_at": "2026-11-03",
       "run": "2026-11-03"
+    },
+    {
+      "id": "20261102-33afa94b",
+      "cat": "policy",
+      "title": "산림청, 제7회 임업인의 날 기념식 개최",
+      "title_ko": "산림청, 제7회 임업인의 날 기념행사",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280237",
+      "date": "2026-11-02",
+      "date_key": "2026-11-02",
+      "type": "news",
+      "summary_ko": "산림청이 11월 2일 서울 코엑스에서 제7회 임업인의 날 기념행사를 '임업인이 가꾸는 숲, 숲으로 행복한 대한민국'을 주제로 열었다. 행사에서는 임업인 포상과 함께 임산물 생산 성과가 우수하고 경영 혁신성이 돋보이는 임업인을 매달 발굴하는 '이달의 임업인' 9~11월 선정자가 발표된 것으로 검색 결과에 나타난다. 담당 기관은 산림청이며 적용 대상은 임업인 전반이다. 구체적 포상 규모와 소득 지원 수치는 확인하지 못했다. 임업인 소득정책 동향과 밤·대추·감 등 임산물 경영 우수 사례를 파악하는 데 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "임업인",
+        "산림청",
+        "임산물"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
     },
     {
       "id": "20261101-543d28c5",
@@ -341,6 +386,25 @@
       "run": "2026-11-03"
     },
     {
+      "id": "20261101-e7bd06c6",
+      "cat": "policy",
+      "title": "북부지방산림청, 가을철 산불조심기간 진화인력 총동원",
+      "title_ko": "북부지방산림청, 가을철 산불조심기간(11.1~12.15) 진화인력 720명 동원",
+      "source": "엔사이드",
+      "url": "https://www.reporternside.com/news/articleView.html?idxno=434533",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "news",
+      "summary_ko": "북부지방산림청이 11월 1일부터 12월 15일까지 가을철 산불조심기간을 운영하며 진화인력 720명을 총동원한다. 최근 10년간 서울·경기·인천·강원 영서지역에서 연평균 186건의 산불이 발생했고 이 가운데 66%가 사람의 부주의로 인한 것으로 나타났다. 대표 원인은 영농부산물 소각과 취사·입산 부주의 등이다. 담당 기관은 북부지방산림청이다. 산불·산사태 대응 계획과 지역 홍보 시 근거 수치로 쓸 수 있다. (원문 미열람)",
+      "tags": [
+        "산불",
+        "산림재난",
+        "북부지방산림청"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
+    },
+    {
       "id": "20261031-aa9d2794",
       "cat": "fruit",
       "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe",
@@ -361,6 +425,26 @@
       "run": "2026-11-02"
     },
     {
+      "id": "20261031-5cc23b3b",
+      "cat": "genome",
+      "title": "Combined effects of drought and insect herbivory on oak leaf endophytic communities and performance",
+      "title_ko": "가뭄과 흡즙 곤충 식해가 참나무 잎 내생균 군집과 생장에 미치는 복합 영향",
+      "source": "Oecologia",
+      "url": "https://doi.org/10.1007/s00442-026-05995-2",
+      "date": "2026-10-31",
+      "date_key": "2026-10-31",
+      "type": "paper",
+      "summary_ko": "잎 내생 미생물은 식물의 스트레스 반응 지표로 여겨지지만 생물·비생물 스트레스의 복합 효과는 잘 알려져 있지 않다. 연구진은 참나무 4종 묘목에 가뭄과 흡즙성 곤충 식해를 단독 또는 복합으로 처리하고 내생 곰팡이 군집, 광합성, 생장, 가지의 비구조 탄수화물을 측정했다. 수분 부족은 곤충 식해에는 영향이 없었으나 잎 곰팡이 군집의 다양성을 낮췄고, 식해는 종에 따라 군집 조성을 바꾸었다. 식해는 광합성을 변화시켰고 생장 감소는 가뭄에서만 나타났으며 비구조 탄수화물 저장은 영향을 받지 않았다. 내생균과 수목 생육의 연관성은 약해 지표로서의 한계도 시사된다. 기후변화 하 참나무류 건강 모니터링과 재해 대응 연구의 참고 자료다.",
+      "tags": [
+        "참나무",
+        "가뭄",
+        "내생균",
+        "기후변화"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
+    },
+    {
       "id": "20261030-c3ed8c15",
       "cat": "fruit",
       "title": "Improving the technology of growing seedlings of promising jujube cultivars in the Syrdarya region (Uzbekistan)",
@@ -379,6 +463,26 @@
       ],
       "collected_at": "2026-10-31",
       "run": "2026-10-31"
+    },
+    {
+      "id": "20261030-53860d04",
+      "cat": "pvp",
+      "title": "Legal Challenges in the Registration of Farmers' Varieties under the Protection of Plant Varieties and Farmers' Rights Act, 2001",
+      "title_ko": "인도 식물품종보호 및 농민권법상 농민 품종 등록의 법적 과제",
+      "source": "International Journal of Law Management & Humanities",
+      "url": "https://doi.org/10.63108/ijlmh.13127",
+      "date": "2026-10-30",
+      "date_key": "2026-10-30",
+      "type": "paper",
+      "summary_ko": "인도의 PPV&FR법은 품종 보호와 농민의 혁신·생물다양성 보전 역할을 함께 고려하지만 농민 품종 등록에는 여전히 문제가 많다. 이 논문은 형식화된 품종보호 체계가 전통 농민 품종을 보호할 수 있는지 법리적으로 검토한다. 핵심 쟁점은 세대에 걸쳐 형성된 유전적 다양성을 가진 재래 품종이 구별성·균일성·안정성(DUS) 요건을 충족하기 어렵다는 점이며, 절차·기술·증거·비용 장벽과 농민 품종 등록 기간 제한도 분석했다. 전통 농민을 육성자로 인정할 때의 권리 충돌과 농민의 육성자 권리 대 재배·교환·보존 관행 사이의 균형도 논한다. 초록에 수치는 없다. 산딸기 등 품종보호 출원 시 DUS 요건과 재래종 취급을 비교 검토할 때 참고할 수 있다.",
+      "tags": [
+        "품종보호",
+        "DUS",
+        "UPOV",
+        "농민권"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
     },
     {
       "id": "20261029-612d1fd1",
@@ -419,6 +523,66 @@
       ],
       "collected_at": "2026-11-02",
       "run": "2026-11-02"
+    },
+    {
+      "id": "20261029-fb250ae3",
+      "cat": "fruit",
+      "title": "The Relationship of Cultivars, Structures and In Vitro Digestibility of Chinese Chestnut (Castanea henryi) Starch",
+      "title_ko": "저전압 정전기장 처리가 중국 밤(Castanea henryi) 품종별 전분 구조·가공성·소화성에 미치는 영향",
+      "source": "Molecules",
+      "url": "https://doi.org/10.3390/molecules31213900",
+      "date": "2026-10-29",
+      "date_key": "2026-10-29",
+      "type": "paper",
+      "summary_ko": "밤 등 견과류에서 저전압 정전기장(LVEF) 저장 기술의 작용 기전은 아직 잘 알려져 있지 않다. 이 연구는 중국 각지의 밤 5개 품종(Chushuhong, Changmangzi, Youzhen, Hongzhenzi, Huangzhen)을 냉장(RT)과 LVEF로 처리한 뒤 전분 구조, 가공 특성, 시험관 내 소화성을 비교했다(Molecules, 저자 소속은 초록에 없음). LVEF는 전분의 결정화도와 분자 질서도를 높이고 자유수 함량·최고점도·붕괴점도·치반점도를 대체로 낮췄으며 보수력은 높였다. 전단과 노화(retrogradation)에 대한 저항성이 커져 가공 적성이 개선되었고 겔의 조직감도 좋아졌다. 품종 반응성은 달랐는데, Chushuhong은 RT 대비 입자 크기 19.56%, 자유수 18.41% 감소, 결정화도 31.34% 증가, 겔 결합수 13.70% 증가로 반응이 가장 컸다. Chushuhong과 Changmangzi 전분은 가공 적성이 좋았으나 효소 가수분해 속도도 빨랐다. 밤 품종별 저장·가공 적성 평가와 밤나무 리시퀀싱 연구의 표현형 자료 설계에 참고할 수 있다.",
+      "tags": [
+        "밤나무",
+        "전분",
+        "저장",
+        "가공"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
+    },
+    {
+      "id": "20261029-62e30c76",
+      "cat": "genome",
+      "title": "Comparative Analyses of the Organellar Genomes of Quercus Reveal Contrasting Evolutionary Dynamics",
+      "title_ko": "참나무속 세포소기관 유전체 비교분석: 대조적 진화 양상",
+      "source": "Genes",
+      "url": "https://doi.org/10.3390/genes17111348",
+      "date": "2026-10-29",
+      "date_key": "2026-10-29",
+      "type": "paper",
+      "summary_ko": "식물의 미토콘드리아와 엽록체 유전체는 구조와 유지 기작 차이로 서로 다르게 진화하지만 참나무에서는 비교 연구가 부족했다. 이 연구는 Quercus arbutifolia의 미토콘드리아·엽록체 유전체를 PacBio HiFi 리드로 조립·주석하고 반복서열, 코돈 사용, 미토콘드리아 내 플라스티드 DNA 이동(MTPT)을 분석한 뒤 여러 Quercus 종과 비교했다(Genes). 미토콘드리아 유전체는 493,735 bp 선형, 엽록체 유전체는 160,682 bp 환형으로 조립되었고, 미토콘드리아가 코딩 밀도는 낮고 반복서열은 많았다. 두 유전체 모두 A/U 말단 코돈을 선호했으며 MTPT 영역 32개가 확인되었고 대부분 플라스티드에서 미토콘드리아로의 이동이었다. 엽록체는 IR 경계가 종간 보존된 반면 미토콘드리아는 광범위한 구조 재배열을 보였고, 엽록체 단백질 코딩 유전자의 서열 분화가 더 컸다. 참나무류 유전체 조립 및 종 식별 마커 설계에 쓸 수 있는 참조 자료다.",
+      "tags": [
+        "참나무",
+        "엽록체",
+        "미토콘드리아",
+        "HiFi"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
+    },
+    {
+      "id": "20261029-94222b74",
+      "cat": "fruit",
+      "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia) Infusion",
+      "title_ko": "일본배(Pyrus pyrifolia) 침출액 사워도우의 유기산과 세균 군집",
+      "source": "Applied Sciences",
+      "url": "https://doi.org/10.3390/app162110714",
+      "date": "2026-10-29",
+      "date_key": "2026-10-29",
+      "type": "paper",
+      "summary_ko": "과일 첨가는 사워도우의 세균 군집과 발효 특성을 바꾸지만 배 침출액을 쓴 사례는 적었다. 연구진은 일본배 침출액으로 사워도우를 만들어 최대 56세대까지 계대하며 유기산 조성과 세균 군집을 평가했다(Applied Sciences). pH는 초기 세대에 빠르게 떨어져 3.5~3.7에서 안정되었고, HPLC 분석에서 젖산과 아세트산이 주요 유기산이었다. 55~56세대 발효지수는 0.64~0.70으로 아세트산 우세형이었다. 16S rDNA V3–V4 분석에서 Furfurilactobacillus rossiae와 Acetobacter pasteurianus가 우점했고 ANI 분석으로 대표 균주를 Furfurilactobacillus milii와 A. pasteurianus subsp. pasteurianus로 동정했다. 소표본·대조군 부재 등 한계가 있는 기술적 연구다. 돌배·배 가공 이용 가능성을 볼 때 참고할 수 있다.",
+      "tags": [
+        "배",
+        "발효",
+        "사워도우",
+        "가공"
+      ],
+      "collected_at": "2026-11-04",
+      "run": "2026-11-04"
     },
     {
       "id": "20261028-b446f2c0",
