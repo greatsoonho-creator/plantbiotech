@@ -1,17 +1,34 @@
 {
- "generated_at": "2026-11-02T20:32:29.496Z",
+ "generated_at": "2026-11-03T20:32:58.072Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 76,
+ "count": 78,
  "errors": [
+  "semanticscholar:hardy-kiwi: HTTP 429",
   "semanticscholar:jujube: HTTP 429",
-  "semanticscholar:raspberry: HTTP 429",
-  "semanticscholar:forest-genomics: HTTP 429"
+  "semanticscholar:persimmon: HTTP 429"
  ],
  "items": [
+  {
+   "key": "doi:10.24198/jit.v26i3.1491",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "dda0c7f1d57dcfc241db0faa4a185287dc1bc64e",
+   "doi": "10.24198/jit.v26i3.1491",
+   "pmid": "",
+   "title": "The Effect of Tannin Powder Supplementation in the Ration on Hematological Profiles and Blood Urea Nitrogen of Priangan Sheep",
+   "journal": "Jurnal Ilmu Ternak Universitas Padjadjaran",
+   "date": "2026-11-01",
+   "authors": "Najwa Hegyra Gumilar, Iman Hernaman, Diding Latipudin, Ghistavera Izvantika",
+   "abstract": "The use of dietary tannins as natural feed additives to regulate rumen protein degradation and improve nitrogen metabolism has been increasingly explored. Nevertheless, the evidence concerning the combined use of chestnut (Castanea sativa) and quebracho (Schinopsis lorentzii) tannin extracts in Priangan sheep is still limited. This study aimed to evaluate the effects of a commercial tannin powder containing these two plant extracts on Blood Urea Nitrogen (BUN) concentration and hematological profiles in Priangan sheep. Eighteen healthy male Priangan sheep with an initial average body weight of 19.64±2.51 kg were randomly allocated into three dietary treatments in a Completely Randomized Design with six animals assigned to each treatment. The experimental diets consisted of a control ration (P0), control ration plus 1% tannin powder (P1) and control ration plus 2% tannin powder (P2). Blood samples were taken for biochemical and hematological evaluation after 70 days of feeding. 2% tannin powder supplementation significantly increased BUN concentration compared to control and 1% supplementation groups (P 0.05). In general, supplementation with chestnut and quebracho tannin powder at the 2% inclusion level induced alterations in nitrogen metabolism without any measurable changes in the hematological status. The results of this study suggest that the tannin preparation tested can be included in the diet of Priangan sheep at up to 2% of dietary dry matter without causing adverse physiological effects.",
+   "url": "https://doi.org/10.24198/jit.v26i3.1491"
+  },
   {
    "key": "doi:10.1016/j.jfca.2026.109576",
    "groups": [
@@ -142,11 +159,28 @@
    "doi": "10.1094/phyto-08-26-0249-r",
    "pmid": "42965945",
    "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe.",
-   "journal": "",
+   "journal": "Phytopathology",
    "date": "2026-10-31",
    "authors": "Hellin P, Richet P, Demonty E, de Koning PPM, de Krom C, den Hartog WGSA, Westenberg M, Botermans M, Druciarek T, Winter S, Rimbaud L, Dubuis N, Blouin AG, Kovačec E, Grubar B, Toplak N, Steyer S, Mav",
-   "abstract": "A novel emaravirus provisionally named blackberry leaf blotch virus (BLBV), was identified from cultivated and wild blackberry plants (Rubus sp.) exhibiting leaf blotch and vein banding/feathering symptoms. BLBV has been detected in Belgium, France, the Netherlands and Slovenia. The virus is most closely related to raspberry leaf blotch virus (RLBV, Emaravirus idaeobati) infecting raspberry (Rubus idaeus) in Europe, and is distant from blackberry leaf mottle-associated virus (BLMaV, Emaravirus rubi), infecting blackberry in the USA. Up to eight RNA segments were identified in BLBV isolates, including the four core RNA segments present in all emaraviruses and up to four additional non-core RNA segments. Spherical virus-like particles (70-90 nm), morphologically similar to emaravirus virions, were observed in sap from symptomatic blackberry tissue by transmission electron microscopy. The proteins encoded by the core RNA segments were all more than 20% divergent from their closest known emaravirus homologues, supporting the classification of BLBV as a new species. Genetic diversity was found among isolates even at the country level, with some additional RNA segments only detected for some isolates. Eriophyoid mites, known vectors of emaraviruses, were found on several infected plants and molecular barcoding identified the them as Epitrimerus gibbosus, an eriophyoid species previously reported on Rubus spp. in Europe. Transmission bioassays performed with these mites in a greenhouse supported E. gibbosus as a putative vector of BLBV. This discovery raises questions about the impact of BLBV on blackberry crops and the need for virus surveillance in plant propagation material.",
+   "abstract": "A novel emaravirus provisionally named blackberry leaf blotch virus (BLBV), was identified from cultivated and wild blackberry plants ( Rubus sp.) exhibiting leaf blotch and vein banding/feathering symptoms. BLBV has been detected in Belgium, France, the Netherlands and Slovenia. The virus is most closely related to raspberry leaf blotch virus (RLBV, Emaravirus idaeobati ) infecting raspberry ( Rubus idaeus ) in Europe, and is distant from blackberry leaf mottle-associated virus (BLMaV, Emaravirus rubi ), infecting blackberry in the USA. Up to eight RNA segments were identified in BLBV isolates, including the four core RNA segments present in all emaraviruses and up to four additional non-core RNA segments. Spherical virus-like particles (70-90 nm), morphologically similar to emaravirus virions, were observed in sap from symptomatic blackberry tissue by transmission electron microscopy. The proteins encoded by the core RNA segments were all more than 20% divergent from their closest known emaravirus homologues, supporting the classification of BLBV as a new species. Genetic diversity was found among isolates even at the country level, with some additional RNA segments only detected for some isolates. Eriophyoid mites, known vectors of emaraviruses, were found on several infected plants and molecular barcoding identified the them as Epitrimerus gibbosus , an eriophyoid species previously reported on Rubus spp. in Europe. Transmission bioassays performed with these mites in a greenhouse supported E. gibbosus as a putative vector of BLBV. This discovery raises questions about the impact of BLBV on blackberry crops and the need for virus surveillance in plant propagation material.",
    "url": "https://doi.org/10.1094/phyto-08-26-0249-r"
+  },
+  {
+   "key": "doi:10.1007/s00442-026-05995-2",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42965607",
+   "doi": "10.1007/s00442-026-05995-2",
+   "pmid": "42965607",
+   "title": "Combined effects of drought and insect herbivory on oak leaf endophytic communities and performance.",
+   "journal": "",
+   "date": "2026-10-31",
+   "authors": "Barlier T, Castagneyrol B, Carton J, Burlett R, Bonnard O, Schimann H.",
+   "abstract": "Leaf-associated microbiota are considered sensitive indicators of how plants respond to their environment. Yet, plants can be exposed to a wide range of biotic and abiotic stresses whose independent and combined effects on plant microbiota remain poorly understood, as do their cumulative consequences for plant performance. We conducted an experiment to expose saplings of four oak species to drought and herbivory by a piercing-sucking insect. We assessed the effect of water deficit on herbivory, as well as the individual and combined effects of water deficit and herbivory on fungal endophytic communities. To evaluate the cumulative impacts of biotic and abiotic stresses on plant performance, and the potential of the fungal endophytic communities as an indicator of plant responses to stress, we measured photosynthetic capacity, growth, and the accumulation of non-structural carbohydrates in twigs at the end of the growing season. Water deficit had no effect on insect herbivory but induced a decrease in the diversity of the leaf-associated fungal community. In contrast, herbivory shifted the composition of fungal communities through species replacement or addition depending on oak species. Herbivory altered photosynthesis, whereas drought but not herbivory reduced oak growth. None of these stresses influenced the storage of non-structural carbohydrates. Leaf-associated fungi responded to both stresses. However, the underlying mechanisms appeared to differ and the association with oak performance was weak. Overall, our study suggests a certain degree of resilience in trees subjected to interacting stresses, while also highlighting vulnerabilities that may have implications for tree health over the long term.",
+   "url": "https://doi.org/10.1007/s00442-026-05995-2"
   },
   {
    "key": "doi:10.1038/s41538-026-01188-6",
@@ -164,6 +198,23 @@
    "authors": "Walther F, Hofmann M, Janke M, Erler S, Friedrich E, Treder M, Rakosy D, Harpole WS, Mäder P, Berdún A, Hornick T, Dunker S.",
    "abstract": "Pollen identification from honey (melissopalynology) is of great economic and consumer relevance. Traditional microscopy is time-consuming and dependent on expert knowledge, thus limiting high-throughput analyses. We tested whether pollen images generated with Multispectral Imaging Flow Cytometry (MIFC) classified by machine learning (ML) (convolution neural networks (CNNs) and random forest (RF)) can serve as a fast and reproducible method for identifying pollen in honey. We examined how the classification of honey pollen is affected by images from different matrices (anther and honey samples), how results compare with traditional microscopic analysis and used a set of human-interpretable image features to better explain ML results. The study focused on the six common target pollen in honey Brassica, Castanea, Centaurea, Helianthus, Phacelia and Tilia type. A classifier trained with a combination of anther and honey brightfield and fluorescence images provided the best predictions for 13 monofloral and 10 polyfloral honeys. Yielding pollen identification results comparable to microscopy, three times more pollen can be evaluated, and a measurement time of a maximum of 10 min, the method demonstrates its high potential as a powerful screening tool in melissopalynology.",
    "url": "https://doi.org/10.1038/s41538-026-01188-6"
+  },
+  {
+   "key": "doi:10.63108/ijlmh.13127",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "c4e87f6a618f93941712005c167a47ac09acaef1",
+   "doi": "10.63108/ijlmh.13127",
+   "pmid": "",
+   "title": "Legal Challenges in the Registration of Farmers' Varieties under the Protection of Plant Varieties and Farmers' Rights Act, 2001",
+   "journal": "International Journal of Law Management &amp; Humanities",
+   "date": "2026-10-30",
+   "authors": "V. Mathivadhani Kandiyar",
+   "abstract": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001 (PPV&FR Act) is the intellectual property framework developed by India to protect plant varieties while taking into account the role of farmers in agricultural innovation and the conservation of biodiversity. However, many problems remain in the registration of farmers’ varieties. This paper examines whether the existing registration regime is able to protect traditional farmers’ varieties, given that the registration system is predominantly based on formal and standardized plant variety protection. The main emphasis is on the problems farmers face in fulfilling the criteria of distinctiveness, uniformity and stability (DUS) when traditional varieties contain genetic diversity and have developed over generations of farmers. The procedural, technical, evidential and financial problems of registration are also analyzed, along with the question whether small farmers can fulfill all the requirements. The paper further discusses the limited time period for the registration of farmers’ varieties. It also explores the role of traditional farmers in the plant variety protection regime, especially traditional farmers who have conserved, developed or improved such traditional varieties and may also be recognized as breeders. The recognition of such farmers as breeders raises issues about the kind of rights they hold as breeders and the possible conflict between their rights as traditional farmers and their rights under plant variety protection. The study asks whether the present regime properly balances the intellectual property rights of farmers as breeders, on the one hand, and their traditional practices of cultivating, using, exchanging and conserving plant varieties, on the other.",
+   "url": "https://doi.org/10.63108/ijlmh.13127"
   },
   {
    "key": "doi:10.68372/bt90q205",
@@ -193,7 +244,7 @@
    "doi": "10.1111/jfb.70711",
    "pmid": "42957444",
    "title": "A new species of the genus Dysommina from the Lakshadweep Sea, India (Anguilliformes: Synaphobranchidae: Ilyophinae).",
-   "journal": "",
+   "journal": "Journal of Fish Biology",
    "date": "2026-10-29",
    "authors": "Kodeeswaran P.",
    "abstract": "This study describes a new Dysommina species, based on two specimens collected at a depth of ca. 600 m in the Lakshadweep Sea off south-western India. The new species differs from its congeners in having fewer total vertebrae (120-127 vs. 134 in D. castanea, 133-134 in D. brevis, and 137-141 in D. orientalis), fewer predorsal vertebrae (14-15 vs. 16 in D. pygmaea), fewer preanal vertebrae (24-27 vs. 28-31 in D. rugosa), and in a combination of morphometric, meristic, dentition and colouration characters. DNA sequences were generated and analysed.",
@@ -217,6 +268,40 @@
    "url": "https://doi.org/10.32854/vztqxm65"
   },
   {
+   "key": "doi:10.3390/molecules31213900",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "8068a95674aeb52bd2b9087b542e372e6ad40f8f",
+   "doi": "10.3390/molecules31213900",
+   "pmid": "",
+   "title": "The Relationship of Cultivars, Structures and In Vitro Digestibility of Chinese Chestnut (Castanea henryi) Starches Treated with Low-Voltage Electrostatic Field Technology",
+   "journal": "Molecules",
+   "date": "2026-10-29",
+   "authors": "Feng Chen, Xian-Tong Wu, Wen-Can Luo, Jing Wang, Wei-Jing Zhuang, Wen-Sheng Chen",
+   "abstract": "Low-voltage electrostatic field (LVEF) treatment is an emerging food preservation technology that exploits the physical effects of electrostatic fields; however, its mechanisms of action in nut crops remain poorly understood. This study investigated changes in starch structure, processing properties, and in vitro digestibility in five chestnut cultivars (Castanea henryi) from different regions of China (Chushuhong, Changmangzi, Youzhen, Hongzhenzi, and Huangzhen) following refrigeration treatment (RT) and LVEF treatment. LVEF increased the crystallinity and molecular order of chestnut starch. It also generally reduced free water content, peak viscosity (PV), breakdown viscosity (BV), and setback viscosity (SV), while increasing water-holding capacity. In addition, LVEF enhanced the resistance to shear and retrogradation, thereby improving starch processing performance. The TPA results showed that LVEF improved the textural properties of chestnut starch gels, supporting their suitability for gel-based foods. The responses varied among the cultivars. Compared with RT, LVEF reduced the particle size and free water content of Chushuhong starch by 19.56% and 18.41%, respectively. Chushuhong also exhibited the largest increase in crystallinity (31.34%), while the bound water content of its starch gel increased by 13.70%, indicating stronger responsiveness to LVEF. Overall, LVEF improved the processing performance of chestnut starch, although varietal differences in the responses were observed. LVEF-treated Chushuhong and Changmangzi starches exhibited favorable processing properties, indicating their suitability for developing processed chestnut products. Meanwhile, their starches exhibited faster enzymatic hydrolysis rates under in vitro conditions. These findings provide a …",
+   "url": "https://doi.org/10.3390/molecules31213900"
+  },
+  {
+   "key": "doi:10.3390/app162110714",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "c7b264ae24caed9f1d7db068611ef3194d732147",
+   "doi": "10.3390/app162110714",
+   "pmid": "",
+   "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia Nakai) Infusion",
+   "journal": "Applied Sciences",
+   "date": "2026-10-29",
+   "authors": "Riho Endo, Tsukasa Shiraishi, Mihoko Moto",
+   "abstract": "Addition of fruit during sourdough preparation can lead to the development of distinctive bacterial communities and fermentation characteristics. However, sourdough preparation with Japanese pear infusion remains understudied. We prepared sourdough with Japanese pear infusion and evaluated its organic acid composition and bacterial community. Sourdough was passaged for up to 56 generations. pH decreased rapidly during the initial generations of backslopping and subsequently stabilized at 3.5 and 3.7. High-performance liquid chromatography analysis revealed that lactic and acetic acid were the major organic acids. The fermentation quotient in the 55th and 56th generations ranged from 0.64 to 0.70, indicating an acetic acid-dominant profile. Bacterial community analysis targeting the V3–V4 region of the 16S rDNA gene revealed Furfurilactobacillus rossiae and Acetobacter pasteurianus as the dominant taxa. Average nucleotide identity analysis identified the representative isolates as Furfurilactobacillus milii and Acetobacter pasteurianus subsp. pasteurianus, respectively. This descriptive study is limited by a small sample size, lack of a control group, initial bacterial community data, and limited statistical analysis. Nevertheless, under the experimental conditions of this study, relatively high acetic acid levels were observed in the analyzed sourdoughs, together with a bacterial community dominated by the genera Furfurilactobacillus and Acetobacter were observed as predominant genera.",
+   "url": "https://doi.org/10.3390/app162110714"
+  },
+  {
    "key": "doi:10.1139/cjm-2026-0110",
    "groups": [
     "oak"
@@ -232,6 +317,23 @@
    "authors": "Abed S, Kumar A, Hausner G.",
    "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
    "url": "https://doi.org/10.1139/cjm-2026-0110"
+  },
+  {
+   "key": "doi:10.3390/genes17111348",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "30346f7a10d06a76e25cdc595b350108d026f947",
+   "doi": "10.3390/genes17111348",
+   "pmid": "",
+   "title": "Comparative Analyses of the Organellar Genomes of Quercus Reveal Contrasting Evolutionary Dynamics",
+   "journal": "Genes",
+   "date": "2026-10-29",
+   "authors": "Si-Nuo Feng, Yu Li, Yi-Gang Song",
+   "abstract": "Background: Mitochondrial and chloroplast genomes in plants have experienced distinct evolutionary trajectories due to differences in genomic organization, functional constraints, and genome maintenance mechanisms. However, comparative studies of their evolutionary dynamics in oaks remain limited. Methods: The complete mitochondrial and chloroplast genomes of Quercus arbutifolia were assembled and annotated using PacBio HiFi reads. Genome structure, repetitive sequences, codon usage, and mitochondrial plastid DNA transfers (MTPTs) were characterized. Evolutionary genomic and phylogenetic analyses were conducted across selected Quercus species to assess structural variation, sequence divergence, and phylogenetic relationships. Results: The mitochondrial genome of Q. arbutifolia was assembled as a 493,735 bp linear molecule, whereas the chloroplast genome was assembled as a 160,682 bp circular molecule. The mitochondrial genome exhibited lower coding density and a higher abundance of repetitive sequences than the chloroplast genome. Both organellar genomes preferentially used A/U-ending codons, with codon usage variation associated with mutation bias and selective constraints. Thirty-two MTPT regions were identified, predominantly representing plastid-to-mitochondrial transfers. Chloroplast genomes showed conserved inverted repeat boundaries among Quercus species, whereas mitochondrial genomes displayed extensive structural rearrangements, indicating contrasting evolutionary dynamics between the two organellar genomes. Nucleotide diversity analyses further revealed different sequence variation between organellar genomes, with chloroplast protein-coding genes (PCGs) generally exhibiting higher sequence divergence than mitochondrial PCGs. Phylogenetic analyses recovered lar…",
+   "url": "https://doi.org/10.3390/genes17111348"
   },
   {
    "key": "doi:10.1094/pdis-10-25-2150-re",
@@ -353,23 +455,6 @@
    "url": "https://doi.org/10.1007/s11270-026-10097-z"
   },
   {
-   "key": "doi:10.1007/s10681-026-03828-0",
-   "groups": [
-    "hardy-kiwi"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "89288835251e9971fa414b30e63fd0f9c2f78fdb",
-   "doi": "10.1007/s10681-026-03828-0",
-   "pmid": "",
-   "title": "Characterization of interspecific hybrids between Actinidia arguta and A. Chinensis var. deliciosa: a brief survey",
-   "journal": "Euphytica",
-   "date": "2026-10-26",
-   "authors": "Boniface Maenge Munyao, Mu-Zi Li, Y. Man, Jian Wang, Yan-Chang Wang, Xue-Mei Lu",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s10681-026-03828-0"
-  },
-  {
    "key": "doi:10.1016/j.foodchem.2026.151801",
    "groups": [
     "jujube"
@@ -385,6 +470,23 @@
    "authors": "Zhang H, Wang Y, Sun X, Gao L, Zhang D, Zhang R.",
    "abstract": "Blackened jujube offers improved nutritional value, while its peel-induced coarse mouthfeel limits its broader use in snack-style products. To address this limitation, this study proposes restructuring blackened jujube pulp into self-supporting composite gels using κ-carrageenan (KC). While neither 0.5% KC nor the pulp alone formed a self-supporting gel, composite gels containing 0.5% KC were observed to be self-supporting, indicating that the pulp matrix facilitates gelation at a lower KC level. Increasing KC from 0.5% to 2.5% progressively strengthened the network, increasing hardness from ~2.5 N to 16.7 N, water-holding capacity from 53.45% to 77.01%, and freeze-thaw syneresis from 68.94% to 26.69%, alongside network densification and T₂₂ shortening (75.8 to 37.0 ms). Sensory evaluation also confirmed that restructuring markedly reduced grittiness and improved overall mouthfeel. Overall, this work offers a practical strategy for converting fruit pulps into self-supporting composite gels, thereby enabling blackened jujube products with tunable texture and improved mouthfeel. The authors contributed equally to this work.",
    "url": "https://doi.org/10.1016/j.foodchem.2026.151801"
+  },
+  {
+   "key": "doi:10.1007/s11483-026-10240-7",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "305e38fe7e67e0d8a8e43daea237d1115cb6504f",
+   "doi": "10.1007/s11483-026-10240-7",
+   "pmid": "",
+   "title": "Authentication of Raspberry (Rubus idaeus L.) and Blackberry (Rubus fruticosus L.) in Processed Food Products using Barcoding PCR-HRM",
+   "journal": "Food Biophysics",
+   "date": "2026-10-26",
+   "authors": "Blagica Janeva, Marinela Cvetanoska, David Serafimovski, M. Stefova, Natasha Ristovska, Pece Sherovski",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11483-026-10240-7"
   },
   {
    "key": "doi:10.1002/nzc2.70265",
@@ -421,21 +523,21 @@
    "url": "https://doi.org/10.1007/s44372-026-00926-0"
   },
   {
-   "key": "doi:10.1007/s11483-026-10240-7",
+   "key": "doi:10.1007/s10681-026-03828-0",
    "groups": [
-    "raspberry"
+    "hardy-kiwi"
    ],
    "cat": "fruit",
    "source": "semanticscholar",
-   "id": "305e38fe7e67e0d8a8e43daea237d1115cb6504f",
-   "doi": "10.1007/s11483-026-10240-7",
+   "id": "89288835251e9971fa414b30e63fd0f9c2f78fdb",
+   "doi": "10.1007/s10681-026-03828-0",
    "pmid": "",
-   "title": "Authentication of Raspberry (Rubus idaeus L.) and Blackberry (Rubus fruticosus L.) in Processed Food Products using Barcoding PCR-HRM",
-   "journal": "Food Biophysics",
+   "title": "Characterization of interspecific hybrids between Actinidia arguta and A. Chinensis var. deliciosa: a brief survey",
+   "journal": "Euphytica",
    "date": "2026-10-26",
-   "authors": "Blagica Janeva, Marinela Cvetanoska, David Serafimovski, M. Stefova, Natasha Ristovska, Pece Sherovski",
+   "authors": "Boniface Maenge Munyao, Mu-Zi Li, Y. Man, Jian Wang, Yan-Chang Wang, Xue-Mei Lu",
    "abstract": "",
-   "url": "https://doi.org/10.1007/s11483-026-10240-7"
+   "url": "https://doi.org/10.1007/s10681-026-03828-0"
   },
   {
    "key": "doi:10.18619/2072-9146-2026-4-77-83",
@@ -1235,74 +1337,6 @@
    "authors": "А. Н. Марковская, Н. П. Бунькова, С. В. Залесов",
    "abstract": "На основе использования современных лесоводственных методик изучен видовой состав, встречаемость и санитарное состояние подлесочных видов в лесном парке имени Лесоводов России, территория которого относится к Средне-Уральскому таежному лесному району. В процессе исследований установлено, что на территории лесного парка встречается 30 подлесочных видов, в состав которых входят как аборигенные виды, так и интродуценты. Для более объективной оценки видового разнообразия территория лесного парка была разбита на семь отдельных объектов с учетом типа леса, удаленности от дачных участков, дорог и линий электропередач (ЛЭП). Исследования показали, что максимальным разнообразием характеризуется подлесок вдоль дорожно-тропиночной сети – 27 видов, или 90 % от общего количества. Большинство видов подлеска характеризуется низкой встречаемостью. Так, встречаемость более 10 % зафиксирована только у четырех видов подлеска: черемухи обыкновенной (Padus racemose (Lam.) Gilib.), малины лесной (Rubus idaeus L.), рябины обыкновенной (Sorbus aucuparia L.) и видов рода ива (Salix L.). Большинство видов характеризуется хорошим и вполне удовлетворительным состоянием. Однако для улучшения состояния и декоративности целесообразно было бы провести омоложение части подлеска путем посадки его на пень. Кроме того, в целях обеспечения рекреационной привлекательности и создания условий для гнездования мелких птиц целесообразно было бы вдоль дорожно-тропиночной сети и на ЛЭП высадить красиво цветущие ягодниковые кустарники. В лесном парке зафиксировано два инвазивных вида подлеска: клен ясенелистный (Aser negundo L.) и рябинник рябинолистный (Sorbaria sorbifolia (L.) A. Br.), которые нуждаются в удалении путем инъекции арборицида. Using modern forestry techniques, the species composition, occurrence, an…",
    "url": "https://doi.org/10.51318/fret.2026.98.3.004"
-  },
-  {
-   "key": "doi:10.3390/insects17101047",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "de2401a99f01d5a8fa6150739bebf5a10092a39b",
-   "doi": "10.3390/insects17101047",
-   "pmid": "",
-   "title": "Repeat-Rich Architecture and Gene Duplication Characterize the Expanded Genome of the Chestnut Gall Wasp",
-   "journal": "Insects",
-   "date": "2026-10-12",
-   "authors": "Ye-Song Ren, An-Kang Lv, Yang Zeng, Dao-Hong Zhu",
-   "abstract": "Dryocosmus kuriphilus, the chestnut gall wasp, is a globally invasive pest that reproduces by thelytokous parthenogenesis. Despite the absence of conventional sexual recombination, the species has spread widely and persists under diverse environmental conditions, but the genomic features associated with this capacity remain poorly understood. Here, a chromosome-level assembly of D. kuriphilus was compared with seven representative insect genomes, with emphasis on repetitive sequences, orthogroups, and gene-duplication patterns. The 2.28-Gb D. kuriphilus genome contained 79.7% repetitive sequences, including 62.3% transposable elements (TEs), most of which occurred in intergenic regions. OrthoFinder assigned 13,271 D. kuriphilus genes to multi-copy orthogroups, representing 61.5% of the protein-coding gene set. Independent MCScanX analysis classified genes into mutually exclusive dispersed, proximal, tandem, and segmental duplication modes, with segmental and dispersed representing the two largest duplicated-gene classes. D. kuriphilus contained substantially more segmental duplicates than the other species examined. Synonymous-substitution distributions revealed low- and high-Ks components representing different levels of synonymous divergence among duplicated genes, and genes in these components showed distinct functional profiles. Numerous local duplications were found near TEs and included genes involved in host recognition, nutrient utilisation, xenobiotic metabolism, and energy production. Compared with the closely related gall wasp Belonocnema kinseyi, D. kuriphilus has a broader reported distribution and host range and contains higher copy numbers in several gene families associated with chemosensation, detoxification, metabolism, and stress responses. Together, …",
-   "url": "https://doi.org/10.3390/insects17101047"
-  },
-  {
-   "key": "doi:10.15673/fst.v20i3.3606",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "92b62e87722364ebaf466990f4298457eb43e7ca",
-   "doi": "10.15673/fst.v20i3.3606",
-   "pmid": "",
-   "title": "NUTRITIONAL AND TECHNICAL POTENTIAL OF FRUITS OF FAGACEAE TREES",
-   "journal": "Food Science and Technology",
-   "date": "2026-10-12",
-   "authors": "T. Filinska, A. Filinska",
-   "abstract": "Growing global pressures – including climate change, food insecurity, and the imperative for a sustainable bioeconomy – have intensified interest in alternative renewable plant-based raw materials. Trees of the Beech family (Fagaceae), particularly representatives of the genera Quercus (oak), Fagus (beech), and Castanea (chestnut), are widely distributed in temperate regions and produce a substantial annual fruit biomass (acorns, nuts, and chestnuts). Nevertheless, a substantial fraction of this biomass remains uncollected or is exploited inefficiently. Comprehensive research into the chemical composition and biological activity of these fruits reveals new opportunities for their integration into various industrial sectors, in line with zero-waste production principles. This review aims to systematize and evaluate the nutritional and technological potential of Fagaceae fruits, and to identify promising directions for their industrial processing and use. The study is based on an analysis of scientific publications indexed in international databases (Scopus, Web of Science, and PubMed) published over the last 25 years concerning the phytochemical profile and technological properties of fruit raw materials of the Fagaceae family. Oak acorns (Quercus) and chestnut fruits (Castanea) are comparable to cereal grains in terms of starch content, while beech nuts (Fagus) are a valuable oilseed raw material due to their high lipid fraction. The feasibility of implementing zero-waste processing approaches within the framework of a circular economy is demonstrated. A concept of integrated fruit processing is proposed, in which the food-oriented pathway focuses on the production of gluten-free flour blends, native starch, oils, and other food products. The technical pathway of the pr…",
-   "url": "https://doi.org/10.15673/fst.v20i3.3606"
-  },
-  {
-   "key": "doi:10.3389/fanim.2026.1905042",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "71f0bd6184a8d60fd76ee8cb04415271fb295500",
-   "doi": "10.3389/fanim.2026.1905042",
-   "pmid": "",
-   "title": "Benefits of tannin added to concentrate diets fed to ruminants and monogastric livestock",
-   "journal": "Frontiers in Animal Science",
-   "date": "2026-10-12",
-   "authors": "J. Caradus",
-   "abstract": "Additives and supplements are often added to concentrate and conserved feeds for both ruminants and monogastrics to maximise feed efficiency, optimise animal health, bridge nutrient deficiencies, and improve economic returns. This may include incorporating polyphenols, such as tannins, extracted from natural plant by-products (e.g., grape pomace or extracts from wattle, quebracho and chestnut trees) to improve animal performance, biohydrogenation processes, quality and quantity of milk and meat, and to reduce methanogenesis. The focus is solely on the use of tannins as an additive—obtained from either extracts or natural variants of feedstuff containing higher amounts of these compounds —and the use of tannins as an additive directly from forages. A review of 72 studies where extracts of, or plants containing, tannins were added to concentrate or conserved feeds for ruminant animals indicated that 63% of cattle/cow studies and 54% of sheep/goat studies confirmed positive benefits. Reasons why benefits were not observed include using the ‘wrong’ type or concentration of tannin, the negation of tannin effects by other compounds in the extract, an unsuitable combination of tannin type and concentrate, or the developmental status of the ruminant. However, assuming this practice continues, this raises the question of whether tannin expression in the main ingredient of concentrate or conserved, feed such as maize or soybean, would be beneficial. For monogastrics, 20 studies for each poultry and swine were reviewed. The inclusion of tannins in feed for poultry provided little nutritional benefit reduced infection where coccidiosis severity due to microbial infection was measured. Tannin extracts fed to pigs produced variable results, ranging from no appreciable influence at lo…",
-   "url": "https://doi.org/10.3389/fanim.2026.1905042"
-  },
-  {
-   "key": "doi:10.3389/fpls.2026.1907055",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "1bb1f6ca28a92f2eb1567d2e8ded6ddc24344bf7",
-   "doi": "10.3389/fpls.2026.1907055",
-   "pmid": "",
-   "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
-   "journal": "Frontiers in Plant Science",
-   "date": "2026-10-12",
-   "authors": "Xiang-Yu Wang, Xi-Li Liu, Jun Liu, Le Niu, Huo-Qiang Quan, Tong Zhang",
-   "abstract": "The GATA gene family comprises important transcription factors (TFs) that affect plant ontogeny and abiotic/biotic stress tolerance. Castanea mollissima is a significant economic and food-producing tree species in the Northern Hemisphere, known for its strong wind resistance and soil stabilization capabilities. Nevertheless, existing studies have not explored the characteristics and functions of the GATA family in C. mollissima . The study identified 21 CmGATA genes from the N11–1 reference genome assembly of C. mollissima , which were dispersed among 12 chromosomes. Phylogenetic analysis helped to categorize these genes into four distinct subfamilies, with genes belonging to the same subfamily exhibiting considerable similarities in terms of structural characteristics and conserved motif composition. Collinear analysis further revealed that the major driver of CmGATA gene family expansion was segmental duplication, followed by evolutionary pressure predominantly shaped by purifying selection. Phenotypic indicators, such as antioxidant enzyme activity, exhibited significant alterations, and transcriptomic analysis revealed increasingly more differentially expressed genes (DEGs) as salt stress treatment continued. Notably, transcriptome analysis demonstrated the expression patterns of CmGATA genes under salt stress, and combined with their correlation with phenotype indicators and weighted gene co-expression network analysis (WGCNA), effectively benefiting the exploration of the function of CmGATA genes in C. mollissima salt stress response. Additionally, validation experiments utilizing reverse transcription-quantitative polymerase chain reaction (RT-qPCR) demonstrated gene expression trends consistent with those obtained from RNA sequencing (RNA-seq) analyses. This stu…",
-   "url": "https://doi.org/10.3389/fpls.2026.1907055"
   }
  ]
 }
