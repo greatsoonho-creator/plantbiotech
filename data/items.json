@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-04T06:58:00+09:00",
-  "latest_run": "2026-11-04",
+  "generated_at": "2026-11-05T06:55:00+09:00",
+  "latest_run": "2026-11-05",
   "runs": [
+    {
+      "run": "2026-11-05",
+      "at": "2026-11-05T06:55:00+09:00",
+      "count": 6,
+      "note": "논문5(genome0,fruit3,pvp2; 피드 후보16건 중 관련 선별), 뉴스·정책1, 원문 미열람1. 11월 보도자료·입법예고·품종보호 공고 검색에서 확인 안 됨; news1 DNS 차단"
+    },
     {
       "run": "2026-11-04",
       "at": "2026-11-04T06:58:00+09:00",
@@ -189,6 +195,26 @@
   ],
   "items": [
     {
+      "id": "20261104-3244134d",
+      "cat": "policy",
+      "title": "산림청, 11월 ‘이달의 임업인’에 정선 마가목 재배 이정수 대표 선정",
+      "title_ko": "산림청, 11월 이달의 임업인에 정선 마가목 재배 이정수 대표 선정",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6342796",
+      "date": "2026-11-04",
+      "date_key": "2026-11-04",
+      "type": "news",
+      "summary_ko": "산림청은 11월 ‘이달의 임업인’으로 강원 정선군에서 마가목을 재배하는 주식회사 마가팜 이정수 대표(63)를 선정했다고 4일 밝혔다. 이 제도는 산림청이 우수 임업경영 사례를 발굴해 알리는 임업인 소득·홍보 정책의 일환이다. 검색 결과 요약에서는 선정 사실과 재배 품목, 소속만 확인되었고 세부 재배 규모나 선정 사유는 확인하지 못했다. 임업인 현장 사례는 특용·산채류 등 임산물 소득 모델을 파악하는 참고가 될 수 있다. (원문 미열람)",
+      "tags": [
+        "산림청",
+        "이달의 임업인",
+        "마가목",
+        "임업인 소득"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
+    },
+    {
       "id": "20261103-b0e81e42",
       "cat": "policy",
       "title": "산림청 개발 산불진화차 육군 전력화",
@@ -207,6 +233,48 @@
       ],
       "collected_at": "2026-11-04",
       "run": "2026-11-04"
+    },
+    {
+      "id": "20261103-ee9409da",
+      "cat": "fruit",
+      "title": "Accumulation of two distinct alleles causes astringency loss in cultivated polyploid persimmon",
+      "title_ko": "다배체 재배 감에서 두 가지 대립유전자의 축적이 떫은맛 소실을 일으킴",
+      "source": "bioRxiv",
+      "url": "https://doi.org/10.64898/2026.10.31.762479",
+      "date": "2026-11-03",
+      "date_key": "2026-11-03",
+      "type": "paper",
+      "summary_ko": "감 과실은 프로안토시아니딘(PA)을 다량 축적해 강한 떫은맛을 내지만, 자연 탈삽형(PCNA) 품종은 과실 발달 초기에 PA 축적이 멈춘다. 이 형질은 ASTRINGENCY(AST) 좌위에 의해 열성으로 조절된다고 알려졌으나 원인 유전자는 규명되지 않았다. 연구진은 6배체 유전적 배경에서 반수체 해상(haplotype-resolved) 정방향 유전학 접근을 적용해 아직 기능이 알려지지 않은 TANNIN(TAN)을 원인 유전자로 동정했다. 롱리드 시퀀싱 결과 PCNA는 서로 독립적으로 유래한 ast 대립유전자들이 축적되어 TAN의 전사 결핍을 일으키며 생겨났음이 밝혀졌다. 이는 다배체 감에서 떫은맛 소실의 복잡한 유전적 기반을 해명하고 분자육종의 틀을 제공한다는 의미가 있다. 감 육종·유전체 연구와 마커 개발, 향후 신품종 특성 판별에 참고할 수 있다. 사전출판(프리프린트) 단계이며 초록에 구체적 수치는 제시되지 않았다.",
+      "tags": [
+        "감",
+        "떫은맛",
+        "PCNA",
+        "롱리드 시퀀싱",
+        "분자육종"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
+    },
+    {
+      "id": "20261103-53bee202",
+      "cat": "pvp",
+      "title": "Dissecting the genetic basis of DUS characters in Pakistani wheat varieties",
+      "title_ko": "파키스탄 밀 품종 DUS 형질의 유전적 기반 해부",
+      "source": "bioRxiv",
+      "url": "https://doi.org/10.64898/2026.11.01.763533",
+      "date": "2026-11-03",
+      "date_key": "2026-11-03",
+      "type": "paper",
+      "summary_ko": "DUS(구별성·균일성·안정성) 검정은 품종 특성 확인과 육성자권 보호의 핵심이나, 형태 형질 위주의 평가는 환경·생육단계·관찰자에 따라 변동한다는 한계가 있다. 이 연구는 파키스탄의 과거·현대 밀 품종 102개를 대상으로 DUS 형질을 평가하고 표적 시퀀싱 기반 유전자형 분석(genotyping-by-targeted sequencing)으로 GWAS를 수행했다. 품질 필터링 후 21,670개의 고품질 SNP이 분석에 사용되었고, 집단구조는 K=9로 지지되며 계통군집은 5개 그룹으로 나뉘었다. 제1~3주성분은 각각 전체 변이의 8.09%, 7.20%, 5.39%를 설명했다. BLINK와 FarmCPU로 생육습성(1B_129176704 SNP, 5B에 추가 신호), 탈립성(1D_445256324 인근 연관 SNP 다수) 등 DUS 진단 형질과 유의한 연관을 찾았다. 형질 특이적 분자마커를 DUS 형태 검정과 병행하면 재현성과 해상도를 높일 수 있다는 점에서, 산딸기 등 품종보호 출원 시 마커 보완 검정 설계에 참고할 만하다.",
+      "tags": [
+        "DUS",
+        "품종보호",
+        "GWAS",
+        "SNP",
+        "밀"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
     },
     {
       "id": "20261102-714593d3",
@@ -264,6 +332,27 @@
       ],
       "collected_at": "2026-11-04",
       "run": "2026-11-04"
+    },
+    {
+      "id": "20261102-766e3785",
+      "cat": "pvp",
+      "title": "Agro-morphological Characterisation of Rice (Oryza sativa L.) Germplasm Accessions Using DUS Descriptors",
+      "title_ko": "DUS 기술형질을 이용한 벼 유전자원의 농업형태 특성 평가",
+      "source": "Plant Cell Biotechnology and Molecular Biology",
+      "url": "https://doi.org/10.56557/pcbmb/2026/v27i11-1211306",
+      "date": "2026-11-02",
+      "date_key": "2026-11-02",
+      "type": "paper",
+      "summary_ko": "DUS 기술형질에 따른 유전자원 특성 조사는 품종 식별과 육종 공여친 선발의 기초 자료가 된다. 이 연구는 인도 이라(Indira Gandhi Krishi Vishwavidyalaya, 라이푸르) 농과대학 시험포장에서 벼 유전자원 200점과 대조 7품종 등 207개 개체를 2020년 Kharif 시기에 4블록 증강계획법(20×15cm 재식)으로 재배해 24개 DUS 기술형질을 육안 조사했다. 형질 중 1개(엽설 모양)는 단형, 9개는 이형, 14개는 다형이었다. 샤논-위버 다양도 지수상 영화색, 지엽 자세, 이삭 추출도, 곡립 폭, 엽초 기부색이 가장 변이가 컸다. 향미 계통 IC390636과 붉은 영(穎) 계통 IC516693 등 특이 자원이 확인되어 공여친·후보 품종 개발에 쓸 수 있다. 가뭄 내성은 평가되지 않았고 향후 평가를 위한 형태 기초자료라는 점이 명시되어 있다. 산림 수종·과수의 DUS 기술형질 다양도 분석 설계에 참고할 수 있다.",
+      "tags": [
+        "DUS",
+        "벼",
+        "유전자원",
+        "샤논다양도",
+        "형태형질"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
     },
     {
       "id": "20261101-543d28c5",
@@ -445,6 +534,27 @@
       "run": "2026-11-04"
     },
     {
+      "id": "20261031-0396661a",
+      "cat": "fruit",
+      "title": "Genome-Wide Identification and Expression Analysis of ZjCDPK Genes Related to Ripening of ‘Dongzao’ Jujube Fruit",
+      "title_ko": "‘동조’ 대추 과실 성숙 관련 ZjCDPK 유전자의 전장 동정 및 발현 분석",
+      "source": "Horticulturae",
+      "url": "https://doi.org/10.3390/horticulturae12111366",
+      "date": "2026-10-31",
+      "date_key": "2026-10-31",
+      "type": "paper",
+      "summary_ko": "칼슘의존 단백질 인산화효소(CDPK)는 과실 발달·성숙에도 관여하지만 대추에서는 거의 연구되지 않았다. 연구진은 겨울대추 ‘동조’(Ziziphus jujuba Mill.) 유전체에서 ZjCDPK 19개를 동정해 12개 염색체 중 11개에 배치했고, 애기장대·토마토 CDPK와 함께 4개 그룹으로 분류했다. 종내 공선성 유전자쌍 2개, 애기장대와의 오솔로그 쌍 16개가 확인되었고, 프로모터에서는 ABA·에틸렌·MeJA·SA·옥신·지베렐린 반응 등 681개의 시스 조절 요소가 발견되었다. 7개 과실 발달 단계의 발현 분석과 qRT-PCR 검증에서 ZjCDPK02, 08, 10, 12, 14, 16, 19가 후기 단계에 우선 축적되었다. ZjCDPK14는 ZjCDPK02와 강한 공발현(r=0.96)을 보였고 과실 경도(r=0.907), 가용성 고형물 함량(r=0.816)과 양의 상관을 나타냈다. 대추 과실 품질 형질의 후보 유전자로서 육종 마커 탐색에 활용할 수 있다.",
+      "tags": [
+        "대추",
+        "CDPK",
+        "과실 성숙",
+        "유전자군",
+        "발현분석"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
+    },
+    {
       "id": "20261030-c3ed8c15",
       "cat": "fruit",
       "title": "Improving the technology of growing seedlings of promising jujube cultivars in the Syrdarya region (Uzbekistan)",
@@ -483,6 +593,27 @@
       ],
       "collected_at": "2026-11-04",
       "run": "2026-11-04"
+    },
+    {
+      "id": "20261030-1de3757c",
+      "cat": "fruit",
+      "title": "Phenotypic Characterization and Transcriptomic Profiling of Ziziphus jujuba var. spinosa Seedlings Under ATP Treatment and Identification of a Novel Lupeol Synthase",
+      "title_ko": "ATP 처리 산조인(멧대추) 유묘의 표현형·전사체 분석 및 신규 루페올 합성효소 동정",
+      "source": "Plants",
+      "url": "https://doi.org/10.3390/plants15213367",
+      "date": "2026-10-30",
+      "date_key": "2026-10-30",
+      "type": "paper",
+      "summary_ko": "멧대추(Ziziphus jujuba var. spinosa)의 어린잎은 중국에서 건강 차로 이용되며 트리터페노이드가 핵심 기능성 성분이나, 그 생합성 핵심 유전자는 거의 밝혀지지 않았다. 연구진은 유묘에 ATP를 처리해 생육 억제, 잎 말림과 가장자리 고사, 지상부 트리터페노이드 함량 증가를 확인했다. 전사체 분석에서 메발론산(MVA) 경로 효소 유전자 대부분은 유의한 변화가 없거나 일부 하향, 일부 이소폼만 약간 상향되었다. 유전체와 전사체를 결합해 13개 OSC(옥시도스쿠알렌 고리화효소) 유전자 중 약하게 상향된 ZsLUS를 찾았고, 효모 이종발현으로 이것이 실제 루페올 합성효소임을 확인했다. ATP가 MVA 경로 유전자의 일률적 상향 없이 트리터페노이드를 늘리며, 하위 경로 특이적 또는 전사후 조절이 관여함을 시사한다. 대추속 기능성 성분 연구와 자원 활용에 참고할 수 있다.",
+      "tags": [
+        "멧대추",
+        "트리터페노이드",
+        "루페올 합성효소",
+        "전사체",
+        "기능성"
+      ],
+      "collected_at": "2026-11-05",
+      "run": "2026-11-05"
     },
     {
       "id": "20261029-612d1fd1",
