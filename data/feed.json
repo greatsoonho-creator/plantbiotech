@@ -1,17 +1,115 @@
 {
- "generated_at": "2026-11-03T20:32:58.072Z",
+ "generated_at": "2026-11-04T20:31:14.887Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 78,
- "errors": [
-  "semanticscholar:hardy-kiwi: HTTP 429",
-  "semanticscholar:jujube: HTTP 429",
-  "semanticscholar:persimmon: HTTP 429"
- ],
+ "count": 83,
+ "errors": [],
  "items": [
+  {
+   "key": "doi:10.64898/2026.10.31.762479",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "preprint",
+   "id": "PPR1357600",
+   "doi": "10.64898/2026.10.31.762479",
+   "pmid": "",
+   "title": "Accumulation of two distinct alleles causes astringency loss in cultivated polyploid persimmon",
+   "journal": "bioRxiv",
+   "date": "2026-11-03",
+   "authors": "Fujiwara Y, Nishiyama S, Onoue N, Matsuzaki R, Kono A, Azuma A, Saito T, Shimizu T, Sato A, Ichino T, Yamane H, Yonemori K, Tao R.",
+   "abstract": "Persimmon fruit accumulates high levels of proanthocyanidins (PAs), causing extreme astringency. In pollination-constant and non-astringent (PCNA) cultivars, PA accumulation ceases early in fruit development. Although the PCNA trait is recessively controlled by the ASTRINGENCY ( AST ) locus, its causal gene has remained unknown. Using haplotype-resolved forward genetics in a hexaploid genetic background, we identified the previously uncharacterized TANNIN ( TAN ) as the causal gene. Long-read sequencing revealed that PCNA originated through the accumulation of independently derived ast alleles that cause transcriptional deficiency of TAN . These findings resolve the complex genetic basis of natural astringency loss in persimmon and provide a framework for molecular breeding. Further investigation of TAN function would uncover mechanisms underlying massive accumulation of PAs in persimmon fruit and insight into specialized metabolite sequestration.",
+   "url": "https://doi.org/10.64898/2026.10.31.762479"
+  },
+  {
+   "key": "doi:10.21203/rs.3.rs-11581424/v1",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "preprint",
+   "id": "PPR1356247",
+   "doi": "10.21203/rs.3.rs-11581424/v1",
+   "pmid": "",
+   "title": "Adding Geographical Indication Protection to a Regional Collective Trademark: Evidence on Rural Production and Commercialisation in Japan",
+   "journal": "Research Square",
+   "date": "2026-11-03",
+   "authors": "Matsui K.",
+   "abstract": "Abstract This study examines whether Geographical Indication (GI) registration generates additional changes in rural production and commercialisation when a regional product is already protected by a Regional Collective Trademark (RCT). Using Ichida Gaki, a traditional dried persimmon from Nagano Prefecture, Japan, as a case, the study compares the RCT-only period (2007–2015) with the combined RCT-plus-GI period (2017–2023). A prefecture-year panel is analysed using two-way fixed-effects models, event-study analyses, and spatial analyses. Relative to comparison prefectures, production volume remained comparatively higher after GI registration, while shipment volume and shipment rate declined. The decline in shipment volume received the strongest empirical support and remained robust across alternative specifications, whereas pre-treatment trends limit causal interpretation for production volume and shipment rate. Spatial analyses also indicate geographically heterogeneous post-registration changes among other dried-persimmon-producing prefectures. The findings suggest that GI registration may affect rural production systems not only through brand protection but also through changes in commercialisation and institutional governance. More broadly, the study highlights the importance of evaluating layered intellectual property protection as an institutional component of rural development policy whose implications may differ across production and market participation.",
+   "url": "https://doi.org/10.21203/rs.3.rs-11581424/v1"
+  },
+  {
+   "key": "doi:10.64898/2026.11.01.763533",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "preprint",
+   "id": "PPR1357653",
+   "doi": "10.64898/2026.11.01.763533",
+   "pmid": "",
+   "title": "Dissecting the genetic basis of DUS characters in Pakistani wheat varieties",
+   "journal": "bioRxiv",
+   "date": "2026-11-03",
+   "authors": "Haq IU, Qureshi IA, Hussain MA, Javaid RA, Sheikh F, Abbas Z, Azam M.",
+   "abstract": "Distinctness, Uniformity and Stability (DUS) testing is fundamental to varietal characterization and the protection of Plant Breeders Rights (PBRs), but conventional DUS assessment relies predominantly on morphological characteristics whose expression may be influenced by environmental conditions, developmental stage and observer-related variation. Integrating character-specific molecular markers with conventional DUS assessment may therefore improve the reproducibility and genetic resolution of varietal identification. This study investigated the genetic architecture of DUS characteristics in a panel of 102 historical and modern Pakistani wheat varieties using genome-wide association studies (GWAS). Phenotypic variation was evaluated using distribution, correlation and hierarchical clustering analyses, while the germplasm was genotyped using a wheat genotyping-by-targeted sequencing platform. After quality filtering, 21,670 high-quality single-nucleotide polymorphisms (SNPs) were retained for analyses of genetic diversity, population structure, linkage disequilibrium (LD) and marker-trait associations. Population structure analysis indicated extensive admixture, with cross-entropy supporting K = 9 ancestral components, whereas hierarchical genetic clustering separated the germplasm into five broad groups. The first three principal components explained 8.09%, 7.20% and 5.39% of the total genetic variation, respectively. GWAS using BLINK and FarmCPU identified significant associations for several diagnostically important DUS characteristics. Growth habit was strongly associated with SNP 1B_129176704, with an additional signal on chromosome 5B. Shattering showed its strongest association at 1D_445256324, accompanied by several closely linked SNPs in the same region and a …",
+   "url": "https://doi.org/10.64898/2026.11.01.763533"
+  },
+  {
+   "key": "doi:10.46309/biodicon.2026.2063685",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "bf044d73c03cc6b2223671de8add1b50551518c1",
+   "doi": "10.46309/biodicon.2026.2063685",
+   "pmid": "",
+   "title": "Traditional Plant Knowledge across Rural and Peri-Urban Istanbul: Documented Plants and Uses",
+   "journal": "Biological Diversity and Conservation",
+   "date": "2026-11-02",
+   "authors": "Emine Akalın, Rabia Ebrar Akıncı, Aybüke Kızılırmaklı Demir, O. Demir, E. Cabi",
+   "abstract": "Purpose: This study examines traditional plant knowledge in rural and peri-urban Istanbul, where environmental access, household production and metropolitan connections coexist.Method: Fieldwork within Türkiye’s national programme for documenting traditional knowledge associated with bio-logical diversity covered 30 neighbourhoods in ten districts in 2021–2022. Purposive selection and local referrals iden-tified 112 informants contributing 667 plant-use reports. Original descriptions were retained alongside standardized taxonomic and use fields. Analyses examined repertoire composition, citation frequency, multifunctionality and district overlap. Retrospective taxon-level classifications distinguished predominantly wild-gathered from cultivated, managed, planted or otherwise obtained taxa, and identified a conservative subset confirmed in Istanbul flora sources. District overlap was assessed using an informant-block permutation model; sampling-adequacy estimates were exploratory.Findings: The repertoire comprises 174 taxa in 129 genera and 52 families, spanning 52 use categories, 25 plant-part groups and 12 preparation groups. Food accounted for 55.2% of reports, human health for 22.3% and household and material uses for 11.8%. Fruit and aerial parts predominated; cooking and raw use were the leading preparations. Tilia tomentosa led food citations, Olea europaea health and Castanea sativa household and material uses. The null model largely reproduced the raw increase in district overlap from taxa to preparations. Lower-than-expected preparation over-lap did not survive multiple-testing correction. Reports involving predominantly wild-gathered taxa accounted for 52.9%; their share was higher in food than health, but taxon-level permutation did not support a systematic d…",
+   "url": "https://doi.org/10.46309/biodicon.2026.2063685"
+  },
+  {
+   "key": "doi:10.56557/pcbmb/2026/v27i11-1211306",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "e87a772243c799f6b74173cea98c70e14b78647e",
+   "doi": "10.56557/pcbmb/2026/v27i11-1211306",
+   "pmid": "",
+   "title": "Agro-morphological Characterisation of Rice (Oryza sativa L.) Germplasm Accessions Using DUS Descriptors",
+   "journal": "Plant cell biotechnology and molecular biology",
+   "date": "2026-11-02",
+   "authors": "Priya Gupta, D. Gauraha, Jyoti Sahu",
+   "abstract": "The present investigation was undertaken to characterise 200 rice germplasm accessions, along with seven checks, for visually assessed DUS (Distinctness, Uniformity and Stability) traits. The 207 entries were evaluated during Kharif 2020 in an augmented design with four blocks at the Research cum Instructional Farm, Department of Genetics and Plant Breeding, College of Agriculture, Indira Gandhi Krishi Vishwavidyalaya, Raipur (Chhattisgarh), at a spacing of 20 cm × 15 cm with the recommended package of practices under normal irrigated conditions (no drought stress was imposed). Observations were recorded on twenty-four DUS descriptors. Of these, one descriptor (shape of ligule) was monomorphic, nine were dimorphic and fourteen were polymorphic. Based on the Shannon–Weaver diversity index, hull colour, flag leaf attitude, panicle exsertion, grain breadth and basal leaf sheath colour were the most variable descriptors. Unique accessions such as IC390636 (aromatic) and IC516693 (red lemma) were identified, which may be useful as donors and in candidate variety development. The study provides a morphological baseline for future drought-stress evaluation; drought tolerance itself was not assessed",
+   "url": "https://doi.org/10.56557/pcbmb/2026/v27i11-1211306"
+  },
+  {
+   "key": "doi:10.1002/jeq2.70319",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42972160",
+   "doi": "10.1002/jeq2.70319",
+   "pmid": "42972160",
+   "title": "Seasonal hypoxia and nitrate depletion in water chestnut (Trapa natans) beds: Implications for nitrogen cycling.",
+   "journal": "",
+   "date": "2026-11-01",
+   "authors": "Simmons W, Blossey B, Walter MT.",
+   "abstract": "Dense beds of floating macrophytes can alter water quality by modifying dissolved oxygen (DO) and nitrogen (N) dynamics. Water chestnut (Trapa natans L.), a non-native annual macrophyte, forms extensive seasonal beds in freshwater systems in North America. The species is intensively managed to reduce negative impacts on native species, yet its effects on DO and nitrate (NO 3 - ) remain poorly studied. We quantified DO and NO 3 - -N concentrations inside and outside of three riverine T. natans beds in New York over three growing seasons. In addition, we assessed denitrification using field-collected water and sediment in laboratory microcosm incubations. During summer months, DO of water from within T. natans beds was 76% lower on average (1.28 mg L - 1 ) compared to outside beds (5.43 mg L - 1 ). For NO 3 - -N, concentrations averaged 0.45 (2017) and 0.11 (2018) mg L - 1 outside beds, but were depleted to 0.10 (2017) and 0.01 (2018) mg L - 1 within beds, 77%-88% lower than outside beds. In 2018, 60% of samples, mostly from within beds of T. natans, were below the analytical detection limit of NO 3 - -N (0.02 mg L - 1 ). Laboratory microcosm incubations did not detect consistent N 2 production, despite experimental nitrate enrichment. Together, these results show that T. natans beds create seasonally hypoxic, nitrate-depleted conditions. However, weak and inconsistent N 2 production in our incubation experiments indicates that additional studies are needed to further assess the fate of nitrogen within T. natans beds and whether management may involve potential tradeoffs between habitat quality and nutrient cycling.",
+   "url": "https://doi.org/10.1002/jeq2.70319"
+  },
   {
    "key": "doi:10.24198/jit.v26i3.1491",
    "groups": [
@@ -25,7 +123,7 @@
    "title": "The Effect of Tannin Powder Supplementation in the Ration on Hematological Profiles and Blood Urea Nitrogen of Priangan Sheep",
    "journal": "Jurnal Ilmu Ternak Universitas Padjadjaran",
    "date": "2026-11-01",
-   "authors": "Najwa Hegyra Gumilar, Iman Hernaman, Diding Latipudin, Ghistavera Izvantika",
+   "authors": "Najwa Hegyra Gumilar, I. Hernaman, D. Latipudin, Ghistavera Izvantika",
    "abstract": "The use of dietary tannins as natural feed additives to regulate rumen protein degradation and improve nitrogen metabolism has been increasingly explored. Nevertheless, the evidence concerning the combined use of chestnut (Castanea sativa) and quebracho (Schinopsis lorentzii) tannin extracts in Priangan sheep is still limited. This study aimed to evaluate the effects of a commercial tannin powder containing these two plant extracts on Blood Urea Nitrogen (BUN) concentration and hematological profiles in Priangan sheep. Eighteen healthy male Priangan sheep with an initial average body weight of 19.64±2.51 kg were randomly allocated into three dietary treatments in a Completely Randomized Design with six animals assigned to each treatment. The experimental diets consisted of a control ration (P0), control ration plus 1% tannin powder (P1) and control ration plus 2% tannin powder (P2). Blood samples were taken for biochemical and hematological evaluation after 70 days of feeding. 2% tannin powder supplementation significantly increased BUN concentration compared to control and 1% supplementation groups (P 0.05). In general, supplementation with chestnut and quebracho tannin powder at the 2% inclusion level induced alterations in nitrogen metabolism without any measurable changes in the hematological status. The results of this study suggest that the tannin preparation tested can be included in the diet of Priangan sheep at up to 2% of dietary dry matter without causing adverse physiological effects.",
    "url": "https://doi.org/10.24198/jit.v26i3.1491"
   },
@@ -81,23 +179,6 @@
    "url": "https://doi.org/10.1016/j.conbuildmat.2026.148503"
   },
   {
-   "key": "doi:10.1111/1755-0998.70221",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42958609",
-   "doi": "10.1111/1755-0998.70221",
-   "pmid": "42958609",
-   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
-   "journal": "Molecular Ecology Resources",
-   "date": "2026-11-01",
-   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
-   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
-   "url": "https://doi.org/10.1111/1755-0998.70221"
-  },
-  {
    "key": "doi:10.1016/j.lwt.2026.120134",
    "groups": [
     "jujube"
@@ -132,6 +213,23 @@
    "url": "https://doi.org/10.1016/j.jarmap.2026.100748"
   },
   {
+   "key": "doi:10.1016/j.scienta.2026.115277",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "7b28be0b6858c2dcc1127f117f32921e6a309edd",
+   "doi": "10.1016/j.scienta.2026.115277",
+   "pmid": "",
+   "title": "Effects of DNA methyltransferase inhibitor on fruit quality revealed by integrated DNA methylome analysis in Ziziphus jujuba cv. Dongzao",
+   "journal": "Scientia Horticulturae",
+   "date": "2026-11-01",
+   "authors": "Wen-Di Xu, Jia-Qi Wang, Yin-Tao Xu, Zhi-Kai Zhang, Zhong-Wu Wan, Ling-Ping Sun",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.scienta.2026.115277"
+  },
+  {
    "key": "doi:10.21273/hortsci19395-26",
    "groups": [
     "jujube"
@@ -147,6 +245,91 @@
    "authors": "Chen Yang, Bi-Cong Li, Jin Yu, Xiao-Hua Yu, Ai-Ling Zhao, Xiao-Fang Xue",
    "abstract": "Jujubes ( Ziziphus jujuba Mill.) are rich in a variety of nutrients, among which free amino acids are important indicators, reflecting their nutritional quality and functional value. We investigated the dynamic changes in free amino acid contents during jujube fruit ripening, analyzed the differences among different organs and varieties, and provide a scientific basis for the quality evaluation and comprehensive utilization of amino acids in jujubes. Free amino acid contents in different jujube organs (fruit, flower, leaf), at five different developmental stages, and in the fruit of eight jujube varieties were determined using an automatic amino acid analyzer. Twelve free amino acids were detected in all tested samples, with total contents ranging from 50.35 to 76.26 mg/100 g fresh weight (FW). In terms of dynamic changes, in general the total free amino acid contents in fruit of the four varieties showed a decreasing trend and then an increase during ripening. Specifically, the total content was highest at the young fruit stage and second highest at the full-red stage in ‘Beijingsuanzao’. It was highest at the full-red stage and second greatest at the half-red stage in ‘Huanghuadongzao’, ‘Xinzhenghuizao’, and ‘Tailihong’. The total content was lowest at the expansion stage in ‘Tailihong’, but lowest at the white-ripe stage in the other three varieties. In terms of organ differences, the total free amino acid content in different organs followed the order fruit > flower > leaf. For varietal differences, the total free amino acid content in eight jujube varieties at the crisp-ripe stage differed significantly, ranging from 154.89 to 544.46 mg/100 g FW. The order from high to low was ‘Huanghuadongzao’ > ‘Tailihong’ > ‘Beijingsuanzao’ > ‘Jinsixiaozao’ > ‘Xinzhenghuizao’ > …",
    "url": "https://doi.org/10.21273/hortsci19395-26"
+  },
+  {
+   "key": "doi:10.1016/j.cpb.2026.100693",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "0dfabc17828aa0d12fb54794e62262081fa2478b",
+   "doi": "10.1016/j.cpb.2026.100693",
+   "pmid": "",
+   "title": "Methylome and transcriptome analyses reveal epigenomic remodeling associated with leaf color variation in the new jujube cultivar ‘Ruiyun’",
+   "journal": "Current Plant Biology",
+   "date": "2026-11-01",
+   "authors": "Dong-Ye Lu, Yu-Ping Zhang, Yang Wu, Qing-Hua Pan",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.cpb.2026.100693"
+  },
+  {
+   "key": "doi:10.1016/j.scienta.2026.115265",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "da5dd73a7318957dd3703318819b212cbb8ef3f6",
+   "doi": "10.1016/j.scienta.2026.115265",
+   "pmid": "",
+   "title": "Calcium application strategy modulates nutrient partitioning, vegetative physiological status and fruit quality in persimmon (Diospyros kaki L.)",
+   "journal": "Scientia Horticulturae",
+   "date": "2026-11-01",
+   "authors": "Ana Moreno, A. Quiñones, Alejandra Salvador, J. Morales",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.scienta.2026.115265"
+  },
+  {
+   "key": "doi:10.1111/1755-0998.70221",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42958609",
+   "doi": "10.1111/1755-0998.70221",
+   "pmid": "42958609",
+   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
+   "journal": "Molecular Ecology Resources",
+   "date": "2026-11-01",
+   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
+   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
+   "url": "https://doi.org/10.1111/1755-0998.70221"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12111366",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "f0005ea778c7fd5491967672269a3df61aae8fbe",
+   "doi": "10.3390/horticulturae12111366",
+   "pmid": "",
+   "title": "Genome-Wide Identification and Expression Analysis of ZjCDPK Genes Related to Ripening of ‘Dongzao’ Jujube Fruit",
+   "journal": "Horticulturae",
+   "date": "2026-10-31",
+   "authors": "Bing-Xin Fan, Huang Li, Shi-Xing Wang, Surang Zhao, Zhao-Kun Zhi, Shu-Lin Zhang",
+   "abstract": "Calcium-dependent protein kinases (CDPKs) are plant-specific Ca2+ sensors that translate calcium signals into phosphorylation responses. CDPKs coordinate both plant responses to the environment and plant growth, including fruit development and ripening. However, the CDPK gene family and its potential roles in jujube fruit development remain poorly characterized. In this study, 19 ZjCDPK genes were identified in the genome of ‘winter jujube’ (Ziziphus jujuba Mill. cv. ‘Dongzao’) and mapped to 11 of the 12 chromosomes. Phylogenetic analysis classified the ZjCDPK proteins into four groups, with CDPKs from Arabidopsis and tomato. Two intraspecific collinear gene pairs and sixteen orthologous gene pairs between ‘Dongzao’ and Arabidopsis were identified. Most family members exhibited similar organization of exon–intron splicing and contained similar motifs, with all containing a conserved serine/threonine protein kinase catalytic domain and four C-terminal EF-hand motifs. Promoter analysis identified 681 cis-acting elements, with abundant elements associated with abiotic stress, light, and phytohormone responses, including those related to abscisic acid, ethylene, methyl jasmonate, salicylic acid, auxin, and gibberellin. Developmental expression profiling across seven fruit stages, together with qRT-PCR validation, showed that ZjCDPK02, 08, 10, 12, 14, 16, and 19 accumulated preferentially during the late stages of fruit development. Correlation analysis further showed that ZjCDPK14 was strongly co-expressed with ZjCDPK02 (r = 0.96) and positively correlated with both fruit firmness (r = 0.907) and total soluble solids content (r = 0.816). Significant associations with these quality traits were also detected for ZjCDPK02, 04, 08, 15, 16, and 19. These findings provide a compr…",
+   "url": "https://doi.org/10.3390/horticulturae12111366"
+  },
+  {
+   "key": "doi:10.5720/kjcn.2026.00157",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "42978353",
+   "doi": "10.5720/kjcn.2026.00157",
+   "pmid": "42978353",
+   "title": "Seasonal variation in Korean school lunch menus using big data from the National Education Information System: an exploratory study.",
+   "journal": "",
+   "date": "2026-10-31",
+   "authors": "Shin J, Park E.",
+   "abstract": "School meal programs in South Korea are a major public nutrition service and an important part of student diets. Although previous National Education Information System- based studies have described frequently served menu items and annual trends, nationwide evidence on how school lunch menus differ seasonally remains limited. Thus, in this exploratory study, we aimed to analyze summer-winter differences in frequently served items in South Korean elementary, middle, and high schools. Nationwide school lunch records from 2023 to 2025 were obtained from the National School Meal Information application programming interface. Lunch meal units served in elementary, middle, and high schools were analyzed. The final dataset comprised 1,200,000 meal units. Menu items were classified into six categories: rice/noodles, soups/stews, kimchi, main dishes, side dishes, and desserts. In each category, items frequently served in summer and winter were identified, and seasonal differences were quantified using a seasonal gap index and z-tests. Seasonal variation was highest in kimchi and desserts. Among the top items, 25/26 kimchi items and 27/30 dessert items showed significant seasonal differences. In desserts, watermelon, oriental melon, and ice cream were strongly summer-dominant, whereas apple, strawberry, and sweet persimmon were winter-dominant. In kimchi, young summer radish kimchi and cucumber kimchi were summer-dominant, whereas diced radish kimchi and napa cabbage kimchi were winter-dominant. Rice/noodles, soups/stews, and side dishes showed moderate seasonal variation. Main dishes showed the lowest degree of seasonal variation, with all-time popular items displaying minimal variation. Seasonal variation in menu items was concentrated in specific categories rather than evenly …",
+   "url": "https://doi.org/10.5720/kjcn.2026.00157"
   },
   {
    "key": "doi:10.1094/phyto-08-26-0249-r",
@@ -200,21 +383,21 @@
    "url": "https://doi.org/10.1038/s41538-026-01188-6"
   },
   {
-   "key": "doi:10.63108/ijlmh.13127",
+   "key": "doi:10.3390/plants15213367",
    "groups": [
-    "dus-pvp"
+    "jujube"
    ],
-   "cat": "pvp",
+   "cat": "fruit",
    "source": "semanticscholar",
-   "id": "c4e87f6a618f93941712005c167a47ac09acaef1",
-   "doi": "10.63108/ijlmh.13127",
+   "id": "a7c309fec71057b95a3a60db1974047072881a17",
+   "doi": "10.3390/plants15213367",
    "pmid": "",
-   "title": "Legal Challenges in the Registration of Farmers' Varieties under the Protection of Plant Varieties and Farmers' Rights Act, 2001",
-   "journal": "International Journal of Law Management &amp; Humanities",
+   "title": "Phenotypic Characterization and Transcriptomic Profiling of Ziziphus jujuba var. spinosa Seedlings Under ATP Treatment and Identification of a Novel Lupeol Synthase",
+   "journal": "Plants",
    "date": "2026-10-30",
-   "authors": "V. Mathivadhani Kandiyar",
-   "abstract": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001 (PPV&FR Act) is the intellectual property framework developed by India to protect plant varieties while taking into account the role of farmers in agricultural innovation and the conservation of biodiversity. However, many problems remain in the registration of farmers’ varieties. This paper examines whether the existing registration regime is able to protect traditional farmers’ varieties, given that the registration system is predominantly based on formal and standardized plant variety protection. The main emphasis is on the problems farmers face in fulfilling the criteria of distinctiveness, uniformity and stability (DUS) when traditional varieties contain genetic diversity and have developed over generations of farmers. The procedural, technical, evidential and financial problems of registration are also analyzed, along with the question whether small farmers can fulfill all the requirements. The paper further discusses the limited time period for the registration of farmers’ varieties. It also explores the role of traditional farmers in the plant variety protection regime, especially traditional farmers who have conserved, developed or improved such traditional varieties and may also be recognized as breeders. The recognition of such farmers as breeders raises issues about the kind of rights they hold as breeders and the possible conflict between their rights as traditional farmers and their rights under plant variety protection. The study asks whether the present regime properly balances the intellectual property rights of farmers as breeders, on the one hand, and their traditional practices of cultivating, using, exchanging and conserving plant varieties, on the other.",
-   "url": "https://doi.org/10.63108/ijlmh.13127"
+   "authors": "Yan-Sheng Wu, Shen-Xiu Du, Hua-Liang Liu, Yi-Mian Ma, Wen-Jing Wang, Ye-Lin Tian",
+   "abstract": "The tender leaves of Ziziphus jujuba var. spinosa (sour jujube) are widely consumed in China as a health-promoting tea, with triterpenoids being identified as one of their core bioactive constituents. However, key genes in the triterpenoid biosynthesis pathway remain largely uncharacterized in this species. Here, adenosine triphosphate (ATP) treatment inhibited sour jujube seedling growth, induced leaf curling and marginal withering in partial seedlings, and elevated triterpenoid content in seedling aboveground tissues. Transcriptome analysis showed that most mevalonic acid (MVA) pathway enzyme genes were not significantly altered, while some were downregulated, and some enzyme isoforms were slightly upregulated. Combined genome and transcriptome analysis identified one slightly upregulated oxidosqualene cyclase (OSC) gene, ZsLUS, among 13 sour jujube OSC family genes. Heterologous expression in yeast confirmed that ZsLUS encodes a bona fide lupeol synthase with catalytic activity. These results indicate that ATP treatment enhances triterpenoid accumulation without uniformly upregulating MVA pathway genes, suggesting a sub-pathway-specific regulatory mode or post-transcriptional regulatory mechanism for triterpenoid biosynthesis in sour jujube seedlings. This work deepens our understanding of the mechanism of ATP action on sour jujube triterpenoid biosynthesis and provides new clues for deciphering triterpenoid biosynthesis and accumulation in sour jujube leaves.",
+   "url": "https://doi.org/10.3390/plants15213367"
   },
   {
    "key": "doi:10.68372/bt90q205",
@@ -232,6 +415,23 @@
    "authors": "Jasur Eshquvvatov",
    "abstract": "This article analyzes the scientific basis for improving the technology of growing seedlings of promising jujube (Ziziphus jujuba Mill.) cultivars under the conditions of the Syrdarya region of Uzbekistan. The relevance of the study is associated with the adaptability of jujube to arid and continental climatic conditions, the nutritional and biological value of its fruits, and the increasing interest in expanding jujube cultivation in Uzbekistan. Scientific information on jujube cultivars introduced into Uzbekistan, seed and vegetative propagation methods, pre-sowing seed treatments, cutting rooting, and grafting techniques used for the production of planting material is reviewed. Previous research conducted under Uzbek conditions investigated nine jujube cultivars introduced from China, including Xiangzao, Zanhuangdazao, Tangzao, Mayabaizao, Junzao, Dabailing, Dongzao, Linyilizao, and Jixinzao, with several cultivars demonstrating promising adaptability. Recent research on seed propagation has also demonstrated the importance of pre-sowing treatment and sowing depth. Under the conditions of the Republic of Karakalpakstan, the highest seed germination was observed at a sowing depth of 2.5–3.0 cm, while scarification accelerated seed germination and improved germination performance. Studies of vegetative propagation have demonstrated that indole-3-butyric acid (IBA) can significantly improve the rooting of jujube cuttings and root development characteristics. The reviewed scientific evidence provides a basis for developing an adapted technology for producing high-quality jujube planting material under the soil and climatic conditions of the Syrdarya region.",
    "url": "https://doi.org/10.68372/bt90q205"
+  },
+  {
+   "key": "doi:10.63108/ijlmh.13127",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "c4e87f6a618f93941712005c167a47ac09acaef1",
+   "doi": "10.63108/ijlmh.13127",
+   "pmid": "",
+   "title": "Legal Challenges in the Registration of Farmers' Varieties under the Protection of Plant Varieties and Farmers' Rights Act, 2001",
+   "journal": "International Journal of Law Management &amp; Humanities",
+   "date": "2026-10-30",
+   "authors": "V. M. Kandiyar",
+   "abstract": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001 (PPV&FR Act) is the intellectual property framework developed by India to protect plant varieties while taking into account the role of farmers in agricultural innovation and the conservation of biodiversity. However, many problems remain in the registration of farmers’ varieties. This paper examines whether the existing registration regime is able to protect traditional farmers’ varieties, given that the registration system is predominantly based on formal and standardized plant variety protection. The main emphasis is on the problems farmers face in fulfilling the criteria of distinctiveness, uniformity and stability (DUS) when traditional varieties contain genetic diversity and have developed over generations of farmers. The procedural, technical, evidential and financial problems of registration are also analyzed, along with the question whether small farmers can fulfill all the requirements. The paper further discusses the limited time period for the registration of farmers’ varieties. It also explores the role of traditional farmers in the plant variety protection regime, especially traditional farmers who have conserved, developed or improved such traditional varieties and may also be recognized as breeders. The recognition of such farmers as breeders raises issues about the kind of rights they hold as breeders and the possible conflict between their rights as traditional farmers and their rights under plant variety protection. The study asks whether the present regime properly balances the intellectual property rights of farmers as breeders, on the one hand, and their traditional practices of cultivating, using, exchanging and conserving plant varieties, on the other.",
+   "url": "https://doi.org/10.63108/ijlmh.13127"
   },
   {
    "key": "doi:10.1111/jfb.70711",
@@ -312,7 +512,7 @@
    "doi": "10.1139/cjm-2026-0110",
    "pmid": "42956384",
    "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
-   "journal": "",
+   "journal": "Canadian Journal of Microbiology (print)",
    "date": "2026-10-29",
    "authors": "Abed S, Kumar A, Hausner G.",
    "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
@@ -455,6 +655,23 @@
    "url": "https://doi.org/10.1007/s11270-026-10097-z"
   },
   {
+   "key": "doi:10.1007/s10681-026-03828-0",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "89288835251e9971fa414b30e63fd0f9c2f78fdb",
+   "doi": "10.1007/s10681-026-03828-0",
+   "pmid": "",
+   "title": "Characterization of interspecific hybrids between Actinidia arguta and A. Chinensis var. deliciosa: a brief survey",
+   "journal": "Euphytica",
+   "date": "2026-10-26",
+   "authors": "Boniface Maenge Munyao, Mu-Zi Li, Y. Man, Jian Wang, Yan-Chang Wang, Xue-Mei Lu",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10681-026-03828-0"
+  },
+  {
    "key": "doi:10.1016/j.foodchem.2026.151801",
    "groups": [
     "jujube"
@@ -465,7 +682,7 @@
    "doi": "10.1016/j.foodchem.2026.151801",
    "pmid": "42945880",
    "title": "Constructing restructured jujube using blackened jujube pulp and carrageenan to resolve Peel-induced rough mouthfeel.",
-   "journal": "",
+   "journal": "Food Chemistry",
    "date": "2026-10-26",
    "authors": "Zhang H, Wang Y, Sun X, Gao L, Zhang D, Zhang R.",
    "abstract": "Blackened jujube offers improved nutritional value, while its peel-induced coarse mouthfeel limits its broader use in snack-style products. To address this limitation, this study proposes restructuring blackened jujube pulp into self-supporting composite gels using κ-carrageenan (KC). While neither 0.5% KC nor the pulp alone formed a self-supporting gel, composite gels containing 0.5% KC were observed to be self-supporting, indicating that the pulp matrix facilitates gelation at a lower KC level. Increasing KC from 0.5% to 2.5% progressively strengthened the network, increasing hardness from ~2.5 N to 16.7 N, water-holding capacity from 53.45% to 77.01%, and freeze-thaw syneresis from 68.94% to 26.69%, alongside network densification and T₂₂ shortening (75.8 to 37.0 ms). Sensory evaluation also confirmed that restructuring markedly reduced grittiness and improved overall mouthfeel. Overall, this work offers a practical strategy for converting fruit pulps into self-supporting composite gels, thereby enabling blackened jujube products with tunable texture and improved mouthfeel. The authors contributed equally to this work.",
@@ -521,23 +738,6 @@
    "authors": "Aman Mahajan, A. Rana, J. Jyoti, Yogendra Kumar, Rama Kant, Ashok Kumar",
    "abstract": "Azadirachta indica A. Juss. (neem) is a multipurpose tree species of agricultural, medicinal, pesticidal and industrial importance. Increasing demand for neem-derived products, particularly neem oil for neem-coated urea, has stimulated genetic improvement programme for development of superior planting material with enhanced production and biochemical traits. In this context, Forest Research Institute (FRI), Dehradun, in collaboration with the Indian Farmers Fertiliser Cooperative Limited (IFFCO), released six elite neem varieties characterized by early flowering and fruiting, with oil content ranging from 35.44 to 43.51% and azadirachtin content from 6047 to 9760 ppm. The development and release of such improved varieties necessitate reliable and standardized distinctness, uniformity and stability (DUS) characterization for their identification, registration and legal protection. However, application of DUS testing in neem is challenging because of its perennial growth habit, extended juvenile phase, phenotypic plasticity and environmental influence on morphological traits. This systematic review synthesizes available information on DUS characterization in neem and critically examines morphological, quantitative, pseudo-qualitative and biochemical descriptors used for varietal identification. It identifies limitations in existing descriptor framework and highlights need for systematic validation across environments and developmental stages. Importantly, review contextualizes neem DUS characterization within recent advances in varietal development and considers its broader utility in breeding, germplasm characterization, conservation, and variety protection. Based on identified gaps, priorities are proposed for refining and validating existing descriptors and, where appr…",
    "url": "https://doi.org/10.1007/s44372-026-00926-0"
-  },
-  {
-   "key": "doi:10.1007/s10681-026-03828-0",
-   "groups": [
-    "hardy-kiwi"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "89288835251e9971fa414b30e63fd0f9c2f78fdb",
-   "doi": "10.1007/s10681-026-03828-0",
-   "pmid": "",
-   "title": "Characterization of interspecific hybrids between Actinidia arguta and A. Chinensis var. deliciosa: a brief survey",
-   "journal": "Euphytica",
-   "date": "2026-10-26",
-   "authors": "Boniface Maenge Munyao, Mu-Zi Li, Y. Man, Jian Wang, Yan-Chang Wang, Xue-Mei Lu",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s10681-026-03828-0"
   },
   {
    "key": "doi:10.18619/2072-9146-2026-4-77-83",
@@ -1218,125 +1418,6 @@
    "authors": "I. Mrabti, H. Grijja, N. Brhadda, R. Ziri, M. Afechtal",
    "abstract": "",
    "url": "https://doi.org/10.11646/zootaxa.5890.1.12"
-  },
-  {
-   "key": "doi:10.1111/nph.71631",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42870285",
-   "doi": "10.1111/nph.71631",
-   "pmid": "42870285",
-   "title": "Metabolic convergence on TOR signaling in the chestnut blight fungus and its regulation by host plant signals.",
-   "journal": "New Phytologist",
-   "date": "2026-10-13",
-   "authors": "Ko YH, Chun J, Kim G, Yu J, Kim DH.",
-   "abstract": "Transcriptomic analysis of the chestnut blight fungus Cryphonectria parasitica identified 22 core genes regulated by Cryphonectria hypovirus 1 (CHV1) infection and sectorization. Twelve genes with common phenocopies were analyzed: all mutants displayed restricted colonial growth, intense pigmentation, hyperbranched terminal hyphae with swollen globose cells, and reduced conidiation. Although gene-specific mutant phenotypes existed, responses to most stressors were similar to those of the wild-type. Mutant growth was highly sensitive to nutrient conditions, and growth restriction was notably alleviated by supplementation with 1.0 M sorbitol, nutrient-deficient media, or skim milk. All mutants showed hallmarks consistent with reduced target of rapamycin (TOR) signaling. Trehalose accumulation, a canonical fungal response to TOR inhibition, was observed in mutants via transcriptional upregulation of core trehalose biosynthetic genes, resulting in altered hyphal osmolarity and common mutant cell phenotypes. Plant signals overrode the mutants' phenotypes, strongly promoting their growth and differentiation. Although a severely retarded growth defect was observed in mutants, mutants' virulence remained intact, which can be ascribed to the host-plant signals. Cryphonectria hypovirus 1 (CHV1)-infected mutants exhibited greater growth restriction, accompanied by genotype-specific CHV1 titers. Despite gene-specific variation, common phenocopies indicate that diverse metabolic pathways converge on the TOR pathway in the fungal response to host-plant and CHV1 infection.",
-   "url": "https://doi.org/10.1111/nph.71631"
-  },
-  {
-   "key": "doi:10.3390/polym18202500",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "d0450683002c91e5dd5117458e5cc50749bef404",
-   "doi": "10.3390/polym18202500",
-   "pmid": "",
-   "title": "Comparative Performance of Stearoyl Chloride-Modified Cellulose Sponges from Five Lignocellulosic Wastes for Oil/Water Separation",
-   "journal": "Polymers",
-   "date": "2026-10-13",
-   "authors": "Emrecan Arpaci, Sami Imamoğlu",
-   "abstract": "Increasing industrial activity and oil spills have turned oil pollution into a serious threat to aquatic ecosystems. This study compares five lignocellulosic wastes—rice husk, chestnut shell, tissue dust, cotton lint and chemical pulp—as raw materials for chemically modified cellulose sponges as a sustainable oil-removal solution. Cellulose fibres were converted into three-dimensional porous sponges by freezing and lyophilisation, then rendered hydrophobic and oleophilic by esterification with stearoyl chloride, confirmed by a new ester carbonyl band in the FTIR spectra of all five sample series. After modification, static water contact angles increased from a superhydrophilic 0° to 115–136.5°, and the sponges adsorbed oils and organic solvents at 12–17 times their own dry weight, retaining over 70% of this capacity after ten regeneration cycles. Chemical purity (α-cellulose content and lignin/extractive ratio) was the main determinant of performance: sponges from cotton lint and chemical pulp outperformed those from unprocessed agricultural wastes (rice husk, chestnut shell) in hydrophobicity and sorption capacity, while the latter showed compensating gains in mechanical strength. These findings indicate that lignocellulosic-waste-derived cellulose sponges are an environmentally friendly, high-performance sorbent with strong potential for oil-spill clean-up and oily wastewater treatment, with raw material choice guided by the intended application’s priorities.",
-   "url": "https://doi.org/10.3390/polym18202500"
-  },
-  {
-   "key": "doi:10.47370/2072-0920-2026-22-3-137-148",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "b9ad71521409a47d70ae276d2892bb4266272e78",
-   "doi": "10.47370/2072-0920-2026-22-3-137-148",
-   "pmid": "",
-   "title": "Application of biological preparations in the cultivation of winter wheat in the North Ossetia",
-   "journal": "New Technologies",
-   "date": "2026-10-13",
-   "authors": "A. Tedeeva, D. Mamiev, V. Tedeeva",
-   "abstract": "Introduction. In modern agricultural practices, the use of new-generation biopreparations for normal plant growth and development has become essential. The research was conducted to determine the effect of biopreparations on winter wheat crops to achieve stable yields of high-quality grain. The object and methods. The research was conducted from 2023 to 2025 in the steppe zone of the Republic of North Ossetia-Alania on chestnut soils. Agrochemical parameters of the soil: humus content (according to Tyurin) – 3.0-3.5%, easily hydrolyzable nitrogen 60-68 mg/kg of soil, pH 7.5-7.8, mobile phosphorus content – 15-17 mg/kg (according to Machigin), exchangeable potassium – 201-282 mg/kg of soil. During the experiment, records, observations and analyses were carried out according to the generally accepted methods described in the “Educational and Methodological Guide for Conducting Research in Agronomy”. The results and discussion. It was revealed that the AgroMineral biopreparation in the amount of 2 l/ha provided the photosynthetic potential for varieties of 2.56-2.59 million m 2 /ha × days, respectively. On average, during the growing season, the NPF indicators in the experiment varied within the range of 4.38-4.72 g / m 2 per day for the Fedor variety, and 4.42-4.78 g / m 2 per day for the Bumba variety. The amount of dry matter accumulated from 4.92 to 5.64 t / ha for the Fedor variety experimental variants, from 4.97 to 5.570 t / ha for the Bumba variety, and its greatest amount – 4.72-4.78 t / ha was formed for the varieties using the Biostim Grain in the amount of 1.5 l / ha + AgroMineral in the amount of 1.5 l / ha. Conclusion. It was established that the yield of winter wheat in the control group was 4.23-4.29 t / ha. Biological products increased grain productivity …",
-   "url": "https://doi.org/10.47370/2072-0920-2026-22-3-137-148"
-  },
-  {
-   "key": "doi:10.47370/2072-0920-2026-22-3-162-172",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "80c9c1b5069a78bbe66e51505b62449392178df7",
-   "doi": "10.47370/2072-0920-2026-22-3-162-172",
-   "pmid": "",
-   "title": "Adaptability of winter wheat varieties to soil and climatic conditions of the Astrakhan region",
-   "journal": "New Technologies",
-   "date": "2026-10-13",
-   "authors": "N. Tyutyuma, A. Bondarenko, A. Tyutyuma",
-   "abstract": "Introduction. Wheat is one of the main agricultural crops in the Lower Volga region. However, the area under durum wheat varieties is small, accounting for only 8-9 %. The goal of the research was to evaluate the resistance of winter wheat breeding material to arid climate conditions in order to determine the source material for practical breeding. The objects and methods. The object of the research was seven winter wheat varieties (collection of the All-Russian Institute of Plant Genetic Resources named after N.I. Vavilov). A field experiment was conducted in the Astrakhan region from 2022 to 2025 on light chestnut soils (an experimental land use plot of Pavlov Federal Scientific Center of the Russian Academy of Sciences). The experiment aimed at studying and introducing promising durum wheat varieties. The analysis of the primary breeding material, including wheat varieties, was carried out in specialized nurseries using typical experimental methods for grain crops. The results and discussion. A study of the agrobiological characteristics of durum wheat in the soil and climatic conditions of the Astrakhan region revealed a significant correlation between tillering rates (total and productive) and productive stem density on the genotypic characteristics of varieties and environmental factors. Assessing resistance to the abiotic stressors of high temperatures and dry winds was necessary for formulating recommendations for varietal selection. Conclusion. A comparative analysis revealed that the Aksint, Onyx, and Amazonka varieties consistently demonstrated an advantage over the standard: their productive tillering rate exceeded the control values by 7-12 stems/m² annually. According to data obtained during the research period, the Aksint (28) and Amazonka and Onyx (26 ea…",
-   "url": "https://doi.org/10.47370/2072-0920-2026-22-3-162-172"
-  },
-  {
-   "key": "doi:10.1007/s11104-026-09172-5",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "8186d0152a920ced713144961314e6d5c90550af",
-   "doi": "10.1007/s11104-026-09172-5",
-   "pmid": "",
-   "title": "The uptake features of mineral elements in jujube trees and the relationship with soil supply",
-   "journal": "Plant and Soil",
-   "date": "2026-10-13",
-   "authors": "Kun-Mao Feng, Jia-Qing Cai, Xin-Yue Liu, Qian Cheng, Xiao-Feng Deng, Li-Ming Jia",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s11104-026-09172-5"
-  },
-  {
-   "key": "doi:10.3390/pr14203282",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "6c20bf885fc5c25fa7dd0b4e86167b77b15cdec7",
-   "doi": "10.3390/pr14203282",
-   "pmid": "",
-   "title": "Regulation of Sugar Content and Glass Transition in Jujube Slices via CP-Assisted Pulsed Vacuum Drying: Effects on Physicochemical Properties and Blood Glucose Regulation",
-   "journal": "Processes",
-   "date": "2026-10-13",
-   "authors": "Ming-Qiang Xu, Fei-Fan Tian, Wurile Bai, An-An Zhang, Shuang-Yu Cao, Yan Ma",
-   "abstract": "Although red dates (Ziziphus jujuba Mill.) are rich in nutrients and have both edible and medicinal properties, during the drying process, due to their high sugar content, they often result in a lower glass transition temperature (Tg), enhanced hygroscopicity, surface agglomeration, and a decline in storage quality, severely limiting the shelf stability of the products and the improvement of the processing quality. Cold plasma (CP) can form cavities through surface etching, promoting water migration, thereby increasing the drying rate and diffusion coefficient. Vacuum pulsation drying (PVD) has a higher drying rate, stronger mass transfer ability, and better quality retention effect compared to ordinary drying methods. Based on these characteristics, we believe that CP and PVD have a synergistic enhancing effect in the drying of date slices. Therefore, in this study, CK-PVD (without plasma pre-treatment, direct vacuum pulsation drying) was used as the control group, and CP-PVD (after plasma pre-treatment, vacuum pulsation drying), A1, A2, and A3 (after plasma treatment, soaking in different concentrations of ethanol and then vacuum pulsation drying) were used as experimental groups to study the effects of CP pre-treatment combined with ethanol extraction on the sugar composition, glass transition temperature (Tg), physical stability, and reduce blood sugar activity of dried date slices. The results showed that CP pre-treatment significantly improved the material transfer efficiency (confirmed by the increases in the areas of T22 and T23 peaks). Compared with the control group, the low-sugar group (A2) exhibited reduced total sugar content, the gel point increased to 35.6 °C, and the microscopic structure changed from regular and smooth to dense and irregular, thereby si…",
-   "url": "https://doi.org/10.3390/pr14203282"
-  },
-  {
-   "key": "doi:10.51318/fret.2026.98.3.004",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "99c20daa3b88529f5a0a7e61caf967365c85f5eb",
-   "doi": "10.51318/fret.2026.98.3.004",
-   "pmid": "",
-   "title": "ВИДОВОЕ РАЗНООБРАЗИЕ ПОДЛЕСКА В ЛЕСНОМ ПАРКЕ ИМЕНИ ЛЕСОВОДОВ РОССИИ И ПУТИ ЕГО ОБОГАЩЕНИЯ",
-   "journal": "Леса России и хозяйство в них",
-   "date": "2026-10-13",
-   "authors": "А. Н. Марковская, Н. П. Бунькова, С. В. Залесов",
-   "abstract": "На основе использования современных лесоводственных методик изучен видовой состав, встречаемость и санитарное состояние подлесочных видов в лесном парке имени Лесоводов России, территория которого относится к Средне-Уральскому таежному лесному району. В процессе исследований установлено, что на территории лесного парка встречается 30 подлесочных видов, в состав которых входят как аборигенные виды, так и интродуценты. Для более объективной оценки видового разнообразия территория лесного парка была разбита на семь отдельных объектов с учетом типа леса, удаленности от дачных участков, дорог и линий электропередач (ЛЭП). Исследования показали, что максимальным разнообразием характеризуется подлесок вдоль дорожно-тропиночной сети – 27 видов, или 90 % от общего количества. Большинство видов подлеска характеризуется низкой встречаемостью. Так, встречаемость более 10 % зафиксирована только у четырех видов подлеска: черемухи обыкновенной (Padus racemose (Lam.) Gilib.), малины лесной (Rubus idaeus L.), рябины обыкновенной (Sorbus aucuparia L.) и видов рода ива (Salix L.). Большинство видов характеризуется хорошим и вполне удовлетворительным состоянием. Однако для улучшения состояния и декоративности целесообразно было бы провести омоложение части подлеска путем посадки его на пень. Кроме того, в целях обеспечения рекреационной привлекательности и создания условий для гнездования мелких птиц целесообразно было бы вдоль дорожно-тропиночной сети и на ЛЭП высадить красиво цветущие ягодниковые кустарники. В лесном парке зафиксировано два инвазивных вида подлеска: клен ясенелистный (Aser negundo L.) и рябинник рябинолистный (Sorbaria sorbifolia (L.) A. Br.), которые нуждаются в удалении путем инъекции арборицида. Using modern forestry techniques, the species composition, occurrence, an…",
-   "url": "https://doi.org/10.51318/fret.2026.98.3.004"
   }
  ]
 }
