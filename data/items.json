@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-05T06:55:00+09:00",
-  "latest_run": "2026-11-05",
+  "generated_at": "2026-11-06T06:55:00+09:00",
+  "latest_run": "2026-11-06",
   "runs": [
+    {
+      "run": "2026-11-06",
+      "at": "2026-11-06T06:55:00+09:00",
+      "count": 9,
+      "note": "논문7(genome2,fruit5; 피드 후보16건 중 관련 선별, 초록 없음 3건), 뉴스·정책2, 원문 미열람2. 품종보호 신규 소식 확인 안 됨; sedaily DNS 차단"
+    },
     {
       "run": "2026-11-05",
       "at": "2026-11-05T06:55:00+09:00",
@@ -277,6 +283,46 @@
       "run": "2026-11-05"
     },
     {
+      "id": "20261103-4b5934d6",
+      "cat": "genome",
+      "title": "Fosetyl-Al stem injection for chestnut ink disease management: efficacy and dose-dependent phytotoxicity in saplings",
+      "title_ko": "포세틸알루미늄 줄기주입을 이용한 밤나무 잉크병 방제: 묘목에서의 효과와 용량 의존적 약해",
+      "source": "European Journal of Plant Pathology",
+      "url": "https://doi.org/10.1007/s10658-026-03331-1",
+      "date": "2026-11-03",
+      "date_key": "2026-11-03",
+      "type": "paper",
+      "summary_ko": "밤나무(유럽밤나무) 잉크병은 Phytophthora cinnamomi에 의한 난방제 병해로, 수간주입(엔도테라피)은 약제 손실을 줄일 수 있는 방법으로 주목받는다. 스페인 연구진(Serrano-Pérez, Moreno 등)은 Castanea sativa 묘목 50본에 포세틸알루미늄(fosetyl-Al)을 0~4% 농도로 가압 주입한 뒤 줄기에 병원균을 접종하고, 2% 토양관주 처리와 비교하는 2년간 실험을 수행했다. 1·2·4% 줄기주입은 관주 및 무처리보다 줄기 괴사와 뿌리 감염을 유의하게 억제했으며, rAUDPC 값상 방제 효과가 최소 2년 지속되었다. 다만 잎 소손·괴사, 일부 고사 등 약해가 용량에 비례해 나타나, 중간 수준 약해는 회복되나 최고 농도에서는 회복 불가능한 피해가 발생했다. 로지스틱 회귀로 산출한 최소유효용량은 줄기 둘레 cm당 유효성분 0.061~0.102 g이며, 이때 예측 발병률은 10% 미만~1% 미만, 약해 위험은 약 10~25%였다. 밤나무 재배·리시퀀싱 연구 대상 수체의 병해 관리, 특히 어린 나무의 약제 용량 설정에 참고할 수 있다.",
+      "tags": [
+        "밤나무",
+        "잉크병",
+        "Phytophthora cinnamomi",
+        "수간주입"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261103-894f036e",
+      "cat": "fruit",
+      "title": "Winter injury of red raspberry (Rubus idaeus L.) buds under commercial field conditions: Relationships with temperature, spur blight and biochemical traits",
+      "title_ko": "상업 재배지 붉은 라즈베리(Rubus idaeus) 눈의 동해: 온도·가지마름병·생화학 형질과의 관계",
+      "source": "Journal of Berry Research",
+      "url": "https://doi.org/10.1177/18785093261502929",
+      "date": "2026-11-03",
+      "date_key": "2026-11-03",
+      "type": "paper",
+      "summary_ko": "북방 기후에서 라즈베리 생산은 겨울철 동해로 제한된다. 에스토니아 연구진(Tõrra, Kaldmäe, Kikas 등)은 2021/22~2023/24 세 겨울 동안 에스토니아 8개 상업 재배지의 'Glen Ample'을 대상으로 눈 동해율과 최저기온, 가지마름병(Xenodidymella applanata) 심도, 눈의 프롤린·가용성 당 함량의 관계를 조사했다. 눈 동해율은 재배지·연도별로 18~98%까지 크게 달랐으나 최저기온이나 −25 °C 이하 연속 시간으로는 설명되지 않았다. 반면 가지마름병 심도와 동해율 사이에는 r = 0.833의 강한 양의 상관이 있었고, 3월 프롤린·가용성 당 함량은 눈 생존의 일관된 지표가 아니었다. 동해 위험은 저온뿐 아니라 줄기 건강 등 생물·비생물 스트레스의 상호작용으로 결정된다는 결론이다. 산딸기 품종 평가·재배 시 월동성 검토에 줄기 병해 관리를 함께 고려할 근거가 된다.",
+      "tags": [
+        "산딸기",
+        "라즈베리",
+        "동해",
+        "가지마름병"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
       "id": "20261102-714593d3",
       "cat": "policy",
       "title": "산림청, 소나무재선충병 국가방제대응단 회의…방제 추진상황 점검",
@@ -494,6 +540,106 @@
       "run": "2026-11-04"
     },
     {
+      "id": "20261101-3b70727d",
+      "cat": "genome",
+      "title": "A Validated LNA-Modified Probe-Based qPCR Assay for the Fast and Accurate Detection of the Root Rot Pathogen Phytophthora × cambivora on Mycelial DNA and Artificially Inoculated Chestnut Tissue",
+      "title_ko": "뿌리썩음 병원균 Phytophthora × cambivora의 LNA 프로브 기반 qPCR 검출법 검증(균사 DNA 및 인공접종 밤나무 조직)",
+      "source": "Plant Pathology",
+      "url": "https://doi.org/10.1111/ppa.70310",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "Phytophthora × cambivora는 밤나무림과 과원, 너도밤나무·참나무 임분의 쇠퇴를 일으키는 잉크병 병원균으로, 묘포·번식재료·토양·관개수를 통해 확산되나 기존의 증상 관찰·유인·선택배지 분리는 느리고 민감도가 낮다. 이탈리아 연구진(Papini, Moricca, Bigazzi 등)은 미토콘드리아 NAD7–COX3 유전자 간 영역을 표적으로 LNA(잠금핵산) 변형 프로브 qPCR을 설계하고 OligoArchitect로 프라이머·프로브를 제작했다. 다양한 난균류를 대상으로 특이성을 시험하고 EPPO 표준 PM7/98에 따라 검증했으며, 인공접종 밤나무 조직에서 검출한계 600 fg/μL로 정제 DNA에 근접한 감도를 보였다. 이 방법은 묘포장 등에서 일상 진단에 쓸 수 있는 신속·특이·견고한 도구로 제시되었다. 밤나무 묘목·접수 반입이나 재배지 병해 모니터링 체계를 구상할 때 활용 가능한 진단 기술이다.",
+      "tags": [
+        "밤나무",
+        "Phytophthora",
+        "qPCR",
+        "병원균 진단"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261101-7c0686bd",
+      "cat": "fruit",
+      "title": "Lipid and Secondary Metabolite Profile Changes During Cold Storage of Dongzao (Ziziphus jujuba Mill. cv. Dongzao): Responses to Postharvest Treatments and Implications for Marketability",
+      "title_ko": "대추 '동조'의 저온저장 중 지질·2차대사산물 변화: 수확 후 처리 반응과 상품성",
+      "source": "Plants",
+      "url": "https://doi.org/10.3390/plants15213370",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "생식용 대추 '동조(Dongzao)'는 상온 저장성이 짧아 미국 내 재배면적이 늘면서 공급 기간 연장이 과제다. 연구진(Yao, Holguin; 미국)은 0 ± 0.5 °C 저온저장에서 에틸렌 흡착제와 살균제 2종(Scholar, Mentor)이 품질·부패·대사체에 미치는 영향을 평가했다. 에틸렌 흡착제는 저장성 연장 효과가 없어 6주차 꼭지 부패가 30% 이상이었고, 두 살균제는 부패를 크게 줄였으며 Scholar는 9주 저장 후에도 꼭지 부패가 없었다. 주성분분석 결과 Scholar 처리 9주 과실은 6주 저장 과실과 유사한 대사 양상을 보여 노화 관련 대사 변화가 지연되었다. 저온저장으로 lysophosphatidylcholine·lysophosphatidylethanolamine·유리지방산 등 지질대사체가 크게 늘고 플라보노이드·페놀산·알칼로이드·테르페노이드도 변했다. 대추 저장·유통 기술과 기능성 성분 변화 연구에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "저온저장",
+        "대사체",
+        "수확 후 관리"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261101-56bb0d70",
+      "cat": "fruit",
+      "title": "Effects of DNA methyltransferase inhibitor on fruit quality revealed by integrated DNA methylome analysis in Ziziphus jujuba",
+      "title_ko": "DNA 메틸전이효소 억제제가 대추 과실 품질에 미치는 영향: 통합 DNA 메틸롬 분석",
+      "source": "Scientia Horticulturae",
+      "url": "https://doi.org/10.1016/j.scienta.2026.115277",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "대추(Ziziphus jujuba) 과실 품질에 대한 DNA 메틸화 조절의 역할을 DNA 메틸전이효소 억제제 처리와 통합 DNA 메틸롬 분석으로 조사한 Scientia Horticulturae 논문이다. 제목 정보상 억제제 처리가 과실 품질 형질에 영향을 주며 그 기작을 메틸롬 수준에서 해석한 것으로 보인다. 구체적 수치·방법은 확인하지 못했다(초록 없음). 대추 후성유전체 연구 동향 파악에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "DNA 메틸롬",
+        "후성유전",
+        "과실 품질"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261101-c4291a58",
+      "cat": "fruit",
+      "title": "Methylome and transcriptome analyses reveal epigenomic remodeling associated with leaf color variation in the jujube",
+      "title_ko": "메틸롬·전사체 분석으로 본 대추 잎 색 변이와 관련된 후성유전체 재편",
+      "source": "Current Plant Biology",
+      "url": "https://doi.org/10.1016/j.cpb.2026.100693",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "대추 잎 색 변이와 관련된 후성유전체 변화를 메틸롬과 전사체 통합 분석으로 규명한 Current Plant Biology 논문이다. 제목 정보상 잎 색 변이 개체에서 DNA 메틸화 재편과 유전자 발현 변화가 연관됨을 보인 것으로 보인다. 구체적 수치는 확인하지 못했다(초록 없음). 대추 유전체·후성유전체 자원 비교 연구에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "메틸롬",
+        "전사체",
+        "잎 색"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261101-a6494821",
+      "cat": "fruit",
+      "title": "Calcium application strategy modulates nutrient partitioning, vegetative physiological status and fruit quality of persimmon",
+      "title_ko": "칼슘 시용 전략이 감나무의 양분 분배·영양생장 생리 상태·과실 품질에 미치는 영향",
+      "source": "Scientia Horticulturae",
+      "url": "https://doi.org/10.1016/j.scienta.2026.115265",
+      "date": "2026-11-01",
+      "date_key": "2026-11-01",
+      "type": "paper",
+      "summary_ko": "감(persimmon) 재배에서 칼슘 시용 방법이 양분 분배, 영양생장기 생리 상태, 과실 품질에 미치는 영향을 평가한 Scientia Horticulturae 논문이다. 제목 정보상 시용 전략에 따라 칼슘 분배와 과실 품질이 달라짐을 보인 것으로 보인다. 구체적 수치·처리 내용은 확인하지 못했다(초록 없음). 감 재배 양분관리 지침 검토에 참고할 수 있다.",
+      "tags": [
+        "감",
+        "칼슘",
+        "양분관리",
+        "과실 품질"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
       "id": "20261031-aa9d2794",
       "cat": "fruit",
       "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe",
@@ -614,6 +760,46 @@
       ],
       "collected_at": "2026-11-05",
       "run": "2026-11-05"
+    },
+    {
+      "id": "20261030-eaeed4e0",
+      "cat": "policy",
+      "title": "2025년 기준 산림기본통계 공표",
+      "title_ko": "2025년 기준 산림기본통계 공표",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280112",
+      "date": "2026-10-30",
+      "date_key": "2026-10-30",
+      "type": "news",
+      "summary_ko": "산림청이 2021~2025년 수행한 제8차 국가산림자원조사 결과를 바탕으로 2025년 말 기준 「산림기본통계」를 공표했다(공표일은 산림청 누리집 10월 30일, 일부 언론 29일로 엇갈림). 산림면적은 628만 3천 ha로 국토의 62.5%이며 2020년보다 약 1만 5천 ha(0.24%) 줄었는데, 도로·주택 건설 등 지목 전환이 원인으로 제시되었다. 산림률은 OECD 4위(핀란드·스웨덴·일본 다음)를 유지했다. 소유별로는 사유림 399만 ha(63.5%), 국유림 178만 ha(28.3%), 공유림 52만 ha(8.2%)이며 사유림은 줄고 국유림·공유림은 늘었다. 총 임목축적은 11억 6,164만 ㎥로 5년 새 약 11.7% 늘었고 ha당 평균은 184.9 ㎥이다. 산림자원 현황 기초자료로 연구·계획 수립 시 인용할 수 있다. (검색 결과 요약 기준, 원문 미열람)",
+      "tags": [
+        "산림청",
+        "산림기본통계",
+        "국가산림자원조사",
+        "임목축적"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
+    },
+    {
+      "id": "20261030-221470b8",
+      "cat": "policy",
+      "title": "산림청, 가을철 중앙산불방지대책본부 현판식 개최",
+      "title_ko": "산림청, 가을철 중앙산불방지대책본부 현판식 개최",
+      "source": "서울경제",
+      "url": "https://m.sedaily.com/article/20108206",
+      "date": "2026-10-30",
+      "date_key": "2026-10-30",
+      "type": "news",
+      "summary_ko": "산림청은 10월 30일 2026년 가을철 산불방지대책본부 현판식을 열고 본격적인 산불 대응 체제에 들어갔다. 가을철 산불조심기간은 11월 1일부터 12월 15일까지이며 이 기간 중앙산불방지대책본부를 24시간 운영할 계획이다. 11월 1일 오전 9시 기준 전국에 '관심' 단계 산불경보가 발령되었다. 담당 기관은 산림청이며 전국 산림 및 인접 지역이 대상이다. 산사태·산불 등 산림재난 대응 계획 담당자가 기간 중 비상체제 운영과 경보 단계 연동을 점검하는 데 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "산림청",
+        "산불",
+        "가을철 산불조심기간",
+        "재난 대응"
+      ],
+      "collected_at": "2026-11-06",
+      "run": "2026-11-06"
     },
     {
       "id": "20261029-612d1fd1",
