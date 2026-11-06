@@ -1,13 +1,35 @@
 {
- "generated_at": "2026-11-05T20:31:17.477Z",
+ "generated_at": "2026-11-06T20:33:04.896Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 85,
- "errors": [],
+ "count": 83,
+ "errors": [
+  "semanticscholar:pear-wild: HTTP 429",
+  "semanticscholar:persimmon: HTTP 429",
+  "semanticscholar:oak: HTTP 429",
+  "semanticscholar:dus-pvp: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "doi:10.5152/forestist.2026.25075",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "2db01b15aaaca11c505db87d23998fed9da61f45",
+   "doi": "10.5152/forestist.2026.25075",
+   "pmid": "",
+   "title": "Windthrow of Forest Trees and Its Effect on Tree Regeneration and Diversity of Understory in the Hyrcanian Temperate Upland Forests of Iran",
+   "journal": "Forestist",
+   "date": "2026-11-04",
+   "authors": "B. Kiani, Sharare Behbudi, Mehrdad Nikooy, A. Omidi",
+   "abstract": "Windthrow is a major natural disturbance shaping canopy dynamics in temperate forests, yet high-elevation (upland) Hyrcanian forests remain poorly studied, particularly with respect to regeneration responses and topographic controls. This study examined windfall effects in Dashte Daman forests, northern Iran (1027–1629 m elevation). First, 90 systematically distributed 50 × 50 m sample plots were established across a 300 × 300 m grid on a stratified map including affected and unaffected areas. For each fallen tree (broken or uprooted), diameter at breast height, trunk height, and crown length were measured. Understory vegetation composition, including herbaceous cover and tree regeneration, was also recorded. The influence of topographic variables (slope, elevation, aspect) and forest type on windfall abundance was analyzed, alongside correlations with slope, elevation, distance to nearest road, stand density, and canopy cover. Comparisons with undisturbed control areas were made to assess regeneration patterns. Results indicated that oriental beech (Fagus orientalis) was the most windfall species, followed by common hornbeam (Carpinus betulus), whereas chestnut-leaved oak (Quercus castaneifolia) and common ash (Fraxinus excelsior) were rare. Windfall frequency averaged eight fallen and 4.7 uprooted (a total of 12.7) trees per hectare, with corresponding volumes of 31.6 m3/ha and 18.56 m3/ha, respectively. Considering the abundance of wind-fallen trees, windfall frequency was highest on south-, southwest-, and west-aspects, at slopes of 20%–40%, and elevations of 1000–1200 m. Valleys exhibited greater tree breakage, whereas uprooting dominated hillsides. Pure oriental beech stands had significantly higher windfall rates than mixed beech-hornbeam or oak-hornbeam forests.…",
+   "url": "https://doi.org/10.5152/forestist.2026.25075"
+  },
   {
    "key": "doi:10.1007/s10658-026-03331-1",
    "groups": [
@@ -24,6 +46,23 @@
    "authors": "P. Serrano-Pérez, G. Moreno, Mikel Cebadero, M. C. Rodríguez-Molina",
    "abstract": "Fosetyl-Al (aluminium tris-(ethyl phosphonate)) is a low-toxicity phosphonate commonly used to control oomycete-related diseases in crops. Trunk injection (endotherapy) delivers the fungicide directly into the vascular system, potentially improving efficacy while reducing off-target losses. This two-year study evaluated the efficacy and phytotoxicity of stem-injected fosetyl-Al to manage ink disease caused by Phytophthora cinnamomi in Castanea sativa saplings. Fifty saplings received fosetyl-Al injections at 0–4% using pressurized devices, followed by stem inoculation with the pathogen; a 2% soil irrigation treatment was included for comparison. Stem injections at 1%, 2% and 4% significantly suppressed stem necrosis after inoculation with P. cinnamomi and reduced root infections compared to irrigation and untreated control. Protection persisted for at least two years as reflected by reduced relative Area Under the Disease Progress Curve (rAUDPC) values. However, stem injections also induced phytotoxic symptoms, including leaf burn, necrosis, and occasional plant death, with a clear dose-dependent relationship. Most plants recovered from moderate phytotoxicity, whereas irreversible damage occurred at the highest doses, highlighting the critical need for precise dose adjustments, particularly in small-diameter trees. Logistic regression identified a Minimum Effective Dose (MED) range of 0.061–0.102 g/cm (a.i.) of stem circumference, corresponding to predicted disease incidence thresholds of < 10% to < 1%, respectively, with associated phytotoxicity risks of approximately 10–25%. These results indicate that trunk injection of fosetyl-Al can provide effective and targeted control of ink disease in young chestnut plants under the conditions tested, while emphasizing the need…",
    "url": "https://doi.org/10.1007/s10658-026-03331-1"
+  },
+  {
+   "key": "doi:10.3390/appliedchem6040081",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "4a08cef1a070f91426c97e66df1ab6c1d11fd77e",
+   "doi": "10.3390/appliedchem6040081",
+   "pmid": "",
+   "title": "Comparative Evaluation of Physicochemical Properties, Bioactive Compounds and Chemometric Discrimination of Honey Samples from Different Botanical and Geographical Origins",
+   "journal": "AppliedChem",
+   "date": "2026-11-03",
+   "authors": "Arleta Rifati-Nixha, M. Dërmaku-Sopjani, Mustafa Arslan, Edlira Riza, Ariona Lubishtani",
+   "abstract": "The chemical and quality characteristics of honey vary considerably according to floral source, geographical provenance, environmental conditions, and post-harvest handling, complicating its characterization and authentication. In this study, physicochemical properties, bioactive constituents, enzymatic activity, and exploratory chemometric patterns were evaluated in thirteen honey samples representing different declared botanical types, including sage, meadow, chestnut, acacia, and pine honeys, from different geographical origins. Physicochemical characterization comprised moisture content, refractive index, specific optical rotation, electrical conductivity, pH, free acidity, hydroxymethylfurfural (HMF), reducing sugars, ash content, qualitative mineral composition, and preliminary authenticity-related tests. Total phenolic content determined by the Folin–Ciocalteu assay (TPC-FC), total flavonoid content (TFC), total phenolic content determined by the Prussian Blue assay (TPC-PB), proline content, and diastase activity were also evaluated. Statistical analysis included one-way analysis of variance (ANOVA) followed by Tukey’s HSD test, Pearson correlation analysis, and principal component analysis (PCA). One-way ANOVA followed by Tukey’s HSD test indicated significant differences in the measured analytical responses among the individual honey samples for the evaluated bioactive parameters (p < 0.05); these comparisons were restricted to the investigated samples and were not interpreted as inferential differences among botanical or geographical populations. Pearson correlation analysis revealed several moderate-to-strong associations among the analytical variables; however, none remained statistically significant after Benjamini–Hochberg false discovery rate (FDR) corre…",
+   "url": "https://doi.org/10.3390/appliedchem6040081"
   },
   {
    "key": "doi:10.64898/2026.10.31.762479",
@@ -109,6 +148,23 @@
    "authors": "Emine Akalın, Rabia Ebrar Akıncı, Aybüke Kızılırmaklı Demir, O. Demir, E. Cabi",
    "abstract": "Purpose: This study examines traditional plant knowledge in rural and peri-urban Istanbul, where environmental access, household production and metropolitan connections coexist.Method: Fieldwork within Türkiye’s national programme for documenting traditional knowledge associated with bio-logical diversity covered 30 neighbourhoods in ten districts in 2021–2022. Purposive selection and local referrals iden-tified 112 informants contributing 667 plant-use reports. Original descriptions were retained alongside standardized taxonomic and use fields. Analyses examined repertoire composition, citation frequency, multifunctionality and district overlap. Retrospective taxon-level classifications distinguished predominantly wild-gathered from cultivated, managed, planted or otherwise obtained taxa, and identified a conservative subset confirmed in Istanbul flora sources. District overlap was assessed using an informant-block permutation model; sampling-adequacy estimates were exploratory.Findings: The repertoire comprises 174 taxa in 129 genera and 52 families, spanning 52 use categories, 25 plant-part groups and 12 preparation groups. Food accounted for 55.2% of reports, human health for 22.3% and household and material uses for 11.8%. Fruit and aerial parts predominated; cooking and raw use were the leading preparations. Tilia tomentosa led food citations, Olea europaea health and Castanea sativa household and material uses. The null model largely reproduced the raw increase in district overlap from taxa to preparations. Lower-than-expected preparation over-lap did not survive multiple-testing correction. Reports involving predominantly wild-gathered taxa accounted for 52.9%; their share was higher in food than health, but taxon-level permutation did not support a systematic d…",
    "url": "https://doi.org/10.46309/biodicon.2026.2063685"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.151940",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "157ab554a4bce36f40153fd2b06b440ce45a4a98",
+   "doi": "10.1016/j.foodchem.2026.151940",
+   "pmid": "42981956",
+   "title": "Formation of a chestnut-like aroma by blending fresh-scented and bean-scented green teas.",
+   "journal": "Food Chemistry",
+   "date": "2026-11-02",
+   "authors": "Yi-Jun Wang, Ya-Ya Yu, Huan Sun, Qing-Qing Cao, Fang Wang, Jian-Yong Zhang",
+   "abstract": "Chestnut-like aroma is a favorable quality attribute of green tea. This study developed chestnut-like tea by blending fresh-scented Anji white tea (AJWT) with bean-scented Longjing green tea (LJGT). Sensory evaluation showed that increasing LJGT shifted the dominant aroma from fresh to chestnut-like and then bean-like, with 40% LJGT producing the most pronounced chestnut-like character. GC-O-MS combined with variable importance in projection (VIP) and relative odor activity value analyses (rOAVs) identified 13 key differential aroma-active compounds (VIP > 1; rOAV >1) among 137 volatiles, representing fresh, floral, and roasty notes. Aroma reconstitution associated the chestnut-like character with an rOAV-based distribution of approximately 75% fresh, 19% floral, and 6% roasty compounds. Addition experiments further suggested that cis-3-hexenyl hexanoate, β-myrcene, ethyl hexanoate, β-ionone, 2-pentylfuran, and 3-methylbutanal were associated with the aroma transition from fresh to chestnut-like. These findings support targeted regulation and blending of chestnut-like green tea aroma.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151940"
   },
   {
    "key": "doi:10.56557/pcbmb/2026/v27i11-1211306",
@@ -230,6 +286,23 @@
    "url": "https://doi.org/10.1016/j.conbuildmat.2026.148503"
   },
   {
+   "key": "doi:10.1016/j.ijbiomac.2026.155165",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "1f8881c18b0c9f55a366006d5365381e464dcde3",
+   "doi": "10.1016/j.ijbiomac.2026.155165",
+   "pmid": "42982256",
+   "title": "Chestnut starch-lipid complex as a nontraditional RS5 ingredient: Structural features and associated in vivo responses in high-fat diet-fed mice.",
+   "journal": "International Journal of Biological Macromolecules",
+   "date": "2026-11-01",
+   "authors": "Zhen-Ting Yu, Nan Ma, Fan Wei, Jin Deng, Hao-Xin Cui, Huan Lv",
+   "abstract": "Resistant starch type 5 (RS5) can convert starch-rich crops into enzyme-resistant starch-lipid complexes, yet current evidence remains dominated by conventional starch sources and in vitro studies. This study prepared and characterized a chestnut starch-stearic acid complex (chestnut starch-lipid complex, DCS_C18, RS5), and evaluated it as a novel RS5 ingredient in high-fat diet (HFD)-fed mice, using native chestnut starch, caffeine, and orlistat as contextual comparators. DCS_C18 showed V-/B-type crystalline features, greater short-range and long-range order, and higher thermal stability than the palmitic acid complex. In vivo, DCS_C18 attenuated HFD-induced weight gain, adiposity, dyslipidemia, glucose intolerance, insulin resistance, hepatic steatosis, and systemic inflammation, accompanied by reduced lipogenic and increased fatty acid oxidation-related gene expression. Moreover, DCS_C18 exhibited more balanced regulation of fasting and postprandial glycemia than the other interventions. DCS_C18 also increased fecal acetate (2.12-fold) and butyrate (1.82-fold) and enriched SCFA-associated genera, including Blautia, Roseburia, and Lachnoclostridium. Open-field testing suggested improved locomotor and anxiety-related outcomes without the stimulant-like pattern observed for caffeine. These findings support chestnut-derived RS5 as a promising ingredient platform for metabolic-health-oriented foods, pending human and mechanistic confirmation.",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.155165"
+  },
+  {
    "key": "doi:10.1016/j.lwt.2026.120134",
    "groups": [
     "jujube"
@@ -262,6 +335,23 @@
    "authors": "Jing Xuan, Qing-Feng Huai, Jing Tian, He-Ming Ran, Xiang-Qian Lv, Ji-Dong Ju",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.jarmap.2026.100748"
+  },
+  {
+   "key": "doi:10.1016/j.jnutbio.2026.110532",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "9eb72a01e18e66f115f80b2848fdc924f43b79a6",
+   "doi": "10.1016/j.jnutbio.2026.110532",
+   "pmid": "42982140",
+   "title": "Jujuboside A ameliorates T2DM-associated MASH: Suppression of YY1/FAS axis-mediated hepatic de novo fatty acid biosynthesis.",
+   "journal": "Journal of Nutritional Biochemistry",
+   "date": "2026-11-01",
+   "authors": "Ting-Ting Yang, Li-Bang Chen, Hao-Nan Luo, Li-Ying Wang, Xi-Yan Jiang, Hao Yang",
+   "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) in type 2 diabetes mellitus (T2DM) represents a progressive subtype of metabolic dysfunction-associated steatotic liver disease (MASLD), and is predominantly driven by dysregulated hepatic fatty acid (FA) metabolism. Although Jujuboside A (Ju A), a major bioactive triterpene saponin isolated from Ziziphus jujuba Mill. (sour jujube), exhibits hepatoprotective properties, its precise regulatory mechanisms underlying T2DM-associated MASH remain poorly defined. This study investigated the dose-dependent protective effects and molecular mechanisms of Ju A using both in vivo and in vitro models. Combining targeted FA profiling and long-chain FAs (LCFAs)-specific metabolomics, alongside chromatin immunoprecipitation (Ch-IP), luciferase reporter assays, molecular docking with dynamics simulations, and Yin Yang 1 (YY1) gain-of-function and fatty acid synthase (FAS) inhibition (C75) studies, we characterized Ju A-mediated metabolic reprogramming and molecular targets involved. Ju A treatment markedly ameliorated MASH and hepatic lipid deposition in diabetic mice by restoring dysregulated hepatic FA homeostasis, particularly by blocking de novo lipogenesis (DNL)-derived LCFA accumulation. Mechanistically, Ju A exerted these effects by blocking the nuclear translocation of YY1. This inhibition diminished YY1 binding to the FAS promoter, subsequently downregulating FAS expression and inhibiting aberrant hepatic de novo FA biosynthesis. Collectively, these findings demonstrated that Ju A ameliorated T2DM-associated MASH by restoring hepatic FA homeostasis via inactivation of the YY1-FAS axis, highlighting its promising therapeutic potential against diabetic liver complications.",
+   "url": "https://doi.org/10.1016/j.jnutbio.2026.110532"
   },
   {
    "key": "doi:10.1016/j.scienta.2026.115277",
@@ -332,6 +422,23 @@
    "url": "https://doi.org/10.1016/j.cpb.2026.100693"
   },
   {
+   "key": "doi:10.1111/1755-0998.70221",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42958609",
+   "doi": "10.1111/1755-0998.70221",
+   "pmid": "42958609",
+   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
+   "journal": "",
+   "date": "2026-11-01",
+   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
+   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
+   "url": "https://doi.org/10.1111/1755-0998.70221"
+  },
+  {
    "key": "doi:10.1016/j.scienta.2026.115265",
    "groups": [
     "persimmon"
@@ -347,23 +454,6 @@
    "authors": "Ana Moreno, A. Quiñones, Alejandra Salvador, J. Morales",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.scienta.2026.115265"
-  },
-  {
-   "key": "doi:10.1111/1755-0998.70221",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42958609",
-   "doi": "10.1111/1755-0998.70221",
-   "pmid": "42958609",
-   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
-   "journal": "Molecular Ecology Resources",
-   "date": "2026-11-01",
-   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
-   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
-   "url": "https://doi.org/10.1111/1755-0998.70221"
   },
   {
    "key": "doi:10.6026/973206300226549",
@@ -587,6 +677,23 @@
    "url": "https://doi.org/10.3390/molecules31213900"
   },
   {
+   "key": "doi:10.1139/cjm-2026-0110",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42956384",
+   "doi": "10.1139/cjm-2026-0110",
+   "pmid": "42956384",
+   "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
+   "journal": "",
+   "date": "2026-10-29",
+   "authors": "Abed S, Kumar A, Hausner G.",
+   "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
+   "url": "https://doi.org/10.1139/cjm-2026-0110"
+  },
+  {
    "key": "doi:10.3390/app162110714",
    "groups": [
     "pear-wild"
@@ -602,23 +709,6 @@
    "authors": "Riho Endo, Tsukasa Shiraishi, Mihoko Moto",
    "abstract": "Addition of fruit during sourdough preparation can lead to the development of distinctive bacterial communities and fermentation characteristics. However, sourdough preparation with Japanese pear infusion remains understudied. We prepared sourdough with Japanese pear infusion and evaluated its organic acid composition and bacterial community. Sourdough was passaged for up to 56 generations. pH decreased rapidly during the initial generations of backslopping and subsequently stabilized at 3.5 and 3.7. High-performance liquid chromatography analysis revealed that lactic and acetic acid were the major organic acids. The fermentation quotient in the 55th and 56th generations ranged from 0.64 to 0.70, indicating an acetic acid-dominant profile. Bacterial community analysis targeting the V3–V4 region of the 16S rDNA gene revealed Furfurilactobacillus rossiae and Acetobacter pasteurianus as the dominant taxa. Average nucleotide identity analysis identified the representative isolates as Furfurilactobacillus milii and Acetobacter pasteurianus subsp. pasteurianus, respectively. This descriptive study is limited by a small sample size, lack of a control group, initial bacterial community data, and limited statistical analysis. Nevertheless, under the experimental conditions of this study, relatively high acetic acid levels were observed in the analyzed sourdoughs, together with a bacterial community dominated by the genera Furfurilactobacillus and Acetobacter were observed as predominant genera.",
    "url": "https://doi.org/10.3390/app162110714"
-  },
-  {
-   "key": "doi:10.1139/cjm-2026-0110",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42956384",
-   "doi": "10.1139/cjm-2026-0110",
-   "pmid": "42956384",
-   "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
-   "journal": "Canadian Journal of Microbiology (print)",
-   "date": "2026-10-29",
-   "authors": "Abed S, Kumar A, Hausner G.",
-   "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
-   "url": "https://doi.org/10.1139/cjm-2026-0110"
   },
   {
    "key": "doi:10.3390/genes17111348",
@@ -1333,125 +1423,6 @@
    "authors": "Tao Yuan, Dong Hu, Meng-Yuan Xu, Ming-Lu Tian, Hai-Long Yu, Lin-Yi Li",
    "abstract": "To enable the rapid and accurate acquisition of phenotypic parameters during distinctness, uniformity, and stability (DUS) testing of edible mushroom varieties, and to address the low efficiency, strong subjectivity, and insufficient standardization of conventional manual measurement methods, this study used the fruiting bodies of Oudemansiella raphanipes as the research object and proposed an automatic phenotypic parameter extraction method based on deep learning instance segmentation. An instance-segmentation dataset containing 473 O. raphanipes images and 1419 annotated objects was constructed, and the YOLOv11s-seg model was improved by introducing the lightweight feature-extraction network StarNet_s050 to construct the YOLOv11s-star-seg model, thereby improving model inference efficiency and meeting practical application requirements. Under standardized imaging conditions, pileus and stipe regions were obtained from the instance-segmentation results, and image-scale calibration was combined to automatically extract DUS phenotypic parameters, including pileus diameter, pileus context thickness, stipe length, and stipe diameter, while quantitatively describing stipe shape. The experimental results showed that the YOLOv11s-star-seg model performed well in the instance segmentation of O. raphanipes, achieving an mAP50 of 99.1%, an F1 value of 98.9%, and an mIoU of 97.86%; compared with the YOLOv11s-seg model, the number of parameters was reduced by 39% and the inference time was reduced by 27%, thereby achieving model lightweighting while maintaining high segmentation accuracy. The automatically extracted results showed high consistency with the manual measurements; the coefficients of determination (R2) from linear regression fitting for stipe length, stipe diameter, a…",
    "url": "https://doi.org/10.3390/jof12100778"
-  },
-  {
-   "key": "doi:10.3390/soilsystems10100127",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "ff6ef33f7cc0db31ca32b9b3c6d73b13315cc05d",
-   "doi": "10.3390/soilsystems10100127",
-   "pmid": "",
-   "title": "Descriptive Morphogenetic and Physical Analysis of Soils of Various Landscapes (Kostanay Region, Kazakhstan)",
-   "journal": "Soil Systems",
-   "date": "2026-10-15",
-   "authors": "A. Tokusheva, S. Kuanyshbayev, Z. Bekmyrza, A. Nugmanov, A. Yskak, G. Yermoldina",
-   "abstract": "A comparative descriptive study was conducted to characterize the morphogenetic and physical properties of six soil profiles in the Kostanay region of northern Kazakhstan. This study aimed to differentiate the soil genetic horizons, assess their structural quality, and investigate their physical properties under distinct ecological matrices, including baseline zonal steppes, Amankaragay intra-zonal sandy pine forests, dynamic river floodplains, and agriculturally modified areas. Integrated field macro-morphological profiling and genetic diagnostic techniques were used to evaluate these properties. It was found that the soil cover in the area consists of ordinary chernozem, southern chernozem, dark chestnut soil, alluvial soil, and sandy sod-forest soil. Differences were identified in the thickness of the humus layer, soil structure, and depth of carbonates. The macro-morphological analysis revealed distinct structural and genetic features across the studied landscape matrices. The steppe zone had well-developed, granular-blocky profiles with carbonate effervescence that was depth-dependent (down to 140–150 cm) and localized solonetzic features. The Amankaragay forest sands had in situ weathering (brunic features) and deeply developed humic profiles. The Tobol River floodplain had a complex, stratified sequence with a redox-mottled, buried meadow horizon [A] at a depth of 63–68 cm. The results showed that the studied chernozem soils had favorable agrophysical properties and robust structural integrity. They also had typical humus profiles, which create a fundamental physical baseline for soil moisture retention and provide a foundation for future comprehensive chemical fertility assessments.",
-   "url": "https://doi.org/10.3390/soilsystems10100127"
-  },
-  {
-   "key": "doi:10.15560/22.5.984",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "5328e817f05353ed385bbb67e0b659cc62a82bb1",
-   "doi": "10.15560/22.5.984",
-   "pmid": "",
-   "title": "First record of Yellow-throated Sparrow, Gymnoris xanthocollis (Burton, 1838) (Aves, Passeriformes, Passeridae) in Bangladesh",
-   "journal": "Check List",
-   "date": "2026-10-15",
-   "authors": "A. Chowdhury, Raihan Bablu, Jahir Mahmud Sohag, Najmul Hasan",
-   "abstract": "We provide a new distributional record of the Yellow-throated Sparrow, Gymnoris xanthocollis (Burton, 1838), from south-eastern Bangladesh based on photographs. This is the eastern most record of this species and a new country record. We identified G. xanthocollis based on morphological characteristics, which include fine bills, indistinct eyebrows, grey-brown body colouration with a chestnut shoulder patch, a yellow throat spot, and one distinct, white wing bar. Our new record suggests that continuous monitoring is necessary to better understand species diversity and geographical distribution of the avian fauna in this densely populated tropical region.",
-   "url": "https://doi.org/10.15560/22.5.984"
-  },
-  {
-   "key": "doi:10.3390/biology15201854",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "061c018e1f487ea22fe96e8caa45f12ab010ace2",
-   "doi": "10.3390/biology15201854",
-   "pmid": "",
-   "title": "Native Entomophages in the Regulation Cameraria ohridella Deschka & Dimic Populations: Potential and Limitations for Control",
-   "journal": "Biology",
-   "date": "2026-10-15",
-   "authors": "L. R. Bogoutdinova, Е. М. Савенко, A. Gulevich, E. Baranova",
-   "abstract": "Cameraria ohridella Deschka & Dimić was recorded from Macedonia in the 1980s (Deschka G, Dimić N (1986)). The primary host plant is Aesculus hippocastanum. In Russia, this pest was first discovered in 2003 in Kaliningrad. Since the first introduction of C. ohridella into Europe, many studies have been conducted on C. ohridella parasitoids to identify natural control factors. In this review, we examine the spread of invasive insects identified in recent years, particularly Ohrid horse chestnut leaf miner (Cameraria ohridella Deschka & Dimić), and consider the strategies used by native parasitoids to defeat this phytophage. The review also discusses entomophages that feed on C. ohridella. Studies show that in Europe, C. ohridella is attacked by a diverse range of parasitoids—predominantly native polyphagous Hymenoptera, with the family Eulophidae predominating. The most significant species are M. frontalis, P. saulius, C. trifasciatus, and P. agraules. Significant regional differences in recorded parasitism levels—ranging from 1% to 33.6%—have been identified; these may be attributed not only to biological and ecological factors (such as host developmental stage preferences, as well as spatial, climatic, and phenological conditions) but also to the calculation methodology. The low effectiveness of the C. ohridella parasitoid complex in Europe is largely due to poor developmental synchrony between the parasitoids and their hosts. The composition of the assemblage in urban plantings is also influenced by habitat type and anthropogenic disturbance, particularly the removal of fallen leaves. Finally, we provide an overview of future research prospects, with an emphasis on the influence of parasitoids on C. ohridella population densities.",
-   "url": "https://doi.org/10.3390/biology15201854"
-  },
-  {
-   "key": "doi:10.1016/j.foodchem.2026.151582",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42892035",
-   "doi": "10.1016/j.foodchem.2026.151582",
-   "pmid": "42892035",
-   "title": "Decoding jujube aroma: Integrated extraction, advanced analytical strategies, formation mechanisms, influencing factors, and future perspectives.",
-   "journal": "",
-   "date": "2026-10-15",
-   "authors": "Gou M, Chen Q, Liu G, Hu X, Bi J.",
-   "abstract": "Jujube is a characteristic fruit of China with distinctive aroma and high nutritional value. This review summarizes advances in the extraction and analysis of free and glycosidically bound volatile organic compounds (VOCs), odor-active compounds, aroma formation mechanisms, and influencing factors. More than 300 VOCs have been identified, including esters, ketones, aldehydes, acids, and pyrazines. Esters, particularly ethyl decanoate, are important contributors to fruity aroma and are formed through alcohol and fatty acid metabolism, followed by acyl-CoA formation and alcohol acyltransferase (AAT)-catalyzed esterification. The lipoxygenase-hydroperoxide lyase-alcohol dehydrogenase pathway and β-oxidation also contribute to precursor supply. Multi-omics and enzymology facilitate the identification of key genes, enzymes, and pathways. Emerging approaches, including stable isotope tracing, molecular docking, machine learning, neuroimaging, and olfactory cell-based biosensors, offer new opportunities to elucidate aroma formation and perception and enable aroma prediction and quality control. This review provides insights into jujube aroma formation and quality improvement.",
-   "url": "https://doi.org/10.1016/j.foodchem.2026.151582"
-  },
-  {
-   "key": "doi:10.7235/hort.20260038",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "d90c1080c080f5f7af17daeaf2e76288c0fc0af8",
-   "doi": "10.7235/hort.20260038",
-   "pmid": "",
-   "title": "Anthracnose of Persimmon in Korea: Pathogen Diversity, Epidemiology, and Management Approach",
-   "journal": "Horticultural Science and Technology",
-   "date": "2026-10-15",
-   "authors": "Sopheap Mao, Hye-Gyoung Yoo, Byulhana Lee, K. Won",
-   "abstract": "",
-   "url": "https://doi.org/10.7235/hort.20260038"
-  },
-  {
-   "key": "doi:10.7235/hort.20260037",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "b7da0f91edc05f6353bd25d638745a0709ef35f9",
-   "doi": "10.7235/hort.20260037",
-   "pmid": "",
-   "title": "Postharvest Quality Maintenance of ‘Gampung’ Persimmon Fruit using Modified Atmosphere Packaging, 1-Methylcyclopropene, and an Ethylene Absorbent under Simulated Marketing Conditions",
-   "journal": "Horticultural Science and Technology",
-   "date": "2026-10-15",
-   "authors": "M. Shin, Ye-Ji Moon, Dong Ha Kim, Cheaeun Kim, L. S. H. Jayasooriya, Yun-Hee Kim",
-   "abstract": "",
-   "url": "https://doi.org/10.7235/hort.20260037"
-  },
-  {
-   "key": "doi:10.3390/genes17101287",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "e679616b7957768f6f05931f80677793ad8eac9e",
-   "doi": "10.3390/genes17101287",
-   "pmid": "",
-   "title": "Discordant Chloroplast and Nuclear Divergence Among Eight Rubus crataegifolius (Rosaceae) Cultivars",
-   "journal": "Genes",
-   "date": "2026-10-15",
-   "authors": "Seolah Kim, Yoon-Young Kim, Soon-Ho Kwon",
-   "abstract": "Background: Cultivar identification and the reconstruction of breeding relationships require markers that reflect both parents, yet plastome sequencing is often applied to these problems on its own. Methods: We tested how far chloroplast data alone can go in Rubus crataegifolius Bunge, using one plant of each of eight cultivars from Korean breeding programs. Complete chloroplast genomes (155,664–155,770 bp) were assembled for all eight and compared with nuclear resequencing data from the same plants. Results: The 526 plastome variants were concentrated in non-coding regions, and Ka/Ks ratios well below one indicated strong purifying selection on plastid genes. The eight cultivars carried only five distinct plastome haplotypes: three shared one identical sequence and two another. Mapping to a Rubus idaeus reference recovered 4,872,213 cultivar-polymorphic nuclear SNPs, which separated every cultivar pair, including all four with identical plastomes, and the result was unchanged after stringent filtering of heterozygous calls. Cultivars sharing an identical plastome spanned 27% of the entire range of nuclear distances, and the two measures were only weakly correlated. Conclusions: Plastome sequencing therefore describes maternal lineage rather than cultivar identity among these cultivars; genome-wide nuclear SNPs discriminate them, and the five-SNP panel derived from them is a candidate tool that requires validation on independent plants.",
-   "url": "https://doi.org/10.3390/genes17101287"
   }
  ]
 }
