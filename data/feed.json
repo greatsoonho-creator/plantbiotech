@@ -1,18 +1,30 @@
 {
- "generated_at": "2026-11-07T20:33:03.381Z",
+ "generated_at": "2026-11-08T20:31:17.914Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 80,
- "errors": [
-  "semanticscholar:pear-wild: HTTP 429",
-  "semanticscholar:jujube: HTTP 429",
-  "semanticscholar:raspberry: HTTP 429",
-  "semanticscholar:dus-pvp: HTTP 429"
- ],
+ "count": 81,
+ "errors": [],
  "items": [
+  {
+   "key": "doi:10.1007/s44274-026-01176-3",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "bc3333e6b48674f0a80835452c3a2fb2a60d85dd",
+   "doi": "10.1007/s44274-026-01176-3",
+   "pmid": "",
+   "title": "Removal of the antidepressant flupentixol from aqueous solution using jujube oil-based emulsion liquid membrane through hybrid optimization of RSM and ANN",
+   "journal": "Discover Environment",
+   "date": "2026-11-07",
+   "authors": "B. Kuppusamy, Sivarajasekar Natesan, Ramalingam Ramamoorthy, V. P. Sundramurthy, Kibebe Sahele",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s44274-026-01176-3"
+  },
   {
    "key": "doi:10.3106/ms2026-0024",
    "groups": [
@@ -29,6 +41,23 @@
    "authors": "D. Fujiki",
    "abstract": "This study examined whether variation in tannin concentrations and tannin insolubilization timing among persimmon fruit types influences foraging frequency and seasonal timing in Asiatic black bears (Ursus thibetanus). Bear-constructed feeding platforms in persimmon trees served as fruit consumption indicators. The probability of platform formation was highest in pollination-constant nonastringent (PCNA) persimmons, intermediate in pollination-variant nonastringent (PVNA) fruit, and lower in pollination-variant astringent (PVA) and pollination-constant astringent (PCA) types. Platform formation timing followed a similar sequence, occurring earliest in PCNA, then PVNA, and subsequently PVA and PCA persimmons. Soluble phenolic content, a proxy for tannin concentration, was measured in fruit collected immediately after platform formation. Bear feeding platform formation was observed mainly at relatively low soluble phenolic levels, generally below approximately 0.5% fresh weight (FW) tannic acid equivalents (TAE). Generalized additive models describing seasonal changes in soluble phenolic concentrations indicated that concentrations were highest in PCA, followed by PVA, PVNA, and PCNA persimmons. The decline to low concentrations occurred earliest in PCNA and progressively later through PVNA, PVA, and PCA types. Overall, these findings suggest that soluble phenolic concentration and its seasonal dynamics may be associated with the temporal patterns of bear foraging on persimmon fruit.",
    "url": "https://doi.org/10.3106/ms2026-0024"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.151957",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "e05b410f92b11256f0b68588eb7bb300a4ffacd7",
+   "doi": "10.1016/j.foodchem.2026.151957",
+   "pmid": "42994257",
+   "title": "Identification of key chestnut-sweet aroma compounds in bud-leaf yellow tea and analysis of their dynamic changes and formation mechanism.",
+   "journal": "Food Chemistry",
+   "date": "2026-11-04",
+   "authors": "Jing-Tao Zhou, Lu-Qi Bi, Qing-Ning Shu, Xing-Ping Zhang, Tong-Tong Jia, De Zhang",
+   "abstract": "Bud-leaf yellow tea is known for its chestnut-sweet aroma, yet its key odorants and formation mechanism remain unclear. Using a sensomics approach, seven key odorants were characterized, including 2-ethyl-3,5-dimethylpyrazine, 3-methylbutanal, and dimethyl sulfide, with 2-ethyl-3,5-dimethylpyrazine being the major contributor (recombination correlation r = 0.909). 2-Ethyl-3,5-dimethylpyrazine (odor activity value = 53.3, flavor dilution = 1024) and dimethyl sulfide (odor activity value = 422.4, flavor dilution = 256) were identified as major contributors, with dimethyl sulfide dominating the chestnut note and 2-Ethyl-3,5-dimethylpyrazine enhancing the sweet dimension. Across Meizhan, FudingDabaicha and Echa 10, 2-ethyl-3,5-dimethylpyrazine was undetectable before yellowing, peaked during yellowing (14.92 μg/L, p < 0.05), and was moisture-dependent, with 25% post-fixation moisture giving the highest chestnut-sweet score. In vitro, β-alanine + D-arabinose produced 2-ethyl-3,5-dimethylpyrazine via the Maillard reaction. Thus, 2-ethyl-3,5-dimethylpyrazine is the yellowing-specific key chestnut-sweet odorant in bud-leaf yellow tea, enabling moisture-based process control.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151957"
   },
   {
    "key": "doi:10.5152/forestist.2026.25075",
@@ -150,23 +179,6 @@
    "url": "https://doi.org/10.21203/rs.3.rs-11581424/v1"
   },
   {
-   "key": "doi:10.64898/2026.11.01.763533",
-   "groups": [
-    "dus-pvp"
-   ],
-   "cat": "pvp",
-   "source": "preprint",
-   "id": "PPR1357653",
-   "doi": "10.64898/2026.11.01.763533",
-   "pmid": "",
-   "title": "Dissecting the genetic basis of DUS characters in Pakistani wheat varieties",
-   "journal": "bioRxiv",
-   "date": "2026-11-03",
-   "authors": "Haq IU, Qureshi IA, Hussain MA, Javaid RA, Sheikh F, Abbas Z, Azam M.",
-   "abstract": "Distinctness, Uniformity and Stability (DUS) testing is fundamental to varietal characterization and the protection of Plant Breeders’ Rights (PBRs), but conventional DUS assessment relies predominantly on morphological characteristics whose expression may be influenced by environmental conditions, developmental stage and observer-related variation. Integrating character-specific molecular markers with conventional DUS assessment may therefore improve the reproducibility and genetic resolution of varietal identification. This study investigated the genetic architecture of DUS characteristics in a panel of 102 historical and modern Pakistani wheat varieties using genome-wide association studies (GWAS). Phenotypic variation was evaluated using distribution, correlation and hierarchical clustering analyses, while the germplasm was genotyped using a wheat genotyping-by-targeted sequencing platform. After quality filtering, 21,670 high-quality single-nucleotide polymorphisms (SNPs) were retained for analyses of genetic diversity, population structure, linkage disequilibrium (LD) and marker-trait associations. Population structure analysis indicated extensive admixture, with cross-entropy supporting K = 9 ancestral components, whereas hierarchical genetic clustering separated the germplasm into five broad groups. The first three principal components explained 8.09%, 7.20% and 5.39% of the total genetic variation, respectively. GWAS using BLINK and FarmCPU identified significant associations for several diagnostically important DUS characteristics. Growth habit was strongly associated with SNP 1B_129176704, with an additional signal on chromosome 5B. Shattering showed its strongest association at 1D_445256324, accompanied by several closely linked SNPs in the same region and a…",
-   "url": "https://doi.org/10.64898/2026.11.01.763533"
-  },
-  {
    "key": "doi:10.1177/18785093261502929",
    "groups": [
     "raspberry"
@@ -182,6 +194,23 @@
    "authors": "Maire Tõrra, H. Kaldmäe, P. Põldma, I. Reile, Kärolin Kork, A. Kikas",
    "abstract": "Winter injury limits raspberry ( Rubus idaeus L.) production in northern climates. This study evaluated the associations between winter injury, temperature, spur blight severity, and bud proline and soluble sugars contents in ‘Glen Ample’ raspberry grown in eight commercial plantations in Estonia over three winters: 2021/22, 2022/23, and 2023/24. Bud injury ranged from 18 to 98% among plantations and years, while neither minimum temperature nor the maximum number of consecutive hours below −25 °C accounted for this variation. A significant positive correlation was found between spur blight ( Xenodidymella applanata ) severity and winter injury ( r = 0.833). Proline and soluble carbohydrate levels in March were not consistent indicators of bud winter survival. These findings demonstrate that winter injury of raspberry buds is determined by interacting abiotic and biotic stress factors rather than by minimum temperature alone and growers should consider cane health alongside winter temperature in winter-injury risk assessments.",
    "url": "https://doi.org/10.1177/18785093261502929"
+  },
+  {
+   "key": "doi:10.64898/2026.11.01.763533",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "preprint",
+   "id": "PPR1357653",
+   "doi": "10.64898/2026.11.01.763533",
+   "pmid": "",
+   "title": "Dissecting the genetic basis of DUS characters in Pakistani wheat varieties",
+   "journal": "bioRxiv",
+   "date": "2026-11-03",
+   "authors": "Haq IU, Qureshi IA, Hussain MA, Javaid RA, Sheikh F, Abbas Z, Azam M.",
+   "abstract": "Distinctness, Uniformity and Stability (DUS) testing is fundamental to varietal characterization and the protection of Plant Breeders’ Rights (PBRs), but conventional DUS assessment relies predominantly on morphological characteristics whose expression may be influenced by environmental conditions, developmental stage and observer-related variation. Integrating character-specific molecular markers with conventional DUS assessment may therefore improve the reproducibility and genetic resolution of varietal identification. This study investigated the genetic architecture of DUS characteristics in a panel of 102 historical and modern Pakistani wheat varieties using genome-wide association studies (GWAS). Phenotypic variation was evaluated using distribution, correlation and hierarchical clustering analyses, while the germplasm was genotyped using a wheat genotyping-by-targeted sequencing platform. After quality filtering, 21,670 high-quality single-nucleotide polymorphisms (SNPs) were retained for analyses of genetic diversity, population structure, linkage disequilibrium (LD) and marker-trait associations. Population structure analysis indicated extensive admixture, with cross-entropy supporting K = 9 ancestral components, whereas hierarchical genetic clustering separated the germplasm into five broad groups. The first three principal components explained 8.09%, 7.20% and 5.39% of the total genetic variation, respectively. GWAS using BLINK and FarmCPU identified significant associations for several diagnostically important DUS characteristics. Growth habit was strongly associated with SNP 1B_129176704, with an additional signal on chromosome 5B. Shattering showed its strongest association at 1D_445256324, accompanied by several closely linked SNPs in the same region and a…",
+   "url": "https://doi.org/10.64898/2026.11.01.763533"
   },
   {
    "key": "doi:10.46309/biodicon.2026.2063685",
@@ -354,40 +383,6 @@
    "url": "https://doi.org/10.1016/j.ijbiomac.2026.155165"
   },
   {
-   "key": "doi:10.1016/j.scienta.2026.115265",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "da5dd73a7318957dd3703318819b212cbb8ef3f6",
-   "doi": "10.1016/j.scienta.2026.115265",
-   "pmid": "",
-   "title": "Calcium application strategy modulates nutrient partitioning, vegetative physiological status and fruit quality in persimmon (Diospyros kaki L.)",
-   "journal": "Scientia Horticulturae",
-   "date": "2026-11-01",
-   "authors": "Ana Moreno, A. Quiñones, Alejandra Salvador, J. Morales",
-   "abstract": "",
-   "url": "https://doi.org/10.1016/j.scienta.2026.115265"
-  },
-  {
-   "key": "doi:10.1111/1755-0998.70221",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42958609",
-   "doi": "10.1111/1755-0998.70221",
-   "pmid": "42958609",
-   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
-   "journal": "Molecular Ecology Resources",
-   "date": "2026-11-01",
-   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
-   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
-   "url": "https://doi.org/10.1111/1755-0998.70221"
-  },
-  {
    "key": "doi:10.1016/j.lwt.2026.120134",
    "groups": [
     "jujube"
@@ -507,6 +502,40 @@
    "url": "https://doi.org/10.1016/j.cpb.2026.100693"
   },
   {
+   "key": "doi:10.1016/j.scienta.2026.115265",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "da5dd73a7318957dd3703318819b212cbb8ef3f6",
+   "doi": "10.1016/j.scienta.2026.115265",
+   "pmid": "",
+   "title": "Calcium application strategy modulates nutrient partitioning, vegetative physiological status and fruit quality in persimmon (Diospyros kaki L.)",
+   "journal": "Scientia Horticulturae",
+   "date": "2026-11-01",
+   "authors": "Ana Moreno, A. Quiñones, Alejandra Salvador, J. Morales",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.scienta.2026.115265"
+  },
+  {
+   "key": "doi:10.1111/1755-0998.70221",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "42958609",
+   "doi": "10.1111/1755-0998.70221",
+   "pmid": "42958609",
+   "title": "A Comparison of Two Species-Discriminatory SNP Sets for Taxonomic Assignment in Hybridizing European White Oaks (Quercus sect. Quercus).",
+   "journal": "Molecular Ecology Resources",
+   "date": "2026-11-01",
+   "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
+   "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
+   "url": "https://doi.org/10.1111/1755-0998.70221"
+  },
+  {
    "key": "doi:10.6026/973206300226549",
    "groups": [
     "chestnut"
@@ -522,6 +551,23 @@
    "authors": "Ulagamadhavan Muthuraj",
    "abstract": "Siddha system of medicine offers several drugs for managing skin disorders, including contact dermatitis. Hence, a maiden attempt was made to repurpose an internal medicine for external application in chronic irritant contact dermatitis. A 30-year-old tea vendor with an 8-year history was treated with the drug, containing chestnut as its chief ingredient and occupational avoidance for 14 days. Complete resolution of dermatitis and symptoms was observed, with no recurrence during 12 months of drugless follow-up. However, well-designed clinical trials are required to evaluate its efficacy.",
    "url": "https://doi.org/10.6026/973206300226549"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12111366",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "f0005ea778c7fd5491967672269a3df61aae8fbe",
+   "doi": "10.3390/horticulturae12111366",
+   "pmid": "",
+   "title": "Genome-Wide Identification and Expression Analysis of ZjCDPK Genes Related to Ripening of ‘Dongzao’ Jujube Fruit",
+   "journal": "Horticulturae",
+   "date": "2026-10-31",
+   "authors": "Bing-Xin Fan, Huang Li, Shi-Xing Wang, Su-Na Zhao, Zhao-Kun Zhi, Shu-Lin Zhang",
+   "abstract": "Calcium-dependent protein kinases (CDPKs) are plant-specific Ca2+ sensors that translate calcium signals into phosphorylation responses. CDPKs coordinate both plant responses to the environment and plant growth, including fruit development and ripening. However, the CDPK gene family and its potential roles in jujube fruit development remain poorly characterized. In this study, 19 ZjCDPK genes were identified in the genome of ‘winter jujube’ (Ziziphus jujuba Mill. cv. ‘Dongzao’) and mapped to 11 of the 12 chromosomes. Phylogenetic analysis classified the ZjCDPK proteins into four groups, with CDPKs from Arabidopsis and tomato. Two intraspecific collinear gene pairs and sixteen orthologous gene pairs between ‘Dongzao’ and Arabidopsis were identified. Most family members exhibited similar organization of exon–intron splicing and contained similar motifs, with all containing a conserved serine/threonine protein kinase catalytic domain and four C-terminal EF-hand motifs. Promoter analysis identified 681 cis-acting elements, with abundant elements associated with abiotic stress, light, and phytohormone responses, including those related to abscisic acid, ethylene, methyl jasmonate, salicylic acid, auxin, and gibberellin. Developmental expression profiling across seven fruit stages, together with qRT-PCR validation, showed that ZjCDPK02, 08, 10, 12, 14, 16, and 19 accumulated preferentially during the late stages of fruit development. Correlation analysis further showed that ZjCDPK14 was strongly co-expressed with ZjCDPK02 (r = 0.96) and positively correlated with both fruit firmness (r = 0.907) and total soluble solids content (r = 0.816). Significant associations with these quality traits were also detected for ZjCDPK02, 04, 08, 15, 16, and 19. These findings provide a compr…",
+   "url": "https://doi.org/10.3390/horticulturae12111366"
   },
   {
    "key": "doi:10.70352/scrj.cr.26-0419",
@@ -551,7 +597,7 @@
    "doi": "10.1094/phyto-08-26-0249-r",
    "pmid": "42965945",
    "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe.",
-   "journal": "",
+   "journal": "Phytopathology",
    "date": "2026-10-31",
    "authors": "Hellin P, Richet P, Demonty E, de Koning PPM, de Krom C, den Hartog WGSA, Westenberg M, Botermans M, Druciarek T, Winter S, Rimbaud L, Dubuis N, Blouin AG, Kovačec E, Grubar B, Toplak N, Steyer S, Mav",
    "abstract": "A novel emaravirus provisionally named blackberry leaf blotch virus (BLBV), was identified from cultivated and wild blackberry plants ( Rubus sp.) exhibiting leaf blotch and vein banding/feathering symptoms. BLBV has been detected in Belgium, France, the Netherlands and Slovenia. The virus is most closely related to raspberry leaf blotch virus (RLBV, Emaravirus idaeobati ) infecting raspberry ( Rubus idaeus ) in Europe, and is distant from blackberry leaf mottle-associated virus (BLMaV, Emaravirus rubi ), infecting blackberry in the USA. Up to eight RNA segments were identified in BLBV isolates, including the four core RNA segments present in all emaraviruses and up to four additional non-core RNA segments. Spherical virus-like particles (70-90 nm), morphologically similar to emaravirus virions, were observed in sap from symptomatic blackberry tissue by transmission electron microscopy. The proteins encoded by the core RNA segments were all more than 20% divergent from their closest known emaravirus homologues, supporting the classification of BLBV as a new species. Genetic diversity was found among isolates even at the country level, with some additional RNA segments only detected for some isolates. Eriophyoid mites, known vectors of emaraviruses, were found on several infected plants and molecular barcoding identified the them as Epitrimerus gibbosus , an eriophyoid species previously reported on Rubus spp. in Europe. Transmission bioassays performed with these mites in a greenhouse supported E. gibbosus as a putative vector of BLBV. This discovery raises questions about the impact of BLBV on blackberry crops and the need for virus surveillance in plant propagation material.",
@@ -573,23 +619,6 @@
    "authors": "Barlier T, Castagneyrol B, Carton J, Burlett R, Bonnard O, Schimann H.",
    "abstract": "Leaf-associated microbiota are considered sensitive indicators of how plants respond to their environment. Yet, plants can be exposed to a wide range of biotic and abiotic stresses whose independent and combined effects on plant microbiota remain poorly understood, as do their cumulative consequences for plant performance. We conducted an experiment to expose saplings of four oak species to drought and herbivory by a piercing-sucking insect. We assessed the effect of water deficit on herbivory, as well as the individual and combined effects of water deficit and herbivory on fungal endophytic communities. To evaluate the cumulative impacts of biotic and abiotic stresses on plant performance, and the potential of the fungal endophytic communities as an indicator of plant responses to stress, we measured photosynthetic capacity, growth, and the accumulation of non-structural carbohydrates in twigs at the end of the growing season. Water deficit had no effect on insect herbivory but induced a decrease in the diversity of the leaf-associated fungal community. In contrast, herbivory shifted the composition of fungal communities through species replacement or addition depending on oak species. Herbivory altered photosynthesis, whereas drought but not herbivory reduced oak growth. None of these stresses influenced the storage of non-structural carbohydrates. Leaf-associated fungi responded to both stresses. However, the underlying mechanisms appeared to differ and the association with oak performance was weak. Overall, our study suggests a certain degree of resilience in trees subjected to interacting stresses, while also highlighting vulnerabilities that may have implications for tree health over the long term.",
    "url": "https://doi.org/10.1007/s00442-026-05995-2"
-  },
-  {
-   "key": "doi:10.3390/horticulturae12111366",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "f0005ea778c7fd5491967672269a3df61aae8fbe",
-   "doi": "10.3390/horticulturae12111366",
-   "pmid": "",
-   "title": "Genome-Wide Identification and Expression Analysis of ZjCDPK Genes Related to Ripening of ‘Dongzao’ Jujube Fruit",
-   "journal": "Horticulturae",
-   "date": "2026-10-31",
-   "authors": "Bing-Xin Fan, Huang Li, Shi-Xing Wang, Su-Na Zhao, Zhao-Kun Zhi, Shu-Lin Zhang",
-   "abstract": "Calcium-dependent protein kinases (CDPKs) are plant-specific Ca2+ sensors that translate calcium signals into phosphorylation responses. CDPKs coordinate both plant responses to the environment and plant growth, including fruit development and ripening. However, the CDPK gene family and its potential roles in jujube fruit development remain poorly characterized. In this study, 19 ZjCDPK genes were identified in the genome of ‘winter jujube’ (Ziziphus jujuba Mill. cv. ‘Dongzao’) and mapped to 11 of the 12 chromosomes. Phylogenetic analysis classified the ZjCDPK proteins into four groups, with CDPKs from Arabidopsis and tomato. Two intraspecific collinear gene pairs and sixteen orthologous gene pairs between ‘Dongzao’ and Arabidopsis were identified. Most family members exhibited similar organization of exon–intron splicing and contained similar motifs, with all containing a conserved serine/threonine protein kinase catalytic domain and four C-terminal EF-hand motifs. Promoter analysis identified 681 cis-acting elements, with abundant elements associated with abiotic stress, light, and phytohormone responses, including those related to abscisic acid, ethylene, methyl jasmonate, salicylic acid, auxin, and gibberellin. Developmental expression profiling across seven fruit stages, together with qRT-PCR validation, showed that ZjCDPK02, 08, 10, 12, 14, 16, and 19 accumulated preferentially during the late stages of fruit development. Correlation analysis further showed that ZjCDPK14 was strongly co-expressed with ZjCDPK02 (r = 0.96) and positively correlated with both fruit firmness (r = 0.907) and total soluble solids content (r = 0.816). Significant associations with these quality traits were also detected for ZjCDPK02, 04, 08, 15, 16, and 19. These findings provide a compr…",
-   "url": "https://doi.org/10.3390/horticulturae12111366"
   },
   {
    "key": "doi:10.5720/kjcn.2026.00157",
@@ -745,6 +774,23 @@
    "url": "https://doi.org/10.3390/molecules31213900"
   },
   {
+   "key": "doi:10.3390/app162110714",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "c7b264ae24caed9f1d7db068611ef3194d732147",
+   "doi": "10.3390/app162110714",
+   "pmid": "",
+   "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia Nakai) Infusion",
+   "journal": "Applied Sciences",
+   "date": "2026-10-29",
+   "authors": "Riho Endo, Tsukasa Shiraishi, Mihoko Moto",
+   "abstract": "Addition of fruit during sourdough preparation can lead to the development of distinctive bacterial communities and fermentation characteristics. However, sourdough preparation with Japanese pear infusion remains understudied. We prepared sourdough with Japanese pear infusion and evaluated its organic acid composition and bacterial community. Sourdough was passaged for up to 56 generations. pH decreased rapidly during the initial generations of backslopping and subsequently stabilized at 3.5 and 3.7. High-performance liquid chromatography analysis revealed that lactic and acetic acid were the major organic acids. The fermentation quotient in the 55th and 56th generations ranged from 0.64 to 0.70, indicating an acetic acid-dominant profile. Bacterial community analysis targeting the V3–V4 region of the 16S rDNA gene revealed Furfurilactobacillus rossiae and Acetobacter pasteurianus as the dominant taxa. Average nucleotide identity analysis identified the representative isolates as Furfurilactobacillus milii and Acetobacter pasteurianus subsp. pasteurianus, respectively. This descriptive study is limited by a small sample size, lack of a control group, initial bacterial community data, and limited statistical analysis. Nevertheless, under the experimental conditions of this study, relatively high acetic acid levels were observed in the analyzed sourdoughs, together with a bacterial community dominated by the genera Furfurilactobacillus and Acetobacter were observed as predominant genera.",
+   "url": "https://doi.org/10.3390/app162110714"
+  },
+  {
    "key": "doi:10.1139/cjm-2026-0110",
    "groups": [
     "oak"
@@ -777,23 +823,6 @@
    "authors": "Si-Nuo Feng, Yu Li, Yi-Gang Song",
    "abstract": "Background: Mitochondrial and chloroplast genomes in plants have experienced distinct evolutionary trajectories due to differences in genomic organization, functional constraints, and genome maintenance mechanisms. However, comparative studies of their evolutionary dynamics in oaks remain limited. Methods: The complete mitochondrial and chloroplast genomes of Quercus arbutifolia were assembled and annotated using PacBio HiFi reads. Genome structure, repetitive sequences, codon usage, and mitochondrial plastid DNA transfers (MTPTs) were characterized. Evolutionary genomic and phylogenetic analyses were conducted across selected Quercus species to assess structural variation, sequence divergence, and phylogenetic relationships. Results: The mitochondrial genome of Q. arbutifolia was assembled as a 493,735 bp linear molecule, whereas the chloroplast genome was assembled as a 160,682 bp circular molecule. The mitochondrial genome exhibited lower coding density and a higher abundance of repetitive sequences than the chloroplast genome. Both organellar genomes preferentially used A/U-ending codons, with codon usage variation associated with mutation bias and selective constraints. Thirty-two MTPT regions were identified, predominantly representing plastid-to-mitochondrial transfers. Chloroplast genomes showed conserved inverted repeat boundaries among Quercus species, whereas mitochondrial genomes displayed extensive structural rearrangements, indicating contrasting evolutionary dynamics between the two organellar genomes. Nucleotide diversity analyses further revealed different sequence variation between organellar genomes, with chloroplast protein-coding genes (PCGs) generally exhibiting higher sequence divergence than mitochondrial PCGs. Phylogenetic analyses recovered lar…",
    "url": "https://doi.org/10.3390/genes17111348"
-  },
-  {
-   "key": "doi:10.3390/app162110714",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "c7b264ae24caed9f1d7db068611ef3194d732147",
-   "doi": "10.3390/app162110714",
-   "pmid": "",
-   "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia Nakai) Infusion",
-   "journal": "Applied Sciences",
-   "date": "2026-10-29",
-   "authors": "Riho Endo, Tsukasa Shiraishi, Mihoko Moto",
-   "abstract": "Addition of fruit during sourdough preparation can lead to the development of distinctive bacterial communities and fermentation characteristics. However, sourdough preparation with Japanese pear infusion remains understudied. We prepared sourdough with Japanese pear infusion and evaluated its organic acid composition and bacterial community. Sourdough was passaged for up to 56 generations. pH decreased rapidly during the initial generations of backslopping and subsequently stabilized at 3.5 and 3.7. High-performance liquid chromatography analysis revealed that lactic and acetic acid were the major organic acids. The fermentation quotient in the 55th and 56th generations ranged from 0.64 to 0.70, indicating an acetic acid-dominant profile. Bacterial community analysis targeting the V3–V4 region of the 16S rDNA gene revealed Furfurilactobacillus rossiae and Acetobacter pasteurianus as the dominant taxa. Average nucleotide identity analysis identified the representative isolates as Furfurilactobacillus milii and Acetobacter pasteurianus subsp. pasteurianus, respectively. This descriptive study is limited by a small sample size, lack of a control group, initial bacterial community data, and limited statistical analysis. Nevertheless, under the experimental conditions of this study, relatively high acetic acid levels were observed in the analyzed sourdoughs, together with a bacterial community dominated by the genera Furfurilactobacillus and Acetobacter were observed as predominant genera.",
-   "url": "https://doi.org/10.3390/app162110714"
   },
   {
    "key": "doi:10.1094/pdis-10-25-2150-re",
@@ -1355,23 +1384,6 @@
    "authors": "Yang M, Xie H, Dong S, Li Z, Kang W.",
    "abstract": "",
    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13672192/?tool=EBI"
-  },
-  {
-   "key": "doi:10.1186/s12870-026-10035-5",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "89bf59b950d9d3bd1d6efdb42412b04cf3149342",
-   "doi": "10.1186/s12870-026-10035-5",
-   "pmid": "",
-   "title": "Endophytic bacteria from Ziziphus jujuba enhance growth and salinity resilience in pearl millet under reduced fertilizer input",
-   "journal": "BMC Plant Biology",
-   "date": "2026-10-17",
-   "authors": "S. Shafqat, R. Ullah, Muhammad Ali, Zakir Ullah, Tilahun Yai Fayesa",
-   "abstract": "",
-   "url": "https://doi.org/10.1186/s12870-026-10035-5"
   }
  ]
 }
