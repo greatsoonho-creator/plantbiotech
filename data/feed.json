@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-11-09T20:31:49.964Z",
+ "generated_at": "2026-11-10T20:31:38.437Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 85,
+ "count": 92,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1007/s10266-026-01612-z",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "31f050f92d4114182fd909343ef816480bbc2594",
+   "doi": "10.1007/s10266-026-01612-z",
+   "pmid": "43000481",
+   "title": "Eco-friendly synthesis of ZnO-PVA nanoparticles using Diospyros kaki fruit extract and its antibacterial and antibiofilm activity against Streptococcus mutans.",
+   "journal": "Odontology : official journal of The Society of the Nippon Dental University",
+   "date": "2026-11-08",
+   "authors": "Kamalesh Balakumar Venkatesan, Ananyasri Pathallapalli, Vinitha Packirisamy, M. K. Srinivasan",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10266-026-01612-z"
+  },
   {
    "key": "doi:10.1007/s44274-026-01176-3",
    "groups": [
@@ -24,6 +41,57 @@
    "authors": "B. Kuppusamy, Sivarajasekar Natesan, Ramalingam Ramamoorthy, V. P. Sundramurthy, Kibebe Sahele",
    "abstract": "Recently, membrane-based separation gains significant attention among available water treatment technologies. Among the advanced techniques for wastewater treatment, emulsion liquid membranes (ELM) stand out, since it is environmentally friendly. In the present work, flupentixol (FL), an emergent micropollutant and antidepressant, was selected as the model pharmaceutical pollutant for removal using ELM system containing jujube oil (JJO-ELM). The primary effects and interactions of key independent variables, surfactant concentration (2–3 v/v %), carrier concentration (3–5 v/v %), concentration of stripping agent (HCl), (0.5–1.5 N), FL concentration (50–150 mg/L), and phase ratio (1:1–1:3 for water:JJO, respectively) were optimized using the Response Surface Methodology (RSM) and Artificial Neural Networks (ANN) design components. Optimized results showed that the ideal condition for the independent parameters, surfactant concentration; carrier concentration, HCl concentration, flupentixol concentration, and a phase ratio, respectively, were determined to be 2.41% v/v, 3.70% v/v, 0.52 N, 143.84 mg/L, and 1:1.5. The ideal condition could result in a maximum extraction efficiency of 97.40% FL. Further, the effectiveness of FL stripping was examined by adjusting the H2SO4 concentration. Investigations were made into the mechanism of flupentixol extraction by JJO-ELM. The feed forward neural network (FNN) model, which has an output layer with one (flupentixol extraction) neuron and an input layer with five neurons, was used to simulate the extraction data. Clinical trial number Not applicable.",
    "url": "https://doi.org/10.1007/s44274-026-01176-3"
+  },
+  {
+   "key": "doi:10.56097/binhduonguniversityjournalofscienceandtechnology.v9i3.484",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "8f442ee1853c3bb8c4283caa9e908579f0cdcdbe",
+   "doi": "10.56097/binhduonguniversityjournalofscienceandtechnology.v9i3.484",
+   "pmid": "",
+   "title": "STUDY ON THE PRODUCTION PROCESS OF PUREE JAM FROM JUJUBE (ZIZIPHUS MAURITIANA LAMK.) IN NINH THUAN",
+   "journal": "Tập san Khoa học và kỹ thuật trường Đại học Bình Dương",
+   "date": "2026-11-07",
+   "authors": "Trọng Quốc Vương Trần, Thanh Hải Lê",
+   "abstract": "",
+   "url": "https://doi.org/10.56097/binhduonguniversityjournalofscienceandtechnology.v9i3.484"
+  },
+  {
+   "key": "doi:10.1038/s41598-026-79418-w",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "f6aa473f424d0b54f9cb310a7af13ee18c5603a0",
+   "doi": "10.1038/s41598-026-79418-w",
+   "pmid": "",
+   "title": "Adsorption performance of chestnut cupule-derived carbon in olaparib removal from aquatic environments: kinetic, isotherm and thermodynamic evaluation",
+   "journal": "Scientific Reports",
+   "date": "2026-11-06",
+   "authors": "Ayşegül Türk Baydır, Ibrahim Bulduk",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41598-026-79418-w"
+  },
+  {
+   "key": "doi:10.3390/ani16213514",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "42378918eea202e089121a42cdf3517d28842fbb",
+   "doi": "10.3390/ani16213514",
+   "pmid": "",
+   "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens",
+   "journal": "Animals",
+   "date": "2026-11-06",
+   "authors": "Isidora Prošić, M. Brus, Nikola Delić, N. Zdravković, A. Radalj, Tamaš Petrović",
+   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
+   "url": "https://doi.org/10.3390/ani16213514"
   },
   {
    "key": "doi:10.64898/2026.11.05.764454",
@@ -56,8 +124,25 @@
    "journal": "",
    "date": "2026-11-06",
    "authors": "Whale JW, Stuart KC, Bruce J, Pickup M, Field DL.",
-   "abstract": "A major challenge for ecological restoration is seed sourcing decisions that ensure that restored populations have the adaptive variation for current and future environments. This is increasingly important for alpine and sub-alpine communities where climate change is predicted to be rapid and drive shifts in selective pressures. Selecting source populations representing future climates is an evolutionary-based strategy for increasing adaptive capacity, but requires an understanding of population genetic structure, identification of putatively adaptive genomic variation and an assessment of how these change across the landscape. Using 3978 single-nucleotide polymorphism (SNP) markers we assessed the population structure and diversity of 33 sampled populations of Eucalyptus delegatensis from across its distribution, including 22 populations from the mainland (E. delegatensis subsp. delegatensis) and 11 from Tasmania (E. delegatensis subsp. tasmaniensis). Genotype-environment association (GEA) analysis identified strong genetic associations with seasonal climate variables, particularly minimum temperature of the coldest month, and revealed a parallel cline at one outlier locus across the mainland and Tasmanian range, consistent with independent sorting of standing variation along environmental gradients in both subspecies. By projecting genetic offset under future climate change scenarios, we identify regions of the species' range most vulnerable to projected change; despite this, seed-sourcing projections suggest that suitable future climate matches may be available for most of the range. Together, these findings demonstrate the value of comparative GEA approaches in validating outlier loci, and show that even in regions of projected dramatic environmental shifts, such as…",
+   "abstract": "A major challenge for ecological restoration is seed sourcing decisions that ensure that restored populations have the adaptive variation for current and future environments. This is increasingly important for alpine and sub-alpine communities where climate change is predicted to be rapid and drive shifts in selective pressures. Selecting source populations representing future climates is an evolutionary-based strategy for increasing adaptive capacity, but requires an understanding of population genetic structure, identification of putatively adaptive genomic variation and an assessment of how these change across the landscape. Using 3978 single-nucleotide polymorphism (SNP) markers we assessed the population structure and diversity of 33 sampled populations of Eucalyptus delegatensis from across its distribution, including 22 populations from the mainland ( E. delegatensis subsp. delegatensis ) and 11 from Tasmania ( E. delegatensis subsp. tasmaniensis ). Genotype-environment association (GEA) analysis identified strong genetic associations with seasonal climate variables, particularly minimum temperature of the coldest month, and revealed a parallel cline at one outlier locus across the mainland and Tasmanian range, consistent with independent sorting of standing variation along environmental gradients in both subspecies. By projecting genetic offset under future climate change scenarios, we identify regions of the species' range most vulnerable to projected change; despite this, seed-sourcing projections suggest that suitable future climate matches may be available for most of the range. Together, these findings demonstrate the value of comparative GEA approaches in validating outlier loci, and show that even in regions of projected dramatic environmental shifts, suc…",
    "url": "https://doi.org/10.1111/eva.70339"
+  },
+  {
+   "key": "doi:10.48044/jauf.2026.033",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "d1b511311ee0478a6730564f249d33234a18b137",
+   "doi": "10.48044/jauf.2026.033",
+   "pmid": "",
+   "title": "Watering and Leaf Removal as Strategies to Mitigate Cameraria ohridella Damage in Urban Horse Chestnuts",
+   "journal": "Arboriculture &amp; Urban Forestry",
+   "date": "2026-11-05",
+   "authors": "Ivan Iľko, M. Raček, V. Peterková, Martin Hurban",
+   "abstract": "Removal of infested leaf litter reduces overwintering Cameraria ohridella populations. Whether supplemental irrigation combined with removal can alleviate drought stress and improve the condition of infested urban horse chestnuts remains insufficiently evaluated. This quasi-experimental study compared treatments applied at 7 sites: untreated control (no leaf removal or irrigation); removal alone; removal plus rainfall-adjusted irrigation of 2 m 3 to 4 m 3 tree −1 every 14 days (regular); removal plus automated irrigation of 70 mm month −1 during April to September (enhanced); and two foliar sprays of the contact insecticide lambda-cyhalothrin at one site. Sampling occurred each September in 2020 and 2021 but only in 2020 at the insecticide site. Leaf-miner damage, total leaf area, dry mass, and estimated specific leaf area were analyzed as tree level means. Median tree level damage was approximately 91% at the control and 85% after leaf removal alone (not significantly different) compared with 48% to 69% at regular-irrigation sites and 11% to 44% at enhanced-irrigation sites. Site 6 (L6), comprising solitary trees under leaf removal and enhanced irrigation, had the lowest damage, with leaf area and dry mass among the highest. At the insecticide site, median damaged leaf area was approximately 42% for lower-canopy samples and 75% for upper-canopy samples. Estimated specific leaf area did not differ among sites. Combined leaf removal and irrigation were associated with lower damage and better leaf condition, particularly at L6. These site-level associations support the combined strategy as a host-condition intervention without isolating irrigation’s contribution or demonstrating direct pest suppression. L6 had numerically less damage than both insecticide-treated canopy p…",
+   "url": "https://doi.org/10.48044/jauf.2026.033"
   },
   {
    "key": "doi:10.3106/ms2026-0024",
@@ -211,6 +296,23 @@
    "authors": "Bahar Hashemian Esfahani, S. Dutta, R. Eike, Boyce S. Chang, Zahra Falsafi, Manu Smriti",
    "abstract": "Transforming textile waste into durable, value-added materials remains a central challenge for sustainable apparel systems. This study developed single-layer, nonwoven sheets from discarded 100% cotton textiles using a papermaking-derived wet-laid process and evaluated their potential as leather-alternative materials through a sequential two-phase approach. In Phase 1, reclaimed-cotton nonwoven sheets bio-finished with persimmon juice or konjac were benchmarked against commercial plant-based olive, cork, pineapple, and cactus leather alternatives using ASTM grab tensile and rotary-platform abrasion testing. The bio-finished sheets showed low breaking forces, limited elongation, and abrasion failure. In Phase 2, biodegradable polycaprolactone (PCL) was applied as a reinforcing finish. The resulting PCL-treated reclaimed-cotton sheets’ (RC-PCL) breaking force performance improved by over 6.5 times the nontreated nonwoven specimens and approximately 4.5 times the bio-finished nonwoven specimens. Additionally, the RC-PCL completed the 2000-cycle abrasion endpoint without through-thickness failure. Elongation remained low while the dogbone tensile test showed increases in tensile strength, strain at break, and apparent Young’s modulus after PCL-finishing. These findings indicate that biodegradable PCL-finish substantially improves the strength, cohesion, and abrasion resistance of reclaimed-cotton nonwovens, while flexibility, coating optimization, and end-of-life performance remain priorities for future leather-alternative applications to support sustainability efforts and value-added use of reclaimed materials within the textile industry.",
    "url": "https://doi.org/10.3390/textiles6040138"
+  },
+  {
+   "key": "doi:10.3390/chemproc2026022129",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "d356557aa677e3f99efef7e33d08cc03cc42ff9c",
+   "doi": "10.3390/chemproc2026022129",
+   "pmid": "",
+   "title": "Studies of the Antioxidant Mechanisms Produced by Black Raspberries Extracts (Rubus niveus Thunb) and Magnesium Salt Mixtures in Red Blood Cells",
+   "journal": "ECSOC 2026",
+   "date": "2026-11-04",
+   "authors": "Franklin Vargas, Miguel León, J. Velásquez, M. Contreras, Sergio D. Rosales-Anzola, Miguel Fernández",
+   "abstract": "",
+   "url": "https://doi.org/10.3390/chemproc2026022129"
   },
   {
    "key": "doi:10.1007/s10658-026-03331-1",
@@ -468,6 +570,40 @@
    "url": "https://doi.org/10.1016/j.conbuildmat.2026.148503"
   },
   {
+   "key": "doi:10.1016/j.jff.2026.107573",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e96017b680f7a8bd6d607e7e12374a0fb21f5270",
+   "doi": "10.1016/j.jff.2026.107573",
+   "pmid": "",
+   "title": "Effects of Korean pear (Pyrus pyrifolia) extracts on respiratory health",
+   "journal": "Journal of Functional Foods",
+   "date": "2026-11-01",
+   "authors": "Nakyoung Shin, Sumin Park, Minju Kim, Yang Sueun Lee, Un Jae Lee, Mihi Yang",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jff.2026.107573"
+  },
+  {
+   "key": "doi:10.1016/j.plaphy.2026.111947",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e8d5175dedf0001bf721ad932e63f79e3fc6e2ee",
+   "doi": "10.1016/j.plaphy.2026.111947",
+   "pmid": "",
+   "title": "AaF3′5′H Involved in Flavonoid Synthesis in Hairy Roots of Actinidia arguta (Siebold & Zucc.) Planch. ex Miq.",
+   "journal": "Plant Physiology and Biochemistry",
+   "date": "2026-11-01",
+   "authors": "Ya-Xuan Jiang, Yue Xiao, Hong-Lu Han, Yu-Jing Bai, Le Ma, Jian-Xin Li",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.plaphy.2026.111947"
+  },
+  {
    "key": "doi:10.1016/j.lwt.2026.120134",
    "groups": [
     "jujube"
@@ -483,6 +619,23 @@
    "authors": "Kai-Ge Peng, Qing-Yong Meng, Ya-Kun Hou, Fang-Kun Zhao, Ya-Xin Sang",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.lwt.2026.120134"
+  },
+  {
+   "key": "doi:10.1016/j.fbio.2026.110469",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "f4f59512db2ecf86b2cd0e7309fc6823e47d8612",
+   "doi": "10.1016/j.fbio.2026.110469",
+   "pmid": "",
+   "title": "Screening and Heterogeneity of Indigenous yeasts: Effects on Physicochemical and Aroma Characteristics of Jujube Wine",
+   "journal": "Food Bioscience",
+   "date": "2026-11-01",
+   "authors": "Xin-Yu Sun, Xin Sun, Ai-Ying Gao, Yu-Xiao Wang, Ren-Tang Zhang",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.fbio.2026.110469"
   },
   {
    "key": "doi:10.1016/j.jarmap.2026.100748",
@@ -502,6 +655,23 @@
    "url": "https://doi.org/10.1016/j.jarmap.2026.100748"
   },
   {
+   "key": "doi:10.1016/j.pld.2026.11.001",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "98bec35e54ef19198916ce8f33938ed251be3dd9",
+   "doi": "10.1016/j.pld.2026.11.001",
+   "pmid": "",
+   "title": "Repeat-mediated recombination and maternal lineage diversification in jujube mitochondrial genomes",
+   "journal": "Plant Diversity",
+   "date": "2026-11-01",
+   "authors": "Zhong-Chen Zhang, Zhi Yang, Li-Xin Wang, Xuan Zhao, Shu-Feng Zhang, Jian Shen",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.pld.2026.11.001"
+  },
+  {
    "key": "doi:10.1016/j.scienta.2026.115277",
    "groups": [
     "jujube"
@@ -517,6 +687,23 @@
    "authors": "Wen-Di Xu, Jia-Qi Wang, Yin-Tao Xu, Zhi-Kai Zhang, Zhong-Wu Wan, Ling-Ping Sun",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.scienta.2026.115277"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.152005",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "7676a5bd29980ae0fbe032f171a302aff91e7b63",
+   "doi": "10.1016/j.foodchem.2026.152005",
+   "pmid": "",
+   "title": "Fermentation characteristics and gut microbiota modulation of pectic polysaccharides from jujube: The critical role of degree of esterification and branching",
+   "journal": "Food Chemistry",
+   "date": "2026-11-01",
+   "authors": "Wen Liu, Ze-Xiu Zhang, Qin Yuan, Yu-Fa Xia, Jing Huang, Jin-Yi Zhong",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.152005"
   },
   {
    "key": "doi:10.3390/plants15213370",
@@ -568,6 +755,23 @@
    "authors": "Dong-Ye Lu, Yu-Ping Zhang, Yang Wu, Qing-Hua Pan",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.cpb.2026.100693"
+  },
+  {
+   "key": "doi:10.1016/j.afres.2026.102828",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e154d1defb199423d7d9f39938b3736e07c933e6",
+   "doi": "10.1016/j.afres.2026.102828",
+   "pmid": "",
+   "title": "Postharvest Ozone Treatment Preserves Firmness and Alters Cell Wall and Tissue Electrical Properties in Fuyu Persimmon Fruit",
+   "journal": "Applied Food Research",
+   "date": "2026-11-01",
+   "authors": "Yuni Kartika, P. Jitareerat, Kohei Nakano, Takashi Watanabe, Takahisa Nishizu, T. Imaizumi",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.afres.2026.102828"
   },
   {
    "key": "doi:10.1016/j.scienta.2026.115265",
@@ -1367,91 +1571,6 @@
    "authors": "J. Gorzelany, K. Pentoś, Piotr Kuźniar, M. Zardzewiały",
    "abstract": "The aim of this study was to assess the effects of gaseous ozone treatment and storage time on selected physicochemical and mechanical properties of ‘Rojo Brillante’ persimmon fruit (Diospyros kaki L.), as well as to develop machine learning models for predicting their mechanical properties. The fruits were exposed to ozone at a concentration of 10 ppm for 15 or 30 min, while the control samples remained untreated. The ozonation treatment was applied once as a pre-treatment on day 0, prior to the start of storage; no further ozone exposure was applied during the subsequent 20-day storage period. The fruits were then stored for 20 days at 3 °C and 80% relative humidity. The analysed parameters included CIE Lab* colour coordinates, chemical and morphological properties, water content, puncture force, deformation, failure energy, and the Fmax/dL ratio. Gradient Boosting, Support Vector Regression, and XGBoost algorithms were used to predict the mechanical properties, and their performance was evaluated using 10-fold cross-validation. Storage time significantly affected all analysed mechanical properties, resulting in decreases in water content, puncture force, failure energy, and the Fmax/dL ratio, accompanied by an increase in fruit deformation. The 30 min treatment was associated with slightly higher values of selected mechanical parameters; however, the differences among the ozonation variants were limited and did not apply to all of the analysed characteristics. The highest predictive accuracy was obtained for failure force, failure energy, and the Fmax/dL ratio, with correlation coefficients of 0.807, 0.805, and 0.823, respectively. Deformation modelling showed markedly lower predictive performance (R = 0.283–0.629) and should not be considered sufficiently accurate f…",
    "url": "https://doi.org/10.3390/app162010363"
-  },
-  {
-   "key": "doi:10.3390/jof12100783",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42930748",
-   "doi": "10.3390/jof12100783",
-   "pmid": "42930748",
-   "title": "Inhibitory Effects and Transcriptomic Insights of L-Arginine Against &lt;i&gt;Diaporthe nobilis&lt;/i&gt;.",
-   "journal": "",
-   "date": "2026-10-19",
-   "authors": "Zhou S, Wang X, Wang Z, Duan L, Feng J, Yan DH.",
-   "abstract": "Diaporthe nobilis causes postharvest decay in Chinese chestnuts ( Castanea mollissima Blume). This study evaluated the effects of exogenous L-arginine (L-Arg) on fungal growth, fruit decay, and transcriptional responses using a single D. nobilis isolate. In a preliminary in vitro screen of nine amino acids at 30 mM, L-Arg showed the strongest inhibition of mycelial growth. L-Arg inhibited mycelial growth in a concentration-dependent manner in vitro. In the single fruit assay, the 2.5-20 mM groups had lower observed disease incidence and disease indices than the water control, whereas the 30 mM group had values close to the control. Transcriptomic analysis of mycelia grown on potato dextrose agar (PDA) showed lower transcript levels for several genes annotated as encoding membrane transporters, cell wall-degrading enzymes (CWDEs), and proteins involved in secondary metabolism under L-Arg treatment. These findings describe transcriptional responses under in vitro culture conditions. Without functional or biochemical validation, they do not establish reduced CWDE activity or suppression of virulence during host infection. The contrasting responses of fungal growth and fruit decay indicate that stronger inhibition in vitro does not necessarily translate into better disease control. Further studies across isolates, together with measurements during infection and functional validation, are needed to assess the mechanisms and practical value of L-Arg for postharvest chestnut protection.",
-   "url": "https://doi.org/10.3390/jof12100783"
-  },
-  {
-   "key": "doi:10.67048/qxju2026ai130issmaxsusson3m1274",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "a2783d9db4943e17bee633179ce24ffc62dace18",
-   "doi": "10.67048/qxju2026ai130issmaxsusson3m1274",
-   "pmid": "",
-   "title": "TURLI TUPROQ-IQLIM SHAROITLARIDA DORIVOR O‘SIMLIK MARMARAK (SALVIA L.) NING MORFOLOGIK VA BIOLOGIK XUSUSIYATLARI",
-   "journal": "Agro ilm",
-   "date": "2026-10-19",
-   "authors": "Suroj Qurbanboyev",
-   "abstract": "The article analyzes the morphological and biological characteristics of the medicinal plant sage (Salvia L.) grown under different soil-climatic conditions. On sierozem, chestnut, and saline soils of lowland, foothill, and mountain zones, plant height, leaf structure, glandular hair density, and tissue thickness were found to vary depending on ecological factors. The content of essential oil, phenolic compounds, and flavonoids was comparatively assessed. The findings help identify optimal agroecological zones for producing raw material with high biological activity.",
-   "url": "https://doi.org/10.67048/qxju2026ai130issmaxsusson3m1274"
-  },
-  {
-   "key": "doi:10.66540/afn/2026.1031",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "0a7729310e670256a16c5bb2813530967b331314",
-   "doi": "10.66540/afn/2026.1031",
-   "pmid": "",
-   "title": "Evaluation of Nutritional, Structural and Sensory Properties of Cookies Supplemented with Water Chestnut Flour",
-   "journal": "Advances in Food and Nutrition",
-   "date": "2026-10-19",
-   "authors": "Aqsa Zulfiqar, Hanzla Attiq",
-   "abstract": "Trapa natans L. is commonly known as “waste chestnut” or “singhara nuts”. It belongs to an aquatic genus native to tropical and temperate regions. It is commercially recognized due to its nutritional composition and edible fruits. Despite being rich in proteins, minerals, lipids, carbohydrates, polyphenols, vitamins, hydrolysable tannins, and dietary fibres, they have not been fully marketed because they have limited availability. The research investigates the potential application of water chestnut flour in cookies, focusing on rheological, physical, mineral, antimicrobial, and sensory characteristics to enhance the flavor of cookies. The study emphasizes notable characteristics of the water chestnut flour, focusing on its impact on the durability and flavor of the cookies. The proximate analysis of water chestnut flour demonstrated results of protein (4.67±1.86%), crude fat (1.98±0.08%), moisture (65.33±0.45%), ash (2.45±0.14%) crude fiber (0.73±0.05%) and nitrogen-free extract (24.84±0.5%). The dietary value of food is enhanced through mineral component analysis, which indicates the mean values of water chestnut flour were observed in iron (1.54±0.50 mg/100g), phosphorus (45.17±0.65 mg/100g), calcium (127.12±2.32 mg/100g), zinc (32.15±1.32 mg/100g), and potassium (1.84±0.23 mg/100g). The DPPH (45.32±0.23 mg GAE/g) and FRAP (57.73±0.15 TE/g) values of water chestnut flour demonstrate a significant amount of phenolics and flavonoids, which cause strong antioxidant activity. Sensory evaluation showed that the addition of water chestnut flour to cookies affects its flavor, appearance, and acceptance. The flour of freshwater chestnuts has a mild, earthy, and nutty flavor and its application improves the cookie acceptability. The research findings demonstrated that water c…",
-   "url": "https://doi.org/10.66540/afn/2026.1031"
-  },
-  {
-   "key": "doi:10.1016/j.ijbiomac.2026.154889",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42893737",
-   "doi": "10.1016/j.ijbiomac.2026.154889",
-   "pmid": "42893737",
-   "title": "Magnesium-associated persimmon polysaccharide modulates the structure, water mobility, and texture of kudzu starch gels.",
-   "journal": "",
-   "date": "2026-10-19",
-   "authors": "Lu L, Shi T, Zhu Y, Li X, Wu C, Zhou D, Li T, Fan G.",
-   "abstract": "This study evaluated how a magnesium-associated persimmon polysaccharide preparation (PP-Mg) affected kudzu starch (KS) gels. Persimmon polysaccharide (PP) and MgCl 2 were combined at mass ratios of 4:1, 4:2, and 4:3. PP-Mg 4:2 had the highest geometric mean apparent viscosity across the shear-rate sweep and the highest viscoelastic moduli within the common strain interval. It also ranked first in a four-criterion comparison. This preparation was then added at 0.8% or 2.0% (w/v) to dispersions containing 15%, 20%, or 25% (w/v) KS before gelatinization. The six gels were compared using utensil tests, texture profile analysis, rheology, water mobility, and deformation stability. The 2.0% PP-Mg/20% KS gel ranked first in the combined evaluation (C i = 0.927). It showed good cohesion during handling, moderate hardness, predominantly elastic behavior, and restricted water mobility. Its mean observational texture score was 93.5/100 across six assessors. This score was developed for this study and is not an official score of the International Dysphagia Diet Standardisation Initiative (IDDSI). The same gel ranked first when the observational texture score was excluded. These results identify 2.0% PP-Mg/20% KS as the preferred formulation among the gels tested under the stated preparation conditions.",
-   "url": "https://doi.org/10.1016/j.ijbiomac.2026.154889"
-  },
-  {
-   "key": "t:bacterial diversity in gut compartments of tomicus brevipilosus from shoot boring preconditioning of pinus yunnanensis t",
-   "groups": [
-    "pine"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "PMC13672192",
-   "doi": "",
-   "pmid": "",
-   "title": "Bacterial diversity in gut compartments of Tomicus brevipilosus: from shoot-boring preconditioning of Pinus yunnanensis to trunk-boring reproduction",
-   "journal": "",
-   "date": "2026-10-19",
-   "authors": "Yang M, Xie H, Dong S, Li Z, Kang W.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13672192/?tool=EBI"
   }
  ]
 }
