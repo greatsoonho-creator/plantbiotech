@@ -1,13 +1,47 @@
 {
- "generated_at": "2026-11-10T20:31:38.437Z",
+ "generated_at": "2026-11-11T20:32:03.283Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 92,
+ "count": 94,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1111/pce.71026",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "46f89c9fbcee1df7af7dae327991c8d2731c32ff",
+   "doi": "10.1111/pce.71026",
+   "pmid": "43007064",
+   "title": "The Gibberellin-Responsive Module RsRGL3a-RsGID1b-1-RsATL56 Orchestrates Parthenocarpic Fruit Formation in Seedless Chestnut Rose (Rosa sterilis).",
+   "journal": "Plant, Cell and Environment",
+   "date": "2026-11-10",
+   "authors": "Kui Zhou, Yu-Xing Leng, Luo-Nan Shen, Yi Min, Su-Lin Wen, Yu-Qing Wang",
+   "abstract": "",
+   "url": "https://doi.org/10.1111/pce.71026"
+  },
+  {
+   "key": "doi:10.1038/s41598-026-79871-7",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "2277f430e143fc76b6429f239a4ebc437b1fc6ef",
+   "doi": "10.1038/s41598-026-79871-7",
+   "pmid": "",
+   "title": "Antibacterial properties of commercially available plant extracts containing tannins against Escherichia coli",
+   "journal": "Scientific Reports",
+   "date": "2026-11-09",
+   "authors": "Ewa Olchowik-Grabarek, Szymon Sekowski",
+   "abstract": "Escherichia coli is a gram-negative bacterium that exists as commensal microorganism and can diversify into pathogenic strains that cause illnesses in humans and animals. Whilst antibiotics are the most commonly used compounds against E.coli , many other compounds, such as polyphenols, demonstrate strong antibacterial activity. In this work, the antibacterial potential of five commercially available plant compounds: chestnut extract, mimosa extract, quebracho extract, ellagic acid and gallic acid against E.coli was investigated. In the studies, standard microbiological tests, including MIC (minimal inhibitory concentration) and MBC (minimum bactericidal concentration), were performed. Also, to better study and explain the antibacterial potential of analyzed compounds against E.coli , additional investigations involving cell membrane fluidity analyses, Zeta potential measurements, and activity against hemolysis induced by E.coli toxins has been conducted. Our results demonstrated that all five compounds have antibacterial activity, but the strongest activity is observed for ellagic acid and chestnut. Investigated compounds possess the potential to modulate E.coli membrane fluidity and to inhibit the sheep erythrocytes hemolysis evoked by E.coli toxin.",
+   "url": "https://doi.org/10.1038/s41598-026-79871-7"
+  },
   {
    "key": "doi:10.1007/s10266-026-01612-z",
    "groups": [
@@ -633,7 +667,7 @@
    "title": "Screening and Heterogeneity of Indigenous yeasts: Effects on Physicochemical and Aroma Characteristics of Jujube Wine",
    "journal": "Food Bioscience",
    "date": "2026-11-01",
-   "authors": "Xin-Yu Sun, Xin Sun, Ai-Ying Gao, Yu-Xiao Wang, Ren-Tang Zhang",
+   "authors": "Xin Sun, Xin Sun, Ai-Ying Gao, Yu-Xiao Wang, Ren-Tang Zhang",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.fbio.2026.110469"
   },
@@ -755,6 +789,23 @@
    "authors": "Dong-Ye Lu, Yu-Ping Zhang, Yang Wu, Qing-Hua Pan",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.cpb.2026.100693"
+  },
+  {
+   "key": "doi:10.1002/cplu.70286",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "098700a78b67cec5a73bd805e695f74cdcf563af",
+   "doi": "10.1002/cplu.70286",
+   "pmid": "43000636",
+   "title": "First Vesicular Self-Assembly of Betulinic Acid and Its Applications.",
+   "journal": "ChemPlusChem",
+   "date": "2026-11-01",
+   "authors": "Sukhendu Kar, Soumen Patra, C. Yelamaggad, B. G. Bag",
+   "abstract": "Betulinic acid (BA), a pentacyclic triterpenoid isolated from Ziziphus jujube, is demonstrated to undergo spontaneous vesicular self-assembly in aqueous-organic binary mixtures. This represents the first report of BA-based vesicles, with critical vesicular concentrations (CVC) of 30, 60, and 70 μM, respectively, determined in DMSO-water mixtures (1:1, 2:1, and 4:1 v/v), respectively. The morphology of the nano- to micro-scale architectures was characterized using optical microscopy, AFM, SEM, HRTEM, FTIR, and XRD. These vesicles effectively encapsulate diverse fluorophores and the chemotherapeutic agent doxorubicin. Controlled release studies highlight their potential for targeted drug delivery and the sequestering of toxic pollutants from waste water. Compared to free curcumin and BA alone, the curcumin-loaded BA vesicular self-assemblies showed significantly greater antimicrobial performance against both Gram-positive (S. aureus) and Gram-negative (E. coli) strains during disk diffusion assays. These findings establish betulinic acid vesicles as versatile, biobased platforms for potential therapeutic and environmental applications.",
+   "url": "https://doi.org/10.1002/cplu.70286"
   },
   {
    "key": "doi:10.1016/j.afres.2026.102828",
@@ -1554,23 +1605,6 @@
    "authors": "Y. Lai, Siyi Liu, Xin-Chun Liu, Jin'e Yuan, Xia Xu, Xing-Jin Ma",
    "abstract": "Quinoa (Chenopodium quinoa Willd.) stands out as a versatile cereal crop, celebrated for its exceptional nutritional content and medicinal properties, as well as a wide range of morphological and genomic variations. Despite numerous studies on the genetic diversity of quinoa germplasm, a comprehensive assessment remains insufficient. In contrast, research focusing on the DUS traits and molecular variation in the germplasm used in China is relatively limited. We thoroughly examined 170 quinoa accessions, focusing on 30 morphological characterizations based on DUS descriptors (referred to as DUS testing traits) and 23 simple sequence repeat (SSR) markers. The results indicated that all 30 DUS testing traits were polymorphic. In total, we detected 136 allelic variations across the 170 varieties, averaging 4.53 per trait. The average Shannon index (I) was 0.97, with values ranging from 0.09 to 1.67. Diversity was highest at T30 (Time of maturity) and lowest at T6 (Stem: color). Using the UPGMA (unweighted pair-group method with arithmetic means) method, the cultivars were classified into three distinct groups, a categorization further supported by principal component analysis. To streamline field identification and screening, 18 key traits were identified based on principal component scores. Furthermore, the genetic diversity of all materials was analyzed using 23 SSR markers. The analysis revealed an average of 11.185 observed alleles, 3.874 effective alleles, a Nei’s gene diversity index of 0.680, and a Shannon’s information index(I) of 1.547, highlighting the substantial genetic diversity within the population. Subsequent genetic structure and DAPC (Discriminant analysis of principal components) analysis divided the population into four subgroups, reflecting the cluster …",
    "url": "https://doi.org/10.3390/agronomy16202062"
-  },
-  {
-   "key": "doi:10.3390/app162010363",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "7f7de99dabd172a74d0abb62e2769236464983ec",
-   "doi": "10.3390/app162010363",
-   "pmid": "",
-   "title": "Application of Machine Learning to Assess the Effects of Ozone Treatment on Selected Mechanical Properties of Fresh Persimmon Fruit During Storage",
-   "journal": "Applied Sciences",
-   "date": "2026-10-20",
-   "authors": "J. Gorzelany, K. Pentoś, Piotr Kuźniar, M. Zardzewiały",
-   "abstract": "The aim of this study was to assess the effects of gaseous ozone treatment and storage time on selected physicochemical and mechanical properties of ‘Rojo Brillante’ persimmon fruit (Diospyros kaki L.), as well as to develop machine learning models for predicting their mechanical properties. The fruits were exposed to ozone at a concentration of 10 ppm for 15 or 30 min, while the control samples remained untreated. The ozonation treatment was applied once as a pre-treatment on day 0, prior to the start of storage; no further ozone exposure was applied during the subsequent 20-day storage period. The fruits were then stored for 20 days at 3 °C and 80% relative humidity. The analysed parameters included CIE Lab* colour coordinates, chemical and morphological properties, water content, puncture force, deformation, failure energy, and the Fmax/dL ratio. Gradient Boosting, Support Vector Regression, and XGBoost algorithms were used to predict the mechanical properties, and their performance was evaluated using 10-fold cross-validation. Storage time significantly affected all analysed mechanical properties, resulting in decreases in water content, puncture force, failure energy, and the Fmax/dL ratio, accompanied by an increase in fruit deformation. The 30 min treatment was associated with slightly higher values of selected mechanical parameters; however, the differences among the ozonation variants were limited and did not apply to all of the analysed characteristics. The highest predictive accuracy was obtained for failure force, failure energy, and the Fmax/dL ratio, with correlation coefficients of 0.807, 0.805, and 0.823, respectively. Deformation modelling showed markedly lower predictive performance (R = 0.283–0.629) and should not be considered sufficiently accurate f…",
-   "url": "https://doi.org/10.3390/app162010363"
   }
  ]
 }
