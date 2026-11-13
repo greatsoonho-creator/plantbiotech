@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-12T20:31:51.386Z",
+ "generated_at": "2026-11-13T20:31:07.810Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 99,
- "errors": [
-  "semanticscholar:persimmon: HTTP 429"
- ],
+ "count": 100,
+ "errors": [],
  "items": [
+  {
+   "key": "doi:10.21203/rs.3.rs-11340609/v1",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "preprint",
+   "id": "PPR1365623",
+   "doi": "10.21203/rs.3.rs-11340609/v1",
+   "pmid": "",
+   "title": "Physiological and biochemical responses of chestnut cultivars to drought and rewatering",
+   "journal": "Research Square",
+   "date": "2026-11-12",
+   "authors": "Marques T, Ferreira-Pinto A, Pinto T, Gomes-Laranjo J.",
+   "abstract": "Abstract Drought is an increasingly important constraint for chestnut cultivation in Mediterranean regions, where recurrent summer water deficits can restrict plant performance and compromise recovery after stress release. In Castanea sativa Mill., drought resilience depends on the coordinated adjustment of physiological and biochemical traits rather than on the behaviour of a single marker. This study evaluated three Portuguese chestnut cultivars, Judia, Longal, and Martaínha, grafted onto CA-90 rootstock, together with non-grafted CA-90 plants, under controlled drought and rewatering conditions. Plants were assessed at the initial irrigated phase (IP), after 7 days of irrigation withdrawal (NIP), and after 30 days of rewatering (RIP). Net photosynthesis, transpiration, leaf temperature, soluble sugars, starch, soluble proteins, electrolyte leakage, catalase (CAT), ascorbate peroxidase (APX), total phenolic compounds, total flavonoids, and ferric reducing antioxidant power (FRAP) were analysed. Drought reduced gas exchange in all plant materials and increased leaf temperature, indicating marked functional impairment under water deficit. Longal and Martaínha maintained comparatively higher physiological performance during drought and showed the strongest recovery after rewatering, whereas CA-90 displayed the lowest gas-exchange rates, greater starch depletion, and higher membrane damage. Soluble sugars, soluble proteins, CAT, and APX increased during drought, while starch declined in all cultivars. In contrast, phenolics, flavonoids, and FRAP decreased under water deficit and recovered partially or substantially after rewatering. Overall, the results show that drought resilience in chestnut is a dynamic trait shaped by the integration of gas exchange regulation, carbon …",
+   "url": "https://doi.org/10.21203/rs.3.rs-11340609/v1"
+  },
+  {
+   "key": "doi:10.1094/pdis-09-26-1757-re",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43018667",
+   "doi": "10.1094/pdis-09-26-1757-re",
+   "pmid": "43018667",
+   "title": "A novel partitivirus induces hypovirulence and increases pyraclostrobin sensitivity in the phytopathogenic fungus Lasiodiplodia ziziphi .",
+   "journal": "",
+   "date": "2026-11-12",
+   "authors": "Wang Y, Gao X, Xie S, Guo Y, Wu H, Zhou F, Yu H, Zhang M.",
+   "abstract": "Lasiodiplodia ziziphi causes canker disease in jujube and other woody plants. Its control relies mainly on fungicides. Mycoviruses that cause hypovirulence are an emerging option for the biological control of fungal diseases. In this study, we identified a novel double-stranded RNA (dsRNA) mycovirus, Lasiodiplodia ziziphi partitivirus 1 (LzPV1), from L. ziziphi strain CDZM004. The LzPV1 genome consists of two dsRNA segments. dsRNA1 (1,905 bp) encodes an RNA-dependent RNA polymerase (RdRp), and dsRNA2 (1,773 bp) encodes a capsid protein (CP). The genome is packaged into isometric virions about 32 nm in diameter. Phylogenetic analysis of the RdRp and CP placed LzPV1 in the genus Alphapartitivirus of the family Partitiviridae. LzPV1 was transmitted horizontally through hyphal anastomosis and vertically through conidia. LzPV1 infection reduced the virulence of L. ziziphi, changed its hyphal morphology, and increased fungal sensitivity to the fungicide pyraclostrobin. This is the first mycovirus reported in L. ziziphi and the first partitivirus described in the genus Lasiodiplodia. LzPV1 is a promising biocontrol resource for jujube canker disease.",
+   "url": "https://doi.org/10.1094/pdis-09-26-1757-re"
+  },
+  {
+   "key": "doi:10.1038/s42003-026-11289-3",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43020862",
+   "doi": "10.1038/s42003-026-11289-3",
+   "pmid": "43020862",
+   "title": "Multi-omics analyses reveal dynamic interactions between DNA methylation and transcriptional regulation during black raspberry ripening.",
+   "journal": "",
+   "date": "2026-11-12",
+   "authors": "Hsieh WH, Hung YH, Zhang JH, Cui Q, Chen HY, Lin LP, He MH, Wang YC, Ho YY, Ballington J, Fernandez G, Perkins-Veazie P, H Le B, Li X, Hsieh TF, Lin JY.",
+   "abstract": "Fruit ripening is a complex developmental process involving coordinated changes in gene expression, metabolism, and epigenetic regulation. How DNA methylation dynamics influence gene transcription and metabolite accumulation during black raspberry (Rubus occidentalis) fruit ripening remains poorly understood. Here, we performed developmental-series transcriptome, methylome, and metabolome analysis; the results from this analysis reveal extensive epigenetic reprogramming during black raspberry fruit ripening. Fruit tissues exhibit globally higher DNA methylation than leaves, particularly in CHG and CHH contexts. Local methylation in all cytosine contexts progressively decreases in promoter regions during ripening, whereas CHG and CHH methylation increase in transposon-rich regions. Two primary methylation transitions-promoter hypomethylation and CHH hypermethylation-govern transcriptional shifts in genes involved in ripening processes. Methyl-binding transcription factors with activation potential likely promote CHH hypermethylation-linked transcriptional activation. Multi-omics integration reveals that coordinated anthocyanin accumulation parallels expression of biosynthetic and regulatory genes within coherent networks. Elevated non-CG methylation in heterochromatin coincides with increased transcription of histone variants mediating chromatin compaction, suggesting chromatin remodelers fine-tune accessibility for methyltransferases. Our study highlights both genome-wide and locus-specific epigenetic reprogramming and demonstrates a coordinated interplay between DNA methylation and transcriptional regulation during black raspberry fruit ripening.",
+   "url": "https://doi.org/10.1038/s42003-026-11289-3"
+  },
   {
    "key": "doi:10.1094/pdis-06-26-1235-re",
    "groups": [
@@ -91,7 +140,7 @@
    "title": "Comparative Genomic Insights into Pathogenicity of Diaporthe amygdali and D. eres Associated with Pear Canker in Korea",
    "journal": "Horticulturae",
    "date": "2026-11-10",
-   "authors": "H. Noh, Ki Seong Lee, Seong Hwan Kim",
+   "authors": "H. Noh, K. Lee, Seong Hwan Kim",
    "abstract": "Diaporthe species are important fungal pathogens associated with canker and dieback diseases of woody plants, but genomic factors underlying differences in pathogenicity among pear-associated species remain poorly understood. In this study, D. amygdali DUCC20226 and D. eres DUCC15256 were isolated from canker-affected Asian pear (Pyrus pyrifolia) in Korea, representing the first reports of both species causing pear canker in the country. Pathogenicity assays showed that both isolates caused disease symptoms on pear seedlings. High-quality genome assemblies were generated for D. amygdali (49.82 Mb) and D. eres (61.16 Mb), with BUSCO completeness of 98.9% and 98.7%, respectively. Comparative genomic analysis revealed substantial genomic conservation, although strain-specific genes included predicted secreted proteins and candidate effectors. In D. amygdali, two strain-specific candidate effectors potentially associated with necrosis induction were identified. In contrast, D. eres was predicted to possess more carbohydrate-active enzymes (CAZymes, 961 vs. 863) and biosynthetic gene clusters (BGCs, 116 vs. 87) than D. amygdali. Mitochondrial genomes differed markedly in size, measuring 49,922 bp in D. amygdali and 93,346 bp in D. eres, despite conserved core gene composition. Phylogenetic analysis based on 15 mitochondrial protein-coding genes placed both strains within Diaporthaceae. These results provide genomic resources for pear-associated Diaporthe species and insights into potential genetic factors underlying pathogenic specialization.",
    "url": "https://doi.org/10.3390/horticulturae12111394"
   },
@@ -191,7 +240,7 @@
    "doi": "10.1007/s10266-026-01612-z",
    "pmid": "43000481",
    "title": "Eco-friendly synthesis of ZnO-PVA nanoparticles using Diospyros kaki fruit extract and its antibacterial and antibiofilm activity against Streptococcus mutans.",
-   "journal": "",
+   "journal": "Odontology : official journal of The Society of the Nippon Dental University",
    "date": "2026-11-08",
    "authors": "Venkatesan KB, Pathallapalli A, Packirisamy V, Srinivasan MK.",
    "abstract": "Dental caries is a major global oral health concern primarily associated with Streptococcus mutans biofilm formation, which exhibits considerable resistance to conventional antimicrobial therapies. This study aimed to synthesize and evaluate green-fabricated zinc oxide-polyvinyl alcohol nanoparticles (ZnO-PVA NPs) mediated by Diospyros kaki fruit extract for antibacterial and antibiofilm activity against S. mutans. ZnO-PVA NPs were synthesized using an aqueous fruit extract of D. kaki. Phytochemicals, including polyphenols and flavonoids, have been reported in D. kaki extracts and may contribute to the reduction and stabilization processes during nanoparticle synthesis. The synthesized NPs were characterized using UV-visible spectroscopy, Fourier-transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy (SEM), energy-dispersive X-ray (EDX) spectroscopy, dynamic light scattering (DLS), and zeta potential analysis. Antibacterial efficacy was evaluated by determining the minimum inhibitory concentration (MIC), while antibiofilm potential was assessed using confocal laser scanning microscopy (CLSM). Characterization analyses confirmed the successful synthesis of crystalline ZnO NPs dispersed within an amorphous PVA matrix. The NPs exhibited an average hydrodynamic size of 169.41 nm and a zeta potential of - 31.03 mV, indicating high colloidal stability. Antibacterial evaluation demonstrated dose-dependent inhibition of S. mutans, with an MIC value of 31.25 µg/mL. CLSM analysis further revealed substantial disruption of mature biofilms, confirming both antibacterial and antibiofilm properties. D. kaki-mediated ZnO-PVA NPs exhibited antibacterial and antibiofilm activity against S. mutans in vitro. Further mechanistic investigations and cyt…",
@@ -213,6 +262,23 @@
    "authors": "Jiang Y, Xiao Y, Han H, Bai Y, Ma L, Li J, Ji X, Lei P, Meng F.",
    "abstract": "The kiwifruit (Actinidia arguta) is rich in diverse bioactive compounds, particularly flavonoids, which exhibit potent antioxidant, anti-inflammatory, and anti-tumor properties. Flavonoid 3'5'-hydroxylase (F3'5'H) is a key enzyme in the synthesis pathway of flavonoids. However, the functional role of the AaF3'5'H gene in A. arguta remains poorly understood. In this study, the AaF3'5'H gene was cloned. Its coding sequence (CDS) is 1344 bp in length, encoding a 447-amino-acid protein localized to the cytoplasm. Overexpression of AaF3'5'H significantly increased the flavonoid content in transgenic Arabidopsis and promoted growth and development. VIGS-mediated silencing of AaF3'5'H in A. arguta significantly reduced flavonoid accumulation and suppressed plant growth. In contrast, overexpression of AaF3'5'H in transgenic hairy roots enhanced root morphogenesis and significantly elevated total flavonoid content. Targeted metabolomics analysis further revealed 50 differentially expressed metabolites, among which 24 are upregulated and 26 are downregulated. KEGG pathway enrichment and metabolic mapping revealed that these differentially expressed metabolites were predominantly involved in flavonoid biosynthesis, flavone and flavonol biosynthesis, and phenylpropanoid biosynthesis. In conclusion, this study confirms that the AaF3'5'H gene plays a crucial role in positively regulating the biosynthesis of flavonoids and promoting the formation of root morphology. This provides a theoretical basis for the variety improvement of A. arguta and the utilization of flavonoid resources.",
    "url": "https://doi.org/10.1016/j.plaphy.2026.111947"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.152005",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43019717",
+   "doi": "10.1016/j.foodchem.2026.152005",
+   "pmid": "43019717",
+   "title": "Fermentation characteristics and gut microbiota modulation of pectic polysaccharides from jujube: The critical role of degree of esterification and branching.",
+   "journal": "",
+   "date": "2026-11-07",
+   "authors": "Liu W, Zhang Z, Yuan Q, Xia Y, Huang J, Zhong J, Wang S, Chen X, Wu D.",
+   "abstract": "Microbiota preference for pectic polysaccharides depends on degree of esterification (DE) and degree of branching (DB), which in turn shapes microbial composition and metabolite production. Here, four jujube polysaccharides were prepared and characterized, including the original polysaccharide (JP), the modified polysaccharide with a low DE (JP-LDE), and the modified polysaccharide with a medium or low DB (JP-MDB or JP-LDB). During in vitro fecal fermentation, JP-LDE, JP-MDB, and JP-LDB were utilized more rapidly and completely than JP, withtotal fermentability increased from 56.34% (JP) to 76.58% (JP-LDB). Gut microbiota composition differed significantly among groups depending on DE and DB. Compared with JP, JP-LDE modulated the increased relative abundance of Bifidobacterium pseudocatenulatum, Megasphaera elsdenii, and Anthropogastromicrobium aceti, while JP-MDB and JP-LDBpredominantly increased the relative abundance of Megasphaera elsdenii and Anthropogastromicrobium aceti. These microbial shifts markedly increased short-chain fatty acid (SCFA) production, particularly butyric acid. Our findings provide new insights into pectic polysaccharide structure-activity relationships during human fecal fermentation.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.152005"
   },
   {
    "key": "doi:10.1007/s44274-026-01176-3",
@@ -351,23 +417,6 @@
    "url": "https://doi.org/10.48044/jauf.2026.033"
   },
   {
-   "key": "doi:10.21203/rs.3.rs-11318303/v1",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "preprint",
-   "id": "PPR1359379",
-   "doi": "10.21203/rs.3.rs-11318303/v1",
-   "pmid": "",
-   "title": "New insights into the adaptive chloroplast capture in European white oaks",
-   "journal": "Research Square",
-   "date": "2026-11-05",
-   "authors": "Sergiadou D, Wood D, Dunning LT, Kjaer ED, Olofsson JK.",
-   "abstract": "Abstract Chloroplast genomes are frequently used to reconstruct the evolutionary history of plants, including detection of introgression and chloroplast capture events. Here, we focus on two oak species, Quercus robur and Q. petraea , which lack differentiation in several chloroplast markers. This was assumed to result from chloroplast captures during their dispersal from refugia after the last glacial maximum (LGM). We aim to reassess chloroplast variation within and between these species by de novo assembling 114 oak plastomes. Additionally, we combine our data with available plastome data from 91 Fagaceae species to reconstruct a dated phylogeny and estimate the divergence time between oak chloroplast lineages. Positive selection analysis on 69 chloroplast genes was also conducted to test whether chloroplast capture is adaptive. Plastome phylogenetic analyses reveal three oak haplotypes with no species delimitation. Molecular dating analysis indicates older splits among the three main haplotypes (2.68 − 0.5 Mya) and younger splits within lineages (0.39 − 0.04 Mya), suggesting that chloroplast capture could have occurred prior to the LGM in some lineages. Positive selection is observed in two chloroplast genes, with the selection on the rbcL gene possibly linked to the adaptive evolution of the RuBisCO enzyme. Hence, signs of a selective sweep could further explain the observed limited genetic diversity in oak plastomes. This study provides valuable insights into oak plastome evolution, setting a significant base for upcoming studies, including nuclear genome and protein-level studies to better understand cytonuclear interactions and conceivable environmental adaptations.",
-   "url": "https://doi.org/10.21203/rs.3.rs-11318303/v1"
-  },
-  {
    "key": "doi:10.3106/ms2026-0024",
    "groups": [
     "persimmon"
@@ -383,6 +432,23 @@
    "authors": "D. Fujiki",
    "abstract": "This study examined whether variation in tannin concentrations and tannin insolubilization timing among persimmon fruit types influences foraging frequency and seasonal timing in Asiatic black bears (Ursus thibetanus). Bear-constructed feeding platforms in persimmon trees served as fruit consumption indicators. The probability of platform formation was highest in pollination-constant nonastringent (PCNA) persimmons, intermediate in pollination-variant nonastringent (PVNA) fruit, and lower in pollination-variant astringent (PVA) and pollination-constant astringent (PCA) types. Platform formation timing followed a similar sequence, occurring earliest in PCNA, then PVNA, and subsequently PVA and PCA persimmons. Soluble phenolic content, a proxy for tannin concentration, was measured in fruit collected immediately after platform formation. Bear feeding platform formation was observed mainly at relatively low soluble phenolic levels, generally below approximately 0.5% fresh weight (FW) tannic acid equivalents (TAE). Generalized additive models describing seasonal changes in soluble phenolic concentrations indicated that concentrations were highest in PCA, followed by PVA, PVNA, and PCNA persimmons. The decline to low concentrations occurred earliest in PCNA and progressively later through PVNA, PVA, and PCA types. Overall, these findings suggest that soluble phenolic concentration and its seasonal dynamics may be associated with the temporal patterns of bear foraging on persimmon fruit.",
    "url": "https://doi.org/10.3106/ms2026-0024"
+  },
+  {
+   "key": "doi:10.21203/rs.3.rs-11318303/v1",
+   "groups": [
+    "oak"
+   ],
+   "cat": "genome",
+   "source": "preprint",
+   "id": "PPR1359379",
+   "doi": "10.21203/rs.3.rs-11318303/v1",
+   "pmid": "",
+   "title": "New insights into the adaptive chloroplast capture in European white oaks",
+   "journal": "Research Square",
+   "date": "2026-11-05",
+   "authors": "Sergiadou D, Wood D, Dunning LT, Kjaer ED, Olofsson JK.",
+   "abstract": "Abstract Chloroplast genomes are frequently used to reconstruct the evolutionary history of plants, including detection of introgression and chloroplast capture events. Here, we focus on two oak species, Quercus robur and Q. petraea , which lack differentiation in several chloroplast markers. This was assumed to result from chloroplast captures during their dispersal from refugia after the last glacial maximum (LGM). We aim to reassess chloroplast variation within and between these species by de novo assembling 114 oak plastomes. Additionally, we combine our data with available plastome data from 91 Fagaceae species to reconstruct a dated phylogeny and estimate the divergence time between oak chloroplast lineages. Positive selection analysis on 69 chloroplast genes was also conducted to test whether chloroplast capture is adaptive. Plastome phylogenetic analyses reveal three oak haplotypes with no species delimitation. Molecular dating analysis indicates older splits among the three main haplotypes (2.68 − 0.5 Mya) and younger splits within lineages (0.39 − 0.04 Mya), suggesting that chloroplast capture could have occurred prior to the LGM in some lineages. Positive selection is observed in two chloroplast genes, with the selection on the rbcL gene possibly linked to the adaptive evolution of the RuBisCO enzyme. Hence, signs of a selective sweep could further explain the observed limited genetic diversity in oak plastomes. This study provides valuable insights into oak plastome evolution, setting a significant base for upcoming studies, including nuclear genome and protein-level studies to better understand cytonuclear interactions and conceivable environmental adaptations.",
+   "url": "https://doi.org/10.21203/rs.3.rs-11318303/v1"
   },
   {
    "key": "doi:10.1016/j.foodchem.2026.151957",
@@ -480,28 +546,11 @@
    "doi": "10.1080/15226514.2026.2755977",
    "pmid": "42980638",
    "title": "Photocatalytic treatment of AO7 and real textile wastewater using green-synthesized ZnO nanoparticles: RSM and Taguchi approach.",
-   "journal": "",
+   "journal": "International journal of phytoremediation",
    "date": "2026-11-04",
    "authors": "Turkoglu S, Kepekci RA, Keskinkan O.",
    "abstract": "In this study, ZnO nanoparticles were synthesized via a green synthesis method using Diospyros kaki L. peel extract, and their photocatalytic performances for the removal of Acid Orange 7 (AO7) dye and real textile wastewater were investigated. The effects of pH, initial dye concentration, and catalyst dosage on AO7 removal were optimized using a Box-Behnken experimental design and Response Surface Methodology (RSM). Under the optimum conditions (pH 10, initial dye concentration of 10 ppm, and catalyst dosage of 0.13 g), 100% dye removal was achieved within 270 min. The photocatalytic treatment of real textile wastewater was optimized using a Taguchi experimental design, and a color removal efficiency of 98.1% was achieved under the optimum conditions (pH 7, constant wastewater volume of 50 mL, and catalyst dosage of 0.13 g). Additionally, radical scavenging experiments performed to elucidate the photocatalytic mechanism indicated that hydroxyl radicals (•OH) play a significant role in the photocatalytic degradation of AO7. The synthesized ZnO nanoparticles exhibited high photocatalytic stability, good reusability and acted as efficient photocatalysts even under low-energy UV light conditions. Overall, the green-synthesized ZnO nanoparticles demonstrated promising potential as an effective photocatalyst for the removal of dyes and color from real textile wastewater.",
    "url": "https://doi.org/10.1080/15226514.2026.2755977"
-  },
-  {
-   "key": "doi:10.3390/chemproc2026022129",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "d356557aa677e3f99efef7e33d08cc03cc42ff9c",
-   "doi": "10.3390/chemproc2026022129",
-   "pmid": "",
-   "title": "Studies of the Antioxidant Mechanisms Produced by Black Raspberries Extracts (Rubus niveus Thunb) and Magnesium Salt Mixtures in Red Blood Cells",
-   "journal": "ECSOC 2026",
-   "date": "2026-11-04",
-   "authors": "Franklin Vargas, Miguel León, J. Velásquez, M. Contreras, Sergio D. Rosales-Anzola, Miguel Fernández",
-   "abstract": "",
-   "url": "https://doi.org/10.3390/chemproc2026022129"
   },
   {
    "key": "doi:10.3390/textiles6040138",
@@ -519,6 +568,23 @@
    "authors": "Bahar Hashemian Esfahani, S. Dutta, R. Eike, Boyce S. Chang, Zahra Falsafi, Manu Smriti",
    "abstract": "Transforming textile waste into durable, value-added materials remains a central challenge for sustainable apparel systems. This study developed single-layer, nonwoven sheets from discarded 100% cotton textiles using a papermaking-derived wet-laid process and evaluated their potential as leather-alternative materials through a sequential two-phase approach. In Phase 1, reclaimed-cotton nonwoven sheets bio-finished with persimmon juice or konjac were benchmarked against commercial plant-based olive, cork, pineapple, and cactus leather alternatives using ASTM grab tensile and rotary-platform abrasion testing. The bio-finished sheets showed low breaking forces, limited elongation, and abrasion failure. In Phase 2, biodegradable polycaprolactone (PCL) was applied as a reinforcing finish. The resulting PCL-treated reclaimed-cotton sheets’ (RC-PCL) breaking force performance improved by over 6.5 times the nontreated nonwoven specimens and approximately 4.5 times the bio-finished nonwoven specimens. Additionally, the RC-PCL completed the 2000-cycle abrasion endpoint without through-thickness failure. Elongation remained low while the dogbone tensile test showed increases in tensile strength, strain at break, and apparent Young’s modulus after PCL-finishing. These findings indicate that biodegradable PCL-finish substantially improves the strength, cohesion, and abrasion resistance of reclaimed-cotton nonwovens, while flexibility, coating optimization, and end-of-life performance remain priorities for future leather-alternative applications to support sustainability efforts and value-added use of reclaimed materials within the textile industry.",
    "url": "https://doi.org/10.3390/textiles6040138"
+  },
+  {
+   "key": "doi:10.3390/chemproc2026022129",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "d356557aa677e3f99efef7e33d08cc03cc42ff9c",
+   "doi": "10.3390/chemproc2026022129",
+   "pmid": "",
+   "title": "Studies of the Antioxidant Mechanisms Produced by Black Raspberries Extracts (Rubus niveus Thunb) and Magnesium Salt Mixtures in Red Blood Cells",
+   "journal": "ECSOC 2026",
+   "date": "2026-11-04",
+   "authors": "Franklin Vargas, Miguel León, J. Velásquez, M. Contreras, Sergio D. Rosales-Anzola, Miguel Fernández",
+   "abstract": "",
+   "url": "https://doi.org/10.3390/chemproc2026022129"
   },
   {
    "key": "doi:10.1007/s10658-026-03331-1",
@@ -876,23 +942,6 @@
    "authors": "Wen-Di Xu, Jia-Qi Wang, Yin-Tao Xu, Zhi-Kai Zhang, Zhong-Wu Wan, Ling-Ping Sun",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.scienta.2026.115277"
-  },
-  {
-   "key": "doi:10.1016/j.foodchem.2026.152005",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "7676a5bd29980ae0fbe032f171a302aff91e7b63",
-   "doi": "10.1016/j.foodchem.2026.152005",
-   "pmid": "",
-   "title": "Fermentation characteristics and gut microbiota modulation of pectic polysaccharides from jujube: The critical role of degree of esterification and branching",
-   "journal": "Food Chemistry",
-   "date": "2026-11-01",
-   "authors": "Wen Liu, Ze-Xiu Zhang, Qin Yuan, Yu-Fa Xia, Jing Huang, Jin-Yi Zhong",
-   "abstract": "",
-   "url": "https://doi.org/10.1016/j.foodchem.2026.152005"
   },
   {
    "key": "doi:10.3390/plants15213370",
@@ -1658,40 +1707,6 @@
    "authors": "Jia-Fei Liang, Hai-Lian Liang, Ruo-Xi Li, Lu-Qing Zhou, Wen-Jie Zhou, Fei Chen",
    "abstract": "Aims: Land-use types and soil salinization in arid desert–oasis ecotones are associated with differences in soil CO2 efflux, yet the combined effects of multiple environmental factors remain poorly understood. This study aims to characterise the seasonal patterns, temperature sensitivity, and major correlates of soil respiration across four typical land-use types, thereby supporting regional carbon budget assessments. Methods: We conducted in situ soil respiration monitoring during the 2024 growing season (April–October) in four representative habitats (Populus euphratica forest, jujube orchard, grassland, and wetland) in the Aksu desert–oasis ecotone, Xinjiang. Concurrent measurements of topsoil (0–20 cm) physicochemical properties and extracellular enzyme activities were taken. Pearson correlation, variation partitioning, and the Van’t Hoff temperature-response model were employed. Results: Soil respiration exhibited a unimodal seasonal pattern peaking in July, with growing-season mean fluxes ranked as grassland > wetland > jujube orchard > Populus euphratica forest. Temperature sensitivity (Q10) followed wetland (3.23) > grassland (2.44) > orchard (2.08) > forest (1.57), a pattern consistent with differences in soil moisture and salinity among the sites. Respiration correlated positively with pH, electrical conductivity, total salt, organic matter, urease, and sucrase, and negatively with available N, P, K, and peroxidase (p < 0.05). Physicochemical properties and enzyme activities jointly explained 70.7% of variation, with total soil salt (12.5%), sucrase (12.2%), and available N (11.1%) as the top contributors. Root and heterotrophic respiration accounted for 37.2% and 62.8% of total soil respiration, respectively, with heterotrophic respiration dominating in all s…",
    "url": "https://doi.org/10.3390/ecologies7040114"
-  },
-  {
-   "key": "doi:10.1556/066.2026.00245",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "e42ca8f43b1dc9a75f94833da07473f05af76991",
-   "doi": "10.1556/066.2026.00245",
-   "pmid": "",
-   "title": "Sequential optimisation of medium-temperature rehydration and enzymolysis for enhanced juice yield and sugar recovery in jujube juice processing",
-   "journal": "Acta alimentaria",
-   "date": "2026-10-22",
-   "authors": "J. Tian, X. Li, Y. Ma, Q. Chen, L. Song, J. Yang",
-   "abstract": "Jujube distilled spirit, a traditional Chinese alcoholic beverage valued for its characteristic aroma and mellow palate, is constrained by low juicing efficiency and high energy consumption during raw-material pre-treatment. This study optimised the rehydration and enzymolysis stages of jujube juice extraction. A jujube-to-water ratio of 1:3 (w/v) and a rehydration temperature of 80 °C were selected on the basis of juice yield, sugar extraction, process compatibility, and energy consumption. Among five commercial pectinase preparations, RVF combined the highest juice yield (84.67 ± 0.11%) with the lowest methanol formation (286.56 ± 0.17 mg L −1 ) and was selected for further optimisation. The enzymolysis conditions were then optimised by response surface methodology, giving an enzyme dosage of 0.35‰ (v/v), a temperature of 58 °C, and a duration of 170 min, with a validated laboratory-scale juice yield of 81.20%. At factory scale, the new process increased juice yield by 17.89% and sugar extraction rate by 20.81% relative to the conventional process and reduced the calculated unit thermal energy consumption by 48.8%. This energy-efficient protocol provides high-quality jujube juice as a fermentation substrate and supports the sustainable industrial production of jujube wine.",
-   "url": "https://doi.org/10.1556/066.2026.00245"
-  },
-  {
-   "key": "doi:10.3390/foods15213769",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "4bdcdcc15a97c368c591e613009e8dc26a66d7ee",
-   "doi": "10.3390/foods15213769",
-   "pmid": "",
-   "title": "Effects of Wheat Matrix and Jujube Incorporation Form on the Quality and Antioxidant Properties of Whole-Wheat Steamed Bread",
-   "journal": "Foods",
-   "date": "2026-10-22",
-   "authors": "Rui-Jing He, Jing-Yi Zhang, Meng-Qin Li, Shun-Shun Lin, Dao-Wen Wang, Kun-Pu Zhang",
-   "abstract": "The incorporation form of fruit-derived ingredients may influence the quality and antioxidant responses of whole-wheat steamed bread. Jujube was incorporated into white- and colored-wheat whole-wheat flours either as dry powder or as prehydrated pulp at 5%, 10%, and 15% on a dry-matter basis, while the total water addition was kept constant across all formulations. Product geometry, surface color, texture, cross-sectional appearance, anthocyanin content, and ABTS radical scavenging activity were evaluated. Specific volume showed relatively limited variation across the tested formulations, including a range of 1.59–1.67 mL/g in the white-wheat powder series. Colored-wheat flour contained 4.24 mg/100 g anthocyanins compared with 0.99 mg/100 g in white-wheat flour, and anthocyanin content in steamed bread was governed mainly by wheat matrix. ABTS activity was affected by wheat matrix, jujube form, addition level, and their two-way interactions, reaching 66.15% in colored-wheat steamed bread containing 15% jujube pulp. Among the formulations tested, 10% jujube pulp in the colored-wheat system provided a more balanced response in product shape and antioxidant activity, whereas increasing the level to 15% further enhanced ABTS activity but reduced several instrumental texture attributes.",
-   "url": "https://doi.org/10.3390/foods15213769"
   }
  ]
 }
