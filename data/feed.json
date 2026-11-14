@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:31:07.810Z",
+ "generated_at": "2026-11-14T20:31:54.057Z",
  "window_days": 10,
  "sources": [
   "europepmc",
@@ -8,6 +8,40 @@
  "count": 100,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.21203/rs.3.rs-11564917/v1",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "preprint",
+   "id": "PPR1366638",
+   "doi": "10.21203/rs.3.rs-11564917/v1",
+   "pmid": "",
+   "title": "Uncertainty-weighted fuzzy clustering disentangles climate-stress VOC fingerprints and associated stress-dependent temperature sensitivity in urban trees",
+   "journal": "Research Square",
+   "date": "2026-11-13",
+   "authors": "Dey B, Depp C, Gu Y, Novelli A, Fuchs H, Hohaus T, Pfannerstill EY.",
+   "abstract": "Abstract Climate change increases the severity and frequency of heat and oxidative stress that plants experience, yet their simultaneous effects on biogenic volatile organic compounds (BVOCs) emissions remains poorly understood, complicating the predictability of future air quality and climate. Here, canopy BVOC emissions from linden and chestnut trees were measured over a continuous two-month chamber experiment without stress, heat stress, and combined O₃ and heat stress. To untangle stress-associated BVOC fingerprints, we developed an unsupervised uncertainty-weighted fuzzy c-means (UWFCM) algorithm that directly incorporates compound- and measurement-specific analytical uncertainties into clustering. UWFCM identified monoterpenes (increased up to 3-fold) and sesquiterpenes (up to 22-fold) as the primary heat-stress markers in both species, while increased diterpenes characterized combined O₃ and heat stress in linden. Stress-induced de novo emissions resulted in carbon loss up to ~ 14% of net daytime carbon fixation, a substantial stress-related carbon reallocation. The temperature sensitivity of terpenoid emissions was strongly stress-dependent. These findings have important implications for global BVOC parameterizations, estimates of daytime NO x -driven ozone chemistry and secondary organic aerosol formation under future climate extremes.",
+   "url": "https://doi.org/10.21203/rs.3.rs-11564917/v1"
+  },
+  {
+   "key": "doi:10.1093/hr/uhag480",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "29c630a808f8ffe5c33806050f4f0335b5c1e563",
+   "doi": "10.1093/hr/uhag480",
+   "pmid": "",
+   "title": "Global conservation and utilization of wild pear germplasm resources",
+   "journal": "Horticulture Research",
+   "date": "2026-11-13",
+   "authors": "Hao-Fang Zhao, Huan-Ping Xu, Shen Yan, Yu-Nan Lin, B. Pan, Ya-Ning Cao",
+   "abstract": "The wild pear group represents an important genetic resource for improving stress resistance in pear cultivars and for rootstock breeding; however, under global warming, its conservation and utilization remain insufficient. In this study, an integrated framework was introduced that combines habitat prediction, conservation gap analysis, and utilization of wild germplasm. Using the ensemble species distribution models (ESDMs) together with GapAnalysis, global suitable habitat dynamics of the genus Pyrus under four future climate scenarios (2021–2040) were predicted, and conservation gaps were identified. Additionally, a novel BC-RP system was established by integrating the Breeding Contribution Score (BC-score) and mean retention proportion (RP-mean) to jointly assess climatic stability and improvement potential of the wild group. The results reveal that climate warming has caused widespread habitat decline, with 16 wild species classified as urgent conservation priorities. On this basis, six wild species showing climatic stability and potential utilization capacity were identified as promising resources for improving major cultivated pear cultivars. This study exposes critical conservation deficiencies and establishes a scientific foundation for the preservation and sustainable use of the wild group.",
+   "url": "https://doi.org/10.1093/hr/uhag480"
+  },
   {
    "key": "doi:10.21203/rs.3.rs-11340609/v1",
    "groups": [
@@ -26,6 +60,23 @@
    "url": "https://doi.org/10.21203/rs.3.rs-11340609/v1"
   },
   {
+   "key": "doi:10.3390/molecules31224077",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "96a7ad7c63b3702cfc5fe4aeefdba19eba2e6c77",
+   "doi": "10.3390/molecules31224077",
+   "pmid": "",
+   "title": "Unveiling the Chemical Signature of Abruzzo Bee Pollen: Markers of Authenticity, Bioactive Phytochemicals and Antioxidant Activity",
+   "journal": "Molecules",
+   "date": "2026-11-12",
+   "authors": "Chiara Collevecchio, F. Epifano, S. Genovese, S. Fiorito",
+   "abstract": "Bee pollen is a complex natural matrix rich in bioactive compounds, a valuable source with high nutritional value. Its chemical composition is highly variable and is influenced by botanical origin and geographical area, posing significant challenges for quality control and authentication. In this study, the volatile and semi-volatile fingerprints of Abruzzo bee pollen samples were investigated by HS–GC–MS and GC–MS, enabling the identification of 61 compounds. GC–MS profiling revealed distinct chemical patterns among the investigated bee-pollen samples, with multifloral samples (MP7–MP13) and chestnut pollen (CP1–CP2) showing a similar profile associated with the occurrence of linoleic acid. Moreover, the aldehydic volatile fingerprint further contributed potential chemical markers of botanical and territorial origin, particularly hexanal and nonanal, which may represent characteristic volatile markers of this botanical source, while 3-methylbutanal as well as sulphureous compounds contributed to the distinctive volatile profile of MP1 and MP2. These latter exhibited a distinctive phytochemical profile characterized by umbelliferon (UMB) and 7-isopentenyloxycoumarin (7-IPC), compounds with recognized bioactive properties that may contribute to the functional value of bee pollen. Antioxidant capacity was evaluated using ABTS and DPPH radical scavenging assays. The highest antioxidant activity was observed in MP1 and MP2, potentially reflecting the contribution of oxyprenylated coumarins. The presence of these coumarin derivatives may also provide insights into the botanical origin of the samples and their potential chemotaxonomic relevance. Principal component analysis (PCA) revealed clear chemical distinctions associated with botanical origin, effectively discriminating…",
+   "url": "https://doi.org/10.3390/molecules31224077"
+  },
+  {
    "key": "doi:10.1094/pdis-09-26-1757-re",
    "groups": [
     "jujube"
@@ -35,12 +86,29 @@
    "id": "43018667",
    "doi": "10.1094/pdis-09-26-1757-re",
    "pmid": "43018667",
-   "title": "A novel partitivirus induces hypovirulence and increases pyraclostrobin sensitivity in the phytopathogenic fungus Lasiodiplodia ziziphi .",
-   "journal": "",
+   "title": "A novel partitivirus induces hypovirulence and increases pyraclostrobin sensitivity in the phytopathogenic fungus &lt;i&gt;Lasiodiplodia ziziphi&lt;/i&gt;.",
+   "journal": "Plant Disease",
    "date": "2026-11-12",
    "authors": "Wang Y, Gao X, Xie S, Guo Y, Wu H, Zhou F, Yu H, Zhang M.",
    "abstract": "Lasiodiplodia ziziphi causes canker disease in jujube and other woody plants. Its control relies mainly on fungicides. Mycoviruses that cause hypovirulence are an emerging option for the biological control of fungal diseases. In this study, we identified a novel double-stranded RNA (dsRNA) mycovirus, Lasiodiplodia ziziphi partitivirus 1 (LzPV1), from L. ziziphi strain CDZM004. The LzPV1 genome consists of two dsRNA segments. dsRNA1 (1,905 bp) encodes an RNA-dependent RNA polymerase (RdRp), and dsRNA2 (1,773 bp) encodes a capsid protein (CP). The genome is packaged into isometric virions about 32 nm in diameter. Phylogenetic analysis of the RdRp and CP placed LzPV1 in the genus Alphapartitivirus of the family Partitiviridae. LzPV1 was transmitted horizontally through hyphal anastomosis and vertically through conidia. LzPV1 infection reduced the virulence of L. ziziphi, changed its hyphal morphology, and increased fungal sensitivity to the fungicide pyraclostrobin. This is the first mycovirus reported in L. ziziphi and the first partitivirus described in the genus Lasiodiplodia. LzPV1 is a promising biocontrol resource for jujube canker disease.",
    "url": "https://doi.org/10.1094/pdis-09-26-1757-re"
+  },
+  {
+   "key": "doi:10.3390/nu18223760",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "f7b6eff823bc9f1e1c5f5570859a5e0b6a3a722c",
+   "doi": "10.3390/nu18223760",
+   "pmid": "",
+   "title": "Protective Effects of Ziziphus jujuba Mill. Leaves Against Metabolic Dysfunction-Associated Steatotic Liver Disease Are Associated with Gut Microbiota and Hepatic Metabolic Remodeling",
+   "journal": "Nutrients",
+   "date": "2026-11-12",
+   "authors": "Tian-Shuo Zhang, Dong-Sheng Jia, Hui-Yi Zhang, Guang-Zhao Zhou, Jie Liu, Jia-Tian Gu",
+   "abstract": "Background: Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent chronic liver disorder with limited effective pharmacological treatments. Ziziphus jujuba Mill. leaves (ZJL) contain multiple bioactive compounds, but their effects on MASLD and underlying mechanisms remain unclear. Methods: The chemical constituents of ethanolic ZJL extract were characterized using UHPLC-Q-Orbitrap MS. A high-fat diet (HFD)-induced MASLD mouse model was used to evaluate its protective effects. Serum biochemical parameters, liver histopathology, and inflammatory indicators were assessed. Gut microbiota and hepatic metabolic alterations were investigated using 16S rDNA sequencing and untargeted metabolomics, respectively. Potential microbiota–metabolite associations and key regulatory targets were further explored by correlation analysis, molecular docking, and qRT-PCR. Results: Fifty-five compounds were identified in ZJL, mainly flavonoids, organic acids, and triterpenoids. ZJL treatment significantly reduced HFD-induced body weight gain, dyslipidemia, hyperglycemia, hepatic injury, inflammation, and lipid accumulation. ZJL also partially restored gut microbial homeostasis, particularly by decreasing the abundances of Blautia and Dorea. Metabolomic analysis indicated that glycerophospholipid metabolism was the major affected pathway, together with fatty acid biosynthesis and cytochrome P450-related metabolism. Microbial alterations were closely associated with lipid-related metabolites. Moreover, ZJL downregulated key genes, including Pla2g2a, Fasn, and Cyp2e1. Conclusions: ZJL alleviated HFD-induced MASLD, accompanied by coordinated alterations in gut microbiota composition, hepatic metabolism, and lipid-related gene expression, suggesting that these changes may…",
+   "url": "https://doi.org/10.3390/nu18223760"
   },
   {
    "key": "doi:10.1038/s42003-026-11289-3",
@@ -58,6 +126,23 @@
    "authors": "Hsieh WH, Hung YH, Zhang JH, Cui Q, Chen HY, Lin LP, He MH, Wang YC, Ho YY, Ballington J, Fernandez G, Perkins-Veazie P, H Le B, Li X, Hsieh TF, Lin JY.",
    "abstract": "Fruit ripening is a complex developmental process involving coordinated changes in gene expression, metabolism, and epigenetic regulation. How DNA methylation dynamics influence gene transcription and metabolite accumulation during black raspberry (Rubus occidentalis) fruit ripening remains poorly understood. Here, we performed developmental-series transcriptome, methylome, and metabolome analysis; the results from this analysis reveal extensive epigenetic reprogramming during black raspberry fruit ripening. Fruit tissues exhibit globally higher DNA methylation than leaves, particularly in CHG and CHH contexts. Local methylation in all cytosine contexts progressively decreases in promoter regions during ripening, whereas CHG and CHH methylation increase in transposon-rich regions. Two primary methylation transitions-promoter hypomethylation and CHH hypermethylation-govern transcriptional shifts in genes involved in ripening processes. Methyl-binding transcription factors with activation potential likely promote CHH hypermethylation-linked transcriptional activation. Multi-omics integration reveals that coordinated anthocyanin accumulation parallels expression of biosynthetic and regulatory genes within coherent networks. Elevated non-CG methylation in heterochromatin coincides with increased transcription of histone variants mediating chromatin compaction, suggesting chromatin remodelers fine-tune accessibility for methyltransferases. Our study highlights both genome-wide and locus-specific epigenetic reprogramming and demonstrates a coordinated interplay between DNA methylation and transcriptional regulation during black raspberry fruit ripening.",
    "url": "https://doi.org/10.1038/s42003-026-11289-3"
+  },
+  {
+   "key": "doi:10.3390/foods15224032",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "d094097f70827cd4fd1cff9102d631457b3a764f",
+   "doi": "10.3390/foods15224032",
+   "pmid": "",
+   "title": "Effects of Saccharomyces boulardii Fermentation on Free and Bound Phenolics, In Vitro Bioaccessibility, Antidiabetic and ACE Inhibitory Activities of Chestnut Inner Shell",
+   "journal": "Foods",
+   "date": "2026-11-11",
+   "authors": "Sevda Dere, Oznur Saroglu, Fatih Bozkurt, Ayşe Karadağ, O. Sağdiç",
+   "abstract": "Chestnut inner shell (CIS) is a phenolic-rich by-product with potential for valorization through microbial fermentation. This study investigated the effects of autoclaving and subsequent fermentation with Saccharomyces boulardii S10 on free and bound phenolics, antioxidant activity, and α-glucosidase, α-amylase, and angiotensin-converting enzyme (ACE) inhibitory activities. Furthermore, simulated in vitro gastrointestinal digestion was performed to evaluate phenolic bioaccessibility and changes in individual phenolic compounds during digestion. Autoclaving increased free total phenolic content (TPC) from 139.09 to 178.61 mg GAE/g DW. During fermentation, the free phenolic fraction exhibited the highest TPC at 48 h (190.81 mg GAE/g DW), accompanied by the lowest TPC in the bound fraction (34.89 mg GAE/g DW). Similarly, α-glucosidase inhibitory activity was highest at 48 h (IC50 = 21.44 µg/mL), whereas ACE inhibitory activity progressively increased throughout fermentation, reaching its maximum at 72 h (IC50 = 10.08 µg/mL). Following in vitro gastrointestinal digestion, gallic and ellagic acid concentrations increased during the intestinal phase. Notably, the 48 h fermented sample exhibited the highest intestinal TPC (218.86 ± 5.02 mg GAE/g DW) among all samples, along with the highest TPC-based bioaccessibility (96.97%) and individual phenolics-based bioaccessibility (16.93%) among the fermented samples. These findings highlight the potential of fermentation to modify phenolic distribution and bioactivities while demonstrating the importance of gastrointestinal digestion in evaluating the bioaccessibility of CIS phenolics.",
+   "url": "https://doi.org/10.3390/foods15224032"
   },
   {
    "key": "doi:10.1094/pdis-06-26-1235-re",
@@ -172,11 +257,28 @@
    "doi": "10.1155/ianc/7600950",
    "pmid": "43011746",
    "title": "Role of Solvent Polarity in the Extraction and Electrochemical Behavior of Antioxidants From &lt;i&gt;Ziziphus jujuba&lt;/i&gt; Leaves.",
-   "journal": "International Journal of Analytical Chemistry",
+   "journal": "",
    "date": "2026-11-10",
    "authors": "Kalsoom U, Hussain Z, Khan S, Ahmad N, Azizi S, Maaza M.",
    "abstract": "Ziziphus jujuba is a medicinal plant known for its rich content of antioxidants including flavonoids, saponins, phenolics, and triterpenoids. This study determines the effect of solvent polarity on the extraction yield and investigates phytochemical distribution of the extracts and its electrochemical behavior. Reflux extraction was used for the preparation of crude extracts, using methanol, ethanol, and water. The ethanolic extract was selected for solvent fractionation, using n-hexane, dichloromethane, chloroform, and ethyl acetate. Among the extraction solvents, ethanol produced the highest crude yield (6.0% w/w). Following solvent-solvent fractionation, the ethyl acetate fraction showed the highest recovery among all fractions (0.30% w/w). The presence of flavonoid and saponin fractions was confirmed by phytochemical screening. The highest absorbance was observed in ethyl acetate fraction through UV visible spectrophotometric analysis, A = 0.711 for flavonoids at 415 nm and 0.330 for saponin at 406 nm. Cyclic voltammetry (CV) for ethyl acetate and chloroform fractions showed oxidation peaks at 0.50 V (vs. Ag/AgCl). Fourier transformed infrared spectroscopy (FT-IR) analyzed functional groups of flavonoids and saponins. Liquid chromatography mass spectrometry (LC-MS) identified major flavonoids, that is, vicenin II, spinosin, kaemferol (glycoside), and saponins (jujubosides). The result stated that the polarity of solvents plays a vital role in extracting redox-active antioxidants from the leaves of Z. jujuba. Furthermore, it stated that ethyl acetate is the most effective fractionation solvent. This study gives analytical framework for extraction and characterization of antioxidant-rich fraction of Z. jujuba leaves along with emphasis on the role of solvent polarity …",
    "url": "https://doi.org/10.1155/ianc/7600950"
+  },
+  {
+   "key": "doi:10.1080/19476337.2026.2759342",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6d6ec0d53740fb3cdc40d471f59224ce5e43cfef",
+   "doi": "10.1080/19476337.2026.2759342",
+   "pmid": "",
+   "title": "Microbiome and metabolome dynamics during postharvest spoilage of persimmon fruit: links between fungal succession and metabolic deterioration",
+   "journal": "CyTA - Journal of Food",
+   "date": "2026-11-10",
+   "authors": "Jie Wei, Dong-Xue Chen, Xu-Dan Lu, Yan Sun, Zhi Li, Nan-Nan Liu",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/19476337.2026.2759342"
   },
   {
    "key": "doi:10.1038/s41598-026-79871-7",
@@ -315,6 +417,23 @@
    "url": "https://doi.org/10.56097/binhduonguniversityjournalofscienceandtechnology.v9i3.484"
   },
   {
+   "key": "doi:10.3390/ani16213514",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43027245",
+   "doi": "10.3390/ani16213514",
+   "pmid": "43027245",
+   "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens.",
+   "journal": "Animals",
+   "date": "2026-11-06",
+   "authors": "Prošić I, Brus M, Delić N, Zdravković N, Radalj A, Petrović T, Gajdov V, Nišavić J, Nikšić A, Milinković M, Damjanović D, Čilerdžić M, Krnjaić D.",
+   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
+   "url": "https://doi.org/10.3390/ani16213514"
+  },
+  {
    "key": "doi:10.1038/s41598-026-79418-w",
    "groups": [
     "chestnut"
@@ -330,23 +449,6 @@
    "authors": "Ayşegül Türk Baydır, Ibrahim Bulduk",
    "abstract": "",
    "url": "https://doi.org/10.1038/s41598-026-79418-w"
-  },
-  {
-   "key": "doi:10.3390/ani16213514",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "42378918eea202e089121a42cdf3517d28842fbb",
-   "doi": "10.3390/ani16213514",
-   "pmid": "",
-   "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens",
-   "journal": "Animals",
-   "date": "2026-11-06",
-   "authors": "Isidora Prošić, M. Brus, Nikola Delić, N. Zdravković, A. Radalj, Tamaš Petrović",
-   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
-   "url": "https://doi.org/10.3390/ani16213514"
   },
   {
    "key": "doi:10.64898/2026.11.05.764454",
@@ -398,6 +500,23 @@
    "authors": "Cui R, Xiao Y, Huai L, Li J, Wang X, Yao Y, Wang H, Zhang Y, Song L.",
    "abstract": "Our study developed a chestnut-Cistanche co-fermented beverage (CCFB) using mixed lactic acid bacteria (LAB) fermentation. The quality of different types of CCFB were studied. Firstly, LAB fermentation significantly altered the physicochemical properties, flavor, and taste of CCFB using Lactobacillus plantarum LWCC3001 and Lactobacillus plantarum LWCC3005. Fermentation enhanced antioxidant activity, with the ABTS radical scavenging rate doubling. Secondly, electronic tongue analysis showed the bitterness response signal value of the ZW3005 group (1.50) was significantly lower than CK (0.02) (P < 0.05). GC-IMS detected 27 volatile compounds. Among them, propanal decreased approximately 12-fold in the mixed fermentation (MIX) group. Comprehensive metabolomics analysis revealed that fermentation substantially reshaped the metabolic profiles of the CCFB. Specifically, the alkaloid metabolism pathway promoted the degradation of certain bitter compounds, while activation of the phenylpropanoid metabolism pathway enhanced the biosynthesis of antioxidant compounds. These findings provide a theoretical basis for the further processing of CCFB.",
    "url": "https://doi.org/10.1016/j.foodchem.2026.151992"
+  },
+  {
+   "key": "doi:10.58168/minbifoa2026_59-65",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "e8516bae0d03e28613437300c7b49bc3650c0230",
+   "doi": "10.58168/minbifoa2026_59-65",
+   "pmid": "",
+   "title": "BIOLOGY OF FLOWERING AND THE MECHANISM OF POLLINATION OF SWEET CHESTNUT (CASTANEA SATIVA MILL.) IN THE CONDITIONS OF THE NATURAL HABITAT OF THE SOCHI NATIONAL PARK",
+   "journal": "MONITORING, INNOVATION AND BIOTECHNOLOGY OF FOREST AND AGRICULTURAL ECOSYSTEMS IN CONDITIONS OF CLIMATE VARIABILITY : Materials of the All-Russian Scientific and Practical Conference, Voronezh, June 10, 2026",
+   "date": "2026-11-05",
+   "authors": "K. Zakharov, A. Sivolapov",
+   "abstract": "The article summarizes data on the biology of flowering chestnut (Castanea sativa Mill.), a species of the genus Chestnut (Castanea Mill.) of the Beech family (Fagaceae Dumort.), in Sochi National Park (SNP). The structure of inflorescences and flowers, pollen morphology, and mechanisms of cross‑pollination (protandry, protogyny, double dichogamy, ambophily) are examined.",
+   "url": "https://doi.org/10.58168/minbifoa2026_59-65"
   },
   {
    "key": "doi:10.48044/jauf.2026.033",
@@ -1588,125 +1707,6 @@
    "authors": "F. Chong",
    "abstract": "While new animal breeds have long been at the center of advancing both animal husbandry and the broader bioeconomy, there is considerable confusion regarding their legal protection in China. While the Patent Law specifically excludes the patenting of new animal varieties, the Animal Husbandry Law has historically focused upon administrative approvals of breeds rather than the establishment of proprietary rights. For this reason, it is not surprising that a gap exists in the law, since breeders of new animal varieties (novel, distinct, uniform, and stable) currently lack an exclusive civil right that may be established, sold, or enforced. This paper considers the experience of the EU under the Biotech Directive and the U.S. dual regulatory model in protecting biotechnological innovations involving non-human animals. Drawing upon an analysis of both systems, it proposes a multi-tiered protection system for new animal breeds in China. It is argued that China needs to break free from the current binary division between protected/unprotected animal varieties versus patentable/unpatentable inventions derived from animals. The proposed multi-tiered protection system for new animal breeds is based on the level of technological intervention involved, along with the level of ethical concerns raised by each type of new animal variety. Animals bred using genetic editing techniques that do not involve the introduction of foreign DNA – and therefore represent lower risk from an ethical standpoint – should be protected through a sui generis Animal Breeder’s Right modeled on the existing Plant Variety Protection system. Transgenic animals created using genetic engineering techniques that introduce foreign DNA could similarly continue to be patented under similar conditions to those app…",
    "url": "https://doi.org/10.17803/lexgen-2026-5-3-86-97"
-  },
-  {
-   "key": "doi:10.3897/imafungus.17.208364",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42967114",
-   "doi": "10.3897/imafungus.17.208364",
-   "pmid": "42967114",
-   "title": "Molecular and morphological characterization of nine new Gnomoniopsis species ( Diaporthales , Gnomoniaceae ): Genomic insights into evolution and phylogeny.",
-   "journal": "",
-   "date": "2026-10-23",
-   "authors": "Wang X, Jiang Y, Liu W, Yan X, Sheng J, Ai C, Liu X, Zhang X, Meng Z, Wang S.",
-   "abstract": "Gnomoniopsis comprises parasitic, endophytic, and saprophytic fungi. Since its establishment, this genus has presented considerable taxonomic challenges owing to extensive morphological overlap among species, rendering traditional classification systems that rely predominantly on phenotypic characteristics no longer applicable. To resolve the current taxonomic confusion and clarify the species diversity, phylogenetic relationships, and genomic adaptive characteristics of Gnomoniopsis, the present study was carried out. In this study, the internal transcriptional spacer (ITS), translation extension factor 1-α (tef1), and partial beta-tubulin (tub2) were analyzed and combined to observe morphological characteristics of Gnomoniopsis. The isolates were identified from chestnut (Castanea), Embelia vestita, tea (Camellia sinensis), and other hosts in Sichuan Province, as well as from Quercus species and partial leaf rot from Fujian Province. Nine new species, namely G. xiaoheijiangensissp. nov., G. embeliaesp. nov., G. yunvfengensissp. nov., G. quercussp. nov., G. ledongensissp. nov., G. yonganensissp. nov., G. conghuaensissp. nov., G. loropetalisp. nov., and G. qixiensissp. nov., were obtained. Phylogenomic analysis based on 7,942 orthologous proteins' clusters revealed distinct species boundaries within Gnomoniopsis. Phylogenomics has thus effectively resolved the ambiguous phylogenetic relationships in this genus. This work identifies nine previously undescribed Gnomoniopsis species, clarifies the species diversity and conserved genomic characteristics within the genus, and lays a foundation for subsequent taxonomic analyses of Gnomoniopsis.",
-   "url": "https://doi.org/10.3897/imafungus.17.208364"
-  },
-  {
-   "key": "doi:10.1007/s11094-026-03582-6",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "a11d6f4a75450e5c46aa8b1212872826d6fffa0a",
-   "doi": "10.1007/s11094-026-03582-6",
-   "pmid": "",
-   "title": "Correction to: Isolation and Biological Activity of Polysaccharides from Horse Chestnut Leaves (Aesculus hippocastanum L.)",
-   "journal": "Pharmaceutical Chemistry Journal",
-   "date": "2026-10-23",
-   "authors": "Александра Вячеславовна Филатова, Луиза Бахтияровна Азимова, A. Turaev, D. Abdugafurova",
-   "abstract": "",
-   "url": "https://doi.org/10.1007/s11094-026-03582-6"
-  },
-  {
-   "key": "doi:10.3390/biotech15050097",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "0877e0fd2b870d363d77e39833c16a1ebce90f2e",
-   "doi": "10.3390/biotech15050097",
-   "pmid": "",
-   "title": "Antioxidants and Trace Elements in Honey: A Positive Balance for Honeybees and Beekeeping Production",
-   "journal": "BioTech",
-   "date": "2026-10-23",
-   "authors": "C. Naccari, V. Ferrantelli, G. Cammilleri, Roberto Bava, E. Palma, Mariateresa Cristani",
-   "abstract": "Antioxidants play a crucial role in preventing and treating various diseases in both humans and animals, and the consumption of nutraceuticals represents a major source of these compounds. Among nutraceuticals, special attention is focused on honey, which is the most widely used apicultural product due to its complex composition and several beneficial effects on humans and pets. Furthermore, it is a valid bio-indicator of environmental pollution within apiary foraging areas for the possible presence of pollutants, such as heavy metals, absorbed by honeybees. Particularly, the antioxidant contents and mineral profiles of honey are directly correlated with the floral origin of the nectar and, at the same time, influenced by climatic conditions, geo-chemical features and environmental pollution. The aim of this study, therefore, was to investigate the antioxidant/free radical scavenging capacity in honey samples of different floral varieties (Wildflower, Citrus, Acacia, Eucalyptus, Chestnut, Honeydew, and Erica), using TPC, DPPH and FRAP assays, in relation to their mineral profile (essential microelements, toxic metals and metalloids) analyzed through ICP-MS. The results document good antioxidant activity in honey samples of different floral origins with high TPC and good radical scavenger activity on DPPH radicals. The best antioxidant activity measured by FRAP was observed in Honeydew and Wildflower honeys (9.40 ± 1.53 and 5.22 ± 0.08 mmol Fe2+E/kg, respectively). All honey samples showed a complete mineral profile with an abundance of essential microelements (Mn > Zn > Fe > Cu > Se > Cr > Co > Mo), although traces of heavy metals and metalloids (Pb >> Cd > As) were present in most of the samples analyzed. The correlations found in all data obtained were analyzed using …",
-   "url": "https://doi.org/10.3390/biotech15050097"
-  },
-  {
-   "key": "doi:10.3390/agronomy16212082",
-   "groups": [
-    "hardy-kiwi"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "57dee67264979bce99c73e1362656e6703dc554c",
-   "doi": "10.3390/agronomy16212082",
-   "pmid": "",
-   "title": "Integrating Species Distribution Modelling and Spring Low-Temperature Exposure to Assess Climatic Suitability for Actinidia arguta in Europe",
-   "journal": "Agronomy",
-   "date": "2026-10-23",
-   "authors": "Athanasios K. Margaritidis, Ioannis Charalampopoulos",
-   "abstract": "Actinidia arguta (kiwiberry) is a cold-hardy perennial fruit crop with increasing cultivation interest outside its native East Asian range. This study assessed its climatic suitability across Europe using an ensemble species distribution modeling (SDM) framework calibrated with occurrence records from East Asia. After occurrence filtering and spatial thinning, 1483 presence records were retained. Twenty-one candidate environmental predictors were screened for multicollinearity and four variables—temperature seasonality (BIO4), maximum temperature of the warmest month (BIO5), precipitation seasonality (BIO15) and precipitation of the warmest quarter (BIO18)—were retained in the final SDM. Five algorithms (GLM, RF, MAXNET, GAM, GBM) were evaluated using environmental cross-validation and models meeting a TSS ≥ 0.60 threshold were combined in a TSS-weighted ensemble. Temperature seasonality showed the highest permutation importance (0.491), followed by precipitation of the warmest quarter (0.316). The European projection identified comparatively high climatic suitability primarily in parts of Central and Southeastern Europe, with approximately 68,226 km2 exceeding a suitability value of 0.50 and 21,634 km2 exceeding 0.60. Environmental clamping affected 10.2% of the European projection domain but only 0.4% of the area with suitability ≥ 0.50 and none of the area with suitability ≥ 0.60. A complementary March-May analysis of climatological minimum temperature showed that spring low-temperature exposure was strongly seasonal. In March, 32.4% and 23.4% of the area with suitability ≥ 0.50 overlapped with Tmin ≤ −1.0 °C and ≤−1.5 °C scenarios respectively, whereas no corresponding overlap occurred in April or May. These temperature scenarios represent climatological exposure ra…",
-   "url": "https://doi.org/10.3390/agronomy16212082"
-  },
-  {
-   "key": "doi:10.1016/j.fochx.2026.104662",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42964807",
-   "doi": "10.1016/j.fochx.2026.104662",
-   "pmid": "42964807",
-   "title": "Young persimmon fruit extract as a multifunctional natural additive in ice cream: Effects on physical properties, antioxidant functionality, and sensory acceptability.",
-   "journal": "Food Chemistry: X",
-   "date": "2026-10-23",
-   "authors": "Kobayashi M, Hara T, Sunahara A, Ishigaki M, Tsurunaga Y.",
-   "abstract": "Young persimmon fruit extract (YPE), a tannin-rich fruit-thinning by-product, was added to ice cream at added soluble tannin content (STC) levels of 0.0-1.0%. YPE imparted a natural reddish-brown color and significantly enhanced antioxidant activity without substantially altering pH or Brix. Microstructural, particle size, viscosity, and overrun analyses indicated that tannin-milk protein interactions densified the matrix and reduced air incorporation, improving melting resistance: complete melting required 51-54 min at 0.1-0.5% (peaking at 0.3%) added STC and 75 min at 1.0% added STC, versus 42 min for the control. Hardness, adhesiveness, and gumminess increased with added STC. Overall acceptability was maintained up to 0.5% added STC but declined at 1.0%, indicating a practical range of 0.1-0.5%. Exploratory sandwich ELISA showed a modest, concentration-dependent reduction in detectable casein and β-lactoglobulin content (up to 26%). YPE is a promising clean-label, multifunctional additive for valorizing an agricultural by-product.",
-   "url": "https://doi.org/10.1016/j.fochx.2026.104662"
-  },
-  {
-   "key": "t:young persimmon fruit extract as a multifunctional natural additive in ice cream effects on physical properties antioxid",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "PMC13722081",
-   "doi": "",
-   "pmid": "",
-   "title": "Young persimmon fruit extract as a multifunctional natural additive in ice cream: Effects on physical properties, antioxidant functionality, and sensory acceptability",
-   "journal": "",
-   "date": "2026-10-23",
-   "authors": "Kobayashi M, Hara T, Sunahara A, Ishigaki M, Tsurunaga Y.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13722081/?tool=EBI"
-  },
-  {
-   "key": "doi:10.3390/ecologies7040114",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "0fddc33dbc83b80fade934be1a856e109cb3fb8b",
-   "doi": "10.3390/ecologies7040114",
-   "pmid": "",
-   "title": "Comparative Study of Soil Respiration Characteristics and Influencing Factors of Four Land-Use Types in the Aksu Desert–Oasis Ecotone",
-   "journal": "Ecologies",
-   "date": "2026-10-23",
-   "authors": "Jia-Fei Liang, Hai-Lian Liang, Ruo-Xi Li, Lu-Qing Zhou, Wen-Jie Zhou, Fei Chen",
-   "abstract": "Aims: Land-use types and soil salinization in arid desert–oasis ecotones are associated with differences in soil CO2 efflux, yet the combined effects of multiple environmental factors remain poorly understood. This study aims to characterise the seasonal patterns, temperature sensitivity, and major correlates of soil respiration across four typical land-use types, thereby supporting regional carbon budget assessments. Methods: We conducted in situ soil respiration monitoring during the 2024 growing season (April–October) in four representative habitats (Populus euphratica forest, jujube orchard, grassland, and wetland) in the Aksu desert–oasis ecotone, Xinjiang. Concurrent measurements of topsoil (0–20 cm) physicochemical properties and extracellular enzyme activities were taken. Pearson correlation, variation partitioning, and the Van’t Hoff temperature-response model were employed. Results: Soil respiration exhibited a unimodal seasonal pattern peaking in July, with growing-season mean fluxes ranked as grassland > wetland > jujube orchard > Populus euphratica forest. Temperature sensitivity (Q10) followed wetland (3.23) > grassland (2.44) > orchard (2.08) > forest (1.57), a pattern consistent with differences in soil moisture and salinity among the sites. Respiration correlated positively with pH, electrical conductivity, total salt, organic matter, urease, and sucrase, and negatively with available N, P, K, and peroxidase (p < 0.05). Physicochemical properties and enzyme activities jointly explained 70.7% of variation, with total soil salt (12.5%), sucrase (12.2%), and available N (11.1%) as the top contributors. Root and heterotrophic respiration accounted for 37.2% and 62.8% of total soil respiration, respectively, with heterotrophic respiration dominating in all s…",
-   "url": "https://doi.org/10.3390/ecologies7040114"
   }
  ]
 }
