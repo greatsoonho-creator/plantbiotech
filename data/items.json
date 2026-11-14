@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-14T06:52:50+09:00",
-  "latest_run": "2026-11-14",
+  "generated_at": "2026-11-15T06:54:40+09:00",
+  "latest_run": "2026-11-15",
   "runs": [
+    {
+      "run": "2026-11-15",
+      "at": "2026-11-15T06:54:40+09:00",
+      "count": 6,
+      "note": "논문 4(fruit 4: 야생 배 유전자원 보전, 대추잎 지방간, 밤 속껍질 발효, 감 수확후 부패), 뉴스·정책 2(policy 1: 11월 이달의 임산물 마가목 / pvp 1: CPVO-EPO 협력약정 10년 연장). 피드 후보 9건 중 4건 선정(나머지 VOC·벌화분·수산·포장재·치의학 무관). 원문 미열람 2건(chungnamilbo·cpvo DNS 차단), 초록 없음 1건(doi.org 차단). 재선충·산림재난 등 정책 뉴스는 기수집분과 중복"
+    },
     {
       "run": "2026-11-14",
       "at": "2026-11-14T06:52:50+09:00",
@@ -332,6 +338,47 @@
       "run": "2026-11-14"
     },
     {
+      "id": "20261113-d69165b5",
+      "cat": "fruit",
+      "title": "Global conservation and utilization of wild pear germplasm resources",
+      "title_ko": "전 세계 야생 배(Pyrus) 유전자원의 보전과 활용: 서식지 예측·보전 공백 분석과 육종 활용 평가",
+      "source": "Horticulture Research",
+      "url": "https://doi.org/10.1093/hr/uhag480",
+      "date": "2026-11-13",
+      "date_key": "2026-11-13",
+      "type": "paper",
+      "summary_ko": "야생 배 집단은 재배 배의 스트레스 저항성 개량과 대목 육종에 중요한 유전자원이지만, 기후 온난화 속에서 보전·활용이 충분하지 않다. 연구진은 앙상블 종분포모형(ESDMs)과 GapAnalysis를 결합해 4개 미래 기후 시나리오(2021–2040)에서 배속(Pyrus) 전체의 적합 서식지 변화를 예측하고 보전 공백을 도출했다. 또한 육종기여점수(BC-score)와 평균 서식지 유지비율(RP-mean)을 통합한 BC-RP 체계를 새로 제시해 야생종의 기후 안정성과 개량 잠재력을 함께 평가했다. 그 결과 기후 온난화로 서식지가 광범위하게 감소했으며, 야생종 16종이 긴급 보전 우선순위로 분류됐다. 기후적으로 안정하면서 활용 가능성이 높은 6개 야생종은 주요 재배 배 품종 개량의 유망 자원으로 선발됐다. 산돌배·돌배 등 국내 자생 Pyrus 자원의 현지외 보전 우선순위 설정과 표준재배지침 작성 시 대목·내성 자원 선정 근거로 참고할 수 있다.",
+      "tags": [
+        "야생배",
+        "Pyrus",
+        "유전자원 보전",
+        "종분포모형",
+        "돌배"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
+    },
+    {
+      "id": "20261113-fccc7477",
+      "cat": "policy",
+      "title": "산림청, 11월 이달의 임산물로 '마가목' 선정",
+      "title_ko": "산림청, 11월 이달의 임산물로 '마가목' 선정…항산화 성분·가공식품 활용 소개",
+      "source": "충남일보",
+      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=920635",
+      "date": "2026-11-13",
+      "date_key": "2026-11-13",
+      "type": "news",
+      "summary_ko": "산림청은 제철 임산물 소비를 늘리기 위해 매월 '이달의 임산물'을 선정하고 있으며, 11월 품목으로 마가목을 선정했다고 13일 밝혔다. 마가목은 장미과 낙엽활엽수로 여름이 서늘한 고랭지·산지에서 잘 자라며 5~6월 흰 꽃이 피고 9~10월 작은 열매가 붉게 익는다. 이름은 봄 새순이 말의 이빨을 닮아 '마아목(馬牙木)'으로 불리던 데서 유래한 것으로 전해진다. 산림청이 2025년 발간한 '숲푸드' 책자에 따르면 항산화 성분을 함유하며 관절·뼈 건강, 기억력 개선 가능성과 항암 활성 연구가 보고됐다. 열매는 차·담금주·마가목청으로 이용되고 최근 진액·스틱형 제품·젤리 등 가공식품도 출시되고 있다. 단기소득임산물의 기능성 홍보·소비 촉진 정책 사례로, 산딸기 등 산림과수의 가공·소비 확대 방안 검토 시 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "이달의 임산물",
+        "마가목",
+        "임산물 소비",
+        "산림청"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
+    },
+    {
       "id": "20261112-c7df474f",
       "cat": "policy",
       "title": "\"재선충병 확산 선제 차단\"...산림청, 경미지역 청정 전환 속도",
@@ -435,6 +482,27 @@
       "run": "2026-11-14"
     },
     {
+      "id": "20261112-8228d828",
+      "cat": "fruit",
+      "title": "Protective Effects of Ziziphus jujuba Mill. Leaves Against Metabolic Dysfunction-Associated Steatotic Liver Disease Are Associated with Gut Microbiota and Hepatic Metabolic Remodeling",
+      "title_ko": "대추나무 잎 추출물의 대사이상 지방간질환(MASLD) 보호 효과: 장내미생물과 간 대사 재편과의 연관",
+      "source": "Nutrients",
+      "url": "https://doi.org/10.3390/nu18223760",
+      "date": "2026-11-12",
+      "date_key": "2026-11-12",
+      "type": "paper",
+      "summary_ko": "대사이상 관련 지방간질환(MASLD)은 유병률이 높지만 효과적인 치료제가 제한적이며, 대추나무(Ziziphus jujuba) 잎(ZJL)은 다양한 생리활성 성분을 함유하나 그 효과와 기전은 불명확했다. 연구진은 ZJL 에탄올 추출물의 성분을 UHPLC-Q-Orbitrap MS로 분석하고, 고지방식이(HFD) 유도 MASLD 생쥐 모델에서 혈청 생화학, 간 조직병리, 염증 지표를 평가했으며 16S rDNA 시퀀싱과 비표적 대사체 분석, 분자 도킹, qRT-PCR을 병행했다. ZJL에서 플라보노이드·유기산·트리테르페노이드 위주로 55개 화합물이 동정됐다. ZJL 처리는 체중 증가, 이상지질혈증, 고혈당, 간 손상·염증·지질 축적을 유의하게 줄였고, Blautia·Dorea 풍부도를 낮춰 장내미생물 항상성을 부분 회복시켰다. 대사체 분석에서는 글리세로인지질 대사가 주요 경로였으며 Pla2g2a, Fasn, Cyp2e1 유전자 발현이 하향 조절됐다. 대추 재배 부산물인 잎의 기능성 소재화와 부가가치 제고 근거 자료로 활용할 수 있다.",
+      "tags": [
+        "대추",
+        "대추잎",
+        "기능성",
+        "지방간",
+        "장내미생물"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
+    },
+    {
       "id": "20261111-981dd0a0",
       "cat": "policy",
       "title": "소나무 죽이는 ‘재선충병’ 피해 확산…춘천·군산시 ‘특별방제구역’으로 상시 대응",
@@ -476,6 +544,48 @@
       ],
       "collected_at": "2026-11-12",
       "run": "2026-11-12"
+    },
+    {
+      "id": "20261111-e4d49f3d",
+      "cat": "fruit",
+      "title": "Effects of Saccharomyces boulardii Fermentation on Free and Bound Phenolics, In Vitro Bioaccessibility, Antidiabetic and ACE Inhibitory Activities of Chestnut Inner Shell",
+      "title_ko": "Saccharomyces boulardii 발효가 밤 속껍질(보늬)의 유리·결합 페놀, 체외 생체접근성, 항당뇨·ACE 저해 활성에 미치는 영향",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15224032",
+      "date": "2026-11-11",
+      "date_key": "2026-11-11",
+      "type": "paper",
+      "summary_ko": "밤 속껍질(CIS)은 페놀 함량이 높은 가공 부산물로, 미생물 발효를 통한 고부가가치화 가능성이 주목된다. 연구진은 오토클레이브 처리 후 Saccharomyces boulardii S10으로 발효했을 때 유리·결합 페놀, 항산화 활성, α-글루코시다아제·α-아밀라아제·ACE 저해 활성 변화를 조사하고, 모사 위장관 소화로 생체접근성을 평가했다. 오토클레이브 처리로 유리 총페놀(TPC)이 139.09에서 178.61 mg GAE/g DW로 증가했고, 발효 48시간에 유리 TPC가 190.81 mg GAE/g DW로 최고, 결합 TPC는 34.89 mg GAE/g DW로 최저였다. α-글루코시다아제 저해는 48시간(IC50 21.44 µg/mL), ACE 저해는 72시간(IC50 10.08 µg/mL)에 최대였다. 48시간 발효 시료는 장 단계 TPC 218.86 mg GAE/g DW, TPC 기반 생체접근성 96.97%로 가장 높았고 소화 중 갈산·엘라그산이 증가했다. 밤 가공 부산물(보늬)의 기능성 소재 활용 및 밤 산업 부가가치 연구에 참고할 수 있다.",
+      "tags": [
+        "밤",
+        "밤 속껍질",
+        "발효",
+        "폴리페놀",
+        "부산물 활용"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
+    },
+    {
+      "id": "20261111-e60ebb1e",
+      "cat": "pvp",
+      "title": "CPVO & EPO renew cooperation agreement",
+      "title_ko": "유럽연합 식물품종청(CPVO)·유럽특허청(EPO), 행정협력약정 10년 연장",
+      "source": "CPVO",
+      "url": "https://cpvo.europa.eu/en/news-and-events/news/cpvo-epo-renew-cooperation-agreement",
+      "date": "2026-11-11",
+      "date_key": "2026-11-11",
+      "type": "news",
+      "summary_ko": "식물 신품종 분야에서는 품종보호권과 특허가 함께 적용되는 경우가 늘어 두 제도 간 정보 교환과 협력이 중요해지고 있다. 유럽연합 식물품종청(CPVO)과 유럽특허청(EPO)은 2026년 11월 11일(앙제) 양자 행정협력약정(Administrative Arrangement)을 10년 연장했다고 밝혔다. 이 약정은 2016년 처음 체결됐고 2019년 3년, 2022년 3월 5년 연장을 거쳐 이번에 장기 연장됐으며, 특허·품종보호권 및 신기술 분야의 기술 협력과 정보 교환을 지원한다. CPVO는 이에 앞서 11월 10일 앙제 신청사 개청식도 가졌다. 서명자·세부 조항은 확인되지 않았다. 신육종기술(NGT) 품종 등 특허·품종보호 중첩 이슈가 커지는 상황에서 국내 산림 신품종 출원·권리화 전략 수립 시 국제 동향으로 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "CPVO",
+        "EPO",
+        "품종보호",
+        "특허",
+        "국제협력"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
     },
     {
       "cat": "policy",
@@ -648,6 +758,27 @@
       ],
       "collected_at": "2026-11-13",
       "run": "2026-11-13"
+    },
+    {
+      "id": "20261110-e4154145",
+      "cat": "fruit",
+      "title": "Microbiome and metabolome dynamics during postharvest spoilage of persimmon fruit: links between fungal succession and metabolic deterioration",
+      "title_ko": "감 과실 수확 후 부패 과정의 미생물군집·대사체 동태: 곰팡이 천이와 대사적 품질 저하의 연관",
+      "source": "CyTA - Journal of Food",
+      "url": "https://doi.org/10.1080/19476337.2026.2759342",
+      "date": "2026-11-10",
+      "date_key": "2026-11-10",
+      "type": "paper",
+      "summary_ko": "감 과실은 수확 후 저장·유통 중 부패로 인한 손실이 커 그 미생물학적 원인 규명이 필요하다. 이 연구는 감 과실의 수확 후 부패 과정에서 미생물군집(마이크로바이옴)과 대사체의 변화를 함께 추적해 곰팡이 군집 천이와 대사적 품질 저하 사이의 연관을 분석한 것으로 제목에서 확인된다. 초록을 확보하지 못해 구체적인 분석 방법, 우점 곰팡이 종, 대사물질 변화 수치는 확인되지 않았다. 감 저장성 향상과 수확 후 관리 기준 마련에 참고할 수 있는 자료로, 원문 확인이 필요하다. (초록 없음)",
+      "tags": [
+        "감",
+        "수확후관리",
+        "부패",
+        "마이크로바이옴",
+        "대사체"
+      ],
+      "collected_at": "2026-11-15",
+      "run": "2026-11-15"
     },
     {
       "id": "20261109-42336d56",
