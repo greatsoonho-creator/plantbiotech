@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-15T06:54:40+09:00",
-  "latest_run": "2026-11-15",
+  "generated_at": "2026-11-16T06:53:56+09:00",
+  "latest_run": "2026-11-16",
   "runs": [
+    {
+      "run": "2026-11-16",
+      "at": "2026-11-16T06:53:56+09:00",
+      "count": 2,
+      "note": "논문 2(fruit 2: 산딸기 바이러스 HTS 검정, 밤 수확후 부패 생물방제), 뉴스·정책 0(11/9~16 산림청·국립산림품종관리센터·국립종자원·UPOV 검색 결과는 모두 기수집 건과 중복). 피드 후보 6건(최근 7일·미수집) 중 분야 무관 4건 제외. 원문 미열람 0건."
+    },
     {
       "run": "2026-11-15",
       "at": "2026-11-15T06:54:40+09:00",
@@ -377,6 +383,28 @@
       ],
       "collected_at": "2026-11-15",
       "run": "2026-11-15"
+    },
+    {
+      "id": "20261113-3ef01c0e",
+      "cat": "fruit",
+      "title": "High Throughput Sequencing vs Biological Indexing for the Detection of Viral Pathogens in Rubus.",
+      "title_ko": "Rubus 속 바이러스 검정에서 고속대량염기서열분석(HTS)과 접목 생물검정의 비교",
+      "source": "Plant Disease",
+      "url": "https://doi.org/10.1094/pdis-06-26-1241-re",
+      "date": "2026-11-13",
+      "date_key": "2026-11-13",
+      "type": "paper",
+      "summary_ko": "라즈베리·블랙베리 등 Rubus 속 작물은 국제 유통이 늘면서 무병묘(clean plant) 프로그램과 인증 검정이 중요해졌는데, 그동안 표준이던 접목 생물검정(graft bioassay)은 시간이 오래 걸리고 검출력이 제한적이다. 연구진은 공여 식물 71개체의 잎을 블랙라즈베리 지표식물 Rubus occidentalis 'Munger'에 3반복으로 접목해 8주간, 그리고 자연 휴면 후 다시 증상을 관찰하고, 같은 공여 잎을 HTS로 분석했다. 실험은 2회 반복되어 공여 식물당 6반복, 총 426개 지표식물이 쓰였다. HTS는 전체 공여체에서 20종의 바이러스를 검출했고 한 식물에서 최대 6종이 동시에 확인됐으며, 공여체의 100%에서 바이러스가 검출되었다. 반면 접목 지표식물은 8주 후 45%, 휴면 후에도 61%가 무증상으로 남아 두 방법의 결과가 잘 일치하지 않았다. 저자들은 휴면을 거치더라도 HTS가 바이러스 감염 검출에 더 효과적이라고 결론지었다(Plant Disease 게재). 산딸기 품종보호 출원·보급 과정에서 무병 모수 확보와 묘목 인증 검정을 설계할 때 HTS 기반 바이러스 진단을 도입하는 근거 자료로 활용할 수 있다.",
+      "tags": [
+        "산딸기",
+        "Rubus",
+        "바이러스",
+        "HTS",
+        "무병묘",
+        "인증검정"
+      ],
+      "collected_at": "2026-11-16",
+      "run": "2026-11-16"
     },
     {
       "id": "20261112-c7df474f",
@@ -779,6 +807,28 @@
       ],
       "collected_at": "2026-11-15",
       "run": "2026-11-15"
+    },
+    {
+      "id": "20261110-b9890c61",
+      "cat": "fruit",
+      "title": "Antifungal effect of Bacillus velezensis BLS-7 on postharvest internal decay of chestnut and its potential antifungal mechanisms.",
+      "title_ko": "밤 수확 후 내부 부패(CIRD)에 대한 Bacillus velezensis BLS-7의 항진균 효과와 작용 기작",
+      "source": "International Journal of Food Microbiology",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112154",
+      "date": "2026-11-10",
+      "date_key": "2026-11-10",
+      "type": "paper",
+      "summary_ko": "밤 속썩음병(Chestnut Inner Rot Disease, CIRD)은 여러 곰팡이 병원균이 일으키는 수확 후 병해로 밤 산업에 큰 경제적 손실을 주며, 안전한 미생물 방제법이 요구된다. 연구진은 앞서 분리한 CIRD 우점 병원균 4종(Diaporthe phaseolorum, Colletotrichum siamense, Fusarium culmorum, Lasiodiplodia theobromae)을 대상으로 밤 재배지 토양에서 길항 세균 Bacillus velezensis BLS-7을 분리하고, 전장유전체 분석과 HS-SPME-GC-MS 휘발성 성분 분석을 수행했다. BLS-7은 4개 병원균에 84.51~96.89%의 억제율을 보였고, 시험한 병원성 곰팡이 14종 모두에 64% 이상의 광범위한 길항 활성을 나타냈으며, 여러 밤 품종에서 생체 방제 효과가 확인됐다. 유전체에서는 2차대사산물 합성 관련 유전자 클러스터 13개가 확인됐고, 휘발성 성분 중 hexyl butyrate가 핵심 억제 물질 후보로 지목되었다. Hexyl butyrate는 기내에서 4개 병원균 중 3개를 80% 이상, 밤 접종시험에서 4개 모두를 억제했으며(최대 억제율 기내 82.95%, 밤 75.3%), 균사 형태를 교란해 생장과 포자 형성을 억제하고 저장 중 과실 품질 저하를 늦췄다. 국내 밤 저장·유통 단계 부패 저감을 위한 훈증형 생물방제 기술 검토와, 밤 품종별 저장성 평가 항목 설정에 참고할 수 있다(International Journal of Food Microbiology).",
+      "tags": [
+        "밤나무",
+        "수확후관리",
+        "속썩음병",
+        "생물방제",
+        "Bacillus velezensis",
+        "휘발성유기화합물"
+      ],
+      "collected_at": "2026-11-16",
+      "run": "2026-11-16"
     },
     {
       "id": "20261109-42336d56",
