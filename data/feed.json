@@ -1,12 +1,14 @@
 {
- "generated_at": "2026-11-14T20:31:54.057Z",
+ "generated_at": "2026-11-15T20:32:01.095Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 100,
- "errors": [],
+ "count": 102,
+ "errors": [
+  "semanticscholar:pear-wild: HTTP 429"
+ ],
  "items": [
   {
    "key": "doi:10.21203/rs.3.rs-11564917/v1",
@@ -24,6 +26,23 @@
    "authors": "Dey B, Depp C, Gu Y, Novelli A, Fuchs H, Hohaus T, Pfannerstill EY.",
    "abstract": "Abstract Climate change increases the severity and frequency of heat and oxidative stress that plants experience, yet their simultaneous effects on biogenic volatile organic compounds (BVOCs) emissions remains poorly understood, complicating the predictability of future air quality and climate. Here, canopy BVOC emissions from linden and chestnut trees were measured over a continuous two-month chamber experiment without stress, heat stress, and combined O₃ and heat stress. To untangle stress-associated BVOC fingerprints, we developed an unsupervised uncertainty-weighted fuzzy c-means (UWFCM) algorithm that directly incorporates compound- and measurement-specific analytical uncertainties into clustering. UWFCM identified monoterpenes (increased up to 3-fold) and sesquiterpenes (up to 22-fold) as the primary heat-stress markers in both species, while increased diterpenes characterized combined O₃ and heat stress in linden. Stress-induced de novo emissions resulted in carbon loss up to ~ 14% of net daytime carbon fixation, a substantial stress-related carbon reallocation. The temperature sensitivity of terpenoid emissions was strongly stress-dependent. These findings have important implications for global BVOC parameterizations, estimates of daytime NO x -driven ozone chemistry and secondary organic aerosol formation under future climate extremes.",
    "url": "https://doi.org/10.21203/rs.3.rs-11564917/v1"
+  },
+  {
+   "key": "doi:10.1094/pdis-06-26-1241-re",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43031422",
+   "doi": "10.1094/pdis-06-26-1241-re",
+   "pmid": "43031422",
+   "title": "High Throughput Sequencing vs Biological Indexing for the Detection of Viral Pathogens in Rubus.",
+   "journal": "Plant Disease",
+   "date": "2026-11-13",
+   "authors": "Fager D, Al Rwahnih M, Mollov D.",
+   "abstract": "Rubus species are native to six continents and are grown commercially around the world. Production of raspberries and blackberries in the United States alone is over 100,000 metric tons. Global production and transport require prevention of both endemic and exotic diseases through clean plant programs and certification testing. While graft bioassay has been the standard in certification programs for pathogen detection, high throughput sequencing (HTS) has the potential to streamline the testing process and identify pathogens more effectively. In this study, HTS was evaluated for virus detection compared to graft bioassay in Rubus plants. Leaves from 71 donor plants were grafted onto three replicates of Rubus occidentalis 'Munger' black raspberry indicator plants and monitored for symptom expression over eight weeks and again after natural winter dormancy. Donor leaves were analyzed by HTS for the presence of viral sequences. The experiment was repeated twice with six replicates per donor plant across both experiments and 426 indicators total. HTS detected 20 virus species across all donors with up to six viruses in a single plant. Virus detection by HTS and graft bioassay did not correlate well. HTS detected viruses in 100% of donors while 45% of grafted indicators were asymptomatic by eight weeks after grafting and 61% asymptomatic after dormancy. Results indicate HTS is more effective at detecting viral infections, even when grafted plants are subject to natural dormancy.",
+   "url": "https://doi.org/10.1094/pdis-06-26-1241-re"
   },
   {
    "key": "doi:10.1093/hr/uhag480",
@@ -145,6 +164,23 @@
    "url": "https://doi.org/10.3390/foods15224032"
   },
   {
+   "key": "doi:10.1016/j.ijfoodmicro.2026.112154",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43033603",
+   "doi": "10.1016/j.ijfoodmicro.2026.112154",
+   "pmid": "43033603",
+   "title": "Antifungal effect of Bacillus velezensis BLS-7 on postharvest internal decay of chestnut and its potential antifungal mechanisms.",
+   "journal": "",
+   "date": "2026-11-10",
+   "authors": "Gao Y, Wang P, Zhang Y, Tian Y, Yang Y, Song F, Cheng S, Zheng L, Yan A.",
+   "abstract": "Chestnut Inner Rot Disease (CIRD), a serious postharvest disease caused by multiple fungal pathogens, leads to substantial economic losses in the chestnut industry. Microbial biocontrol offers a safe and effective strategy. In this study, targeting four dominant CIRD pathogenic strains previously isolated, a bacterial strain identified as Bacillus velezensis BLS-7 was isolated from chestnut-cultivated soil. BLS-7 exhibited strong antifungal activity against Diaporthe phaseolorum, Colletotrichum siamense, Fusarium culmorum, and Lasiodiplodia theobromae, with inhibition rates of 84.51% to 96.89%. Moreover, it demonstrated broad-spectrum antagonism against 14 tested pathogenic fungi, all with inhibition rates exceeding 64%. In vivo assays further verified the significant biocontrol efficacy of BLS-7 across different chestnut varieties. Whole-genome sequencing analysis revealed that the BLS-7 genome harbors 13 gene clusters associated with secondary metabolite synthesis. Through headspace solid-phase microextraction combined with Gas Chromatography-Mass Spectrometry (HS-SPME-GC-MS), the volatile organic compounds (VOCs) of BLS-7 were analyzed, identifying hexyl butyrate as a candidate key inhibitory monomer. This compound inhibited three of the four CIRD pathogens by over 80% in vitro and all four in chestnut assays, with maximum inhibition rates of 82.95% and 75.3%, respectively. Both the VOCs and hexyl butyrate produced by BLS-7 suppressed mycelial growth and sporulation by disrupting hyphal morphology. VOCs and hexyl butyrate also restricted fungal spread on chestnuts and delayed fruit quality deterioration. This work proposes a fumigation-mediated VOC strategy using hexyl butyrate as a candidate key effector against multi-pathogen chestnut rot, offering a promising appr…",
+   "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112154"
+  },
+  {
    "key": "doi:10.1094/pdis-06-26-1235-re",
    "groups": [
     "chestnut"
@@ -213,23 +249,6 @@
    "url": "https://doi.org/10.3390/ijms272210065"
   },
   {
-   "key": "doi:10.3390/horticulturae12111394",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "803c82a7378584c67f66f128189dba4e2dcf945d",
-   "doi": "10.3390/horticulturae12111394",
-   "pmid": "",
-   "title": "Comparative Genomic Insights into Pathogenicity of Diaporthe amygdali and D. eres Associated with Pear Canker in Korea",
-   "journal": "Horticulturae",
-   "date": "2026-11-10",
-   "authors": "H. Noh, K. Lee, Seong Hwan Kim",
-   "abstract": "Diaporthe species are important fungal pathogens associated with canker and dieback diseases of woody plants, but genomic factors underlying differences in pathogenicity among pear-associated species remain poorly understood. In this study, D. amygdali DUCC20226 and D. eres DUCC15256 were isolated from canker-affected Asian pear (Pyrus pyrifolia) in Korea, representing the first reports of both species causing pear canker in the country. Pathogenicity assays showed that both isolates caused disease symptoms on pear seedlings. High-quality genome assemblies were generated for D. amygdali (49.82 Mb) and D. eres (61.16 Mb), with BUSCO completeness of 98.9% and 98.7%, respectively. Comparative genomic analysis revealed substantial genomic conservation, although strain-specific genes included predicted secreted proteins and candidate effectors. In D. amygdali, two strain-specific candidate effectors potentially associated with necrosis induction were identified. In contrast, D. eres was predicted to possess more carbohydrate-active enzymes (CAZymes, 961 vs. 863) and biosynthetic gene clusters (BGCs, 116 vs. 87) than D. amygdali. Mitochondrial genomes differed markedly in size, measuring 49,922 bp in D. amygdali and 93,346 bp in D. eres, despite conserved core gene composition. Phylogenetic analysis based on 15 mitochondrial protein-coding genes placed both strains within Diaporthaceae. These results provide genomic resources for pear-associated Diaporthe species and insights into potential genetic factors underlying pathogenic specialization.",
-   "url": "https://doi.org/10.3390/horticulturae12111394"
-  },
-  {
    "key": "doi:10.3390/molecules31224043",
    "groups": [
     "hardy-kiwi"
@@ -276,9 +295,26 @@
    "title": "Microbiome and metabolome dynamics during postharvest spoilage of persimmon fruit: links between fungal succession and metabolic deterioration",
    "journal": "CyTA - Journal of Food",
    "date": "2026-11-10",
-   "authors": "Jie Wei, Dong-Xue Chen, Xu-Dan Lu, Yan Sun, Zhi Li, Nan-Nan Liu",
+   "authors": "Jie Wei, Dong-Xue Chen, Xu-Dan Lu, Yan Sun, Zhi Li, Nan Liu",
    "abstract": "",
    "url": "https://doi.org/10.1080/19476337.2026.2759342"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12111394",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "803c82a7378584c67f66f128189dba4e2dcf945d",
+   "doi": "10.3390/horticulturae12111394",
+   "pmid": "",
+   "title": "Comparative Genomic Insights into Pathogenicity of Diaporthe amygdali and D. eres Associated with Pear Canker in Korea",
+   "journal": "Horticulturae",
+   "date": "2026-11-10",
+   "authors": "H. Noh, K. Lee, Seong Hwan Kim",
+   "abstract": "Diaporthe species are important fungal pathogens associated with canker and dieback diseases of woody plants, but genomic factors underlying differences in pathogenicity among pear-associated species remain poorly understood. In this study, D. amygdali DUCC20226 and D. eres DUCC15256 were isolated from canker-affected Asian pear (Pyrus pyrifolia) in Korea, representing the first reports of both species causing pear canker in the country. Pathogenicity assays showed that both isolates caused disease symptoms on pear seedlings. High-quality genome assemblies were generated for D. amygdali (49.82 Mb) and D. eres (61.16 Mb), with BUSCO completeness of 98.9% and 98.7%, respectively. Comparative genomic analysis revealed substantial genomic conservation, although strain-specific genes included predicted secreted proteins and candidate effectors. In D. amygdali, two strain-specific candidate effectors potentially associated with necrosis induction were identified. In contrast, D. eres was predicted to possess more carbohydrate-active enzymes (CAZymes, 961 vs. 863) and biosynthetic gene clusters (BGCs, 116 vs. 87) than D. amygdali. Mitochondrial genomes differed markedly in size, measuring 49,922 bp in D. amygdali and 93,346 bp in D. eres, despite conserved core gene composition. Phylogenetic analysis based on 15 mitochondrial protein-coding genes placed both strains within Diaporthaceae. These results provide genomic resources for pear-associated Diaporthe species and insights into potential genetic factors underlying pathogenic specialization.",
+   "url": "https://doi.org/10.3390/horticulturae12111394"
   },
   {
    "key": "doi:10.1038/s41598-026-79871-7",
@@ -430,7 +466,7 @@
    "journal": "Animals",
    "date": "2026-11-06",
    "authors": "Prošić I, Brus M, Delić N, Zdravković N, Radalj A, Petrović T, Gajdov V, Nišavić J, Nikšić A, Milinković M, Damjanović D, Čilerdžić M, Krnjaić D.",
-   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter, whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae. The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
+   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter , whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae . The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
    "url": "https://doi.org/10.3390/ani16213514"
   },
   {
