@@ -1,13 +1,47 @@
 {
- "generated_at": "2026-11-17T20:31:19.982Z",
+ "generated_at": "2026-11-18T20:32:07.807Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 97,
+ "count": 106,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1016/j.ijbiomac.2026.155328",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43044806",
+   "doi": "10.1016/j.ijbiomac.2026.155328",
+   "pmid": "43044806",
+   "title": "Regulation of the physicochemical properties, structure, and long-term retrogradation behavior of Lonicera caerulea berry polyphenol-chestnut starch complexes using high hydrostatic pressure.",
+   "journal": "",
+   "date": "2026-11-17",
+   "authors": "Yang M, Wang X, Chen Y, Lu Z, Liu S, Dong L.",
+   "abstract": "Starch retrogradation affects the quality of starch-based foods. In this study, high hydrostatic pressure (HHP) was used as a nonthermal pretreatment to promote interactions between Lonicera caerulea berry polyphenols (LCBP) and chestnut starch (CS), with particular emphasis on their combined effects on physicochemical, structural, and long-term retrogradation properties over 7 days. HHP treatments at 200, 400, and 600 MPa and LCBP concentrations of 0%, 4%, 8%, and 12% (on a starch dry basis) were evaluated during storage at 4 °C. Based on the complexation index (CI) and Fourier-transform infrared (FTIR) spectroscopy screening results, the 600 MPa-8% LCBP treatment was selected as the representative combined treatment for detailed characterization. FTIR spectroscopy, scanning electron microscopy, and water separation analyses further showed reduced short-range molecular order, relatively loose porous structures, and improved water retention in HHP-treated LCBP-CS systems during storage. After 7 days of refrigerated storage at 4 °C, compared with untreated CS stored under the same conditions, the 600 MPa-8% LCBP treatment reduced the relative crystallinity and enthalpy of recrystallization by 32.24% and 50.98%, respectively, while increasing the calculated nonhydrolyzed fraction by 66.85% (P < 0.05). Correlation analysis showed that a higher complexation index was associated with lower retrogradation-related indices and rapidly digestible starch content, consistent with greater resistance to long-term retrogradation and in vitro enzymatic digestion. This study provides further insights into the effects of HHP-treated LCBP-CS complexes on long-term retrogradation and in vitro digestion behavior.",
+   "url": "https://doi.org/10.1016/j.ijbiomac.2026.155328"
+  },
+  {
+   "key": "doi:10.1021/acsfoodscitech.6c00723",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6d522541a4da70ad127a90a13a9a523b923de3ef",
+   "doi": "10.1021/acsfoodscitech.6c00723",
+   "pmid": "",
+   "title": "Preparation of Humidity-Responsive Thymol Preservative Bags and Application in Storage of Actinidia arguta Fruits ( cv . Longcheng 2)",
+   "journal": "ACS Food Science &amp; Technology",
+   "date": "2026-11-16",
+   "authors": "Jing Ma, Xin-Yuan Guo, Xiao-Xuan Liu, Li-Zheng Yi, Qi-Yun He, Ju-Min Hou",
+   "abstract": "A humidity-responsive preservative system enables on-demand release of thymol with moisture changes due to respiration in the storage atmosphere. Accordingly, a humidity-responsive thymol preservative bag was prepared to preserve Actinidia arguta fruits (cv. Longcheng 2). First, thymol was encapsulated into hydroxypropyl-β-cyclodextrin (HP-β-CD) to form Thymol@HP-β-CD with an encapsulation efficiency of 92.31 ± 4.22%, and it effectively inhibited Escherichia coli and Staphylococcus aureus. Second, a humidity-responsive PVA film was prepared to wrap the Thymol@HP-β-CD powder for fabricating the preservative bag, which could cumulatively release 83.00 ± 9.54% thymol at 90% relative humidity over 15 days. Lastly, the preservative bag was used in Actinidia arguta fruit (cv. Longcheng 2) storage, which could significantly delay visible decay, effectively protecting the appearance, texture, chlorophyll content, and antioxidant ability. The humidity-responsive preservative bags would have great potential in non-contact fruit storage.",
+   "url": "https://doi.org/10.1021/acsfoodscitech.6c00723"
+  },
   {
    "key": "doi:10.1007/s10341-026-02073-y",
    "groups": [
@@ -26,6 +60,125 @@
    "url": "https://doi.org/10.1007/s10341-026-02073-y"
   },
   {
+   "key": "doi:10.3390/agriculture16222517",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "420a4c8a2c9a1b26a2386ec0f9431e3f1a7c627b",
+   "doi": "10.3390/agriculture16222517",
+   "pmid": "",
+   "title": "Predicting Fruit-Drop Severity in ‘Rojo Brillante’ Persimmon: An Ordinal Classification Approach with Implications for Irrigation Scheduling",
+   "journal": "Agriculture",
+   "date": "2026-11-16",
+   "authors": "A. Román, P. González-Altozano, L. Bonet, E. Badal, Miquel Llompart, M. A. Martínez-Gimeno",
+   "abstract": "Physiological fruit drop is a major determinant of crop load and yield in ‘Rojo Brillante’ persimmon and is closely linked to irrigation management, yet its severity has not been addressed as an ordinal prediction problem. This study evaluated whether fortnightly fruit-drop severity, recorded in 2015–2019 in trees grafted onto Diospyros lotus and Diospyros virginiana under different irrigation treatments, could be predicted one fortnight in advance with four ordinal classification algorithms (cumulative link model, LogitBoost, random forest and support vector machine). Nested and reduced predictor sets were evaluated with leave-one-year-out cross-validation against a persistence and a seasonal baseline, with Quadratic Weighted Kappa (QWK) as the pre-specified primary metric. LogitBoost with the complete predictor set achieved the highest agreement (QWK = 0.718), outperforming the persistence baseline (QWK = 0.510) in all five years and the seasonal baseline (QWK = 0.591) in four. Reduced models with cumulative growing degree-days and rootstock reached similar agreement, indicating that predictive ability arises mainly from seasonal phase. In contrast, the previous fruit-drop count and additional agroclimatic predictors improved the discrimination of low and moderate drop. Because irrigation enters the models through the cumulative hydric balance, the approach could support the evaluation of irrigation scenarios, once validated in other orchards.",
+   "url": "https://doi.org/10.3390/agriculture16222517"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1929530",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "a1630e3d68cf17444975fab25e29028520cf686a",
+   "doi": "10.3389/fpls.2026.1929530",
+   "pmid": "",
+   "title": "Genome-wide identification and expression profiling of the 14-3–3 gene family in woodland strawberry (Fragaria vesca) under abiotic stresses and hormone treatments",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-11-16",
+   "authors": "Ting-Ting Fang, Tian-Hong Ni, Chang-Mei Du, Xiang-Xiang Dong, Jian-Hua Yue, Pei-Ling Li",
+   "abstract": "14-3-3 proteins constitute a highly conserved regulatory protein family in eukaryotes, playing indispensable roles in plant growth, development, and stress responses. Although the 14-3–3 gene family has been characterized in many plant species, its identification and involvement in stress responses remain unexplored in Fragaria vesca . In this study, We identified 14-3–3 genes in three Rosaceae genomes, with 8, 9, and 9 members in Fragaria vesca , Rubus occidentalis , and Prunus davidiana , respectively. Subsequently, we conducted a comprehensive analysis of the strawberry gene family, covering their physicochemical properties, phylogeny, chromosomal locations, exon–intron structures, and expression patterns. Multiple sequence alignments and secondary structure predictions of Fv14-3–3 proteins indicated all the members contained nine conserved antiparallel α-helices. Phylogenetic analysis showed that they were categorized into ϵ and non-ϵ groups with four members, respectively. The Fv14-3–3 gene family members were unevenly distributed across the chromosomes, most proteins within each group shared similar conserved motifs, and gene structure analysis showed that gene length and intron number varied greatly among the members within the ϵ group, with FvGF14c having a single-exon structure. Promoter sequence analysis showed that the Fv14-3–3 gene promoters contained more cis-acting elements related to abiotic stress tolerance and phytohormone responses. RNA-seq data showed that Fv14–3–3 genes were expressed in all tissues of strawberry but that their expression patterns were different. Quantitative real-time PCR (qRT-PCR) showed that almost all Fv14-3–3 genes responded to drought, salt, cold, and heat stresses, as well as to SA and ABA, albeit with distinct expression patt…",
+   "url": "https://doi.org/10.3389/fpls.2026.1929530"
+  },
+  {
+   "key": "doi:10.9734/jabb/2026/v29i114688",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "cca6ec70bbc64078912cea0ca05cbc8e0b57aba6",
+   "doi": "10.9734/jabb/2026/v29i114688",
+   "pmid": "",
+   "title": "Environmental Influence on Poplar Leaf Traits: Insights from Principal Component Analysis",
+   "journal": "Journal of Advances in Biology &amp; Biotechnology",
+   "date": "2026-11-16",
+   "authors": "D. Ayate, M. Jain, Jaipal Sharma, Sneha Dobhal, Yogesh Yadavrao Sumthane",
+   "abstract": "The present study evaluated variation in leaf morphological traits of Populus deltoides clones grown at three locations: Naganji Nursery, Nauni; RH&TS, Dhaula Kuan; and Ladhowal, PAU, Ludhiana. Fifteen clones were planted in a randomised block design with three replications at each site, and leaf traits were recorded using measurement scales and UPOV guidelines. The assessed traits included leaf blade length, maximum width, the distance from the petiole junction to the point of maximum leaf width, midrib length, petiole length, the distance from the petiole junction to the leaf base, selected trait ratios, total leaf length, leaf area, the angle between the midrib and the second lower lateral vein, and apex angle. Principal component analysis was used to identify traits contributing to total variation across the combined sites. The first three principal components had eigenvalues greater than unity and together explained 90.07% of the total variation. The first component accounted for 56.52% of the variation and was mainly associated with midrib length, leaf blade length, leaf area, total leaf length, maximum width, and the distance from the petiole junction to the point of maximum leaf width. The second component explained 19.35% of the variation and was mainly associated with petiole length and apex angle, whereas the third component explained 14.20% and was influenced by the distance from the petiole junction to the leaf base and the vein angle. These results indicate that leaf size and shape traits are contributors to morphological variation among poplar clones.",
+   "url": "https://doi.org/10.9734/jabb/2026/v29i114688"
+  },
+  {
+   "key": "doi:10.3329/bjb.v55i30.94515",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "52e2aa719428dd5c3e4149e9b450da1df7bd5a9a",
+   "doi": "10.3329/bjb.v55i30.94515",
+   "pmid": "",
+   "title": "Current status of the fruit industry in beijing based on agricultural big data",
+   "journal": "Bangladesh Journal of Botany",
+   "date": "2026-11-15",
+   "authors": "Zhao-Quan Gao",
+   "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
+   "url": "https://doi.org/10.3329/bjb.v55i30.94515"
+  },
+  {
+   "key": "doi:10.3329/bjb.v55i30.94352",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "c5f808aa7ad6c352a1278b9f1ab171be9cbe6639",
+   "doi": "10.3329/bjb.v55i30.94352",
+   "pmid": "",
+   "title": "Effects of arbuscular mycorrhizal fungi on seedling growth and protective enzyme system of actinidia arguta",
+   "journal": "Bangladesh Journal of Botany",
+   "date": "2026-11-15",
+   "authors": "Wen-Quan Zhang, Qian Dai, Li-Hua Li, Ru-Lai He, Lin Zhu, Yan-Ming Wang",
+   "abstract": "A pot experiment was conducted to evaluate the effects of two arbuscular mycorrhizal fungi (AMF) species, Glomus mosseae (G.m) and G. versiforme (G.v), on the growth, mineral nutrition, photosynthetic performance, and leaf antioxidant enzyme systems of Actinidia arguta seedlings. AMF inoculation significantly enhanced the uptake of N, P and K. Inoculation also substantially improved photosynthetic capacity and elevated the activities of key antioxidant enzymes. G.m inoculation resulted in higher root colonization rates, greater P accumulation, increased chlorophyll concentration, enhanced net photosynthetic rate, and elevated peroxidase (POD) and superoxide dismutase (SOD) activities. In contrast, G.v was more effective in increasing N and K contents, as well as catalase (CAT) activity. AMF inoculation is a promising biotechnological approach to promote the growth and physiological performance of A. arguta seedlings. Bangladesh J. Bot. 55(3): 867-871, 2026 (September) Special",
+   "url": "https://doi.org/10.3329/bjb.v55i30.94352"
+  },
+  {
+   "key": "doi:10.3390/agronomy16222306",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "01b4146f65c920e4bd8d20e40eaf528358a2de07",
+   "doi": "10.3390/agronomy16222306",
+   "pmid": "",
+   "title": "Optimizing Irrigation Salinity for Ziziphus jujuba ‘Dongzao’ Production Through Jujube Yield, Quality and Soil Health in the Yellow River Delta: A Three-Year Field Experiment",
+   "journal": "Agronomy",
+   "date": "2026-11-15",
+   "authors": "Yu-Cai Xie, Rong-Zhen Wang, Zheng-He Xu, X. Cong, G. Pang",
+   "abstract": "Brackish water is usually abundant and regarded as a potential irrigation water resource in the Yellow River Delta, China, but may cause soil salt accumulation and potentially compromise crop quality. The tolerable salinity threshold of irrigation water for Ziziphus jujuba ‘Dongzao’ in saline–alkali soil remains uncertain. To use the brackish water safely and effectively, a comprehensive three-year field investigation (2020–2022) was conducted in Zhanhua, Binzhou, utilizing a drip irrigation system under five irrigation water salinity regimes: 1 g·L−1 (control), 2 g·L−1, 3 g·L−1, 4 g·L−1, and 5 g·L−1. The study systematically evaluated the impact of brackish irrigation on the spatiotemporal distribution of soil salinity, jujube physiological traits, yield, and quality to identify the optimal salinity range for enhanced productivity and resource efficiency. Results showed that increasing salt concentration increased soil conductivity (EC1:5), but rainfall reduced EC1:5. Compared to the first sampling conducted in April 2020, due to the increased rainfall in 2021 and 2022, a balance in soil salinity has been achieved within the 0–100 cm soil layer. Higher salt concentrations reduced jujube branch length and fruit yield, with the most significant decreases occurring at concentrations exceeding 4 g·L−1. Specifically, compared to T1, the yields of T2, T3, T4, and T5 decreased by 0.5% to 6.4%, 2.0% to 8.6%, 5.3% to 14.1%, and 12.1% to 20.3%, respectively, over the three-year period. Interestingly, fruit quality improved as salt concentrations increased, reaching an optimum at 4 g·L−1. At a salinity of 3 g·L−1, physiological indicators such as chlorophyll content, photosynthetic and transpiration rates, and quantum efficiency showed improvements compared with 1 g·L−1. However,…",
+   "url": "https://doi.org/10.3390/agronomy16222306"
+  },
+  {
+   "key": "doi:10.3390/ijms272210217",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "af959941c851f0646be752434b63bffb2cfcda7c",
+   "doi": "10.3390/ijms272210217",
+   "pmid": "",
+   "title": "Identification of the HD-ZIP Transcription Factor Family and Functional Analysis of CmHB40 in Castanea mollissima",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-11-14",
+   "authors": "Yun-He Cheng, Li-Li Cheng, Guang-Long Hu, Qian-Yu Yang, Yan-Ping Lan",
+   "abstract": "Evidence has increasingly shown that the HB53/40/21 clade within HD-ZIP I plays an important role in floral organ development in plants. In this study, we performed genome-wide identification of HD-ZIP family members in Chinese chestnut Castanea mollissima using bioinformatics analysis, cloned the HB53/40/21 homologous gene CmHB40, and analyzed its expression pattern and subcellular localization. Using DAP-seq technology and yeast one-hybrid and dual-luciferase assays, we identified the DNA sequences bound by CmHB40 and its downstream target genes. We also verified the biological function of CmHB40 through heterologous overexpression. Our results demonstrate that CmHB40 shares a conserved molecular structure and DNA-binding capacity with HB53/40/21 homologs from other species. However, in Chinese chestnut, CmHB40 is predominantly expressed in male flowers, where it directly binds to the promoters of pollen exine and cuticular wax biosynthesis genes CmCER1 and CmABCG11, and upregulates their expression. However, overexpression of CmHB40 in Arabidopsisthaliana inhibited petal and stamen development. The expression of GA-related genes AtJUB1 and AtGA2ox2 was upregulated in transgenic individuals. From the above results, we infer that CmHB40 shares a conserved molecular structure with HB53/40/21 homologs from other species. We propose a regulatory model in which CmHB40 participates in flower development by upregulating the expression of CmCER1 and CmABCG11. This inference awaits verification once a genetic transformation system for Chinese chestnut has been established.",
+   "url": "https://doi.org/10.3390/ijms272210217"
+  },
+  {
    "key": "doi:10.1016/j.plaphy.2026.111968",
    "groups": [
     "jujube"
@@ -36,7 +189,7 @@
    "doi": "10.1016/j.plaphy.2026.111968",
    "pmid": "43038869",
    "title": "The ZjGRF3-GIF1 chimeric protein boosts leaf disc regeneration and transformation efficiency in jujube (Ziziphus jujuba Mill.).",
-   "journal": "",
+   "journal": "Plant physiology and biochemistry : PPB",
    "date": "2026-11-14",
    "authors": "Yuan Y, Yang S, Gao Y, Chen Y, Long C, Zhu X, Li M, Cheng S, Zhang Q, Bo W, Pang X.",
    "abstract": "An efficient and stable genetic transformation system is essential for functional genomics and molecular breeding of Chinese jujube (Ziziphus jujuba Mill.), yet poor in vitro regeneration remains a major bottleneck in many germplasms. Here, we evaluated the effects of ZjGRF3 and ZjGIF1 using single-gene overexpression constructs, a ZjGRF3-ZjGIF1 fusion construct, and a miR396 target site-mutated fusion construct. The ZjGRF3-ZjGIF1 fusion promoted regeneration more strongly than either gene expressed alone, while mutation of the miR396 recognition site further increased regeneration efficiency to 72.51% and significantly enhanced transformation efficiency. Analysis of callus induction, adventitious shoot production, and regeneration timing showed that all treatments exhibited 100% callus induction, whereas the major differences occurred during subsequent shoot organogenesis. The fusion constructs increased adventitious shoot number per regenerating callus and accelerated shoot emergence, indicating that their principal effect occurred after callus establishment. Transcriptome profiling of stable ZjGRF3-overexpressing plants revealed broad transcriptional changes associated with redox regulation, secondary metabolism, hormone-related processes, membrane transport, cell division, and cellular organization, providing molecular clues potentially related to ZjGRF3 function. Overall, these results demonstrate that the ZjGRF3-ZjGIF1 module effectively enhances jujube regeneration and transformation, and that miR396 target-site modification further strengthens its regeneration-promoting effect. This study provides a practical genetic strategy for improving jujube transformation and offers a basis for further investigation of GRF-mediated regeneration in woody fruit trees.",
@@ -60,6 +213,23 @@
    "url": "https://doi.org/10.21203/rs.3.rs-11564917/v1"
   },
   {
+   "key": "doi:10.32782/2226-0099.2026.151.32",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "cfce924f5a7f50c5f47d597b4adb8a3c1a3b5367",
+   "doi": "10.32782/2226-0099.2026.151.32",
+   "pmid": "",
+   "title": "Біологічні особливості шкідника жолудів Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae: Olethreutinae: Grapholitini) на Сході України",
+   "journal": "Taurian Scientific Herald",
+   "date": "2026-11-13",
+   "authors": "V. Us",
+   "abstract": "Серед комах-карпофагів жолудів дуба в Україні значне місце посідає сіра плодожерка Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae), яка відома в Європі як шкід- ник плодів різних видів родів Quercus L., Castanea Mill., Juglans L. Біологічні особливості C. splendana досліджені переважно у південних регіонах Європи на плантаціях каштана їстівного. Збагачення відомостей щодо розвитку плодожерки C. splendana в дубових насадженнях на сході України є актуальним з погляду вдосконалення моніторингу стану та захисту врожаю жолудів під час їхнього розвитку. Метою досліджень було встано- вити деякі особливості сезонного розвитку плодожерки C. splendana в дубових насаджен- нях сходу України. Дослідження проведені у 2023–2026 рр. У дослідах використовували жолуді, зібрані у серпні–жовтні 2023–2025 рр. у дубових насадженнях і полезахисних сму- гах Харківської та Полтавської областей. Встановлено, що середній зважений вік гусе- ниць C. splendana становив IV,2 у серпні, IV,3 у вересні, IV,5 у жовтні та IV,8 – у листопаді. Виліт метеликів C. splendana незалежно від дат і температури відбувався у проміжку від 20:00 до 23:30. Виліт метеликів C. splendana з жолудів, перенесених в опалюване примі- щення 10 жовтня 2024 року, розпочався через 138 днів, а переміщених 2 січня та 14 січня 2025 р. – через 114 і 111 днів відповідно. За одночасного перенесення жолудів у листо- паді 2025 р. із природних умов у опалюване та неопалюване приміщення суми ефектив- них температур (СЕТ) (з порогом 10°С) від початку вильоту до вильоту 50 % метеликів C. splendana, становили 510 і 508°С, до вильоту 90 % метеликів – 850 і 868°С, а до вильоту 100 % метеликів – 1000 і 1021,8°С в опалюваному та неопалюваному примі- щеннях відповідно. У польових умовах у 2024 році літ метеликів C. splendana розпочався у …",
+   "url": "https://doi.org/10.32782/2226-0099.2026.151.32"
+  },
+  {
    "key": "doi:10.3389/ffunb.2026.1986615",
    "groups": [
     "chestnut"
@@ -75,6 +245,23 @@
    "authors": "Ivana Đokić, N. Unković, M. Ljaljević-Grbić, Milan Gavrilović, A. Oskolski, P. Janaćković",
    "abstract": "An archeological discovery, a well-preserved ancient monoxyle dated from the first century BCE to the first century CE and a fifteenth- to seventeenth-century shipwreck, excavated at the Drmno open-pit coal mine, created a unique opportunity for the fungal-induced deterioration of newly excavated archaeological wooden artifacts to be studied in Serbia for the first time. The monoxyle was carved from a single tree trunk of Pinus nigra or Pinus sylvestris , while two shipwreck wooden samples were shown to be Castanea sativa and Quercus (White Oaks group). Despite identical semihypogean conditions favorable for fungal colonization, the artifacts responded differently: the monoxyle showed extensive decay, predominantly by the brown rot fungus Coniophora puteana , with additional symptoms linked to Mortierellaceae and Niesslia sp., while the shipwreck lacked visible damage, although microscopic evidence revealed Niesslia , Cephalotrichum , and other fungi. Based on the documented fungal structures, both objects have, to an extent, shared a deteriogenic mycobiome. Most of the fungi documented on monoxyle and shipwreck are associated with soft rot, or are often linked with decayed wood. Likewise, many observed species are known to be associated with archeological wooden artifacts and to produce an array of lignocellulolytic enzymes, while the up-to-date published literature suggests that this is the first report of soft rot fungi Microascus melanosporus and Pseudogymnoascus sp. being documented on archeological wood. Understanding the site-specific fungal communities and the environmental conditions to which the objects are exposed, and identifying the wood species of artifacts, are crucial, as this information directly informs the selection of appropriate and effective conser…",
    "url": "https://doi.org/10.3389/ffunb.2026.1986615"
+  },
+  {
+   "key": "doi:10.33380/2305-2066-2026-15-4-2294",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0ff1213eab04a5527aa815e51aeabc823672ebbd",
+   "doi": "10.33380/2305-2066-2026-15-4-2294",
+   "pmid": "",
+   "title": "Development and validation of a method for quantitative determination of saponins in Aesculus hippocastanum L. flowers",
+   "journal": "Drug development &amp; registration",
+   "date": "2026-11-13",
+   "authors": "A. Dunilin, O. V. Trineeva",
+   "abstract": "Introduction. Saponins are an extensive class of natural glycosides that perform important functions in plant life processes. Horse chestnut ( Aesculus hippocastanum L.), a plant of the genus Aesculus L., family Hippocastanaceae Burnett, is a promising medicinal plant. In official medicine, chestnut seeds are used as a venotonic and capillary-protective agent due to the complex of triterpene saponins contained in them, the main active ingredient of which is the glycoside β-escin. In folk medicine, flowers, leaves, bark, buds and capsules of chestnut are also used. Horse chestnut flowers contain a wide range of biologically active substances (BAS), which makes them a promising type of medicinal plant raw materials (MPRM) with a pronounced therapeutic potential. However, the group of triterpene saponins in their composition remains insufficiently studied. Aim. To develop and validate a spectrophotometric method for determining saponins in horse chestnut flowers, as well as to test it on raw materials from various growing regions to scientifically substantiate raw material quality standards. Materials and methods. The study involved air-dried horse chestnut flowers harvested in the Petrozavodsk urban district, Leningrad, Moscow, Voronezh, and Volgograd regions, and Stavropol Krai during the mass flowering period (May — June) in 2024. To quantify the total saponin content as β-escin, a spectrophotometric method was adapted. This method involves oxidation with concentrated sulfuric acid, accompanied by dehydration, which leads to the formation of colored quinoid structures. Optical density was measured using an SF-2000 spectrophotometer in the wavelength range of 250—450 nm. The method was validated in accordance with the general pharmacopoeial article (PA) \"Validation of an…",
+   "url": "https://doi.org/10.33380/2305-2066-2026-15-4-2294"
   },
   {
    "key": "doi:10.1093/hr/uhag480",
@@ -106,7 +293,7 @@
    "title": "In Silico Evaluation of Restriction-Enzyme Strategies for Genotyping-By-Sequencing (GBS) in Persimmon (Diospyros Kaki Thunb.)",
    "journal": "Horticultural Science and Technology",
    "date": "2026-11-13",
-   "authors": "Sopheap Mao, Hyegyoung Yoo, Byulhana Lee, K. Won",
+   "authors": "Sopheap Mao, Hyegyoung Yoo, B. Lee, K. Won",
    "abstract": "",
    "url": "https://doi.org/10.7235/hort.20260054"
   },
@@ -1622,40 +1809,6 @@
    "authors": "M. Aslam, M. Khan, I. Muhammad, A. Huma, Sana Ghayas, S. Alam",
    "abstract": "Antimicrobial resistance, driven by antimicrobial misuse and declining therapeutic innovation, poses a critical global health challenge. This study evaluated the physicochemical profiles and antimicrobial efficacy of five monofloral Pakistani honeys, namely Helianthus annuus L. (Sunflower), Ziziphus jujuba (Beri), Acacia modesta (Phulai), Justicia adhatoda L. (Baikar), and Brassica spp. (Mustard), alongside Leptospermum scoparium (Manuka) honey containing methylglyoxal (MGO 550+), against Staphylococcus aureus American Type Culture Collection (ATCC 6538) and Escherichia coli (ATCC 8739). Physicochemical properties were assessed according to AOAC guidelines, whereas antibacterial activity was determined using agar well diffusion and broth microdilution assays. Quality parameters across the honey varieties met international standards, with ranges of 28.9-78.2 mm Pfund for color, 3.36-4.20 for pH, 29.6-43.5 meq/kg for acidity, 16.0%-19.2% for moisture, 0.14-0.43 g/100 g for ash, 6.0-6.7 g/100 g for sucrose, 76.0-81.6 g/100 g for total sugars, 0.28-0.65 mS/cm for electrical conductivity, and 21.2-40.0 mg/kg for hydroxymethylfurfural. Proline content (≥180 mg/kg), diastase numbers (DN) (10.0 ± 0.46 to 39.32 ± 0.58 DN), and invertase activity IN (63.00 ± 8.70 to 75.33 ± 5.70 IN) confirmed the freshness and purity of the honeys. In diffusion assays, Manuka honey produced the largest inhibition zones against E. coli (13.40 mm) and S. aureus (14.40 mm). Among the local varieties, Mustard honey showed strong activity against E. coli (13.40 mm), whereas Baikar honey showed the greatest activity against S. aureus (13.90 mm); Sunflower honey showed the lowest efficacy against E. coli (8.90 mm). The lowest minimum inhibitory concentrations (MICs) were recorded for Manuka honey (7.8% …",
    "url": "https://doi.org/10.22207/jpam.20.4.16"
-  },
-  {
-   "key": "doi:10.54097/pwanqz92",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "47a8208a2ec698866032ce6dd30cc3f3fc9fb6c3",
-   "doi": "10.54097/pwanqz92",
-   "pmid": "",
-   "title": "Research on Image Enhancement of Crisp-Ripe Stage Red Jujube Based on Particle Swarm Optimization Algorithm",
-   "journal": "Journal of Innovation and Development",
-   "date": "2026-10-27",
-   "authors": "Qi-Hang Yuan, Long Wang, Lu Shi, Qiao-Nan Yang, Yong-De Zhang",
-   "abstract": "Machine vision technology plays a crucial role in non-destructive detection and online monitoring of deep processing for red dates during the crisp-ripe stage. However, due to factors such as uneven illumination in the collection environment and illumination attenuation on the curved surface of quasi-spherical objects, the collected images of red dates during the crisp-ripe stage often suffer from issues such as low overall image quality, difficulty in recognizing epidermal fruit spots and fine textures, low contrast between fruit surface crack defects and normal fruit surfaces, and blurred fruit body edges, which increase the difficulty of accurately identifying fruit surface features. In response to the common problems of over-enhancement and loss of details in current image enhancement methods when processing images of red dates during the crisp-ripe stage, this paper combines the practical requirements of preserving details of the fruit body and crack edges, enhancing epidermal texture clarity, balancing contrast and noise, and constructs a multi-dimensional image enhancement fitness function. A method for enhancing images of red dates during the crisp-ripe stage based on the Particle Swarm Optimization (PSO) algorithm is proposed. Through comparative experiments on image enhancement of red dates during the crisp-ripe stage, the effectiveness and superiority of the proposed image enhancement method are verified from both subjective visual effects and objective evaluation indicators.",
-   "url": "https://doi.org/10.54097/pwanqz92"
-  },
-  {
-   "key": "t:genome wide analysis of the gata gene family in castanea mollissima reveals key regulators involved in salt stress respo",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "PMC13696283",
-   "doi": "",
-   "pmid": "",
-   "title": "Genome-wide analysis of the GATA gene family in Castanea mollissima reveals key regulators involved in salt stress response",
-   "journal": "",
-   "date": "2026-10-27",
-   "authors": "Wang X, Liu X, Liu J, Niu L, Quan H, Zhang T, Li Q, Zhang G, Yu L.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13696283/?tool=EBI"
   }
  ]
 }
