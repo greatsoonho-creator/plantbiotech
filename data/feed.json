@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-11-18T20:32:07.807Z",
+ "generated_at": "2026-11-19T20:33:54.866Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 106,
- "errors": [],
+ "count": 104,
+ "errors": [
+  "semanticscholar:chestnut: HTTP 429",
+  "semanticscholar:dus-pvp: HTTP 429"
+ ],
  "items": [
+  {
+   "key": "doi:10.1002/ece3.74750",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43047807",
+   "doi": "10.1002/ece3.74750",
+   "pmid": "43047807",
+   "title": "Shifts in Biomass Allocation and Trait Correlations Under the Combined Effects of Drought and Shade.",
+   "journal": "",
+   "date": "2026-11-17",
+   "authors": "Fazlioglu F, Higgins S.",
+   "abstract": "Biomass allocation in plants is mainly interpreted through two major theories: Allometric Partitioning Theory (APT) and Optimal Partitioning Theory (OPT). Under a specific environmental condition where drought and shade co-occur, biomass allocation can also be explained by trade-off, facilitation, and uncoupled hypotheses. These theories and hypotheses make contradictory predictions regarding the direction of biomass allocation to above- versus belowground organs. Because empirical support can be found for each of them, it remains unresolved which framework better explains biomass allocation strategies under combined effects of drought and shade. Moreover, we lack a unified understanding of how these frameworks may integrate. To test these five frameworks, we examined three Fagaceae species with contrasting tolerances: drought-tolerant Quercus pubescens , shade-tolerant Fagus sylvatica , and Castanea sativa with moderate shade and drought tolerance. We conducted a greenhouse experiment to detect seedling responses to simulated drought and shade using an experimental design controlling water-table gradients, light quality and quantity. We analyzed aboveground growth via LiDAR, aboveground/belowground biomass allocations, and resource acquisition strategies of these three species. We found that individual seedling responses were highly nuanced along continuous gradients, and no single theory and hypothesis adequately explained the observed biomass allocation. Moreover, we developed a novel decision chart that systematically links these disparate theories and hypotheses, rather than treating them as mutually exclusive frameworks.",
+   "url": "https://doi.org/10.1002/ece3.74750"
+  },
   {
    "key": "doi:10.1016/j.ijbiomac.2026.155328",
    "groups": [
@@ -111,23 +131,6 @@
    "url": "https://doi.org/10.9734/jabb/2026/v29i114688"
   },
   {
-   "key": "doi:10.3329/bjb.v55i30.94515",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "52e2aa719428dd5c3e4149e9b450da1df7bd5a9a",
-   "doi": "10.3329/bjb.v55i30.94515",
-   "pmid": "",
-   "title": "Current status of the fruit industry in beijing based on agricultural big data",
-   "journal": "Bangladesh Journal of Botany",
-   "date": "2026-11-15",
-   "authors": "Zhao-Quan Gao",
-   "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
-   "url": "https://doi.org/10.3329/bjb.v55i30.94515"
-  },
-  {
    "key": "doi:10.3329/bjb.v55i30.94352",
    "groups": [
     "hardy-kiwi"
@@ -162,21 +165,21 @@
    "url": "https://doi.org/10.3390/agronomy16222306"
   },
   {
-   "key": "doi:10.3390/ijms272210217",
+   "key": "doi:10.3329/bjb.v55i30.94515",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "semanticscholar",
-   "id": "af959941c851f0646be752434b63bffb2cfcda7c",
-   "doi": "10.3390/ijms272210217",
+   "id": "52e2aa719428dd5c3e4149e9b450da1df7bd5a9a",
+   "doi": "10.3329/bjb.v55i30.94515",
    "pmid": "",
-   "title": "Identification of the HD-ZIP Transcription Factor Family and Functional Analysis of CmHB40 in Castanea mollissima",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-11-14",
-   "authors": "Yun-He Cheng, Li-Li Cheng, Guang-Long Hu, Qian-Yu Yang, Yan-Ping Lan",
-   "abstract": "Evidence has increasingly shown that the HB53/40/21 clade within HD-ZIP I plays an important role in floral organ development in plants. In this study, we performed genome-wide identification of HD-ZIP family members in Chinese chestnut Castanea mollissima using bioinformatics analysis, cloned the HB53/40/21 homologous gene CmHB40, and analyzed its expression pattern and subcellular localization. Using DAP-seq technology and yeast one-hybrid and dual-luciferase assays, we identified the DNA sequences bound by CmHB40 and its downstream target genes. We also verified the biological function of CmHB40 through heterologous overexpression. Our results demonstrate that CmHB40 shares a conserved molecular structure and DNA-binding capacity with HB53/40/21 homologs from other species. However, in Chinese chestnut, CmHB40 is predominantly expressed in male flowers, where it directly binds to the promoters of pollen exine and cuticular wax biosynthesis genes CmCER1 and CmABCG11, and upregulates their expression. However, overexpression of CmHB40 in Arabidopsisthaliana inhibited petal and stamen development. The expression of GA-related genes AtJUB1 and AtGA2ox2 was upregulated in transgenic individuals. From the above results, we infer that CmHB40 shares a conserved molecular structure with HB53/40/21 homologs from other species. We propose a regulatory model in which CmHB40 participates in flower development by upregulating the expression of CmCER1 and CmABCG11. This inference awaits verification once a genetic transformation system for Chinese chestnut has been established.",
-   "url": "https://doi.org/10.3390/ijms272210217"
+   "title": "Current status of the fruit industry in beijing based on agricultural big data",
+   "journal": "Bangladesh Journal of Botany",
+   "date": "2026-11-15",
+   "authors": "Zhao-Quan Gao",
+   "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
+   "url": "https://doi.org/10.3329/bjb.v55i30.94515"
   },
   {
    "key": "doi:10.1016/j.plaphy.2026.111968",
@@ -196,6 +199,23 @@
    "url": "https://doi.org/10.1016/j.plaphy.2026.111968"
   },
   {
+   "key": "doi:10.3390/ijms272210217",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "af959941c851f0646be752434b63bffb2cfcda7c",
+   "doi": "10.3390/ijms272210217",
+   "pmid": "",
+   "title": "Identification of the HD-ZIP Transcription Factor Family and Functional Analysis of CmHB40 in Castanea mollissima",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-11-14",
+   "authors": "Yun-He Cheng, Li-Li Cheng, Guang-Long Hu, Qian-Yu Yang, Yan-Ping Lan",
+   "abstract": "Evidence has increasingly shown that the HB53/40/21 clade within HD-ZIP I plays an important role in floral organ development in plants. In this study, we performed genome-wide identification of HD-ZIP family members in Chinese chestnut Castanea mollissima using bioinformatics analysis, cloned the HB53/40/21 homologous gene CmHB40, and analyzed its expression pattern and subcellular localization. Using DAP-seq technology and yeast one-hybrid and dual-luciferase assays, we identified the DNA sequences bound by CmHB40 and its downstream target genes. We also verified the biological function of CmHB40 through heterologous overexpression. Our results demonstrate that CmHB40 shares a conserved molecular structure and DNA-binding capacity with HB53/40/21 homologs from other species. However, in Chinese chestnut, CmHB40 is predominantly expressed in male flowers, where it directly binds to the promoters of pollen exine and cuticular wax biosynthesis genes CmCER1 and CmABCG11, and upregulates their expression. However, overexpression of CmHB40 in Arabidopsisthaliana inhibited petal and stamen development. The expression of GA-related genes AtJUB1 and AtGA2ox2 was upregulated in transgenic individuals. From the above results, we infer that CmHB40 shares a conserved molecular structure with HB53/40/21 homologs from other species. We propose a regulatory model in which CmHB40 participates in flower development by upregulating the expression of CmCER1 and CmABCG11. This inference awaits verification once a genetic transformation system for Chinese chestnut has been established.",
+   "url": "https://doi.org/10.3390/ijms272210217"
+  },
+  {
    "key": "doi:10.21203/rs.3.rs-11564917/v1",
    "groups": [
     "chestnut"
@@ -211,57 +231,6 @@
    "authors": "Dey B, Depp C, Gu Y, Novelli A, Fuchs H, Hohaus T, Pfannerstill EY.",
    "abstract": "Abstract Climate change increases the severity and frequency of heat and oxidative stress that plants experience, yet their simultaneous effects on biogenic volatile organic compounds (BVOCs) emissions remains poorly understood, complicating the predictability of future air quality and climate. Here, canopy BVOC emissions from linden and chestnut trees were measured over a continuous two-month chamber experiment without stress, heat stress, and combined O₃ and heat stress. To untangle stress-associated BVOC fingerprints, we developed an unsupervised uncertainty-weighted fuzzy c-means (UWFCM) algorithm that directly incorporates compound- and measurement-specific analytical uncertainties into clustering. UWFCM identified monoterpenes (increased up to 3-fold) and sesquiterpenes (up to 22-fold) as the primary heat-stress markers in both species, while increased diterpenes characterized combined O₃ and heat stress in linden. Stress-induced de novo emissions resulted in carbon loss up to ~ 14% of net daytime carbon fixation, a substantial stress-related carbon reallocation. The temperature sensitivity of terpenoid emissions was strongly stress-dependent. These findings have important implications for global BVOC parameterizations, estimates of daytime NO x -driven ozone chemistry and secondary organic aerosol formation under future climate extremes.",
    "url": "https://doi.org/10.21203/rs.3.rs-11564917/v1"
-  },
-  {
-   "key": "doi:10.32782/2226-0099.2026.151.32",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "cfce924f5a7f50c5f47d597b4adb8a3c1a3b5367",
-   "doi": "10.32782/2226-0099.2026.151.32",
-   "pmid": "",
-   "title": "Біологічні особливості шкідника жолудів Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae: Olethreutinae: Grapholitini) на Сході України",
-   "journal": "Taurian Scientific Herald",
-   "date": "2026-11-13",
-   "authors": "V. Us",
-   "abstract": "Серед комах-карпофагів жолудів дуба в Україні значне місце посідає сіра плодожерка Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae), яка відома в Європі як шкід- ник плодів різних видів родів Quercus L., Castanea Mill., Juglans L. Біологічні особливості C. splendana досліджені переважно у південних регіонах Європи на плантаціях каштана їстівного. Збагачення відомостей щодо розвитку плодожерки C. splendana в дубових насадженнях на сході України є актуальним з погляду вдосконалення моніторингу стану та захисту врожаю жолудів під час їхнього розвитку. Метою досліджень було встано- вити деякі особливості сезонного розвитку плодожерки C. splendana в дубових насаджен- нях сходу України. Дослідження проведені у 2023–2026 рр. У дослідах використовували жолуді, зібрані у серпні–жовтні 2023–2025 рр. у дубових насадженнях і полезахисних сму- гах Харківської та Полтавської областей. Встановлено, що середній зважений вік гусе- ниць C. splendana становив IV,2 у серпні, IV,3 у вересні, IV,5 у жовтні та IV,8 – у листопаді. Виліт метеликів C. splendana незалежно від дат і температури відбувався у проміжку від 20:00 до 23:30. Виліт метеликів C. splendana з жолудів, перенесених в опалюване примі- щення 10 жовтня 2024 року, розпочався через 138 днів, а переміщених 2 січня та 14 січня 2025 р. – через 114 і 111 днів відповідно. За одночасного перенесення жолудів у листо- паді 2025 р. із природних умов у опалюване та неопалюване приміщення суми ефектив- них температур (СЕТ) (з порогом 10°С) від початку вильоту до вильоту 50 % метеликів C. splendana, становили 510 і 508°С, до вильоту 90 % метеликів – 850 і 868°С, а до вильоту 100 % метеликів – 1000 і 1021,8°С в опалюваному та неопалюваному примі- щеннях відповідно. У польових умовах у 2024 році літ метеликів C. splendana розпочався у …",
-   "url": "https://doi.org/10.32782/2226-0099.2026.151.32"
-  },
-  {
-   "key": "doi:10.3389/ffunb.2026.1986615",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "8bb1e5da9b3b993418a5fd1a23910c53fec847c4",
-   "doi": "10.3389/ffunb.2026.1986615",
-   "pmid": "",
-   "title": "Susceptibility to fungal deterioration of an ancient monoxyl and a medieval shipwreck under postexcavation environmental stress",
-   "journal": "Frontiers in Fungal Biology",
-   "date": "2026-11-13",
-   "authors": "Ivana Đokić, N. Unković, M. Ljaljević-Grbić, Milan Gavrilović, A. Oskolski, P. Janaćković",
-   "abstract": "An archeological discovery, a well-preserved ancient monoxyle dated from the first century BCE to the first century CE and a fifteenth- to seventeenth-century shipwreck, excavated at the Drmno open-pit coal mine, created a unique opportunity for the fungal-induced deterioration of newly excavated archaeological wooden artifacts to be studied in Serbia for the first time. The monoxyle was carved from a single tree trunk of Pinus nigra or Pinus sylvestris , while two shipwreck wooden samples were shown to be Castanea sativa and Quercus (White Oaks group). Despite identical semihypogean conditions favorable for fungal colonization, the artifacts responded differently: the monoxyle showed extensive decay, predominantly by the brown rot fungus Coniophora puteana , with additional symptoms linked to Mortierellaceae and Niesslia sp., while the shipwreck lacked visible damage, although microscopic evidence revealed Niesslia , Cephalotrichum , and other fungi. Based on the documented fungal structures, both objects have, to an extent, shared a deteriogenic mycobiome. Most of the fungi documented on monoxyle and shipwreck are associated with soft rot, or are often linked with decayed wood. Likewise, many observed species are known to be associated with archeological wooden artifacts and to produce an array of lignocellulolytic enzymes, while the up-to-date published literature suggests that this is the first report of soft rot fungi Microascus melanosporus and Pseudogymnoascus sp. being documented on archeological wood. Understanding the site-specific fungal communities and the environmental conditions to which the objects are exposed, and identifying the wood species of artifacts, are crucial, as this information directly informs the selection of appropriate and effective conser…",
-   "url": "https://doi.org/10.3389/ffunb.2026.1986615"
-  },
-  {
-   "key": "doi:10.33380/2305-2066-2026-15-4-2294",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "0ff1213eab04a5527aa815e51aeabc823672ebbd",
-   "doi": "10.33380/2305-2066-2026-15-4-2294",
-   "pmid": "",
-   "title": "Development and validation of a method for quantitative determination of saponins in Aesculus hippocastanum L. flowers",
-   "journal": "Drug development &amp; registration",
-   "date": "2026-11-13",
-   "authors": "A. Dunilin, O. V. Trineeva",
-   "abstract": "Introduction. Saponins are an extensive class of natural glycosides that perform important functions in plant life processes. Horse chestnut ( Aesculus hippocastanum L.), a plant of the genus Aesculus L., family Hippocastanaceae Burnett, is a promising medicinal plant. In official medicine, chestnut seeds are used as a venotonic and capillary-protective agent due to the complex of triterpene saponins contained in them, the main active ingredient of which is the glycoside β-escin. In folk medicine, flowers, leaves, bark, buds and capsules of chestnut are also used. Horse chestnut flowers contain a wide range of biologically active substances (BAS), which makes them a promising type of medicinal plant raw materials (MPRM) with a pronounced therapeutic potential. However, the group of triterpene saponins in their composition remains insufficiently studied. Aim. To develop and validate a spectrophotometric method for determining saponins in horse chestnut flowers, as well as to test it on raw materials from various growing regions to scientifically substantiate raw material quality standards. Materials and methods. The study involved air-dried horse chestnut flowers harvested in the Petrozavodsk urban district, Leningrad, Moscow, Voronezh, and Volgograd regions, and Stavropol Krai during the mass flowering period (May — June) in 2024. To quantify the total saponin content as β-escin, a spectrophotometric method was adapted. This method involves oxidation with concentrated sulfuric acid, accompanied by dehydration, which leads to the formation of colored quinoid structures. Optical density was measured using an SF-2000 spectrophotometer in the wavelength range of 250—450 nm. The method was validated in accordance with the general pharmacopoeial article (PA) \"Validation of an…",
-   "url": "https://doi.org/10.33380/2305-2066-2026-15-4-2294"
   },
   {
    "key": "doi:10.1093/hr/uhag480",
@@ -315,6 +284,57 @@
    "url": "https://doi.org/10.1094/pdis-06-26-1241-re"
   },
   {
+   "key": "doi:10.32782/2226-0099.2026.151.32",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "cfce924f5a7f50c5f47d597b4adb8a3c1a3b5367",
+   "doi": "10.32782/2226-0099.2026.151.32",
+   "pmid": "",
+   "title": "Біологічні особливості шкідника жолудів Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae: Olethreutinae: Grapholitini) на Сході України",
+   "journal": "Taurian Scientific Herald",
+   "date": "2026-11-13",
+   "authors": "V. Us",
+   "abstract": "Серед комах-карпофагів жолудів дуба в Україні значне місце посідає сіра плодожерка Cydia splendana (Hübner, 1799) (Lepidoptera: Tortricidae), яка відома в Європі як шкід- ник плодів різних видів родів Quercus L., Castanea Mill., Juglans L. Біологічні особливості C. splendana досліджені переважно у південних регіонах Європи на плантаціях каштана їстівного. Збагачення відомостей щодо розвитку плодожерки C. splendana в дубових насадженнях на сході України є актуальним з погляду вдосконалення моніторингу стану та захисту врожаю жолудів під час їхнього розвитку. Метою досліджень було встано- вити деякі особливості сезонного розвитку плодожерки C. splendana в дубових насаджен- нях сходу України. Дослідження проведені у 2023–2026 рр. У дослідах використовували жолуді, зібрані у серпні–жовтні 2023–2025 рр. у дубових насадженнях і полезахисних сму- гах Харківської та Полтавської областей. Встановлено, що середній зважений вік гусе- ниць C. splendana становив IV,2 у серпні, IV,3 у вересні, IV,5 у жовтні та IV,8 – у листопаді. Виліт метеликів C. splendana незалежно від дат і температури відбувався у проміжку від 20:00 до 23:30. Виліт метеликів C. splendana з жолудів, перенесених в опалюване примі- щення 10 жовтня 2024 року, розпочався через 138 днів, а переміщених 2 січня та 14 січня 2025 р. – через 114 і 111 днів відповідно. За одночасного перенесення жолудів у листо- паді 2025 р. із природних умов у опалюване та неопалюване приміщення суми ефектив- них температур (СЕТ) (з порогом 10°С) від початку вильоту до вильоту 50 % метеликів C. splendana, становили 510 і 508°С, до вильоту 90 % метеликів – 850 і 868°С, а до вильоту 100 % метеликів – 1000 і 1021,8°С в опалюваному та неопалюваному примі- щеннях відповідно. У польових умовах у 2024 році літ метеликів C. splendana розпочався у …",
+   "url": "https://doi.org/10.32782/2226-0099.2026.151.32"
+  },
+  {
+   "key": "doi:10.3389/ffunb.2026.1986615",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "8bb1e5da9b3b993418a5fd1a23910c53fec847c4",
+   "doi": "10.3389/ffunb.2026.1986615",
+   "pmid": "",
+   "title": "Susceptibility to fungal deterioration of an ancient monoxyl and a medieval shipwreck under postexcavation environmental stress",
+   "journal": "Frontiers in Fungal Biology",
+   "date": "2026-11-13",
+   "authors": "Ivana Đokić, N. Unković, M. Ljaljević-Grbić, Milan Gavrilović, A. Oskolski, P. Janaćković",
+   "abstract": "An archeological discovery, a well-preserved ancient monoxyle dated from the first century BCE to the first century CE and a fifteenth- to seventeenth-century shipwreck, excavated at the Drmno open-pit coal mine, created a unique opportunity for the fungal-induced deterioration of newly excavated archaeological wooden artifacts to be studied in Serbia for the first time. The monoxyle was carved from a single tree trunk of Pinus nigra or Pinus sylvestris , while two shipwreck wooden samples were shown to be Castanea sativa and Quercus (White Oaks group). Despite identical semihypogean conditions favorable for fungal colonization, the artifacts responded differently: the monoxyle showed extensive decay, predominantly by the brown rot fungus Coniophora puteana , with additional symptoms linked to Mortierellaceae and Niesslia sp., while the shipwreck lacked visible damage, although microscopic evidence revealed Niesslia , Cephalotrichum , and other fungi. Based on the documented fungal structures, both objects have, to an extent, shared a deteriogenic mycobiome. Most of the fungi documented on monoxyle and shipwreck are associated with soft rot, or are often linked with decayed wood. Likewise, many observed species are known to be associated with archeological wooden artifacts and to produce an array of lignocellulolytic enzymes, while the up-to-date published literature suggests that this is the first report of soft rot fungi Microascus melanosporus and Pseudogymnoascus sp. being documented on archeological wood. Understanding the site-specific fungal communities and the environmental conditions to which the objects are exposed, and identifying the wood species of artifacts, are crucial, as this information directly informs the selection of appropriate and effective conser…",
+   "url": "https://doi.org/10.3389/ffunb.2026.1986615"
+  },
+  {
+   "key": "doi:10.33380/2305-2066-2026-15-4-2294",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0ff1213eab04a5527aa815e51aeabc823672ebbd",
+   "doi": "10.33380/2305-2066-2026-15-4-2294",
+   "pmid": "",
+   "title": "Development and validation of a method for quantitative determination of saponins in Aesculus hippocastanum L. flowers",
+   "journal": "Drug development &amp; registration",
+   "date": "2026-11-13",
+   "authors": "A. Dunilin, O. V. Trineeva",
+   "abstract": "Introduction. Saponins are an extensive class of natural glycosides that perform important functions in plant life processes. Horse chestnut ( Aesculus hippocastanum L.), a plant of the genus Aesculus L., family Hippocastanaceae Burnett, is a promising medicinal plant. In official medicine, chestnut seeds are used as a venotonic and capillary-protective agent due to the complex of triterpene saponins contained in them, the main active ingredient of which is the glycoside β-escin. In folk medicine, flowers, leaves, bark, buds and capsules of chestnut are also used. Horse chestnut flowers contain a wide range of biologically active substances (BAS), which makes them a promising type of medicinal plant raw materials (MPRM) with a pronounced therapeutic potential. However, the group of triterpene saponins in their composition remains insufficiently studied. Aim. To develop and validate a spectrophotometric method for determining saponins in horse chestnut flowers, as well as to test it on raw materials from various growing regions to scientifically substantiate raw material quality standards. Materials and methods. The study involved air-dried horse chestnut flowers harvested in the Petrozavodsk urban district, Leningrad, Moscow, Voronezh, and Volgograd regions, and Stavropol Krai during the mass flowering period (May — June) in 2024. To quantify the total saponin content as β-escin, a spectrophotometric method was adapted. This method involves oxidation with concentrated sulfuric acid, accompanied by dehydration, which leads to the formation of colored quinoid structures. Optical density was measured using an SF-2000 spectrophotometer in the wavelength range of 250—450 nm. The method was validated in accordance with the general pharmacopoeial article (PA) \"Validation of an…",
+   "url": "https://doi.org/10.33380/2305-2066-2026-15-4-2294"
+  },
+  {
    "key": "doi:10.21203/rs.3.rs-11340609/v1",
    "groups": [
     "chestnut"
@@ -330,23 +350,6 @@
    "authors": "Marques T, Ferreira-Pinto A, Pinto T, Gomes-Laranjo J.",
    "abstract": "Abstract Drought is an increasingly important constraint for chestnut cultivation in Mediterranean regions, where recurrent summer water deficits can restrict plant performance and compromise recovery after stress release. In Castanea sativa Mill., drought resilience depends on the coordinated adjustment of physiological and biochemical traits rather than on the behaviour of a single marker. This study evaluated three Portuguese chestnut cultivars, Judia, Longal, and Martaínha, grafted onto CA-90 rootstock, together with non-grafted CA-90 plants, under controlled drought and rewatering conditions. Plants were assessed at the initial irrigated phase (IP), after 7 days of irrigation withdrawal (NIP), and after 30 days of rewatering (RIP). Net photosynthesis, transpiration, leaf temperature, soluble sugars, starch, soluble proteins, electrolyte leakage, catalase (CAT), ascorbate peroxidase (APX), total phenolic compounds, total flavonoids, and ferric reducing antioxidant power (FRAP) were analysed. Drought reduced gas exchange in all plant materials and increased leaf temperature, indicating marked functional impairment under water deficit. Longal and Martaínha maintained comparatively higher physiological performance during drought and showed the strongest recovery after rewatering, whereas CA-90 displayed the lowest gas-exchange rates, greater starch depletion, and higher membrane damage. Soluble sugars, soluble proteins, CAT, and APX increased during drought, while starch declined in all cultivars. In contrast, phenolics, flavonoids, and FRAP decreased under water deficit and recovered partially or substantially after rewatering. Overall, the results show that drought resilience in chestnut is a dynamic trait shaped by the integration of gas exchange regulation, carbon …",
    "url": "https://doi.org/10.21203/rs.3.rs-11340609/v1"
-  },
-  {
-   "key": "doi:10.3390/molecules31224077",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "96a7ad7c63b3702cfc5fe4aeefdba19eba2e6c77",
-   "doi": "10.3390/molecules31224077",
-   "pmid": "",
-   "title": "Unveiling the Chemical Signature of Abruzzo Bee Pollen: Markers of Authenticity, Bioactive Phytochemicals and Antioxidant Activity",
-   "journal": "Molecules",
-   "date": "2026-11-12",
-   "authors": "Chiara Collevecchio, F. Epifano, S. Genovese, Serena Fiorito",
-   "abstract": "Bee pollen is a complex natural matrix rich in bioactive compounds, a valuable source with high nutritional value. Its chemical composition is highly variable and is influenced by botanical origin and geographical area, posing significant challenges for quality control and authentication. In this study, the volatile and semi-volatile fingerprints of Abruzzo bee pollen samples were investigated by HS–GC–MS and GC–MS, enabling the identification of 61 compounds. GC–MS profiling revealed distinct chemical patterns among the investigated bee-pollen samples, with multifloral samples (MP7–MP13) and chestnut pollen (CP1–CP2) showing a similar profile associated with the occurrence of linoleic acid. Moreover, the aldehydic volatile fingerprint further contributed potential chemical markers of botanical and territorial origin, particularly hexanal and nonanal, which may represent characteristic volatile markers of this botanical source, while 3-methylbutanal as well as sulphureous compounds contributed to the distinctive volatile profile of MP1 and MP2. These latter exhibited a distinctive phytochemical profile characterized by umbelliferon (UMB) and 7-isopentenyloxycoumarin (7-IPC), compounds with recognized bioactive properties that may contribute to the functional value of bee pollen. Antioxidant capacity was evaluated using ABTS and DPPH radical scavenging assays. The highest antioxidant activity was observed in MP1 and MP2, potentially reflecting the contribution of oxyprenylated coumarins. The presence of these coumarin derivatives may also provide insights into the botanical origin of the samples and their potential chemotaxonomic relevance. Principal component analysis (PCA) revealed clear chemical distinctions associated with botanical origin, effectively discriminating…",
-   "url": "https://doi.org/10.3390/molecules31224077"
   },
   {
    "key": "doi:10.1094/pdis-09-26-1757-re",
@@ -400,6 +403,23 @@
    "url": "https://doi.org/10.1038/s42003-026-11289-3"
   },
   {
+   "key": "doi:10.3390/molecules31224077",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "96a7ad7c63b3702cfc5fe4aeefdba19eba2e6c77",
+   "doi": "10.3390/molecules31224077",
+   "pmid": "",
+   "title": "Unveiling the Chemical Signature of Abruzzo Bee Pollen: Markers of Authenticity, Bioactive Phytochemicals and Antioxidant Activity",
+   "journal": "Molecules",
+   "date": "2026-11-12",
+   "authors": "Chiara Collevecchio, F. Epifano, S. Genovese, Serena Fiorito",
+   "abstract": "Bee pollen is a complex natural matrix rich in bioactive compounds, a valuable source with high nutritional value. Its chemical composition is highly variable and is influenced by botanical origin and geographical area, posing significant challenges for quality control and authentication. In this study, the volatile and semi-volatile fingerprints of Abruzzo bee pollen samples were investigated by HS–GC–MS and GC–MS, enabling the identification of 61 compounds. GC–MS profiling revealed distinct chemical patterns among the investigated bee-pollen samples, with multifloral samples (MP7–MP13) and chestnut pollen (CP1–CP2) showing a similar profile associated with the occurrence of linoleic acid. Moreover, the aldehydic volatile fingerprint further contributed potential chemical markers of botanical and territorial origin, particularly hexanal and nonanal, which may represent characteristic volatile markers of this botanical source, while 3-methylbutanal as well as sulphureous compounds contributed to the distinctive volatile profile of MP1 and MP2. These latter exhibited a distinctive phytochemical profile characterized by umbelliferon (UMB) and 7-isopentenyloxycoumarin (7-IPC), compounds with recognized bioactive properties that may contribute to the functional value of bee pollen. Antioxidant capacity was evaluated using ABTS and DPPH radical scavenging assays. The highest antioxidant activity was observed in MP1 and MP2, potentially reflecting the contribution of oxyprenylated coumarins. The presence of these coumarin derivatives may also provide insights into the botanical origin of the samples and their potential chemotaxonomic relevance. Principal component analysis (PCA) revealed clear chemical distinctions associated with botanical origin, effectively discriminating…",
+   "url": "https://doi.org/10.3390/molecules31224077"
+  },
+  {
    "key": "doi:10.3390/foods15224032",
    "groups": [
     "chestnut"
@@ -444,7 +464,7 @@
    "doi": "10.1094/pdis-06-26-1235-re",
    "pmid": "43007353",
    "title": "&lt;i&gt;In vitro&lt;/i&gt; efficacy of BLAD against &lt;i&gt;Phytophthora cinnamomi&lt;/i&gt;: Effects on mycelial growth, sporulation, and zoospore germination of isolates from &lt;i&gt;Quercus suber&lt;/i&gt; and &lt;i&gt;Castanea sativa&lt;/i&gt;.",
-   "journal": "Plant Disease",
+   "journal": "",
    "date": "2026-11-10",
    "authors": "Trindade M, Machado H, Ferreira RB.",
    "abstract": "Phytophthora cinnamomi Rands is a devastating soilborne oomycete responsible for root rot in Quercus suber L., Castanea sativa Mill., Quercus ilex L. and many other species worldwide, causing widespread forest decline across Mediterranean ecosystems. The BLAD-containing oligomer (BCO), isolated from Lupinus albus L. cotyledons, is a β-conglutin derived polypeptide oligomer who´s major 20.4 kDa polypeptide BLAD has been reported to exhibit potent and broad-spectrum antifungal and anti-oomycete activity, as well as protective efficacy against P. cinnamomi under greenhouse conditions. However, whether this protection reflects direct pathogen inhibition, host biostimulation or host boosting defense effects remains unresolved, and no in vitro characterization of its anti-P. cinnamomi activity had ever been established. Here, the in vitro activity of a BCO-based commercial formulation (PROBLAD®) was evaluated against five P. cinnamomi isolates (four from Q. suber, one from C. sativa) across multiple endpoints: mycelial radial growth, dry weight, chlamydospore and sporangia production, and zoospore germination. BCO inhibited radial growth in a concentration- and time-dependent manner (EC50: 4.74-6.43 mL/L). At ≥5 mL/L, colonies showed reduced compactness confirmed by dry weight (EC50: 2.63-4.08 mL/L), demonstrating that radial growth underestimates inhibitory activity by not capturing reductions in mycelial density. A transient stimulatory effect (hormesis) was observed at 1-2 mL/L across all isolates. Chlamydospore and sporangia production were fully suppressed at 1-5 mL/L, indicating interference with the induction phase of sporulation. Zoospore germination was inhibited with an EC50 of 5.72 mL/L and completely abolished at 20 mL/L. Microscopic examination revealed progressi…",
@@ -461,10 +481,10 @@
    "doi": "10.1111/pce.71026",
    "pmid": "43007064",
    "title": "The Gibberellin-Responsive Module RsRGL3a-RsGID1b-1-RsATL56 Orchestrates Parthenocarpic Fruit Formation in Seedless Chestnut Rose (Rosa sterilis).",
-   "journal": "Plant, Cell and Environment",
+   "journal": "",
    "date": "2026-11-10",
    "authors": "Zhou K, Leng Y, Shen L, Min Y, Wen S, Wang Y, Deng L, Peng L, Wang H, Zhong S, Ao Y, Song Z, Yang K, Qiao G, Wen X.",
-   "abstract": "Seedlessness is a fruit trait highly favoured by consumers, with parthenocarpy serving as an important means to achieve seedless fruit. In this work, RsGID1b‐1 responds to GAs and promotes parthenocarpic fruitsetting by activating RsATL56 transcription in seedless chestnut rose ( Rosa sterilis ). RsRGL3a antagonizes RsGID1b‐1 and represses RsATL56 , negatively regulating parthenocarpy.",
+   "abstract": "",
    "url": "https://doi.org/10.1111/pce.71026"
   },
   {
@@ -483,23 +503,6 @@
    "authors": "Mohan S, Matolia J, Verma S.",
    "abstract": "Bihar's blue food economy, built on inland fisheries, makhana (fox nut) cultivation, and water chestnut (singhara) farming, is a major contributor to India's aquatic food production and a critical source of rural livelihoods, nutrition, and income. The state ranks fourth among India's inland fish producers, contributes roughly 90% of India's makhana output, and accounts for nearly 60% of the country's water chestnut production. Despite this scale, the sector faces mounting structural risks: climate variability, recurring floods and droughts, rising temperatures, water quality degradation, and disease outbreaks. These risks are compounded by a lack of integrated early-warning systems for water quality and climate monitoring, leaving farmers to react to visible losses rather than anticipate them. This paper reviews the current state of Bihar's three major blue food systems, their production trends, climatic and environmental requirements, and value chain challenges. The paper then presents Twingills, an AI-powered digital twin platform built on NatureDots' AquaNurch Foundation Model, as a proposed intelligence layer to close this gap through real-time and predictive intelligence at farm and landscape scales, forecasting, and timely decision support for farmers and other stakeholders.",
    "url": "https://doi.org/10.20944/preprints202611.1077.v1"
-  },
-  {
-   "key": "doi:10.3390/ijms272210065",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "acf5e37aa9efcd9833ae8fe4b329d7bd0ddc16dd",
-   "doi": "10.3390/ijms272210065",
-   "pmid": "",
-   "title": "Development and Characterization of Chitosan and Alginate Films Containing Kraft and Organosolv Lignin Nanoparticles for Active Food Packaging",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-11-10",
-   "authors": "Justyna Jakubska, Abdullah, W. Pakieła, K. Gołombek, T. Warski, L. Hawełek",
-   "abstract": "This study examines the effects of kraft and organosolv lignin nanoparticles on chitosan- and sodium alginate-based films designed for active food packaging. Glycerol-plasticized films containing chestnut extract and different nanolignin concentrations were evaluated for their properties and activities. Alginate films generally showed higher tensile strength, reaching 109.35 MPa with 0.2 g of kraft nanolignin, whereas chitosan films provided a better water-vapor barrier, with a minimum permeability of 0.031 mg·µm·Pa−1·s−1·m−2 at 0.02 g of kraft nanolignin. Kraft nanolignin exhibited smaller characteristic structures and produced finer surface features. Organosolv nanolignin formed larger aggregates and generally reduced water absorption. All films decreased light transmission and exhibited antibacterial activity against Escherichia coli and Staphylococcus aureus, with kraft-containing formulations showing the strongest overall inhibition. Spectroscopic, structural, and thermal analyses confirmed intermolecular interactions and slightly improved thermal stability after nanolignin incorporation. All formulations underwent hydrolytic mass loss in phosphate-buffered saline. These findings demonstrate that the matrix, nanolignin type, and concentration can be selected to tailor film properties for specific food-packaging applications.",
-   "url": "https://doi.org/10.3390/ijms272210065"
   },
   {
    "key": "doi:10.3390/horticulturae12111394",
@@ -570,21 +573,21 @@
    "url": "https://doi.org/10.1080/19476337.2026.2759342"
   },
   {
-   "key": "doi:10.1038/s41598-026-79871-7",
+   "key": "doi:10.3390/ijms272210065",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "semanticscholar",
-   "id": "2277f430e143fc76b6429f239a4ebc437b1fc6ef",
-   "doi": "10.1038/s41598-026-79871-7",
+   "id": "acf5e37aa9efcd9833ae8fe4b329d7bd0ddc16dd",
+   "doi": "10.3390/ijms272210065",
    "pmid": "",
-   "title": "Antibacterial properties of commercially available plant extracts containing tannins against Escherichia coli",
-   "journal": "Scientific Reports",
-   "date": "2026-11-09",
-   "authors": "Ewa Olchowik-Grabarek, Szymon Sekowski",
-   "abstract": "Escherichia coli is a gram-negative bacterium that exists as commensal microorganism and can diversify into pathogenic strains that cause illnesses in humans and animals. Whilst antibiotics are the most commonly used compounds against E.coli , many other compounds, such as polyphenols, demonstrate strong antibacterial activity. In this work, the antibacterial potential of five commercially available plant compounds: chestnut extract, mimosa extract, quebracho extract, ellagic acid and gallic acid against E.coli was investigated. In the studies, standard microbiological tests, including MIC (minimal inhibitory concentration) and MBC (minimum bactericidal concentration), were performed. Also, to better study and explain the antibacterial potential of analyzed compounds against E.coli , additional investigations involving cell membrane fluidity analyses, Zeta potential measurements, and activity against hemolysis induced by E.coli toxins has been conducted. Our results demonstrated that all five compounds have antibacterial activity, but the strongest activity is observed for ellagic acid and chestnut. Investigated compounds possess the potential to modulate E.coli membrane fluidity and to inhibit the sheep erythrocytes hemolysis evoked by E.coli toxin.",
-   "url": "https://doi.org/10.1038/s41598-026-79871-7"
+   "title": "Development and Characterization of Chitosan and Alginate Films Containing Kraft and Organosolv Lignin Nanoparticles for Active Food Packaging",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-11-10",
+   "authors": "Justyna Jakubska, Abdullah, W. Pakieła, K. Gołombek, T. Warski, L. Hawełek",
+   "abstract": "This study examines the effects of kraft and organosolv lignin nanoparticles on chitosan- and sodium alginate-based films designed for active food packaging. Glycerol-plasticized films containing chestnut extract and different nanolignin concentrations were evaluated for their properties and activities. Alginate films generally showed higher tensile strength, reaching 109.35 MPa with 0.2 g of kraft nanolignin, whereas chitosan films provided a better water-vapor barrier, with a minimum permeability of 0.031 mg·µm·Pa−1·s−1·m−2 at 0.02 g of kraft nanolignin. Kraft nanolignin exhibited smaller characteristic structures and produced finer surface features. Organosolv nanolignin formed larger aggregates and generally reduced water absorption. All films decreased light transmission and exhibited antibacterial activity against Escherichia coli and Staphylococcus aureus, with kraft-containing formulations showing the strongest overall inhibition. Spectroscopic, structural, and thermal analyses confirmed intermolecular interactions and slightly improved thermal stability after nanolignin incorporation. All formulations underwent hydrolytic mass loss in phosphate-buffered saline. These findings demonstrate that the matrix, nanolignin type, and concentration can be selected to tailor film properties for specific food-packaging applications.",
+   "url": "https://doi.org/10.3390/ijms272210065"
   },
   {
    "key": "doi:10.21203/rs.3.rs-11366878/v1",
@@ -619,6 +622,23 @@
    "authors": "Hejduk A, Piekarska–Radzik L, Sójka M, Klewicki R, Ścieszka S, Klewicka E.",
    "abstract": "Background: Microbiological contamination of food and the increasing prevalence of antimicrobial resistance have intensified the search for natural alternatives to conventional preservatives. Berry-processing pomace is a rich source of tannins with recognized antimicrobial potential; however, information on the relationship between tannin composition and activity against foodborne pathogens remains limited. Methods and results: Tannin-rich extracts were isolated from pomace obtained after the processing of raspberry and blackberry (Rubus) as well as strawberry and wild strawberry (Fragaria) fruits using acetone extraction followed by purification with Amberlite XAD 1600 N resin and Size Exclusion Chromatography. The composition of the extracts was characterized by HPLC-DAD-MS QExactive and HPLC-FD. Antibacterial activity against 15 foodborne pathogenic strains belonging to the genera Listeria, Escherichia, Salmonella, and Staphylococcus was evaluated using disk diffusion and minimum inhibitory concentration (MIC) assays, while antibiofilm activity was assessed against Listeria innocua. Eight extracts differing in ellagitannin (10-72 g/100 g) and condensed tannin (4-25 g/100 g) contents were evaluated. All extracts exhibited antibacterial activity, and inhibition zones were positively correlated with ellagitannin content and negatively correlated with procyanidin concentration. For most microorganisms, MIC values ranged from 0.391 to 12.5 mg/mL, with no significant differences between Gram-positive and Gram-negative bacteria, whereas the susceptibility of Listeria monocytogenes depended on the strain and extract type. Furthermore, all extracts significantly reduced L. innocua biofilm formation. Conclusions: Tannin-rich extracts recovered from berry-processing by-products…",
    "url": "https://doi.org/10.20944/preprints202611.0881.v1"
+  },
+  {
+   "key": "doi:10.1038/s41598-026-79871-7",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "2277f430e143fc76b6429f239a4ebc437b1fc6ef",
+   "doi": "10.1038/s41598-026-79871-7",
+   "pmid": "",
+   "title": "Antibacterial properties of commercially available plant extracts containing tannins against Escherichia coli",
+   "journal": "Scientific Reports",
+   "date": "2026-11-09",
+   "authors": "Ewa Olchowik-Grabarek, Szymon Sekowski",
+   "abstract": "Escherichia coli is a gram-negative bacterium that exists as commensal microorganism and can diversify into pathogenic strains that cause illnesses in humans and animals. Whilst antibiotics are the most commonly used compounds against E.coli , many other compounds, such as polyphenols, demonstrate strong antibacterial activity. In this work, the antibacterial potential of five commercially available plant compounds: chestnut extract, mimosa extract, quebracho extract, ellagic acid and gallic acid against E.coli was investigated. In the studies, standard microbiological tests, including MIC (minimal inhibitory concentration) and MBC (minimum bactericidal concentration), were performed. Also, to better study and explain the antibacterial potential of analyzed compounds against E.coli , additional investigations involving cell membrane fluidity analyses, Zeta potential measurements, and activity against hemolysis induced by E.coli toxins has been conducted. Our results demonstrated that all five compounds have antibacterial activity, but the strongest activity is observed for ellagic acid and chestnut. Investigated compounds possess the potential to modulate E.coli membrane fluidity and to inhibit the sheep erythrocytes hemolysis evoked by E.coli toxin.",
+   "url": "https://doi.org/10.1038/s41598-026-79871-7"
   },
   {
    "key": "doi:10.1007/s10266-026-01612-z",
@@ -1758,57 +1778,6 @@
    "authors": "Si-Nuo Feng, Yu Li, Yi-Gang Song",
    "abstract": "Background: Mitochondrial and chloroplast genomes in plants have experienced distinct evolutionary trajectories due to differences in genomic organization, functional constraints, and genome maintenance mechanisms. However, comparative studies of their evolutionary dynamics in oaks remain limited. Methods: The complete mitochondrial and chloroplast genomes of Quercus arbutifolia were assembled and annotated using PacBio HiFi reads. Genome structure, repetitive sequences, codon usage, and mitochondrial plastid DNA transfers (MTPTs) were characterized. Evolutionary genomic and phylogenetic analyses were conducted across selected Quercus species to assess structural variation, sequence divergence, and phylogenetic relationships. Results: The mitochondrial genome of Q. arbutifolia was assembled as a 493,735 bp linear molecule, whereas the chloroplast genome was assembled as a 160,682 bp circular molecule. The mitochondrial genome exhibited lower coding density and a higher abundance of repetitive sequences than the chloroplast genome. Both organellar genomes preferentially used A/U-ending codons, with codon usage variation associated with mutation bias and selective constraints. Thirty-two MTPT regions were identified, predominantly representing plastid-to-mitochondrial transfers. Chloroplast genomes showed conserved inverted repeat boundaries among Quercus species, whereas mitochondrial genomes displayed extensive structural rearrangements, indicating contrasting evolutionary dynamics between the two organellar genomes. Nucleotide diversity analyses further revealed different sequence variation between organellar genomes, with chloroplast protein-coding genes (PCGs) generally exhibiting higher sequence divergence than mitochondrial PCGs. Phylogenetic analyses recovered lar…",
    "url": "https://doi.org/10.3390/genes17111348"
-  },
-  {
-   "key": "doi:10.1094/pdis-10-25-2150-re",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42067980",
-   "doi": "10.1094/pdis-10-25-2150-re",
-   "pmid": "42067980",
-   "title": "Testing the Potential of &lt;i&gt;Pseudomonas&lt;/i&gt; Bacteria for the Biocontrol of Ink Disease of Chestnut.",
-   "journal": "",
-   "date": "2026-10-28",
-   "authors": "Dennert F, Troxler V, Bossert OX, Schneider S, Maurhofer M, Prospero S.",
-   "abstract": "Ink disease, caused by the two oomycetes Phytophthora cinnamomi and Phytophthora × cambivora , is one of the most devastating diseases of sweet chestnut ( Castanea sativa ) in Europe. Its control is particularly difficult, with few fungicides showing a satisfactory effect, and those being progressively banned in forest ecosystems or in forest-like plantations because of ecological concerns. Therefore, alternative, nature-friendly control methods are urgently needed. The bacterial genus Pseudomonas includes many species with antifungal and antimicrobial properties. In this study, we isolated Pseudomonas bacteria from the rhizosphere of healthy and diseased chestnut trees in southern Switzerland. Out of 166 isolated Pseudomonas strains, 5 showed significant growth inhibition of P . cinnamomi and/or P . × cambivora in vitro. Three strains that significantly inhibited the growth of both pathogens were tested against a collection of 20 isolates of each species, showing that the in vitro inhibition is independent of the pathogen isolate. The mechanisms underlying this inhibition remain unclear because none of the three strains harbored biosynthesis genes coding for well-known antimicrobial secondary metabolites. Phylogenetic analysis of whole genome sequences showed that two of the strains belong to the P . fluorescens subgroup, whereas one strain probably belongs to a previously unrecognized species closely related to the P . putida subgroup. The results of this study indicate that Pseudomonas have the potential to be used as biocontrol agents against ink disease. Further experiments are needed to confirm their inhibitory effect against P . cinnamomi and P . × cambivora in vivo.",
-   "url": "https://doi.org/10.1094/pdis-10-25-2150-re"
-  },
-  {
-   "key": "doi:10.3390/insects17111119",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "069b0e337bf621abf0cf62174db722bbf5d4797f",
-   "doi": "10.3390/insects17111119",
-   "pmid": "",
-   "title": "Identification and Expression Profiling of Olfactory-Related Genes in Exolontha castanea (Coleoptera: Melolonthinae) Using Tissue-Specific Transcriptomics",
-   "journal": "Insects",
-   "date": "2026-10-28",
-   "authors": "Wen-Jing He, Yu-Xin Yang, Cheng-Hua Huang, Xue-Hong Pan, Gen Xia, Zi-Xuan Wu",
-   "abstract": "Exolontha castanea is an important subterranean pest of sugarcane in China, currently controlled mainly by chemical insecticides. However, prolonged and improperly timed insecticide application has exacerbated infestations, necessitating the development of eco-friendly management strategies. Given the pivotal role of olfactory-related genes in host-seeking, mating, and oviposition, deciphering the olfactory mechanisms of E. castanea may support environmentally sound pest management. In this study, we sequenced transcriptomes from different tissues of male and female E. castanea and annotated olfactory-related genes. We identified 35 odorant binding proteins (OBPs), 12 chemosensory proteins (CSPs), 51 odorant receptors (ORs), 21 ionotropic receptors (IRs), and 4 sensory neuron membrane proteins (SNMPs). Expression profiling indicated that 13 OBPs, 6 CSPs, 16 ORs, 5 IRs, and 2 SNMPs were moderately or highly expressed in the antennae, and among these, 4 OBPs, 4 CSPs, 1 IR and 1 SNMP were also moderately or highly expressed in non-olfactory tissues. In addition, 8 OBPs, 1 CSP, 5 IRs and 1 SNMP displayed moderate or high expression levels only in non-olfactory tissues, including the head, leg, thorax, and abdomen. Based on these findings, the potential functions of these olfactory-related genes are discussed. This study represents the first comprehensive catalog of olfactory-related genes in E. castanea, laying a solid foundation for future functional characterization and novel sustainable pest management strategy development.",
-   "url": "https://doi.org/10.3390/insects17111119"
-  },
-  {
-   "key": "doi:10.22207/jpam.20.4.16",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "5fabe2c6578cd6a6654b8b8d27f1fcc70c19860a",
-   "doi": "10.22207/jpam.20.4.16",
-   "pmid": "",
-   "title": "Physicochemical Characterization and Antibacterial Efficacy of Selected Pakistani Honeys Compared with Manuka Honey Against Staphylococcus aureus and Escherichia coli Reference Strains",
-   "journal": "Journal of Pure and Applied Microbiology",
-   "date": "2026-10-28",
-   "authors": "M. Aslam, M. Khan, I. Muhammad, A. Huma, Sana Ghayas, S. Alam",
-   "abstract": "Antimicrobial resistance, driven by antimicrobial misuse and declining therapeutic innovation, poses a critical global health challenge. This study evaluated the physicochemical profiles and antimicrobial efficacy of five monofloral Pakistani honeys, namely Helianthus annuus L. (Sunflower), Ziziphus jujuba (Beri), Acacia modesta (Phulai), Justicia adhatoda L. (Baikar), and Brassica spp. (Mustard), alongside Leptospermum scoparium (Manuka) honey containing methylglyoxal (MGO 550+), against Staphylococcus aureus American Type Culture Collection (ATCC 6538) and Escherichia coli (ATCC 8739). Physicochemical properties were assessed according to AOAC guidelines, whereas antibacterial activity was determined using agar well diffusion and broth microdilution assays. Quality parameters across the honey varieties met international standards, with ranges of 28.9-78.2 mm Pfund for color, 3.36-4.20 for pH, 29.6-43.5 meq/kg for acidity, 16.0%-19.2% for moisture, 0.14-0.43 g/100 g for ash, 6.0-6.7 g/100 g for sucrose, 76.0-81.6 g/100 g for total sugars, 0.28-0.65 mS/cm for electrical conductivity, and 21.2-40.0 mg/kg for hydroxymethylfurfural. Proline content (≥180 mg/kg), diastase numbers (DN) (10.0 ± 0.46 to 39.32 ± 0.58 DN), and invertase activity IN (63.00 ± 8.70 to 75.33 ± 5.70 IN) confirmed the freshness and purity of the honeys. In diffusion assays, Manuka honey produced the largest inhibition zones against E. coli (13.40 mm) and S. aureus (14.40 mm). Among the local varieties, Mustard honey showed strong activity against E. coli (13.40 mm), whereas Baikar honey showed the greatest activity against S. aureus (13.90 mm); Sunflower honey showed the lowest efficacy against E. coli (8.90 mm). The lowest minimum inhibitory concentrations (MICs) were recorded for Manuka honey (7.8% …",
-   "url": "https://doi.org/10.22207/jpam.20.4.16"
   }
  ]
 }
