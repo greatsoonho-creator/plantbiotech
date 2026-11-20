@@ -1,16 +1,49 @@
 {
- "generated_at": "2026-11-19T20:33:54.866Z",
+ "generated_at": "2026-11-20T20:32:59.136Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 104,
+ "count": 102,
  "errors": [
-  "semanticscholar:chestnut: HTTP 429",
-  "semanticscholar:dus-pvp: HTTP 429"
+  "semanticscholar:pine: HTTP 429"
  ],
  "items": [
+  {
+   "key": "doi:10.21203/rs.3.rs-11405638/v1",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "preprint",
+   "id": "PPR1371396",
+   "doi": "10.21203/rs.3.rs-11405638/v1",
+   "pmid": "",
+   "title": "Drought resilience of Portuguese chestnut cultivars under Mediterranean rainfed conditions​.",
+   "journal": "Research Square",
+   "date": "2026-11-19",
+   "authors": "Marques T, Ferreira-Pinto A, Aires A, Pinto T, Gomes-Laranjo J.",
+   "abstract": "Abstract Increasing summer drought and climatic irregularity threaten sweet chestnut production in Mediterranean regions. However, cultivar-specific drought resilience under field conditions remains insufficiently resolved because the relative roles of hydraulic status, gas exchange and biochemical adjustment are rarely evaluated together. This study aimed to characterise the drought response strategies of three traditional Portuguese chestnut cultivars, Judia, Longal and Martaínha, and the hybrid rootstock ColUTAD®, across four orchards representing a natural edaphoclimatic gradient during the 2023 growing season. Summer drought intensity was described using climatic descriptors combined with plant-based indicators of water status, particularly midday stem water potential ( Ψ wmid ) and relative water content (RWC). Across cultivar-site combinations, Ψ wmid ranged from − 1.75 to − 1.05 MPa, RWC from 78.9 to 91.9%, net photosynthesis from 4.5 to 15.0 µmol CO₂ m⁻² s⁻¹, and transpiration from 1.1 to 3.5 mmol H₂O m⁻² s⁻¹. Less negative Ψ wmid values were associated with higher RWC, photosynthesis and transpiration, whereas electrolyte leakage increased as plant water status declined. Cultivar-dependent responses were particularly evident for transpiration, instantaneous water-use efficiency, soluble sugars, electrolyte leakage and antioxidant-related traits. Martaínha showed the most favourable integrated response under the 2023 climatic configuration, combining less negative Ψ wmid , higher leaf hydration, sustained gas exchange and comparatively controlled biochemical activation. Longal displayed high physiological plasticity and strong antioxidant capacity, whereas Judia showed effective gas-exchange and biochemical responses but greater sensitivity to water limitation.…",
+   "url": "https://doi.org/10.21203/rs.3.rs-11405638/v1"
+  },
+  {
+   "key": "doi:10.1371/journal.pone.0361803",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43050438",
+   "doi": "10.1371/journal.pone.0361803",
+   "pmid": "43050438",
+   "title": "Predicting the impact of climate change on the climatic suitability for Ziziphus jujuba in China.",
+   "journal": "",
+   "date": "2026-11-18",
+   "authors": "Zhao Z, Zhang J, Wu X.",
+   "abstract": "Ziziphus jujuba Mill. is an economically valuable tree species in China, and its climatically suitable range is sensitive to future climate risks, with implications for biological resource conservation. Species occurrence records and bioclimatic variables were integrated, and a parameter-tuned MaxEnt model was employed to forecast the potential climatic suitability for Z. jujuba in China under three shared socioeconomic pathways (SSP1-2.6, SSP3-7.0, and SSP5-8.5). The adjusted model exhibited excellent predictive performance (AUC = 0.947). Annual mean temperature, precipitation seasonality, and temperature seasonality were identified as the dominant climatic drivers. Currently, highly suitable areas (8.84% of total suitable area) are concentrated in the Bohai Rim region. Under future scenarios, although the total climatically suitable area expands across all pathways, its spatial pattern undergoes significant reorganization: contraction in southeastern margins, expansion into northwestern inland regions, and relative stability in the core area. The centroid is projected to shift continuously northwestward, with a maximum cumulative migration of 504.67 km under SSP5-8.5. Future planning must prioritize the risk of declining suitability in traditional southeastern production areas and carefully assess the practical feasibility of potential expansion zones in the northwest. These findings provide a scientific basis for climate-adaptive management of Z. jujuba resources.",
+   "url": "https://doi.org/10.1371/journal.pone.0361803"
+  },
   {
    "key": "doi:10.1002/ece3.74750",
    "groups": [
@@ -44,6 +77,40 @@
    "authors": "Yang M, Wang X, Chen Y, Lu Z, Liu S, Dong L.",
    "abstract": "Starch retrogradation affects the quality of starch-based foods. In this study, high hydrostatic pressure (HHP) was used as a nonthermal pretreatment to promote interactions between Lonicera caerulea berry polyphenols (LCBP) and chestnut starch (CS), with particular emphasis on their combined effects on physicochemical, structural, and long-term retrogradation properties over 7 days. HHP treatments at 200, 400, and 600 MPa and LCBP concentrations of 0%, 4%, 8%, and 12% (on a starch dry basis) were evaluated during storage at 4 °C. Based on the complexation index (CI) and Fourier-transform infrared (FTIR) spectroscopy screening results, the 600 MPa-8% LCBP treatment was selected as the representative combined treatment for detailed characterization. FTIR spectroscopy, scanning electron microscopy, and water separation analyses further showed reduced short-range molecular order, relatively loose porous structures, and improved water retention in HHP-treated LCBP-CS systems during storage. After 7 days of refrigerated storage at 4 °C, compared with untreated CS stored under the same conditions, the 600 MPa-8% LCBP treatment reduced the relative crystallinity and enthalpy of recrystallization by 32.24% and 50.98%, respectively, while increasing the calculated nonhydrolyzed fraction by 66.85% (P < 0.05). Correlation analysis showed that a higher complexation index was associated with lower retrogradation-related indices and rapidly digestible starch content, consistent with greater resistance to long-term retrogradation and in vitro enzymatic digestion. This study provides further insights into the effects of HHP-treated LCBP-CS complexes on long-term retrogradation and in vitro digestion behavior.",
    "url": "https://doi.org/10.1016/j.ijbiomac.2026.155328"
+  },
+  {
+   "key": "doi:10.1894/0038-4909-70.4.13",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "bd2b26beb4c319c5e07822f785910b549e1c7583",
+   "doi": "10.1894/0038-4909-70.4.13",
+   "pmid": "",
+   "title": "PROGRESSION OF A KNEMIDOCOPTIASIS-LIKE DERMATITIS IN A WILD CHESTNUT-BELLIED SCALED QUAIL (CALLIPEPLA SQUAMATA CASTANOGASTRIS)",
+   "journal": "The Southwestern naturalist",
+   "date": "2026-11-17",
+   "authors": "Levi D. Sweeten, E. Tanner, Alynn M. Martin, Maydeliz Ramos-Gonzalez, Ashley M. Tanner, F. Hernández",
+   "abstract": "La dermatitis aviar abarca una variedad de afecciones que causan irritación e inflamación de la piel en las aves y puede surgir de diversos agentes causales. Los reportes de enfermedades en especies aviares silvestres suelen ser incidentales y aislados, pero proporcionan información de referencia valiosa para la investigación de enfermedades en la vida silvestre. En febrero de 2024, durante un estudio de captura-marcaje-recaptura en Duval, Texas, EE. UU., se capturó una hembra adulta de codorniz escamosa ventricastaña (Callipepla squamata castanogastris) que presentaba síntomas compatibles con dermatitis. Se observaron lesiones hiperqueratósicas en las patas, con reducción parcial de los halluxes. El mismo fue recapturado en mayo de 2024 con síntomas que evidenciaban una mayor gravedad de la enfermedad, incluyendo lesiones más extensas en las patas y piernas, y pérdida de múltiples dedos, tanto total en los posteriores como parcial en los demás. Los intentos por confirmar el agente causal de la enfermedad resultaron infructuosos. Sin embargo, la presentación y la progresión de la enfermedad fueron compatibles con la knemidocoptiasis (sarna aviar), una dermatitis causada por ácaros parásitos que excavan la epidermis sin plumas. Este informe representa uno de los escasos documentos que describen síntomas de dermatitis en codornices silvestres y, hasta donde sabemos, el primer reporte y la primera observación longitudinal de una dermatitis de tipo sarnoso en la codorniz escamosa silvestre.",
+   "url": "https://doi.org/10.1894/0038-4909-70.4.13"
+  },
+  {
+   "key": "doi:10.3390/foods15224116",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "ad64a2d39684f03985e23277d29ce3230808e8f8",
+   "doi": "10.3390/foods15224116",
+   "pmid": "",
+   "title": "Effects of Withering Duration on Quality Characteristics and the Volatile Metabolome of Green Tea and Black Tea from the New Cultivar “Chanjin No. 3”",
+   "journal": "Foods",
+   "date": "2026-11-17",
+   "authors": "Peng Zeng, Yue Liu, Ke-Xia Zhou, Guo-Xun Li, Xiao Han, Heng-Bin Guo",
+   "abstract": "Withering is a vital preliminary process in determining tea quality. To explore the effects of withering duration (2 h, 6 h, 10 h) on green tea and black tea from the new cultivar “Chanjin No. 3”, leaf moisture dynamics, sensory attributes, pigment profiles, major quality components, and volatile metabolites were systematically evaluated. Leaf relative water content continuously declined with prolonged withering. Sensory evaluation showed that 6 h withering yielded high overall quality for both teas. However, excessive 10 h withering impaired green-tea sensory performance, whereas black tea maintained acceptable quality. Withering exerted distinct regulatory effects on pigment and intrinsic metabolites: 6 h treatment favored theaflavin and theabrownin accumulation in black tea, while overwithering caused substantial total pigment loss. Prolonged withering elevated water extract and soluble sugar contents in black tea, yet reduced water extracts and increased polyphenols in green tea. Gas chromatography/mass spectrometry (GC-MS) identified 173 volatile compounds. Withering increased volatile counts and the content of alcohols in green tea and promoted grassy-leaf, floral-honey, and chestnut-nutty aroma substances in black tea. This study indicates that 6 h natural withering is an appropriate option for producing high-quality “Chanjin No. 3” tea and provides processing references for this cultivar.",
+   "url": "https://doi.org/10.3390/foods15224116"
   },
   {
    "key": "doi:10.1021/acsfoodscitech.6c00723",
@@ -131,6 +198,23 @@
    "url": "https://doi.org/10.9734/jabb/2026/v29i114688"
   },
   {
+   "key": "doi:10.3329/bjb.v55i30.94515",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "52e2aa719428dd5c3e4149e9b450da1df7bd5a9a",
+   "doi": "10.3329/bjb.v55i30.94515",
+   "pmid": "",
+   "title": "Current status of the fruit industry in beijing based on agricultural big data",
+   "journal": "Bangladesh Journal of Botany",
+   "date": "2026-11-15",
+   "authors": "Zhao-Quan Gao",
+   "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
+   "url": "https://doi.org/10.3329/bjb.v55i30.94515"
+  },
+  {
    "key": "doi:10.3329/bjb.v55i30.94352",
    "groups": [
     "hardy-kiwi"
@@ -165,21 +249,21 @@
    "url": "https://doi.org/10.3390/agronomy16222306"
   },
   {
-   "key": "doi:10.3329/bjb.v55i30.94515",
+   "key": "doi:10.3390/ijms272210217",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "semanticscholar",
-   "id": "52e2aa719428dd5c3e4149e9b450da1df7bd5a9a",
-   "doi": "10.3329/bjb.v55i30.94515",
+   "id": "af959941c851f0646be752434b63bffb2cfcda7c",
+   "doi": "10.3390/ijms272210217",
    "pmid": "",
-   "title": "Current status of the fruit industry in beijing based on agricultural big data",
-   "journal": "Bangladesh Journal of Botany",
-   "date": "2026-11-15",
-   "authors": "Zhao-Quan Gao",
-   "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
-   "url": "https://doi.org/10.3329/bjb.v55i30.94515"
+   "title": "Identification of the HD-ZIP Transcription Factor Family and Functional Analysis of CmHB40 in Castanea mollissima",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-11-14",
+   "authors": "Yun-He Cheng, Li-Li Cheng, Guang-Long Hu, Qian-Yu Yang, Yan-Ping Lan",
+   "abstract": "Evidence has increasingly shown that the HB53/40/21 clade within HD-ZIP I plays an important role in floral organ development in plants. In this study, we performed genome-wide identification of HD-ZIP family members in Chinese chestnut Castanea mollissima using bioinformatics analysis, cloned the HB53/40/21 homologous gene CmHB40, and analyzed its expression pattern and subcellular localization. Using DAP-seq technology and yeast one-hybrid and dual-luciferase assays, we identified the DNA sequences bound by CmHB40 and its downstream target genes. We also verified the biological function of CmHB40 through heterologous overexpression. Our results demonstrate that CmHB40 shares a conserved molecular structure and DNA-binding capacity with HB53/40/21 homologs from other species. However, in Chinese chestnut, CmHB40 is predominantly expressed in male flowers, where it directly binds to the promoters of pollen exine and cuticular wax biosynthesis genes CmCER1 and CmABCG11, and upregulates their expression. However, overexpression of CmHB40 in Arabidopsisthaliana inhibited petal and stamen development. The expression of GA-related genes AtJUB1 and AtGA2ox2 was upregulated in transgenic individuals. From the above results, we infer that CmHB40 shares a conserved molecular structure with HB53/40/21 homologs from other species. We propose a regulatory model in which CmHB40 participates in flower development by upregulating the expression of CmCER1 and CmABCG11. This inference awaits verification once a genetic transformation system for Chinese chestnut has been established.",
+   "url": "https://doi.org/10.3390/ijms272210217"
   },
   {
    "key": "doi:10.1016/j.plaphy.2026.111968",
@@ -199,23 +283,6 @@
    "url": "https://doi.org/10.1016/j.plaphy.2026.111968"
   },
   {
-   "key": "doi:10.3390/ijms272210217",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "af959941c851f0646be752434b63bffb2cfcda7c",
-   "doi": "10.3390/ijms272210217",
-   "pmid": "",
-   "title": "Identification of the HD-ZIP Transcription Factor Family and Functional Analysis of CmHB40 in Castanea mollissima",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-11-14",
-   "authors": "Yun-He Cheng, Li-Li Cheng, Guang-Long Hu, Qian-Yu Yang, Yan-Ping Lan",
-   "abstract": "Evidence has increasingly shown that the HB53/40/21 clade within HD-ZIP I plays an important role in floral organ development in plants. In this study, we performed genome-wide identification of HD-ZIP family members in Chinese chestnut Castanea mollissima using bioinformatics analysis, cloned the HB53/40/21 homologous gene CmHB40, and analyzed its expression pattern and subcellular localization. Using DAP-seq technology and yeast one-hybrid and dual-luciferase assays, we identified the DNA sequences bound by CmHB40 and its downstream target genes. We also verified the biological function of CmHB40 through heterologous overexpression. Our results demonstrate that CmHB40 shares a conserved molecular structure and DNA-binding capacity with HB53/40/21 homologs from other species. However, in Chinese chestnut, CmHB40 is predominantly expressed in male flowers, where it directly binds to the promoters of pollen exine and cuticular wax biosynthesis genes CmCER1 and CmABCG11, and upregulates their expression. However, overexpression of CmHB40 in Arabidopsisthaliana inhibited petal and stamen development. The expression of GA-related genes AtJUB1 and AtGA2ox2 was upregulated in transgenic individuals. From the above results, we infer that CmHB40 shares a conserved molecular structure with HB53/40/21 homologs from other species. We propose a regulatory model in which CmHB40 participates in flower development by upregulating the expression of CmCER1 and CmABCG11. This inference awaits verification once a genetic transformation system for Chinese chestnut has been established.",
-   "url": "https://doi.org/10.3390/ijms272210217"
-  },
-  {
    "key": "doi:10.21203/rs.3.rs-11564917/v1",
    "groups": [
     "chestnut"
@@ -231,57 +298,6 @@
    "authors": "Dey B, Depp C, Gu Y, Novelli A, Fuchs H, Hohaus T, Pfannerstill EY.",
    "abstract": "Abstract Climate change increases the severity and frequency of heat and oxidative stress that plants experience, yet their simultaneous effects on biogenic volatile organic compounds (BVOCs) emissions remains poorly understood, complicating the predictability of future air quality and climate. Here, canopy BVOC emissions from linden and chestnut trees were measured over a continuous two-month chamber experiment without stress, heat stress, and combined O₃ and heat stress. To untangle stress-associated BVOC fingerprints, we developed an unsupervised uncertainty-weighted fuzzy c-means (UWFCM) algorithm that directly incorporates compound- and measurement-specific analytical uncertainties into clustering. UWFCM identified monoterpenes (increased up to 3-fold) and sesquiterpenes (up to 22-fold) as the primary heat-stress markers in both species, while increased diterpenes characterized combined O₃ and heat stress in linden. Stress-induced de novo emissions resulted in carbon loss up to ~ 14% of net daytime carbon fixation, a substantial stress-related carbon reallocation. The temperature sensitivity of terpenoid emissions was strongly stress-dependent. These findings have important implications for global BVOC parameterizations, estimates of daytime NO x -driven ozone chemistry and secondary organic aerosol formation under future climate extremes.",
    "url": "https://doi.org/10.21203/rs.3.rs-11564917/v1"
-  },
-  {
-   "key": "doi:10.1093/hr/uhag480",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "29c630a808f8ffe5c33806050f4f0335b5c1e563",
-   "doi": "10.1093/hr/uhag480",
-   "pmid": "",
-   "title": "Global conservation and utilization of wild pear germplasm resources",
-   "journal": "Horticulture Research",
-   "date": "2026-11-13",
-   "authors": "Hao-Fang Zhao, Hua Xu, Shen Yan, Yu-Nan Lin, B. Pan, Ya-Ning Cao",
-   "abstract": "The wild pear group represents an important genetic resource for improving stress resistance in pear cultivars and for rootstock breeding; however, under global warming, its conservation and utilization remain insufficient. In this study, an integrated framework was introduced that combines habitat prediction, conservation gap analysis, and utilization of wild germplasm. Using the ensemble species distribution models (ESDMs) together with GapAnalysis, global suitable habitat dynamics of the genus Pyrus under four future climate scenarios (2021–2040) were predicted, and conservation gaps were identified. Additionally, a novel BC-RP system was established by integrating the Breeding Contribution Score (BC-score) and mean retention proportion (RP-mean) to jointly assess climatic stability and improvement potential of the wild group. The results reveal that climate warming has caused widespread habitat decline, with 16 wild species classified as urgent conservation priorities. On this basis, six wild species showing climatic stability and potential utilization capacity were identified as promising resources for improving major cultivated pear cultivars. This study exposes critical conservation deficiencies and establishes a scientific foundation for the preservation and sustainable use of the wild group.",
-   "url": "https://doi.org/10.1093/hr/uhag480"
-  },
-  {
-   "key": "doi:10.7235/hort.20260054",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "14298f1f1ee36009f88740d9aee80f1e801cc5c2",
-   "doi": "10.7235/hort.20260054",
-   "pmid": "",
-   "title": "In Silico Evaluation of Restriction-Enzyme Strategies for Genotyping-By-Sequencing (GBS) in Persimmon (Diospyros Kaki Thunb.)",
-   "journal": "Horticultural Science and Technology",
-   "date": "2026-11-13",
-   "authors": "Sopheap Mao, Hyegyoung Yoo, B. Lee, K. Won",
-   "abstract": "",
-   "url": "https://doi.org/10.7235/hort.20260054"
-  },
-  {
-   "key": "doi:10.1094/pdis-06-26-1241-re",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "43031422",
-   "doi": "10.1094/pdis-06-26-1241-re",
-   "pmid": "43031422",
-   "title": "High Throughput Sequencing vs Biological Indexing for the Detection of Viral Pathogens in Rubus.",
-   "journal": "Plant Disease",
-   "date": "2026-11-13",
-   "authors": "Fager D, Al Rwahnih M, Mollov D.",
-   "abstract": "Rubus species are native to six continents and are grown commercially around the world. Production of raspberries and blackberries in the United States alone is over 100,000 metric tons. Global production and transport require prevention of both endemic and exotic diseases through clean plant programs and certification testing. While graft bioassay has been the standard in certification programs for pathogen detection, high throughput sequencing (HTS) has the potential to streamline the testing process and identify pathogens more effectively. In this study, HTS was evaluated for virus detection compared to graft bioassay in Rubus plants. Leaves from 71 donor plants were grafted onto three replicates of Rubus occidentalis 'Munger' black raspberry indicator plants and monitored for symptom expression over eight weeks and again after natural winter dormancy. Donor leaves were analyzed by HTS for the presence of viral sequences. The experiment was repeated twice with six replicates per donor plant across both experiments and 426 indicators total. HTS detected 20 virus species across all donors with up to six viruses in a single plant. Virus detection by HTS and graft bioassay did not correlate well. HTS detected viruses in 100% of donors while 45% of grafted indicators were asymptomatic by eight weeks after grafting and 61% asymptomatic after dormancy. Results indicate HTS is more effective at detecting viral infections, even when grafted plants are subject to natural dormancy.",
-   "url": "https://doi.org/10.1094/pdis-06-26-1241-re"
   },
   {
    "key": "doi:10.32782/2226-0099.2026.151.32",
@@ -335,6 +351,57 @@
    "url": "https://doi.org/10.33380/2305-2066-2026-15-4-2294"
   },
   {
+   "key": "doi:10.1093/hr/uhag480",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "29c630a808f8ffe5c33806050f4f0335b5c1e563",
+   "doi": "10.1093/hr/uhag480",
+   "pmid": "",
+   "title": "Global conservation and utilization of wild pear germplasm resources",
+   "journal": "Horticulture Research",
+   "date": "2026-11-13",
+   "authors": "Hao-Fang Zhao, Hua Xu, Shen Yan, Yu-Nan Lin, B. Pan, Ya-Ning Cao",
+   "abstract": "The wild pear group represents an important genetic resource for improving stress resistance in pear cultivars and for rootstock breeding; however, under global warming, its conservation and utilization remain insufficient. In this study, an integrated framework was introduced that combines habitat prediction, conservation gap analysis, and utilization of wild germplasm. Using the ensemble species distribution models (ESDMs) together with GapAnalysis, global suitable habitat dynamics of the genus Pyrus under four future climate scenarios (2021–2040) were predicted, and conservation gaps were identified. Additionally, a novel BC-RP system was established by integrating the Breeding Contribution Score (BC-score) and mean retention proportion (RP-mean) to jointly assess climatic stability and improvement potential of the wild group. The results reveal that climate warming has caused widespread habitat decline, with 16 wild species classified as urgent conservation priorities. On this basis, six wild species showing climatic stability and potential utilization capacity were identified as promising resources for improving major cultivated pear cultivars. This study exposes critical conservation deficiencies and establishes a scientific foundation for the preservation and sustainable use of the wild group.",
+   "url": "https://doi.org/10.1093/hr/uhag480"
+  },
+  {
+   "key": "doi:10.7235/hort.20260054",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "14298f1f1ee36009f88740d9aee80f1e801cc5c2",
+   "doi": "10.7235/hort.20260054",
+   "pmid": "",
+   "title": "In Silico Evaluation of Restriction-Enzyme Strategies for Genotyping-By-Sequencing (GBS) in Persimmon (Diospyros Kaki Thunb.)",
+   "journal": "Horticultural Science and Technology",
+   "date": "2026-11-13",
+   "authors": "Sopheap Mao, Hyegyoung Yoo, B. Lee, K. Won",
+   "abstract": "",
+   "url": "https://doi.org/10.7235/hort.20260054"
+  },
+  {
+   "key": "doi:10.1094/pdis-06-26-1241-re",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43031422",
+   "doi": "10.1094/pdis-06-26-1241-re",
+   "pmid": "43031422",
+   "title": "High Throughput Sequencing vs Biological Indexing for the Detection of Viral Pathogens in Rubus.",
+   "journal": "Plant Disease",
+   "date": "2026-11-13",
+   "authors": "Fager D, Al Rwahnih M, Mollov D.",
+   "abstract": "Rubus species are native to six continents and are grown commercially around the world. Production of raspberries and blackberries in the United States alone is over 100,000 metric tons. Global production and transport require prevention of both endemic and exotic diseases through clean plant programs and certification testing. While graft bioassay has been the standard in certification programs for pathogen detection, high throughput sequencing (HTS) has the potential to streamline the testing process and identify pathogens more effectively. In this study, HTS was evaluated for virus detection compared to graft bioassay in Rubus plants. Leaves from 71 donor plants were grafted onto three replicates of Rubus occidentalis 'Munger' black raspberry indicator plants and monitored for symptom expression over eight weeks and again after natural winter dormancy. Donor leaves were analyzed by HTS for the presence of viral sequences. The experiment was repeated twice with six replicates per donor plant across both experiments and 426 indicators total. HTS detected 20 virus species across all donors with up to six viruses in a single plant. Virus detection by HTS and graft bioassay did not correlate well. HTS detected viruses in 100% of donors while 45% of grafted indicators were asymptomatic by eight weeks after grafting and 61% asymptomatic after dormancy. Results indicate HTS is more effective at detecting viral infections, even when grafted plants are subject to natural dormancy.",
+   "url": "https://doi.org/10.1094/pdis-06-26-1241-re"
+  },
+  {
    "key": "doi:10.21203/rs.3.rs-11340609/v1",
    "groups": [
     "chestnut"
@@ -350,6 +417,23 @@
    "authors": "Marques T, Ferreira-Pinto A, Pinto T, Gomes-Laranjo J.",
    "abstract": "Abstract Drought is an increasingly important constraint for chestnut cultivation in Mediterranean regions, where recurrent summer water deficits can restrict plant performance and compromise recovery after stress release. In Castanea sativa Mill., drought resilience depends on the coordinated adjustment of physiological and biochemical traits rather than on the behaviour of a single marker. This study evaluated three Portuguese chestnut cultivars, Judia, Longal, and Martaínha, grafted onto CA-90 rootstock, together with non-grafted CA-90 plants, under controlled drought and rewatering conditions. Plants were assessed at the initial irrigated phase (IP), after 7 days of irrigation withdrawal (NIP), and after 30 days of rewatering (RIP). Net photosynthesis, transpiration, leaf temperature, soluble sugars, starch, soluble proteins, electrolyte leakage, catalase (CAT), ascorbate peroxidase (APX), total phenolic compounds, total flavonoids, and ferric reducing antioxidant power (FRAP) were analysed. Drought reduced gas exchange in all plant materials and increased leaf temperature, indicating marked functional impairment under water deficit. Longal and Martaínha maintained comparatively higher physiological performance during drought and showed the strongest recovery after rewatering, whereas CA-90 displayed the lowest gas-exchange rates, greater starch depletion, and higher membrane damage. Soluble sugars, soluble proteins, CAT, and APX increased during drought, while starch declined in all cultivars. In contrast, phenolics, flavonoids, and FRAP decreased under water deficit and recovered partially or substantially after rewatering. Overall, the results show that drought resilience in chestnut is a dynamic trait shaped by the integration of gas exchange regulation, carbon …",
    "url": "https://doi.org/10.21203/rs.3.rs-11340609/v1"
+  },
+  {
+   "key": "doi:10.3390/molecules31224077",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "96a7ad7c63b3702cfc5fe4aeefdba19eba2e6c77",
+   "doi": "10.3390/molecules31224077",
+   "pmid": "",
+   "title": "Unveiling the Chemical Signature of Abruzzo Bee Pollen: Markers of Authenticity, Bioactive Phytochemicals and Antioxidant Activity",
+   "journal": "Molecules",
+   "date": "2026-11-12",
+   "authors": "Chiara Collevecchio, F. Epifano, S. Genovese, Serena Fiorito",
+   "abstract": "Bee pollen is a complex natural matrix rich in bioactive compounds, a valuable source with high nutritional value. Its chemical composition is highly variable and is influenced by botanical origin and geographical area, posing significant challenges for quality control and authentication. In this study, the volatile and semi-volatile fingerprints of Abruzzo bee pollen samples were investigated by HS–GC–MS and GC–MS, enabling the identification of 61 compounds. GC–MS profiling revealed distinct chemical patterns among the investigated bee-pollen samples, with multifloral samples (MP7–MP13) and chestnut pollen (CP1–CP2) showing a similar profile associated with the occurrence of linoleic acid. Moreover, the aldehydic volatile fingerprint further contributed potential chemical markers of botanical and territorial origin, particularly hexanal and nonanal, which may represent characteristic volatile markers of this botanical source, while 3-methylbutanal as well as sulphureous compounds contributed to the distinctive volatile profile of MP1 and MP2. These latter exhibited a distinctive phytochemical profile characterized by umbelliferon (UMB) and 7-isopentenyloxycoumarin (7-IPC), compounds with recognized bioactive properties that may contribute to the functional value of bee pollen. Antioxidant capacity was evaluated using ABTS and DPPH radical scavenging assays. The highest antioxidant activity was observed in MP1 and MP2, potentially reflecting the contribution of oxyprenylated coumarins. The presence of these coumarin derivatives may also provide insights into the botanical origin of the samples and their potential chemotaxonomic relevance. Principal component analysis (PCA) revealed clear chemical distinctions associated with botanical origin, effectively discriminating…",
+   "url": "https://doi.org/10.3390/molecules31224077"
   },
   {
    "key": "doi:10.1094/pdis-09-26-1757-re",
@@ -403,23 +487,6 @@
    "url": "https://doi.org/10.1038/s42003-026-11289-3"
   },
   {
-   "key": "doi:10.3390/molecules31224077",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "96a7ad7c63b3702cfc5fe4aeefdba19eba2e6c77",
-   "doi": "10.3390/molecules31224077",
-   "pmid": "",
-   "title": "Unveiling the Chemical Signature of Abruzzo Bee Pollen: Markers of Authenticity, Bioactive Phytochemicals and Antioxidant Activity",
-   "journal": "Molecules",
-   "date": "2026-11-12",
-   "authors": "Chiara Collevecchio, F. Epifano, S. Genovese, Serena Fiorito",
-   "abstract": "Bee pollen is a complex natural matrix rich in bioactive compounds, a valuable source with high nutritional value. Its chemical composition is highly variable and is influenced by botanical origin and geographical area, posing significant challenges for quality control and authentication. In this study, the volatile and semi-volatile fingerprints of Abruzzo bee pollen samples were investigated by HS–GC–MS and GC–MS, enabling the identification of 61 compounds. GC–MS profiling revealed distinct chemical patterns among the investigated bee-pollen samples, with multifloral samples (MP7–MP13) and chestnut pollen (CP1–CP2) showing a similar profile associated with the occurrence of linoleic acid. Moreover, the aldehydic volatile fingerprint further contributed potential chemical markers of botanical and territorial origin, particularly hexanal and nonanal, which may represent characteristic volatile markers of this botanical source, while 3-methylbutanal as well as sulphureous compounds contributed to the distinctive volatile profile of MP1 and MP2. These latter exhibited a distinctive phytochemical profile characterized by umbelliferon (UMB) and 7-isopentenyloxycoumarin (7-IPC), compounds with recognized bioactive properties that may contribute to the functional value of bee pollen. Antioxidant capacity was evaluated using ABTS and DPPH radical scavenging assays. The highest antioxidant activity was observed in MP1 and MP2, potentially reflecting the contribution of oxyprenylated coumarins. The presence of these coumarin derivatives may also provide insights into the botanical origin of the samples and their potential chemotaxonomic relevance. Principal component analysis (PCA) revealed clear chemical distinctions associated with botanical origin, effectively discriminating…",
-   "url": "https://doi.org/10.3390/molecules31224077"
-  },
-  {
    "key": "doi:10.3390/foods15224032",
    "groups": [
     "chestnut"
@@ -464,7 +531,7 @@
    "doi": "10.1094/pdis-06-26-1235-re",
    "pmid": "43007353",
    "title": "&lt;i&gt;In vitro&lt;/i&gt; efficacy of BLAD against &lt;i&gt;Phytophthora cinnamomi&lt;/i&gt;: Effects on mycelial growth, sporulation, and zoospore germination of isolates from &lt;i&gt;Quercus suber&lt;/i&gt; and &lt;i&gt;Castanea sativa&lt;/i&gt;.",
-   "journal": "",
+   "journal": "Plant Disease",
    "date": "2026-11-10",
    "authors": "Trindade M, Machado H, Ferreira RB.",
    "abstract": "Phytophthora cinnamomi Rands is a devastating soilborne oomycete responsible for root rot in Quercus suber L., Castanea sativa Mill., Quercus ilex L. and many other species worldwide, causing widespread forest decline across Mediterranean ecosystems. The BLAD-containing oligomer (BCO), isolated from Lupinus albus L. cotyledons, is a β-conglutin derived polypeptide oligomer who´s major 20.4 kDa polypeptide BLAD has been reported to exhibit potent and broad-spectrum antifungal and anti-oomycete activity, as well as protective efficacy against P. cinnamomi under greenhouse conditions. However, whether this protection reflects direct pathogen inhibition, host biostimulation or host boosting defense effects remains unresolved, and no in vitro characterization of its anti-P. cinnamomi activity had ever been established. Here, the in vitro activity of a BCO-based commercial formulation (PROBLAD®) was evaluated against five P. cinnamomi isolates (four from Q. suber, one from C. sativa) across multiple endpoints: mycelial radial growth, dry weight, chlamydospore and sporangia production, and zoospore germination. BCO inhibited radial growth in a concentration- and time-dependent manner (EC50: 4.74-6.43 mL/L). At ≥5 mL/L, colonies showed reduced compactness confirmed by dry weight (EC50: 2.63-4.08 mL/L), demonstrating that radial growth underestimates inhibitory activity by not capturing reductions in mycelial density. A transient stimulatory effect (hormesis) was observed at 1-2 mL/L across all isolates. Chlamydospore and sporangia production were fully suppressed at 1-5 mL/L, indicating interference with the induction phase of sporulation. Zoospore germination was inhibited with an EC50 of 5.72 mL/L and completely abolished at 20 mL/L. Microscopic examination revealed progressi…",
@@ -481,10 +548,10 @@
    "doi": "10.1111/pce.71026",
    "pmid": "43007064",
    "title": "The Gibberellin-Responsive Module RsRGL3a-RsGID1b-1-RsATL56 Orchestrates Parthenocarpic Fruit Formation in Seedless Chestnut Rose (Rosa sterilis).",
-   "journal": "",
+   "journal": "Plant, Cell and Environment",
    "date": "2026-11-10",
    "authors": "Zhou K, Leng Y, Shen L, Min Y, Wen S, Wang Y, Deng L, Peng L, Wang H, Zhong S, Ao Y, Song Z, Yang K, Qiao G, Wen X.",
-   "abstract": "",
+   "abstract": "Seedlessness is a fruit trait highly favoured by consumers, with parthenocarpy serving as an important means to achieve seedless fruit. In this work, RsGID1b‐1 responds to GAs and promotes parthenocarpic fruitsetting by activating RsATL56 transcription in seedless chestnut rose ( Rosa sterilis ). RsRGL3a antagonizes RsGID1b‐1 and represses RsATL56 , negatively regulating parthenocarpy.",
    "url": "https://doi.org/10.1111/pce.71026"
   },
   {
@@ -503,6 +570,23 @@
    "authors": "Mohan S, Matolia J, Verma S.",
    "abstract": "Bihar's blue food economy, built on inland fisheries, makhana (fox nut) cultivation, and water chestnut (singhara) farming, is a major contributor to India's aquatic food production and a critical source of rural livelihoods, nutrition, and income. The state ranks fourth among India's inland fish producers, contributes roughly 90% of India's makhana output, and accounts for nearly 60% of the country's water chestnut production. Despite this scale, the sector faces mounting structural risks: climate variability, recurring floods and droughts, rising temperatures, water quality degradation, and disease outbreaks. These risks are compounded by a lack of integrated early-warning systems for water quality and climate monitoring, leaving farmers to react to visible losses rather than anticipate them. This paper reviews the current state of Bihar's three major blue food systems, their production trends, climatic and environmental requirements, and value chain challenges. The paper then presents Twingills, an AI-powered digital twin platform built on NatureDots' AquaNurch Foundation Model, as a proposed intelligence layer to close this gap through real-time and predictive intelligence at farm and landscape scales, forecasting, and timely decision support for farmers and other stakeholders.",
    "url": "https://doi.org/10.20944/preprints202611.1077.v1"
+  },
+  {
+   "key": "doi:10.3390/ijms272210065",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "acf5e37aa9efcd9833ae8fe4b329d7bd0ddc16dd",
+   "doi": "10.3390/ijms272210065",
+   "pmid": "",
+   "title": "Development and Characterization of Chitosan and Alginate Films Containing Kraft and Organosolv Lignin Nanoparticles for Active Food Packaging",
+   "journal": "International Journal of Molecular Sciences",
+   "date": "2026-11-10",
+   "authors": "Justyna Jakubska, Abdullah, W. Pakieła, K. Gołombek, T. Warski, L. Hawełek",
+   "abstract": "This study examines the effects of kraft and organosolv lignin nanoparticles on chitosan- and sodium alginate-based films designed for active food packaging. Glycerol-plasticized films containing chestnut extract and different nanolignin concentrations were evaluated for their properties and activities. Alginate films generally showed higher tensile strength, reaching 109.35 MPa with 0.2 g of kraft nanolignin, whereas chitosan films provided a better water-vapor barrier, with a minimum permeability of 0.031 mg·µm·Pa−1·s−1·m−2 at 0.02 g of kraft nanolignin. Kraft nanolignin exhibited smaller characteristic structures and produced finer surface features. Organosolv nanolignin formed larger aggregates and generally reduced water absorption. All films decreased light transmission and exhibited antibacterial activity against Escherichia coli and Staphylococcus aureus, with kraft-containing formulations showing the strongest overall inhibition. Spectroscopic, structural, and thermal analyses confirmed intermolecular interactions and slightly improved thermal stability after nanolignin incorporation. All formulations underwent hydrolytic mass loss in phosphate-buffered saline. These findings demonstrate that the matrix, nanolignin type, and concentration can be selected to tailor film properties for specific food-packaging applications.",
+   "url": "https://doi.org/10.3390/ijms272210065"
   },
   {
    "key": "doi:10.3390/horticulturae12111394",
@@ -571,23 +655,6 @@
    "authors": "Jie Wei, Dong-Xue Chen, Xu-Dan Lu, Yan Sun, Zhi Li, Nan Liu",
    "abstract": "",
    "url": "https://doi.org/10.1080/19476337.2026.2759342"
-  },
-  {
-   "key": "doi:10.3390/ijms272210065",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "acf5e37aa9efcd9833ae8fe4b329d7bd0ddc16dd",
-   "doi": "10.3390/ijms272210065",
-   "pmid": "",
-   "title": "Development and Characterization of Chitosan and Alginate Films Containing Kraft and Organosolv Lignin Nanoparticles for Active Food Packaging",
-   "journal": "International Journal of Molecular Sciences",
-   "date": "2026-11-10",
-   "authors": "Justyna Jakubska, Abdullah, W. Pakieła, K. Gołombek, T. Warski, L. Hawełek",
-   "abstract": "This study examines the effects of kraft and organosolv lignin nanoparticles on chitosan- and sodium alginate-based films designed for active food packaging. Glycerol-plasticized films containing chestnut extract and different nanolignin concentrations were evaluated for their properties and activities. Alginate films generally showed higher tensile strength, reaching 109.35 MPa with 0.2 g of kraft nanolignin, whereas chitosan films provided a better water-vapor barrier, with a minimum permeability of 0.031 mg·µm·Pa−1·s−1·m−2 at 0.02 g of kraft nanolignin. Kraft nanolignin exhibited smaller characteristic structures and produced finer surface features. Organosolv nanolignin formed larger aggregates and generally reduced water absorption. All films decreased light transmission and exhibited antibacterial activity against Escherichia coli and Staphylococcus aureus, with kraft-containing formulations showing the strongest overall inhibition. Spectroscopic, structural, and thermal analyses confirmed intermolecular interactions and slightly improved thermal stability after nanolignin incorporation. All formulations underwent hydrolytic mass loss in phosphate-buffered saline. These findings demonstrate that the matrix, nanolignin type, and concentration can be selected to tailor film properties for specific food-packaging applications.",
-   "url": "https://doi.org/10.3390/ijms272210065"
   },
   {
    "key": "doi:10.21203/rs.3.rs-11366878/v1",
@@ -1676,108 +1743,6 @@
    "authors": "V. M. Kandiyar",
    "abstract": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001 (PPV&FR Act) is the intellectual property framework developed by India to protect plant varieties while taking into account the role of farmers in agricultural innovation and the conservation of biodiversity. However, many problems remain in the registration of farmers’ varieties. This paper examines whether the existing registration regime is able to protect traditional farmers’ varieties, given that the registration system is predominantly based on formal and standardized plant variety protection. The main emphasis is on the problems farmers face in fulfilling the criteria of distinctiveness, uniformity and stability (DUS) when traditional varieties contain genetic diversity and have developed over generations of farmers. The procedural, technical, evidential and financial problems of registration are also analyzed, along with the question whether small farmers can fulfill all the requirements. The paper further discusses the limited time period for the registration of farmers’ varieties. It also explores the role of traditional farmers in the plant variety protection regime, especially traditional farmers who have conserved, developed or improved such traditional varieties and may also be recognized as breeders. The recognition of such farmers as breeders raises issues about the kind of rights they hold as breeders and the possible conflict between their rights as traditional farmers and their rights under plant variety protection. The study asks whether the present regime properly balances the intellectual property rights of farmers as breeders, on the one hand, and their traditional practices of cultivating, using, exchanging and conserving plant varieties, on the other.",
    "url": "https://doi.org/10.63108/ijlmh.13127"
-  },
-  {
-   "key": "doi:10.1111/jfb.70711",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42957444",
-   "doi": "10.1111/jfb.70711",
-   "pmid": "42957444",
-   "title": "A new species of the genus Dysommina from the Lakshadweep Sea, India (Anguilliformes: Synaphobranchidae: Ilyophinae).",
-   "journal": "Journal of Fish Biology",
-   "date": "2026-10-29",
-   "authors": "Kodeeswaran P.",
-   "abstract": "This study describes a new Dysommina species, based on two specimens collected at a depth of ca. 600 m in the Lakshadweep Sea off south-western India. The new species differs from its congeners in having fewer total vertebrae (120-127 vs. 134 in D. castanea, 133-134 in D. brevis, and 137-141 in D. orientalis), fewer predorsal vertebrae (14-15 vs. 16 in D. pygmaea), fewer preanal vertebrae (24-27 vs. 28-31 in D. rugosa), and in a combination of morphometric, meristic, dentition and colouration characters. DNA sequences were generated and analysed.",
-   "url": "https://doi.org/10.1111/jfb.70711"
-  },
-  {
-   "key": "doi:10.32854/vztqxm65",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "c3b5f9352f49b8b647c69fdbd28af7d473bbaa3c",
-   "doi": "10.32854/vztqxm65",
-   "pmid": "",
-   "title": "Somatic embryogenesis from leaf segments of Quercus castanea Mill.",
-   "journal": "Agro Productividad",
-   "date": "2026-10-29",
-   "authors": "C. Castillo-Martínez, E. Velasco-Bautista, M. Vallejo-Reyna, M. T. González-Arnao, Lizbeth Fernández-Cruz",
-   "abstract": "Objective: To evaluate the capacity of leaf segments obtained from young shoots collected from adult Quercus castanea Mill. trees to form embryogenic callus and somatic embryos under in vitro conditions. Design/methodology/approach: The study was conducted in two stages. In the first stage, two culture media were compared to induce embryogenic callus and somatic embryos from leaf segments. In the second stage, the medium that produced the best response was evaluated under two incubation conditions, light and darkness, to determine their effect on callus growth and somatic embryo development. Results: In the first stage, WPM medium supplemented with 0.5 mg L⁻¹ 2,4-D showed the best response, with 82% embryogenic callus formation and 32% somatic embryo formation. In the second stage, no statistically significant differences were detected between light and darkness, indicating that these conditions did not substantially did not significantly affect callus volume.. Somatic embryos maturation reached 95%after transfer to MS medium without growth regulators and supplemented with 100 mg L⁻¹ polyvinylpyrrolidone. Limitations/implications: The study was conducted under controlled in vitro culture conditions and focused on the response of leaf explants obtained from young shoots of adult trees; therefore, further studies are required to strengthen the protocol and evaluate its reproducibility under broader experimental conditions. Findings/conclusions: Leaf segments of Q. castanea constitute a viable source of explants for the induction of somatic embryogenesis. WPM medium supplemented with 2,4-D promoted embryogenic callus induction and somatic embryo formation, whereas incubation under light or darkness did not significantly modify the response.",
-   "url": "https://doi.org/10.32854/vztqxm65"
-  },
-  {
-   "key": "doi:10.3390/molecules31213900",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "8068a95674aeb52bd2b9087b542e372e6ad40f8f",
-   "doi": "10.3390/molecules31213900",
-   "pmid": "",
-   "title": "The Relationship of Cultivars, Structures and In Vitro Digestibility of Chinese Chestnut (Castanea henryi) Starches Treated with Low-Voltage Electrostatic Field Technology",
-   "journal": "Molecules",
-   "date": "2026-10-29",
-   "authors": "Feng Chen, Xian-Tong Wu, Wen-Can Luo, Jing Wang, Wei-Jing Zhuang, Wen-Sheng Chen",
-   "abstract": "Low-voltage electrostatic field (LVEF) treatment is an emerging food preservation technology that exploits the physical effects of electrostatic fields; however, its mechanisms of action in nut crops remain poorly understood. This study investigated changes in starch structure, processing properties, and in vitro digestibility in five chestnut cultivars (Castanea henryi) from different regions of China (Chushuhong, Changmangzi, Youzhen, Hongzhenzi, and Huangzhen) following refrigeration treatment (RT) and LVEF treatment. LVEF increased the crystallinity and molecular order of chestnut starch. It also generally reduced free water content, peak viscosity (PV), breakdown viscosity (BV), and setback viscosity (SV), while increasing water-holding capacity. In addition, LVEF enhanced the resistance to shear and retrogradation, thereby improving starch processing performance. The TPA results showed that LVEF improved the textural properties of chestnut starch gels, supporting their suitability for gel-based foods. The responses varied among the cultivars. Compared with RT, LVEF reduced the particle size and free water content of Chushuhong starch by 19.56% and 18.41%, respectively. Chushuhong also exhibited the largest increase in crystallinity (31.34%), while the bound water content of its starch gel increased by 13.70%, indicating stronger responsiveness to LVEF. Overall, LVEF improved the processing performance of chestnut starch, although varietal differences in the responses were observed. LVEF-treated Chushuhong and Changmangzi starches exhibited favorable processing properties, indicating their suitability for developing processed chestnut products. Meanwhile, their starches exhibited faster enzymatic hydrolysis rates under in vitro conditions. These findings provide a …",
-   "url": "https://doi.org/10.3390/molecules31213900"
-  },
-  {
-   "key": "doi:10.3390/app162110714",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "c7b264ae24caed9f1d7db068611ef3194d732147",
-   "doi": "10.3390/app162110714",
-   "pmid": "",
-   "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia Nakai) Infusion",
-   "journal": "Applied Sciences",
-   "date": "2026-10-29",
-   "authors": "Riho Endo, Tsukasa Shiraishi, Mihoko Moto",
-   "abstract": "Addition of fruit during sourdough preparation can lead to the development of distinctive bacterial communities and fermentation characteristics. However, sourdough preparation with Japanese pear infusion remains understudied. We prepared sourdough with Japanese pear infusion and evaluated its organic acid composition and bacterial community. Sourdough was passaged for up to 56 generations. pH decreased rapidly during the initial generations of backslopping and subsequently stabilized at 3.5 and 3.7. High-performance liquid chromatography analysis revealed that lactic and acetic acid were the major organic acids. The fermentation quotient in the 55th and 56th generations ranged from 0.64 to 0.70, indicating an acetic acid-dominant profile. Bacterial community analysis targeting the V3–V4 region of the 16S rDNA gene revealed Furfurilactobacillus rossiae and Acetobacter pasteurianus as the dominant taxa. Average nucleotide identity analysis identified the representative isolates as Furfurilactobacillus milii and Acetobacter pasteurianus subsp. pasteurianus, respectively. This descriptive study is limited by a small sample size, lack of a control group, initial bacterial community data, and limited statistical analysis. Nevertheless, under the experimental conditions of this study, relatively high acetic acid levels were observed in the analyzed sourdoughs, together with a bacterial community dominated by the genera Furfurilactobacillus and Acetobacter were observed as predominant genera.",
-   "url": "https://doi.org/10.3390/app162110714"
-  },
-  {
-   "key": "doi:10.1139/cjm-2026-0110",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42956384",
-   "doi": "10.1139/cjm-2026-0110",
-   "pmid": "42956384",
-   "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
-   "journal": "Canadian Journal of Microbiology (print)",
-   "date": "2026-10-29",
-   "authors": "Abed S, Kumar A, Hausner G.",
-   "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
-   "url": "https://doi.org/10.1139/cjm-2026-0110"
-  },
-  {
-   "key": "doi:10.3390/genes17111348",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "30346f7a10d06a76e25cdc595b350108d026f947",
-   "doi": "10.3390/genes17111348",
-   "pmid": "",
-   "title": "Comparative Analyses of the Organellar Genomes of Quercus Reveal Contrasting Evolutionary Dynamics",
-   "journal": "Genes",
-   "date": "2026-10-29",
-   "authors": "Si-Nuo Feng, Yu Li, Yi-Gang Song",
-   "abstract": "Background: Mitochondrial and chloroplast genomes in plants have experienced distinct evolutionary trajectories due to differences in genomic organization, functional constraints, and genome maintenance mechanisms. However, comparative studies of their evolutionary dynamics in oaks remain limited. Methods: The complete mitochondrial and chloroplast genomes of Quercus arbutifolia were assembled and annotated using PacBio HiFi reads. Genome structure, repetitive sequences, codon usage, and mitochondrial plastid DNA transfers (MTPTs) were characterized. Evolutionary genomic and phylogenetic analyses were conducted across selected Quercus species to assess structural variation, sequence divergence, and phylogenetic relationships. Results: The mitochondrial genome of Q. arbutifolia was assembled as a 493,735 bp linear molecule, whereas the chloroplast genome was assembled as a 160,682 bp circular molecule. The mitochondrial genome exhibited lower coding density and a higher abundance of repetitive sequences than the chloroplast genome. Both organellar genomes preferentially used A/U-ending codons, with codon usage variation associated with mutation bias and selective constraints. Thirty-two MTPT regions were identified, predominantly representing plastid-to-mitochondrial transfers. Chloroplast genomes showed conserved inverted repeat boundaries among Quercus species, whereas mitochondrial genomes displayed extensive structural rearrangements, indicating contrasting evolutionary dynamics between the two organellar genomes. Nucleotide diversity analyses further revealed different sequence variation between organellar genomes, with chloroplast protein-coding genes (PCGs) generally exhibiting higher sequence divergence than mitochondrial PCGs. Phylogenetic analyses recovered lar…",
-   "url": "https://doi.org/10.3390/genes17111348"
   }
  ]
 }
