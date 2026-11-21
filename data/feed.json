@@ -1,15 +1,47 @@
 {
- "generated_at": "2026-11-20T20:32:59.136Z",
+ "generated_at": "2026-11-21T20:31:40.373Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 102,
- "errors": [
-  "semanticscholar:pine: HTTP 429"
- ],
+ "count": 105,
+ "errors": [],
  "items": [
+  {
+   "key": "doi:10.1007/s11270-026-10159-2",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "0544b9c2c42f0f15e0ad9d971c8c29e9215627b8",
+   "doi": "10.1007/s11270-026-10159-2",
+   "pmid": "",
+   "title": "Removal of Basic Blue 41 Dye onto with Melon Seeds and Chestnut Shells: Isotherm, Kinetics and Thermodynamic Studies",
+   "journal": "Water, Air and Soil Pollution",
+   "date": "2026-11-21",
+   "authors": "Yeliz Ozudogru, Emre Arab",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11270-026-10159-2"
+  },
+  {
+   "key": "doi:10.1038/s41598-026-74253-5",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "c84f42f88212156ee200cdd6e439d5e8af46fe6d",
+   "doi": "10.1038/s41598-026-74253-5",
+   "pmid": "",
+   "title": "Optimization of water chestnut starch-based encapsulation systems for improved probiotic survival under simulated gastrointestinal stress",
+   "journal": "Scientific Reports",
+   "date": "2026-11-20",
+   "authors": "Farhan Saeed, Aftab Ahmed, Nameer Khairullah Mohammed, Nighat Raza, Laraib Shoukat, Huda Ateeq",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41598-026-74253-5"
+  },
   {
    "key": "doi:10.21203/rs.3.rs-11405638/v1",
    "groups": [
@@ -28,6 +60,57 @@
    "url": "https://doi.org/10.21203/rs.3.rs-11405638/v1"
   },
   {
+   "key": "doi:10.1007/s42535-026-01960-9",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e3bc0225367c878feec429cba45ccce296a5532c",
+   "doi": "10.1007/s42535-026-01960-9",
+   "pmid": "",
+   "title": "Phenotypic and molecular phylgenetic evaluation of kiwi fruit (Actinidia arguta) resources from the Democratic People’s Republic of Korea",
+   "journal": "Vegetos- An International Journal of Plant Research",
+   "date": "2026-11-19",
+   "authors": "Kang-Song Ju, Il-Nam Kim, Yu-Jong Ri, Hyok-Sung Kwon, Yong-Hwan Ri, Un-Hyang Ho",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s42535-026-01960-9"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1992837",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "ced3732605809174d6ddb23d7b3ea5c5abb3f67d",
+   "doi": "10.3389/fpls.2026.1992837",
+   "pmid": "",
+   "title": "Integrated defense strategies of Chinese chestnut against Oligonychus ununguis: coordinated regulation of morphological barriers, constitutive metabolites, and transcriptome-metabolome responses",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-11-18",
+   "authors": "Xin-Fang Zhang, Ying Li, Yan Guo, Jin-Yu Liu, Jia-Yi Liu, Yu-Jie Wang",
+   "abstract": "The multidimensional defense mechanisms of chestnut ( Castanea mollissima ) against the spider mite, Oligonychus ununguis , encompassing physical barriers, constitutive metabolites, and post-infestation responses, remain poorly characterized. This study integrated leaf micromorphology, physiological and biochemical profiling, transcriptomics, and metabolomics to elucidate the coordinated defense architecture of chestnut against O. ununguis . Leaf anatomical traits of six cultivars, comprising three resistant and three susceptible genotypes, were evaluated, while four representative cultivars were subjected to physiological-biochemical assays, widely targeted metabolomic profiling, and RNA sequencing before and 2 days after mite infestation. Weighted gene co-expression network analysis (WGCNA) and linear mixed models (LMMs) were used to characterize co-expression patterns and metabolite-morphology associations. Cultivar-specific anatomical differences were observed among cultivars: the resistant cultivar ‘Likang’ exhibited significantly greater leaf thickness and upper epidermal thickness ( P < 0.05), whereas the resistant cultivar ‘Songjiazao’ possessed a thicker wax layer than the other cultivars. Biochemical profiling revealed cultivar-specific differentiation rather than a uniform resistant-group phenotype. For example, soluble sugar content was lowest in ‘Xujia1’, whereas soluble protein content was highest in ‘Likang’; however, none of these traits varied consistently within the resistant group, while LMM identified significant associations between four biochemical indicators (soluble sugars, flavonoids, lignin and soluble protein) and leaf structural traits, consistent with putative resource-allocation trade-offs. Mite infestation was associated with substantial t…",
+   "url": "https://doi.org/10.3389/fpls.2026.1992837"
+  },
+  {
+   "key": "doi:10.1080/00218839.2026.2755255",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "bc9901e6b548868215bcd6d736ebd7d5c01b9c07",
+   "doi": "10.1080/00218839.2026.2755255",
+   "pmid": "",
+   "title": "Effects of some growing environmental factors on the biochemical characterization of chestnut propolis",
+   "journal": "Journal of Apicultural Research",
+   "date": "2026-11-18",
+   "authors": "T. Bozlar, N. Diktaş-Bulut, C. Birinci, Selcen Çelik-Uzuner, Oktay Yıldız, S. Kolaylı",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/00218839.2026.2755255"
+  },
+  {
    "key": "doi:10.1371/journal.pone.0361803",
    "groups": [
     "jujube"
@@ -38,11 +121,62 @@
    "doi": "10.1371/journal.pone.0361803",
    "pmid": "43050438",
    "title": "Predicting the impact of climate change on the climatic suitability for Ziziphus jujuba in China.",
-   "journal": "",
+   "journal": "PLoS ONE",
    "date": "2026-11-18",
    "authors": "Zhao Z, Zhang J, Wu X.",
    "abstract": "Ziziphus jujuba Mill. is an economically valuable tree species in China, and its climatically suitable range is sensitive to future climate risks, with implications for biological resource conservation. Species occurrence records and bioclimatic variables were integrated, and a parameter-tuned MaxEnt model was employed to forecast the potential climatic suitability for Z. jujuba in China under three shared socioeconomic pathways (SSP1-2.6, SSP3-7.0, and SSP5-8.5). The adjusted model exhibited excellent predictive performance (AUC = 0.947). Annual mean temperature, precipitation seasonality, and temperature seasonality were identified as the dominant climatic drivers. Currently, highly suitable areas (8.84% of total suitable area) are concentrated in the Bohai Rim region. Under future scenarios, although the total climatically suitable area expands across all pathways, its spatial pattern undergoes significant reorganization: contraction in southeastern margins, expansion into northwestern inland regions, and relative stability in the core area. The centroid is projected to shift continuously northwestward, with a maximum cumulative migration of 504.67 km under SSP5-8.5. Future planning must prioritize the risk of declining suitability in traditional southeastern production areas and carefully assess the practical feasibility of potential expansion zones in the northwest. These findings provide a scientific basis for climate-adaptive management of Z. jujuba resources.",
    "url": "https://doi.org/10.1371/journal.pone.0361803"
+  },
+  {
+   "key": "doi:10.3390/plants15223601",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e763ac33ba75487d0391628762128076ee857391",
+   "doi": "10.3390/plants15223601",
+   "pmid": "",
+   "title": "Quantitative Variation in Black Spot Disease Response Among Ziziphus jujuba Genotypes Assessed by Detached-Leaf and Detached-Fruit Phenotyping Against Alternaria alternata-Associated Isolate Q44",
+   "journal": "Plants",
+   "date": "2026-11-18",
+   "authors": "R. Siddique, Ping Xiong, Zhi Luo, Fen-Fen Yan",
+   "abstract": "Black spot disease associated with Alternaria alternata reduces the quality and marketability of jujube (Ziziphus jujuba Mill.) fruit; however, quantitative variation in disease response among jujube genotypes remains insufficiently characterized. This study evaluated 60 genotypes, comprising two parental genotypes and 58 F1 progenies, using complementary detached-leaf and detached-fruit assays. Isolate Q44 was characterized morphologically and placed within the A. alternata-associated clade using internal transcribed spacer sequence analysis. The assays were conducted in three independent experimental runs and analyzed using a randomized complete block design, with experimental run as the blocking factor. Genotype significantly affected detached-leaf lesion area, detached-fruit lesion area, and fruit lesion depth (p < 0.0001). Panel-relative disease indices revealed marked differences among traits: 83.33% of genotypes occurred in Grades I–II for fruit lesion area, compared with 46.67% for leaf lesion area and 30.00% for fruit lesion depth, whereas 56.67% were classified in Grades IV–V for lesion depth. Detached-leaf and detached-fruit lesion areas were strongly associated (r = 0.9015, p < 0.0001), with the fitted linear model accounting for 81.26% of the variation in fruit lesion area. The first two principal components explained 98.7% of the variation in the three measured lesion-response traits. Integrated disease-response analysis identified Q38, Q79, Q184, Q106, and Q170 as lower-response genotypes, whereas Q175, Q56, Q76, Q17, and P3X-10 exhibited higher responses. These contrasting genotypes provide useful materials for multi-isolate validation, field evaluation, and future jujube improvement studies.",
+   "url": "https://doi.org/10.3390/plants15223601"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12111441",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "9c485571737268ed6e53b3ec60fb7c2787714d28",
+   "doi": "10.3390/horticulturae12111441",
+   "pmid": "",
+   "title": "Changes in Postharvest Quality and Bioactive Compounds of Jujube (Ziziphus jujuba Mill.) Fruit Harvested at Different Maturity Stages During Cold Storage",
+   "journal": "Horticulturae",
+   "date": "2026-11-18",
+   "authors": "Chul-Woo Kim, Yonghyun Kim, U. Lee, H. Eo",
+   "abstract": "Harvest maturity, as indicated by red surface coloration, is an important determinant of postharvest quality in jujube (Ziziphus jujuba Mill.). ‘Bokjo’ jujube fruit were harvested at three coloration stages, stage 1 (≤10% red surface), stage 2 (40–60%), and stage 3 (≥90%), and stored at 3 ± 1 °C for 8 weeks. Stage 1 and stage 2 fruit continued to develop red coloration during storage. The color difference (ΔE*ab) between stage 2 and stage 3 fruit decreased from 28.3 at harvest to 8.4 at week 8, whereas a substantial color difference remained between stage 1 and stage 3 fruit (ΔE*ab = 20.1). However, soluble solids content remained relatively stable during storage and was lower in stage 1 (21–23 °Brix) and stage 2 (23–26 °Brix) than in stage 3 fruit (29–32 °Brix). Stage 3 fruit showed the highest incidence of postharvest disorders, with cracking reaching 60% at week 4 and soft rot reaching 40% at week 8, whereas the incidence of these disorders remained at or below 15% in stages 1 and 2. Stage 1 fruit exhibited the highest flavonoid and phenolic contents and DPPH radical-scavenging activity but also showed the greatest weight loss (3.4%) and shriveling incidence (35%) at week 8. These findings suggest that harvesting at stage 2 may provide a favorable balance between fruit appearance and storage stability during extended cold storage.",
+   "url": "https://doi.org/10.3390/horticulturae12111441"
+  },
+  {
+   "key": "doi:10.3390/agriculture16222538",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "0b6aa7b553913ccaa9119ca1b487997d076e2ae5",
+   "doi": "10.3390/agriculture16222538",
+   "pmid": "",
+   "title": "Optimizing the Strategies of Ziziphus jujuba ‘Dongzao’ Irrigation with Long-Term Saline Water in Yellow River Delta, China, Using MODFLOW and HYDRUS-2D",
+   "journal": "Agriculture",
+   "date": "2026-11-18",
+   "authors": "X. Cong, Yu-Cai Xie, Rong-Zhen Wang, Zheng-He Xu, G. Pang",
+   "abstract": "Optimizing saline drip irrigation to protect soil conditions and maintain Ziziphus jujuba ‘Dongzao’ yield is critical for freshwater-scarce regions with shallow saline groundwater. This study incorporated groundwater table variations and their long-term effects into the irrigation scheduling optimization framework to develop a saline drip irrigation regulation pattern suitable for jujube under shallow groundwater conditions. To this end, simulated hydraulic heads from MODFLOW were used to update the bottom boundary condition of HYDRUS-2D, to quantify soil water–salt transport and optimize irrigation management. A three-year field experiment was conducted in the Yellow River Delta. Five saline drip irrigation treatments (1 (control), 2, 3, 4, and 5 g·L−1) were established to investigate their influences on soil water content, soil salinity, jujube yield and fruit quality. Based on the experimental data, the MODFLOW and HYDRUS models were then calibrated and validated to simulate different saline water irrigation scenarios over a 10-year period, and the effects on the spatiotemporal variations in water and salt transport processes were analyzed. The main results were as follows: (1) The yield exhibited an inverse relationship with irrigation water salinity, with significant yield reductions (p < 0.05) observed only at the 4 and 5 g·L−1 treatments compared to the control. (2) The relative yield declined to 50% and 85% when the average saturated paste extract electrical conductivity (ECe) of soil reached 12.64 dS·m−1 (0.27%) and 8.85 dS·m−1 (0.19%), respectively. Moderate saline irrigation improved fruit quality, and the treatment of 4 g·L−1 achieved the best performance. (3) For consecutive dry years, the seasonal total irrigation quota is 216–240 mm, with 3 g·L−1 as the b…",
+   "url": "https://doi.org/10.3390/agriculture16222538"
   },
   {
    "key": "doi:10.1002/ece3.74750",
@@ -1658,91 +1792,6 @@
    "authors": "Barlier T, Castagneyrol B, Carton J, Burlett R, Bonnard O, Schimann H.",
    "abstract": "Leaf-associated microbiota are considered sensitive indicators of how plants respond to their environment. Yet, plants can be exposed to a wide range of biotic and abiotic stresses whose independent and combined effects on plant microbiota remain poorly understood, as do their cumulative consequences for plant performance. We conducted an experiment to expose saplings of four oak species to drought and herbivory by a piercing-sucking insect. We assessed the effect of water deficit on herbivory, as well as the individual and combined effects of water deficit and herbivory on fungal endophytic communities. To evaluate the cumulative impacts of biotic and abiotic stresses on plant performance, and the potential of the fungal endophytic communities as an indicator of plant responses to stress, we measured photosynthetic capacity, growth, and the accumulation of non-structural carbohydrates in twigs at the end of the growing season. Water deficit had no effect on insect herbivory but induced a decrease in the diversity of the leaf-associated fungal community. In contrast, herbivory shifted the composition of fungal communities through species replacement or addition depending on oak species. Herbivory altered photosynthesis, whereas drought but not herbivory reduced oak growth. None of these stresses influenced the storage of non-structural carbohydrates. Leaf-associated fungi responded to both stresses. However, the underlying mechanisms appeared to differ and the association with oak performance was weak. Overall, our study suggests a certain degree of resilience in trees subjected to interacting stresses, while also highlighting vulnerabilities that may have implications for tree health over the long term.",
    "url": "https://doi.org/10.1007/s00442-026-05995-2"
-  },
-  {
-   "key": "doi:10.1038/s41538-026-01188-6",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42963353",
-   "doi": "10.1038/s41538-026-01188-6",
-   "pmid": "42963353",
-   "title": "Profiling of pollen in honey using multispectral imaging flow cytometry.",
-   "journal": "npj Science of Food",
-   "date": "2026-10-30",
-   "authors": "Walther F, Hofmann M, Janke M, Erler S, Friedrich E, Treder M, Rakosy D, Harpole WS, Mäder P, Berdún A, Hornick T, Dunker S.",
-   "abstract": "Pollen identification from honey (melissopalynology) is of great economic and consumer relevance. Traditional microscopy is time-consuming and dependent on expert knowledge, thus limiting high-throughput analyses. We tested whether pollen images generated with Multispectral Imaging Flow Cytometry (MIFC) classified by machine learning (ML) (convolution neural networks (CNNs) and random forest (RF)) can serve as a fast and reproducible method for identifying pollen in honey. We examined how the classification of honey pollen is affected by images from different matrices (anther and honey samples), how results compare with traditional microscopic analysis and used a set of human-interpretable image features to better explain ML results. The study focused on the six common target pollen in honey Brassica, Castanea, Centaurea, Helianthus, Phacelia and Tilia type. A classifier trained with a combination of anther and honey brightfield and fluorescence images provided the best predictions for 13 monofloral and 10 polyfloral honeys. Yielding pollen identification results comparable to microscopy, three times more pollen can be evaluated, and a measurement time of a maximum of 10 min, the method demonstrates its high potential as a powerful screening tool in melissopalynology.",
-   "url": "https://doi.org/10.1038/s41538-026-01188-6"
-  },
-  {
-   "key": "doi:10.15587/1729-4061.2026.370093",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "173a7eac86b0e1735a8df78469fa5ddd6747d9df",
-   "doi": "10.15587/1729-4061.2026.370093",
-   "pmid": "",
-   "title": "Effects of individual and combined plant-extract treatments on the mechanical properties of sheepskin leather",
-   "journal": "Eastern-European Journal of Enterprise Technologies",
-   "date": "2026-10-30",
-   "authors": "M. Mels, B. Bitlisli, L. Sarttarova, Bekzhan Abzalbekuly, Jakhongir Gafurov, A. Tortay",
-   "abstract": "The object of the study was the technology of treating sheepskin leather intended for footwear manufacture with natural plant extracts, with particular attention to its mechanical performance. The problem was to select a binary treatment that would balance tensile strength, tear resistance, and elongation at break, because these properties do not necessarily respond in the same way to increasing extract concentration. The study examined chrome-tanned sheepskin leather treated with plant extracts for potential use as a footwear material. Individual oak bark, agrimony, horse chestnut, and chlorophyll treatments and binary combinations were first compared. Oak bark and horse chestnut extracts were then studied at concentrations of 1.5–2.5% each. Regression models and multi-response optimization were used to examine concentration-dependent changes and select a treatment condition within this range. Oak bark gave the highest tensile strength among the individual treatments, whereas the oak bark–horse chestnut combination gave the highest tear resistance among the screened treatments. In the concentration experiment, higher oak bark levels favored tensile strength, tear resistance showed a curved response to horse chestnut concentration, and elongation decreased towards higher extract concentrations. A treatment with 2.0% oak bark and 2.25% horse chestnut was selected as a compromise among the three responses (overall desirability 0.65697). At this condition, experimental tensile strength, tear resistance, and elongation were 8.605 ± 0.17 N/mm2, 40.707 ± 0.81 N/mm, and 48.725 ± 0.97%, respectively. Relative prediction errors were 1.55%, 1.94%, and 1.77% (mean 1.75%). These results provide a basis for selecting extract concentrations for the tested sheepskin under laboratory c…",
-   "url": "https://doi.org/10.15587/1729-4061.2026.370093"
-  },
-  {
-   "key": "doi:10.3390/plants15213367",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "a7c309fec71057b95a3a60db1974047072881a17",
-   "doi": "10.3390/plants15213367",
-   "pmid": "",
-   "title": "Phenotypic Characterization and Transcriptomic Profiling of Ziziphus jujuba var. spinosa Seedlings Under ATP Treatment and Identification of a Novel Lupeol Synthase",
-   "journal": "Plants",
-   "date": "2026-10-30",
-   "authors": "Yan-Sheng Wu, Shen-Xiu Du, Hua-Liang Liu, Yi-Mian Ma, Wen-Jing Wang, Ye-Lin Tian",
-   "abstract": "The tender leaves of Ziziphus jujuba var. spinosa (sour jujube) are widely consumed in China as a health-promoting tea, with triterpenoids being identified as one of their core bioactive constituents. However, key genes in the triterpenoid biosynthesis pathway remain largely uncharacterized in this species. Here, adenosine triphosphate (ATP) treatment inhibited sour jujube seedling growth, induced leaf curling and marginal withering in partial seedlings, and elevated triterpenoid content in seedling aboveground tissues. Transcriptome analysis showed that most mevalonic acid (MVA) pathway enzyme genes were not significantly altered, while some were downregulated, and some enzyme isoforms were slightly upregulated. Combined genome and transcriptome analysis identified one slightly upregulated oxidosqualene cyclase (OSC) gene, ZsLUS, among 13 sour jujube OSC family genes. Heterologous expression in yeast confirmed that ZsLUS encodes a bona fide lupeol synthase with catalytic activity. These results indicate that ATP treatment enhances triterpenoid accumulation without uniformly upregulating MVA pathway genes, suggesting a sub-pathway-specific regulatory mode or post-transcriptional regulatory mechanism for triterpenoid biosynthesis in sour jujube seedlings. This work deepens our understanding of the mechanism of ATP action on sour jujube triterpenoid biosynthesis and provides new clues for deciphering triterpenoid biosynthesis and accumulation in sour jujube leaves.",
-   "url": "https://doi.org/10.3390/plants15213367"
-  },
-  {
-   "key": "doi:10.68372/bt90q205",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "5a8409a7a0157b090ed9c4179989de2e5cf5ffb5",
-   "doi": "10.68372/bt90q205",
-   "pmid": "",
-   "title": "Sirdaryo viloyati sharoitida chilonjiydaning istiqbolli navlari ko'chatlarini yetishtirish texnologiyasini takomillashtirish",
-   "journal": "AGROBUSINESS, SCIENCE AND TECHNOLOGY",
-   "date": "2026-10-30",
-   "authors": "Jasur Eshquvvatov",
-   "abstract": "This article analyzes the scientific basis for improving the technology of growing seedlings of promising jujube (Ziziphus jujuba Mill.) cultivars under the conditions of the Syrdarya region of Uzbekistan. The relevance of the study is associated with the adaptability of jujube to arid and continental climatic conditions, the nutritional and biological value of its fruits, and the increasing interest in expanding jujube cultivation in Uzbekistan. Scientific information on jujube cultivars introduced into Uzbekistan, seed and vegetative propagation methods, pre-sowing seed treatments, cutting rooting, and grafting techniques used for the production of planting material is reviewed. Previous research conducted under Uzbek conditions investigated nine jujube cultivars introduced from China, including Xiangzao, Zanhuangdazao, Tangzao, Mayabaizao, Junzao, Dabailing, Dongzao, Linyilizao, and Jixinzao, with several cultivars demonstrating promising adaptability. Recent research on seed propagation has also demonstrated the importance of pre-sowing treatment and sowing depth. Under the conditions of the Republic of Karakalpakstan, the highest seed germination was observed at a sowing depth of 2.5–3.0 cm, while scarification accelerated seed germination and improved germination performance. Studies of vegetative propagation have demonstrated that indole-3-butyric acid (IBA) can significantly improve the rooting of jujube cuttings and root development characteristics. The reviewed scientific evidence provides a basis for developing an adapted technology for producing high-quality jujube planting material under the soil and climatic conditions of the Syrdarya region.",
-   "url": "https://doi.org/10.68372/bt90q205"
-  },
-  {
-   "key": "doi:10.63108/ijlmh.13127",
-   "groups": [
-    "dus-pvp"
-   ],
-   "cat": "pvp",
-   "source": "semanticscholar",
-   "id": "c4e87f6a618f93941712005c167a47ac09acaef1",
-   "doi": "10.63108/ijlmh.13127",
-   "pmid": "",
-   "title": "Legal Challenges in the Registration of Farmers' Varieties under the Protection of Plant Varieties and Farmers' Rights Act, 2001",
-   "journal": "International Journal of Law Management &amp; Humanities",
-   "date": "2026-10-30",
-   "authors": "V. M. Kandiyar",
-   "abstract": "The Protection of Plant Varieties and Farmers’ Rights Act, 2001 (PPV&FR Act) is the intellectual property framework developed by India to protect plant varieties while taking into account the role of farmers in agricultural innovation and the conservation of biodiversity. However, many problems remain in the registration of farmers’ varieties. This paper examines whether the existing registration regime is able to protect traditional farmers’ varieties, given that the registration system is predominantly based on formal and standardized plant variety protection. The main emphasis is on the problems farmers face in fulfilling the criteria of distinctiveness, uniformity and stability (DUS) when traditional varieties contain genetic diversity and have developed over generations of farmers. The procedural, technical, evidential and financial problems of registration are also analyzed, along with the question whether small farmers can fulfill all the requirements. The paper further discusses the limited time period for the registration of farmers’ varieties. It also explores the role of traditional farmers in the plant variety protection regime, especially traditional farmers who have conserved, developed or improved such traditional varieties and may also be recognized as breeders. The recognition of such farmers as breeders raises issues about the kind of rights they hold as breeders and the possible conflict between their rights as traditional farmers and their rights under plant variety protection. The study asks whether the present regime properly balances the intellectual property rights of farmers as breeders, on the one hand, and their traditional practices of cultivating, using, exchanging and conserving plant varieties, on the other.",
-   "url": "https://doi.org/10.63108/ijlmh.13127"
   }
  ]
 }
