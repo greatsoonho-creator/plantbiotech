@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T20:31:40.373Z",
+ "generated_at": "2026-11-22T20:31:09.748Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 105,
+ "count": 100,
  "errors": [],
  "items": [
   {
@@ -26,6 +26,23 @@
    "url": "https://doi.org/10.1007/s11270-026-10159-2"
   },
   {
+   "key": "doi:10.21203/rs.3.rs-11231979/v1",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "preprint",
+   "id": "PPR1373804",
+   "doi": "10.21203/rs.3.rs-11231979/v1",
+   "pmid": "",
+   "title": "Raw jujube stone and raw hawthorn stone particles as green adsorbents for the adsorption of different organic dyes",
+   "journal": "Research Square",
+   "date": "2026-11-21",
+   "authors": "Mousavi SH, Jafari S, Hanifehpour S, Moafi HF.",
+   "abstract": "Abstract In this work, the raw jujube stone particles (RJSP) and the raw hawthorn stone particles (RHSP) as efficient natural and green adsorbents were used for the adsorption of methylene blue (MB), malachite green (MG), crystal violet (CV), and disperse red 1 (DR1) dyes. The functional groups, morphology, particle size, surface area, and pore size of RJSP and RHSP were determined using FT-IR, BET, FESEM, TEM, and EDX. The green adsorbents RJSP and RHSP showed high efficiency in the adsorption of MB, MG, CV, and DR1 dyes and showed comparable performance to other reported adsorbents. According to the results, the adsorption of MB, MG, CV, and DR1 dyes onto RJSP and RHSP follows the Freundlich isotherm, while the kinetics are well described by the pseudo-second-order model. Also, according to the Langmuir isotherm, RJSP exhibited maximum adsorption capacities (Q m ) of 145, 124, 114, and 98 mg/g for MB, MG, CV, and DR1, respectively, while RHSP showed adsorption capacities of 84, 111, 102, and 94 mg/g. In addition, thermodynamic parameters confirm that the adsorption of MB, MG, CV, and DR1 dyes is exothermic on RJSP and endothermic on RHSP. Finally, the RJSP and RHSP can be used as affordable, environmentally friendly, and effective natural adsorbents for the removal of various industrial dyes.",
+   "url": "https://doi.org/10.21203/rs.3.rs-11231979/v1"
+  },
+  {
    "key": "doi:10.1038/s41598-026-74253-5",
    "groups": [
     "chestnut"
@@ -39,7 +56,7 @@
    "journal": "Scientific Reports",
    "date": "2026-11-20",
    "authors": "Farhan Saeed, Aftab Ahmed, Nameer Khairullah Mohammed, Nighat Raza, Laraib Shoukat, Huda Ateeq",
-   "abstract": "",
+   "abstract": "The present study aimed to improve the viability and stability of probiotic bacteria under adverse environmental and gastrointestinal conditions through encapsulation in water chestnut starch-based micro- and nanoparticles prepared by the gelation method. The resulting particles were characterized and evaluated for their ability to protect Bifidobacterium bifidum during storage, thermal exposure, and simulated gastrointestinal conditions. Both encapsulation systems demonstrated high encapsulation yields, with values of 95% and 97% for microcapsules and nanocapsules, respectively. During storage, encapsulated probiotics exhibited significantly greater viability than free cells. After 20 days, viable counts decreased from approximately 9.50 log CFU/g to 7.29 log CFU/g in microencapsulated cells, and 8.94 log CFU/g in nanoencapsulated cells. Encapsulation also enhanced thermal stability compared with free probiotic cells. Under simulated gastric conditions, free cells showed the greatest loss in viability, decreasing to 4.74 log CFU/g after 120 min, whereas microencapsulated and nanoencapsulated cells retained viable counts of approximately 7.62 and 8.55 log CFU/g, respectively. Similarly, under simulated intestinal conditions, free cells showed the lowest survival, 3.65 log CFU/g, while encapsulated cells maintained substantially higher viability. Nanoencapsulated cells exhibited the highest survival (8.13 log CFU/g), demonstrating the protective effect of starch-based encapsulation against gastrointestinal stress. In contrast, free probiotic cells showed substantially greater losses in viability under all tested conditions. Statistical analysis demonstrated significant differences among treatments where applicable (p < 0.05). In conclusion, water chestnut starch-based en…",
    "url": "https://doi.org/10.1038/s41598-026-74253-5"
   },
   {
@@ -1690,108 +1707,6 @@
    "authors": "Rellstab C, Guichoux E, Gugerli F, Kremer A, Reutimann O.",
    "abstract": "Species identification is essential for conservation, forest management, and understanding ecological and evolutionary dynamics, such as adaptive introgression and maintenance of species boundaries in hybridizing taxa. Species-discriminatory marker sets have been shown to be more accurate than morphological identification, especially in hybridizing species complexes, and provide a more affordable alternative to genome-wide analyses. However, to our knowledge, no species complex exists for which several marker sets are available, let alone have been compared to each other. Moreover, it remains unclear how well marker sets can be applied to additional, closely related species. Here, we compared two independently developed SNP sets, one derived from amplicon sequencing and one from whole-genome sequencing, for three morphologically similar and hybridizing European white oak species sensu lato (Quercus robur, Q. petraea, and Q. pubescens). We applied the SNP sets to 560 samples, including samples of known pure ancestry, controlled crosses, natural populations, and four additional white oak species. Congruency between SNP sets was very high, but species assignment was slightly more accurate for the reference samples used in the development of the respective SNP set. Ancestry coefficients for first-generation hybrids were more precise with the SNP set based on whole-genome data. In a natural population, there was limited congruency between SNP sets in quantifying admixture. Notably, the SNP sets were able to identify up to two additional white oak species. Our study highlights the great potential of species-discriminatory SNP sets in science and practice, while demonstrating that ascertainment bias should not be neglected, and accurate introgression assessments may require ge…",
    "url": "https://doi.org/10.1111/1755-0998.70221"
-  },
-  {
-   "key": "doi:10.6026/973206300226549",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "47249ddb2ebfee085c0f351d01c7b4b1524110e1",
-   "doi": "10.6026/973206300226549",
-   "pmid": "",
-   "title": "Repurposing of traditional Siddha drug for external application in chronic irritant contact dermatitis – A case report",
-   "journal": "Bioinformation",
-   "date": "2026-10-31",
-   "authors": "Ulagamadhavan Muthuraj",
-   "abstract": "Siddha system of medicine offers several drugs for managing skin disorders, including contact dermatitis. Hence, a maiden attempt was made to repurpose an internal medicine for external application in chronic irritant contact dermatitis. A 30-year-old tea vendor with an 8-year history was treated with the drug, containing chestnut as its chief ingredient and occupational avoidance for 14 days. Complete resolution of dermatitis and symptoms was observed, with no recurrence during 12 months of drugless follow-up. However, well-designed clinical trials are required to evaluate its efficacy.",
-   "url": "https://doi.org/10.6026/973206300226549"
-  },
-  {
-   "key": "doi:10.3390/horticulturae12111366",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "f0005ea778c7fd5491967672269a3df61aae8fbe",
-   "doi": "10.3390/horticulturae12111366",
-   "pmid": "",
-   "title": "Genome-Wide Identification and Expression Analysis of ZjCDPK Genes Related to Ripening of ‘Dongzao’ Jujube Fruit",
-   "journal": "Horticulturae",
-   "date": "2026-10-31",
-   "authors": "Bing-Xin Fan, H. Li, Shi-Xing Wang, Su-Na Zhao, Zhao-Kun Zhi, Shu-Lin Zhang",
-   "abstract": "Calcium-dependent protein kinases (CDPKs) are plant-specific Ca2+ sensors that translate calcium signals into phosphorylation responses. CDPKs coordinate both plant responses to the environment and plant growth, including fruit development and ripening. However, the CDPK gene family and its potential roles in jujube fruit development remain poorly characterized. In this study, 19 ZjCDPK genes were identified in the genome of ‘winter jujube’ (Ziziphus jujuba Mill. cv. ‘Dongzao’) and mapped to 11 of the 12 chromosomes. Phylogenetic analysis classified the ZjCDPK proteins into four groups, with CDPKs from Arabidopsis and tomato. Two intraspecific collinear gene pairs and sixteen orthologous gene pairs between ‘Dongzao’ and Arabidopsis were identified. Most family members exhibited similar organization of exon–intron splicing and contained similar motifs, with all containing a conserved serine/threonine protein kinase catalytic domain and four C-terminal EF-hand motifs. Promoter analysis identified 681 cis-acting elements, with abundant elements associated with abiotic stress, light, and phytohormone responses, including those related to abscisic acid, ethylene, methyl jasmonate, salicylic acid, auxin, and gibberellin. Developmental expression profiling across seven fruit stages, together with qRT-PCR validation, showed that ZjCDPK02, 08, 10, 12, 14, 16, and 19 accumulated preferentially during the late stages of fruit development. Correlation analysis further showed that ZjCDPK14 was strongly co-expressed with ZjCDPK02 (r = 0.96) and positively correlated with both fruit firmness (r = 0.907) and total soluble solids content (r = 0.816). Significant associations with these quality traits were also detected for ZjCDPK02, 04, 08, 15, 16, and 19. These findings provide a compr…",
-   "url": "https://doi.org/10.3390/horticulturae12111366"
-  },
-  {
-   "key": "doi:10.5720/kjcn.2026.00157",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42978353",
-   "doi": "10.5720/kjcn.2026.00157",
-   "pmid": "42978353",
-   "title": "Seasonal variation in Korean school lunch menus using big data from the National Education Information System: an exploratory study.",
-   "journal": "",
-   "date": "2026-10-31",
-   "authors": "Shin J, Park E.",
-   "abstract": "Objectives School meal programs in South Korea are a major public nutrition service and an important part of student diets. Although previous National Education Information System- based studies have described frequently served menu items and annual trends, nationwide evidence on how school lunch menus differ seasonally remains limited. Thus, in this exploratory study, we aimed to analyze summer-winter differences in frequently served items in South Korean elementary, middle, and high schools. Methods Nationwide school lunch records from 2023 to 2025 were obtained from the National School Meal Information application programming interface. Lunch meal units served in elementary, middle, and high schools were analyzed. The final dataset comprised 1,200,000 meal units. Menu items were classified into six categories: rice/noodles, soups/stews, kimchi, main dishes, side dishes, and desserts. In each category, items frequently served in summer and winter were identified, and seasonal differences were quantified using a seasonal gap index and z-tests. Results Seasonal variation was highest in kimchi and desserts. Among the top items, 25/26 kimchi items and 27/30 dessert items showed significant seasonal differences. In desserts, watermelon, oriental melon, and ice cream were strongly summer-dominant, whereas apple, strawberry, and sweet persimmon were winter-dominant. In kimchi, young summer radish kimchi and cucumber kimchi were summer-dominant, whereas diced radish kimchi and napa cabbage kimchi were winter-dominant. Rice/noodles, soups/stews, and side dishes showed moderate seasonal variation. Main dishes showed the lowest degree of seasonal variation, with all-time popular items displaying minimal variation. Conclusion Seasonal variation in menu items was concentrated in s…",
-   "url": "https://doi.org/10.5720/kjcn.2026.00157"
-  },
-  {
-   "key": "doi:10.70352/scrj.cr.26-0419",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42979640",
-   "doi": "10.70352/scrj.cr.26-0419",
-   "pmid": "42979640",
-   "title": "Bezoars-Induced Small Bowel Obstructions due to Dried Persimmons that Required Multiple Surgeries: A Case Report.",
-   "journal": "Surgery Case Reports",
-   "date": "2026-10-31",
-   "authors": "Yonenaga Y, Ito R.",
-   "abstract": "Introduction A bezoar is an indigestible conglomeration trapped in the gastrointestinal tract. Persimmon phytobezoars, known as diospyrobezoars, are formed after the frequent consumption of persimmons and are a distinct type of phytobezoar characterized by their hard consistency. Case presentation A 74-year-old female presented to our hospital with persistent abdominal pain and vomiting, and an intestinal strangulating obstruction was suspected. An emergency operation was performed, and a dietary small bowel obstruction was diagnosed. A small intestinal resection, including removal of a foreign body resembling a sponge-like mass, was performed. During detailed questioning, we asked her about any history of persimmon ingestion, but she denied it. The symptoms recurred on POD 8, and another dietary small bowel obstruction was suspected after a CT examination. Conservative treatment, including Coca-Cola dissolution therapy, was performed, but the symptoms were not alleviated, and she developed a fever on POD 24. On POD 30-the 22nd day after the 2nd onset-she suddenly remembered that she had eaten 16 dried persimmons between 24 and 19 days before the onset of symptoms. A 2nd operation was performed the following day. Because feces were found in the abdominal cavity and the perforated site could not be found laparoscopically, we converted to laparotomy. At the location of the obstruction in the ileum, a foreign body and a perforation were seen, and a partial ileectomy was performed. The foreign body also resembled a sponge-like mass, and a component analysis showed that it consisted of 98% tannin. A diospyrobezoar was finally diagnosed. Conclusions Because multiple diospyrobezoars could exist in the gastrointestinal tract, we should check for additional bezoars throughout th…",
-   "url": "https://doi.org/10.70352/scrj.cr.26-0419"
-  },
-  {
-   "key": "doi:10.1094/phyto-08-26-0249-r",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42965945",
-   "doi": "10.1094/phyto-08-26-0249-r",
-   "pmid": "42965945",
-   "title": "Blackberry Leaf Blotch Virus, a Novel Emaravirus Infecting Cultivated and Wild Blackberry Plants in Europe.",
-   "journal": "Phytopathology",
-   "date": "2026-10-31",
-   "authors": "Hellin P, Richet P, Demonty E, de Koning PPM, de Krom C, den Hartog WGSA, Westenberg M, Botermans M, Druciarek T, Winter S, Rimbaud L, Dubuis N, Blouin AG, Kovačec E, Grubar B, Toplak N, Steyer S, Mav",
-   "abstract": "A novel emaravirus provisionally named blackberry leaf blotch virus (BLBV), was identified from cultivated and wild blackberry plants ( Rubus sp.) exhibiting leaf blotch and vein banding/feathering symptoms. BLBV has been detected in Belgium, France, the Netherlands and Slovenia. The virus is most closely related to raspberry leaf blotch virus (RLBV, Emaravirus idaeobati ) infecting raspberry ( Rubus idaeus ) in Europe, and is distant from blackberry leaf mottle-associated virus (BLMaV, Emaravirus rubi ), infecting blackberry in the USA. Up to eight RNA segments were identified in BLBV isolates, including the four core RNA segments present in all emaraviruses and up to four additional non-core RNA segments. Spherical virus-like particles (70-90 nm), morphologically similar to emaravirus virions, were observed in sap from symptomatic blackberry tissue by transmission electron microscopy. The proteins encoded by the core RNA segments were all more than 20% divergent from their closest known emaravirus homologues, supporting the classification of BLBV as a new species. Genetic diversity was found among isolates even at the country level, with some additional RNA segments only detected for some isolates. Eriophyoid mites, known vectors of emaraviruses, were found on several infected plants and molecular barcoding identified the them as Epitrimerus gibbosus , an eriophyoid species previously reported on Rubus spp. in Europe. Transmission bioassays performed with these mites in a greenhouse supported E. gibbosus as a putative vector of BLBV. This discovery raises questions about the impact of BLBV on blackberry crops and the need for virus surveillance in plant propagation material.",
-   "url": "https://doi.org/10.1094/phyto-08-26-0249-r"
-  },
-  {
-   "key": "doi:10.1007/s00442-026-05995-2",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42965607",
-   "doi": "10.1007/s00442-026-05995-2",
-   "pmid": "42965607",
-   "title": "Combined effects of drought and insect herbivory on oak leaf endophytic communities and performance.",
-   "journal": "",
-   "date": "2026-10-31",
-   "authors": "Barlier T, Castagneyrol B, Carton J, Burlett R, Bonnard O, Schimann H.",
-   "abstract": "Leaf-associated microbiota are considered sensitive indicators of how plants respond to their environment. Yet, plants can be exposed to a wide range of biotic and abiotic stresses whose independent and combined effects on plant microbiota remain poorly understood, as do their cumulative consequences for plant performance. We conducted an experiment to expose saplings of four oak species to drought and herbivory by a piercing-sucking insect. We assessed the effect of water deficit on herbivory, as well as the individual and combined effects of water deficit and herbivory on fungal endophytic communities. To evaluate the cumulative impacts of biotic and abiotic stresses on plant performance, and the potential of the fungal endophytic communities as an indicator of plant responses to stress, we measured photosynthetic capacity, growth, and the accumulation of non-structural carbohydrates in twigs at the end of the growing season. Water deficit had no effect on insect herbivory but induced a decrease in the diversity of the leaf-associated fungal community. In contrast, herbivory shifted the composition of fungal communities through species replacement or addition depending on oak species. Herbivory altered photosynthesis, whereas drought but not herbivory reduced oak growth. None of these stresses influenced the storage of non-structural carbohydrates. Leaf-associated fungi responded to both stresses. However, the underlying mechanisms appeared to differ and the association with oak performance was weak. Overall, our study suggests a certain degree of resilience in trees subjected to interacting stresses, while also highlighting vulnerabilities that may have implications for tree health over the long term.",
-   "url": "https://doi.org/10.1007/s00442-026-05995-2"
   }
  ]
 }
