@@ -1,14 +1,12 @@
 {
- "generated_at": "2026-11-23T20:37:47.861Z",
+ "generated_at": "2026-11-24T20:34:00.082Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
  "count": 81,
- "errors": [
-  "semanticscholar:dus-pvp: HTTP 429"
- ],
+ "errors": [],
  "items": [
   {
    "key": "doi:10.1007/s11270-026-10159-2",
@@ -43,6 +41,23 @@
    "authors": "Mousavi SH, Jafari S, Hanifehpour S, Moafi HF.",
    "abstract": "Abstract In this work, the raw jujube stone particles (RJSP) and the raw hawthorn stone particles (RHSP) as efficient natural and green adsorbents were used for the adsorption of methylene blue (MB), malachite green (MG), crystal violet (CV), and disperse red 1 (DR1) dyes. The functional groups, morphology, particle size, surface area, and pore size of RJSP and RHSP were determined using FT-IR, BET, FESEM, TEM, and EDX. The green adsorbents RJSP and RHSP showed high efficiency in the adsorption of MB, MG, CV, and DR1 dyes and showed comparable performance to other reported adsorbents. According to the results, the adsorption of MB, MG, CV, and DR1 dyes onto RJSP and RHSP follows the Freundlich isotherm, while the kinetics are well described by the pseudo-second-order model. Also, according to the Langmuir isotherm, RJSP exhibited maximum adsorption capacities (Q m ) of 145, 124, 114, and 98 mg/g for MB, MG, CV, and DR1, respectively, while RHSP showed adsorption capacities of 84, 111, 102, and 94 mg/g. In addition, thermodynamic parameters confirm that the adsorption of MB, MG, CV, and DR1 dyes is exothermic on RJSP and endothermic on RHSP. Finally, the RJSP and RHSP can be used as affordable, environmentally friendly, and effective natural adsorbents for the removal of various industrial dyes.",
    "url": "https://doi.org/10.21203/rs.3.rs-11231979/v1"
+  },
+  {
+   "key": "doi:10.3390/beverages12110141",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "e4a3748fdab4c2c12753d78734480e3820b5f9eb",
+   "doi": "10.3390/beverages12110141",
+   "pmid": "",
+   "title": "Physicochemical Properties and Fermentation Kinetics of Mead Produced from Greek Honey, Fermented by Several Saccharomyces cerevisiae Yeast Strains",
+   "journal": "Beverages",
+   "date": "2026-11-20",
+   "authors": "Achilleas Atzemopoulos, Fotini-Paraskevi Vardaka, E. Kontaxakis, E. Alissandrakis",
+   "abstract": "Mead is an ancient alcoholic beverage whose composition and quality are strongly influenced by the botanical origin of honey and fermentation conditions. In this study, meads were produced from two Greek honey types, orange blossom and chestnut honey, using three different Saccharomyces cerevisiae yeast strains: Lalvin 71B, Mangrove Jack M29, and Lallemand VOSS. Honey worts were adjusted to an initial specific gravity (SG) of 1.110 and fermented at 20 °C for 28 days. The objective was to evaluate fermentation dynamics and to characterize the resulting meads in terms of physicochemical properties, total phenolic content, and antioxidant capacity. The results showed that honey type strongly influenced the phenolic and antioxidant composition of the meads, while yeast strain mainly affected fermentation-related physicochemical parameters, including alcohol content, volatile acidity, pH, and final specific gravity. Mead produced from chestnut honey showed higher total phenolic content than orange blossom honey mead, with representative values of 167.9 ± 9.8 and 84.1 ± 7.2 mg GAE/L, respectively. Antioxidant activity in the mead samples ranged from 6.20 ± 0.05 to 8.04 ± 0.62 mmol TE/L, with the highest values observed in chestnut honey meads. The fermentation process also resulted in distinct kinetic patterns in phenolic content and antioxidant activity, depending on both honey type and yeast strain. Overall, the findings highlight the potential of Greek honeys for producing compositionally diverse meads and indicate that targeted selection of both honey raw material and yeast strain can be used to modulate mead composition and fermentation performance.",
+   "url": "https://doi.org/10.3390/beverages12110141"
   },
   {
    "key": "doi:10.1038/s41598-026-74253-5",
@@ -96,6 +111,23 @@
    "url": "https://doi.org/10.1007/s42535-026-01960-9"
   },
   {
+   "key": "doi:10.1016/j.foodchem.2026.152214",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43072306",
+   "doi": "10.1016/j.foodchem.2026.152214",
+   "pmid": "43072306",
+   "title": "Preparation, characterization and functional evaluation of cottonseed protein-chitosan composite films incorporated with gallic acid for jujube storage.",
+   "journal": "",
+   "date": "2026-11-19",
+   "authors": "Yuan H, Wang T, Wu P, Pan X, Zhao Y, Zhang Q, Du Y, Tang F, Belwal T, Fu X.",
+   "abstract": "To address the limitations of single-component biopolymer packaging materials and meet the urgent demand for eco-friendly food packaging, this study prepared composite films using cottonseed protein (CP), chitosan (CS), and gallic acid (GA) as raw materials. The effects of different GA concentrations on the mechanical properties, rheological characteristics, thermal stability, structural properties, antibacterial activity, and preservation efficacy of the composite films for winter jujubes were systematically investigated. The results indicate that GA significantly enhances the mechanical properties, thermal stability, and antibacterial activity of the film by forming hydrogen bonds with CP and CS, and that the antibacterial efficacy is positively correlated with GA content. A 7-day freshness preservation experiment with winter jujubes demonstrated that the composite film containing 0.5% GA effectively delays quality deterioration, indicating promising application prospects in the field of active packaging for fruits.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.152214"
+  },
+  {
    "key": "doi:10.3389/fpls.2026.1992837",
    "groups": [
     "chestnut"
@@ -128,6 +160,23 @@
    "authors": "T. Bozlar, N. Diktaş-Bulut, C. Birinci, Selcen Çelik-Uzuner, Oktay Yıldız, S. Kolaylı",
    "abstract": "",
    "url": "https://doi.org/10.1080/00218839.2026.2755255"
+  },
+  {
+   "key": "doi:10.1016/j.foodchem.2026.152270",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43067027",
+   "doi": "10.1016/j.foodchem.2026.152270",
+   "pmid": "43067027",
+   "title": "Non-destructive prediction of postharvest physicochemical changes in winter jujubes using dual-view computer vision and deep learning.",
+   "journal": "",
+   "date": "2026-11-18",
+   "authors": "Dang Q, Lin Z, Wang D, Song D, Deng X, Ren Z, Jia L, Yang X.",
+   "abstract": "Winter jujubes undergo rapid postharvest changes, highlighting the need for timely and non-destructive approaches for quality assessment and storage management. Postharvest deterioration is associated with processes such as enzymatic browning, membrane lipid peroxidation, changes in phenolic metabolism, and respiratory activity, which may be accompanied by changes in surface color and tissue appearance. However, establishing quantitative relationships between external phenotypes and internal biochemical attributes remains challenging because single-view imaging may omit spatial information and because fruit-to-fruit variability can affect the relationships. To address this challenge, an interpretable dual-view deep learning framework was developed using paired images from 300 fruits and corresponding physicochemical measurements collected over 35 days of storage. The framework achieved quantitative prediction of multiple physicochemical indicators, with test-set R 2 values ranging from 0.71 to 0.91. Interpretability analysis linked model predictions to image regions exhibiting localized browning and surface deformation. This framework provides a non-destructive approach for monitoring postharvest deterioration.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.152270"
   },
   {
    "key": "doi:10.1371/journal.pone.0361803",
@@ -1335,57 +1384,6 @@
    "authors": "Haq IU, Qureshi IA, Hussain MA, Javaid RA, Sheikh F, Abbas Z, Azam M.",
    "abstract": "Distinctness, Uniformity and Stability (DUS) testing is fundamental to varietal characterization and the protection of Plant Breeders’ Rights (PBRs), but conventional DUS assessment relies predominantly on morphological characteristics whose expression may be influenced by environmental conditions, developmental stage and observer-related variation. Integrating character-specific molecular markers with conventional DUS assessment may therefore improve the reproducibility and genetic resolution of varietal identification. This study investigated the genetic architecture of DUS characteristics in a panel of 102 historical and modern Pakistani wheat varieties using genome-wide association studies (GWAS). Phenotypic variation was evaluated using distribution, correlation and hierarchical clustering analyses, while the germplasm was genotyped using a wheat genotyping-by-targeted sequencing platform. After quality filtering, 21,670 high-quality single-nucleotide polymorphisms (SNPs) were retained for analyses of genetic diversity, population structure, linkage disequilibrium (LD) and marker-trait associations. Population structure analysis indicated extensive admixture, with cross-entropy supporting K = 9 ancestral components, whereas hierarchical genetic clustering separated the germplasm into five broad groups. The first three principal components explained 8.09%, 7.20% and 5.39% of the total genetic variation, respectively. GWAS using BLINK and FarmCPU identified significant associations for several diagnostically important DUS characteristics. Growth habit was strongly associated with SNP 1B_129176704, with an additional signal on chromosome 5B. Shattering showed its strongest association at 1D_445256324, accompanied by several closely linked SNPs in the same region and a…",
    "url": "https://doi.org/10.64898/2026.11.01.763533"
-  },
-  {
-   "key": "doi:10.1016/j.foodchem.2026.151940",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42981956",
-   "doi": "10.1016/j.foodchem.2026.151940",
-   "pmid": "42981956",
-   "title": "Formation of a chestnut-like aroma by blending fresh-scented and bean-scented green teas.",
-   "journal": "Food Chemistry",
-   "date": "2026-11-02",
-   "authors": "Wang Y, Yu YY, Sun H, Cao QQ, Wang F, Zhang J, Wei Y, Xu YQ.",
-   "abstract": "Chestnut-like aroma is a favorable quality attribute of green tea. This study developed chestnut-like tea by blending fresh-scented Anji white tea (AJWT) with bean-scented Longjing green tea (LJGT). Sensory evaluation showed that increasing LJGT shifted the dominant aroma from fresh to chestnut-like and then bean-like, with 40% LJGT producing the most pronounced chestnut-like character. GC-O-MS combined with variable importance in projection (VIP) and relative odor activity value analyses (rOAVs) identified 13 key differential aroma-active compounds (VIP > 1; rOAV >1) among 137 volatiles, representing fresh, floral, and roasty notes. Aroma reconstitution associated the chestnut-like character with an rOAV-based distribution of approximately 75% fresh, 19% floral, and 6% roasty compounds. Addition experiments further suggested that cis-3-hexenyl hexanoate, β-myrcene, ethyl hexanoate, β-ionone, 2-pentylfuran, and 3-methylbutanal were associated with the aroma transition from fresh to chestnut-like. These findings support targeted regulation and blending of chestnut-like green tea aroma.",
-   "url": "https://doi.org/10.1016/j.foodchem.2026.151940"
-  },
-  {
-   "key": "doi:10.46309/biodicon.2026.2063685",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "bf044d73c03cc6b2223671de8add1b50551518c1",
-   "doi": "10.46309/biodicon.2026.2063685",
-   "pmid": "",
-   "title": "Traditional Plant Knowledge across Rural and Peri-Urban Istanbul: Documented Plants and Uses",
-   "journal": "Biological Diversity and Conservation",
-   "date": "2026-11-02",
-   "authors": "Emine Akalın, Rabia Ebrar Akıncı, Aybüke Kızılırmaklı Demir, O. Demir, E. Cabi",
-   "abstract": "Purpose: This study examines traditional plant knowledge in rural and peri-urban Istanbul, where environmental access, household production and metropolitan connections coexist.Method: Fieldwork within Türkiye’s national programme for documenting traditional knowledge associated with bio-logical diversity covered 30 neighbourhoods in ten districts in 2021–2022. Purposive selection and local referrals iden-tified 112 informants contributing 667 plant-use reports. Original descriptions were retained alongside standardized taxonomic and use fields. Analyses examined repertoire composition, citation frequency, multifunctionality and district overlap. Retrospective taxon-level classifications distinguished predominantly wild-gathered from cultivated, managed, planted or otherwise obtained taxa, and identified a conservative subset confirmed in Istanbul flora sources. District overlap was assessed using an informant-block permutation model; sampling-adequacy estimates were exploratory.Findings: The repertoire comprises 174 taxa in 129 genera and 52 families, spanning 52 use categories, 25 plant-part groups and 12 preparation groups. Food accounted for 55.2% of reports, human health for 22.3% and household and material uses for 11.8%. Fruit and aerial parts predominated; cooking and raw use were the leading preparations. Tilia tomentosa led food citations, Olea europaea health and Castanea sativa household and material uses. The null model largely reproduced the raw increase in district overlap from taxa to preparations. Lower-than-expected preparation over-lap did not survive multiple-testing correction. Reports involving predominantly wild-gathered taxa accounted for 52.9%; their share was higher in food than health, but taxon-level permutation did not support a systematic d…",
-   "url": "https://doi.org/10.46309/biodicon.2026.2063685"
-  },
-  {
-   "key": "doi:10.56557/pcbmb/2026/v27i11-1211306",
-   "groups": [
-    "dus-pvp"
-   ],
-   "cat": "pvp",
-   "source": "semanticscholar",
-   "id": "e87a772243c799f6b74173cea98c70e14b78647e",
-   "doi": "10.56557/pcbmb/2026/v27i11-1211306",
-   "pmid": "",
-   "title": "Agro-morphological Characterisation of Rice (Oryza sativa L.) Germplasm Accessions Using DUS Descriptors",
-   "journal": "Plant cell biotechnology and molecular biology",
-   "date": "2026-11-02",
-   "authors": "Priya Gupta, D. Gauraha, Jyoti Sahu",
-   "abstract": "The present investigation was undertaken to characterise 200 rice germplasm accessions, along with seven checks, for visually assessed DUS (Distinctness, Uniformity and Stability) traits. The 207 entries were evaluated during Kharif 2020 in an augmented design with four blocks at the Research cum Instructional Farm, Department of Genetics and Plant Breeding, College of Agriculture, Indira Gandhi Krishi Vishwavidyalaya, Raipur (Chhattisgarh), at a spacing of 20 cm × 15 cm with the recommended package of practices under normal irrigated conditions (no drought stress was imposed). Observations were recorded on twenty-four DUS descriptors. Of these, one descriptor (shape of ligule) was monomorphic, nine were dimorphic and fourteen were polymorphic. Based on the Shannon–Weaver diversity index, hull colour, flag leaf attitude, panicle exsertion, grain breadth and basal leaf sheath colour were the most variable descriptors. Unique accessions such as IC390636 (aromatic) and IC516693 (red lemma) were identified, which may be useful as donors and in candidate variety development. The study provides a morphological baseline for future drought-stress evaluation; drought tolerance itself was not assessed",
-   "url": "https://doi.org/10.56557/pcbmb/2026/v27i11-1211306"
   }
  ]
 }
