@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-26T06:52:31+09:00",
-  "latest_run": "2026-11-26",
+  "generated_at": "2026-11-27T06:54:54+09:00",
+  "latest_run": "2026-11-27",
   "runs": [
+    {
+      "run": "2026-11-27",
+      "at": "2026-11-27T06:54:54+09:00",
+      "count": 13,
+      "note": "genome 2·fruit 7·pvp 1·policy 3; 피드 후보 14건(7일 이내·미수록) 중 관련 9건 선정; 원문 미열람 4건(뉴스, 언론사 도메인 차단); 밤 기내증식 논문은 초록 없음(doi.org 차단)"
+    },
     {
       "run": "2026-11-26",
       "at": "2026-11-26T06:52:31+09:00",
@@ -321,6 +327,28 @@
   ],
   "items": [
     {
+      "id": "20261126-c0315c40",
+      "cat": "pvp",
+      "title": "National Forest Seed and Variety Center secures basis for conservation and useful-trait discovery in Abeliophyllum distichum",
+      "title_ko": "국립산림품종관리센터, 미선나무 공동연구 성과공유회…유전정보로 보유자원 중복·수집지 검증, 꽃색 후보 유전자 선발",
+      "source": "중도일보",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261126010009320",
+      "date": "2026-11-26",
+      "date_key": "2026-11-26",
+      "type": "news",
+      "summary_ko": "한반도 특산식물인 미선나무는 자원 수집이 늘었지만 보유 자원의 중복과 수집지 기록 오류가 관리상의 문제였다. 산림청 국립산림품종관리센터는 동북아생물다양성연구소, 충북산림환경연구소와 공동연구한 미선나무 성과를 11월 26일 공유회에서 발표했다. 센터는 미선나무 유전정보를 분석해 보유 자원 간 중복 여부와 수집지 기록의 정확성을 검증했다. 이 결과를 자원 관리와 유전적 다양성 확보를 위한 기초자료로 만들었다. 꽃 색 연구에서는 전장유전체 연관분석(GWAS)과 전사체 분석을 결합해 꽃잎 색소 관련 후보 유전자를 선발했다. 이를 토대로 꽃 색 관련 유용 형질 발굴과 우수 자원 선발 후속 연구를 이어갈 계획이다. 김명관 센터장은 유관기관과 협력해 산림생명자원 연구와 활용을 넓히겠다고 밝혔다. 유전체 정보로 자원의 동일성을 검증하는 방식은 밤나무 리시퀀싱 자원 관리와 산딸기 품종보호 출원 시 구별성 근거 마련에 응용할 수 있다. (원문 미열람)",
+      "tags": [
+        "미선나무",
+        "국립산림품종관리센터",
+        "유전자원",
+        "GWAS",
+        "꽃색",
+        "자원 관리"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
       "id": "20261125-ea9d69f8",
       "cat": "policy",
       "title": "임업직불금 522억 원 확정…산림청, 11월 말부터 순차 지급",
@@ -381,6 +409,50 @@
       ],
       "collected_at": "2026-11-26",
       "run": "2026-11-26"
+    },
+    {
+      "id": "20261125-4b9e20f9",
+      "cat": "policy",
+      "title": "Korea Forest Service achieves forest-sector outcomes at COP31: REDD+ agreement with Honduras, Antalya IFM action plan",
+      "title_ko": "산림청, COP31(튀르키예 안탈리아)서 온두라스와 파리협정 6.2조 REDD+ 공동합의…통합산불관리 행동계획 주도 발표",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=282151",
+      "date": "2026-11-25",
+      "date_key": "2026-11-25",
+      "type": "news",
+      "summary_ko": "기후위기 대응에서 국제 산림 탄소감축 협력과 산불 공동 대응의 중요성이 커지고 있다. 산림청 대표단은 11월 9~23일 튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)에 참가했다. 대표단은 온두라스 산림청장과 양자면담을 하고, 파리협정 제6.2조에 따른 REDD+ 사업 추진 공동합의서에 서명했다. 양국은 한-온두라스 REDD+ 협력센터 설립과 재정·기술 협력을 추진한다. 43개 회원국이 참석한 산림과기후리더파트너십(FCLP) 장관급 회의에서는 튀르키예·브라질과 함께 '안탈리아 통합산불관리(IFM) 행동계획'을 발표했다. 제4차 맹그로브 기후동맹 장관급 회의에서는 제주 세미 맹그로브 연구와 베트남 홍강 삼각주 복원 성과를 공유했다. 기술 세션에서는 AI 기반 산불 위험 분석과 드론 모니터링 기술을 소개했다. 통합산불관리 행동계획의 내용은 산림재난 대응 계획 수립 시 국제 동향 자료로 쓸 수 있다. (원문 미열람)",
+      "tags": [
+        "COP31",
+        "REDD+",
+        "온두라스",
+        "통합산불관리",
+        "국제협력",
+        "산림청"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261125-86321419",
+      "cat": "policy",
+      "title": "NIFoS holds persimmon food-tech field briefing in Sancheong",
+      "title_ko": "국립산림과학원, 산청서 '찾아가는 숲푸드, 감 푸드테크 현장설명회'…감 부산물 자원화·유효성분 기능성 평가 공유",
+      "source": "한국사회복지저널",
+      "url": "https://www.ksw-news.com/news/articleView.html?idxno=3068148",
+      "date": "2026-11-25",
+      "date_key": "2026-11-25",
+      "type": "news",
+      "summary_ko": "감은 곶감 등 전통 가공품 외에 고부가가치 활용 기술이 부족하다는 지적을 받아 왔다. 산림청 국립산림과학원은 11월 25일 경남 산청군 지리산 산청곶감 홍보판매장에서 '5극3특 지역 활성화를 위한 찾아가는 숲푸드, 감 푸드테크 현장설명회'를 열었다. 발표 주제는 감 푸드테크 기술개발 연구 전략, 감 부산물의 자원화·활용 방안, 감 유효성분 분석과 기능성 평가였다. 산청군청, 산청군산림조합, 지리산산청곶감작목연합회 관계자와 임업인 등 20여 명이 참석했다. 종합토론에서는 현장의 기술적 애로, 연구 수요, 성과의 산업화 가능성을 논의했다. 참석자들은 곶감 생산 현장을 찾아 가공과 품질관리 현황을 살폈다. 권해연 산림특용자원연구과장은 현장 수요를 반영한 연구를 이어가겠다고 밝혔다. 감 부산물 자원화와 기능성 평가 체계는 돌배 등 다른 산림과수 표준재배지침의 가공·활용 항목에 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "감",
+        "곶감",
+        "푸드테크",
+        "숲푸드",
+        "국립산림과학원",
+        "산청"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
     },
     {
       "id": "20261124-13c2a7fc",
@@ -445,6 +517,48 @@
       ],
       "collected_at": "2026-11-26",
       "run": "2026-11-26"
+    },
+    {
+      "id": "20261124-b67254b2",
+      "cat": "genome",
+      "title": "Evaluation of Rhododendron luteum sweet-based carbon dots and sucrose doses on chestnut micropropagation using machine learning and molecular docking analysis",
+      "title_ko": "노랑철쭉(Rhododendron luteum) 유래 탄소점과 자당 농도가 밤나무 기내증식에 미치는 영향: 머신러닝·분자 도킹 분석",
+      "source": "In Vitro Cellular & Developmental Biology - Plant",
+      "url": "https://doi.org/10.1007/s11627-026-10723-9",
+      "date": "2026-11-24",
+      "date_key": "2026-11-24",
+      "type": "paper",
+      "summary_ko": "밤나무는 기내증식(micropropagation) 효율이 낮아 우량 개체의 대량 증식에 어려움이 있다. 이 연구는 노랑철쭉(Rhododendron luteum Sweet)으로 만든 탄소점(carbon dots)과 자당 농도를 조합해 밤나무 기내증식 반응을 평가했다. 결과 해석에는 머신러닝 모델과 분자 도킹 분석을 썼다. 피드에 초록이 없고 원문(doi.org)이 열리지 않아 구체적인 처리 농도와 증식률 수치는 확인하지 못했다. 나노소재 첨가제와 데이터 기반 배지 최적화를 밤나무 조직배양에 적용한 사례다. 밤나무 우량 클론 증식과 품종 보급용 묘목 생산 기술 검토에 참고할 수 있다. (초록 없음)",
+      "tags": [
+        "밤나무",
+        "기내증식",
+        "탄소점",
+        "조직배양",
+        "머신러닝"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261124-6ce9a558",
+      "cat": "policy",
+      "title": "Seosan pushes designation as special pine wilt control zone; KFS reviewing December designation",
+      "title_ko": "서산시, 소나무재선충병 특별방제구역 지정 요청…산림청, 피해목 3만 그루 미만 예외조항 적용해 12월 지정 검토",
+      "source": "오마이뉴스",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287951",
+      "date": "2026-11-24",
+      "date_key": "2026-11-24",
+      "type": "news",
+      "summary_ko": "충남 서산에서 소나무재선충병이 확산하면서 정해진 방제 기간에 묶이지 않는 연중 방제 체계가 필요해졌다. 서산시는 10월 23일 방제 전담 TF를 신설하고, 11월 6일 충남도에 특별방제구역 지정을 요청했다. 최종 지정 권한은 산림청에 있다. 특별방제구역으로 지정되면 기존 방제 기간과 관계없이 연중 방제할 수 있다. 원칙상 지정 기준은 피해목 3만 그루 이상이다. 보도에 따르면 산림청은 피해가 그보다 적어도 확산이 우려되면 지정할 수 있는 예외 조항을 서산에 적용해 12월 지정을 검토하고 있으며, 11월 지정은 이미 마무리됐다. 서산시는 올해 감염·의심목 5,321본을 방제하고 소나무림 616 ha에 예방나무주사를 했다. 방제 기본계획은 2027년 1월 확정 예정이다. 기사 제목대로 실제 피해 규모는 아직 확인되지 않았다. 재선충병 특별방제구역 예외 지정 사례로, 산림재난 대응 계획의 재선충 항목에 참고할 수 있다. (원문 미열람)",
+      "tags": [
+        "소나무재선충병",
+        "특별방제구역",
+        "서산",
+        "산림재난",
+        "방제"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
     },
     {
       "cat": "policy",
@@ -531,6 +645,160 @@
       "run": "2026-11-26"
     },
     {
+      "id": "20261123-13753508",
+      "cat": "genome",
+      "title": "Physiological and transcriptomic profiling identifies CmbZIP53 as a candidate regulator of desiccation sensitivity in recalcitrant Castanea mollissima seeds.",
+      "title_ko": "난저장성 중국밤(Castanea mollissima) 종자의 건조 민감성 후보 조절인자 CmbZIP53 규명: 생리·전사체 분석",
+      "source": "Plant Physiology and Biochemistry",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.112006",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "난저장성(recalcitrant) 종자는 건조에 매우 민감해 장기 유전자원 보존이 어렵지만, 그 분자 기작은 잘 밝혀지지 않았다. 연구진은 중국밤(Castanea mollissima) 종자를 함수율 단계별로 건조시키며 생리 지표와 전사체를 함께 분석했다. 함수율 10%에서 발아율이 68.29% 급감했다. 함수율 30%의 가벼운 건조에서는 ABA와 프롤린이 각각 39.4%, 91.9% 늘었다. 10%의 심한 건조에서는 ABA·프롤린이 184.4%·133.4%, 말론디알데하이드가 133.5% 증가해 산화 손상이 컸다. K-means 군집과 WGCNA로 프롤린 수준과 발현이 함께 움직이고 프로모터에 ABA 반응 요소가 여러 개 있는 CmbZIP53을 후보로 골랐다. 애기장대 atbzip53 돌연변이는 건조 스트레스에서 발아가 떨어졌고, CmbZIP53을 이종 발현하면 일부 회복됐다. 밤나무 종자·유전자원 보존 기술과 리시퀀싱 기반 건조내성 후보 유전자 탐색에 직접 참고할 수 있다.",
+      "tags": [
+        "밤나무",
+        "Castanea mollissima",
+        "난저장성 종자",
+        "bZIP",
+        "전사체",
+        "유전자원 보존"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-29ba6df9",
+      "cat": "fruit",
+      "title": "Identification of white-mature to early-red transition during Ziziphus jujuba 'Dongzao' fruit ripening using integrated metabolomic and transcriptomic profiling",
+      "title_ko": "대추 '둥짜오(Dongzao)' 과실 성숙 중 백숙기→초적기 전환 규명: 대사체·전사체 통합 분석",
+      "source": "BMC Plant Biology",
+      "url": "https://doi.org/10.1186/s12870-026-10412-0",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "대추(Ziziphus jujuba) '둥짜오'는 중국의 주요 생식용 품종이지만, 성숙 단계별 분자 변화는 충분히 정리되지 않았다. 연구진은 과실비대기·백숙기·초적기·완숙기의 4단계에서 LC-HRMS 비표적 대사체, RNA-seq, 이화학 특성을 함께 분석했다. 대사물질 757종이 주석되었고, 비중복 차등발현유전자는 7,116개였다. 백숙기→초적기 전환에서 차등 대사물질이 323종으로 가장 많았고 전사 변화도 커서, 이 시기를 성숙의 핵심 전환점으로 보았다. 이 시기 상류 페놀·플라반-3-올은 백숙기에 정점을 찍은 뒤 줄었고, ZjANS1 발현은 증가했다. 리소인지질은 늘고 α-리놀렌산·자스몬산은 줄어, 자스모네이트 생합성보다는 지질 재편이 일어나는 것으로 해석됐다. 검증 집단에서 이 전환의 변화 방향은 83.1% 일치해 세 전환 중 재현성이 가장 높았다. 대추의 수확 적기 판정과 생식용 품질 형질 관련 유전자(MYB·bHLH·WD40) 선발에 활용할 수 있다.",
+      "tags": [
+        "대추",
+        "Ziziphus jujuba",
+        "과실 성숙",
+        "대사체",
+        "전사체",
+        "플라보노이드"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-1757e127",
+      "cat": "fruit",
+      "title": "Development and Evaluation of Growth-Stage-Specific Leaf Nutrient Norms for Hardy Kiwifruit (Actinidia arguta) Using DRIS and CND",
+      "title_ko": "DRIS·CND를 이용한 다래(Actinidia arguta) 생육단계별 엽분석 양분 기준 개발·평가",
+      "source": "Agronomy",
+      "url": "https://doi.org/10.3390/agronomy16232367",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "과수 시비에는 엽분석이 널리 쓰이지만, 다래(Actinidia arguta)에는 양분 균형 기반 진단 기준이 없었다. 연구진은 강원 원주의 상업 과원에서 4개 품종을 대상으로 개화기와 과실비대기의 엽 양분과 수량을 3년간 수집했다. 품종별 고수량 관측치로 DRIS와 CND의 기준값, 최적 농도, 적정 범위를 도출했다. 최적 농도는 생육단계에 따라 달랐고 특히 Ca·Mg의 차이가 컸다. K의 최적값은 기존 Actinidia 보고보다 낮았다. DRIS와 CND의 고·저수량 판별력은 AUC 0.68~0.81로 비슷했고, 과원 하나를 빼는 교차검증에서는 0.64~0.77로 낮아졌다. 연도 효과는 엽 성분 변이의 24%(개화기)와 10%(과실비대기)를 설명했다. 국내 과원 자료로 만든 다래 시비 진단 기준으로, 산림과수 표준재배지침의 시비 항목 작성에 바로 참고할 수 있다.",
+      "tags": [
+        "다래",
+        "Actinidia arguta",
+        "엽분석",
+        "DRIS",
+        "CND",
+        "시비",
+        "원주"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-786b839a",
+      "cat": "fruit",
+      "title": "Pear (Pyrus pyrifolia) By-Product Extract Attenuates Ethanol-Induced Liver Injury by Modulating Ethanol-Metabolizing Enzymes and Antioxidant Responses",
+      "title_ko": "배(Pyrus pyrifolia) 부산물 추출물의 에탄올 대사효소·항산화 반응 조절을 통한 알코올성 간손상 완화",
+      "source": "Molecules",
+      "url": "https://doi.org/10.3390/molecules31234259",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "만성 음주는 에탄올 대사를 교란하고 산화 스트레스와 간세포 사멸을 일으키지만, 배 부산물의 간 보호 효과는 분명하지 않았다. 연구진은 배(Pyrus pyrifolia) 부산물 추출물을 에탄올 처리한 HepG2 세포와 반복 에탄올 투여 마우스에 적용했다. 세포에서 추출물은 ADH1·ALDH2 발현을 높이고 Nrf2·HO-1·CAT을 늘렸으며 Keap1은 낮췄다. 절단 caspase-3 비율과 Bax/Bcl-2 비율도 감소했다. 마우스에서는 혈청 ALT·AST가 낮아졌고, 간 ADH·ALDH 활성과 CAT 활성은 증가했으며, CYP2E1 발현은 감소했다. 연구진은 배 부산물을 알코올성 간손상 보호용 식품 소재 후보로 제시했다. 돌배·산돌배 열매와 가공 부산물의 기능성 근거로 표준재배지침의 활용·가공 항목에 참고할 수 있다.",
+      "tags": [
+        "배",
+        "Pyrus pyrifolia",
+        "부산물",
+        "간 보호",
+        "기능성",
+        "항산화"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-9018fd5d",
+      "cat": "fruit",
+      "title": "Volatile Organic Compounds from Trichoderma erinaceum J1-2 Suppress Alternaria alternata and Reduce Black Spot Rot and Quality Loss in Fresh Jujube During Storage",
+      "title_ko": "Trichoderma erinaceum J1-2 휘발성 유기화합물의 생대추 저장 중 검은무늬썩음병(Alternaria alternata) 억제와 품질 유지",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15234199",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "Alternaria alternata에 의한 검은무늬썩음병은 생대추의 주요 수확 후 병해이며, 화학 살균제 사용에 대한 우려가 커지고 있다. 연구진은 A. alternata에 대한 항균력이 가장 강한 균주 J1-2를 Trichoderma erinaceum으로 동정하고, 항균 활성의 주된 원인이 휘발성 유기화합물(VOCs)임을 확인했다. VOC 처리는 기내에서 균사와 분생포자 구조를 손상시켰다. 접종 대추에서는 저장 12일 후 병반 직경을 38.27% 줄였다. 처리 과실의 가용성 고형물, 적정산도, 비타민 C도 대조구보다 높았다. 광범위 표적 대사체 분석에서는 페닐프로파노이드 대사가 하이드록시신남산·쿠마린 쪽으로 이동했다. 모노테르페노이드 (6E)-8-oxogeranial은 3,000배 넘게 축적됐고, 막지질 과산화 산물은 줄었다. 대추 수확 후 친환경 저장 관리 기술로 재배·유통 지침에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "수확 후 관리",
+        "생물적 방제",
+        "Trichoderma",
+        "Alternaria"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-09975898",
+      "cat": "fruit",
+      "title": "Subtropik Koşullarda Yabani ve Kültür Hünnaplarının (Ziziphus jujuba Mill.) Agromorfolojik Karakterizasyonu ve Aroma Profillerinin Belirlenmesi",
+      "title_ko": "아열대 조건에서 야생·재배 대추(Ziziphus jujuba)의 농업형태학적 특성과 향기 성분 비교",
+      "source": "Anadolu Journal of Agricultural Sciences",
+      "url": "https://doi.org/10.7161/omuanajas.1971226",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "재배형과 야생형 대추의 과실 특성과 향기 성분을 같은 환경에서 비교한 자료는 많지 않다. 튀르키예 추쿠로바대학교 원예학과 시험포에서 2022~2023년 재배형과 야생형 대추(Ziziphus jujuba)의 과실 특성과 휘발성 향기 성분을 비교했다. 향기 분석에는 두 종류의 SPME 파이버를 썼다. 재배형은 과중(31.58 g), 과실 크기, 과육/핵 비율에서 야생형보다 우수했다. 나무당 수량은 6.11~6.55 kg으로 두 유형 간 뚜렷한 차이가 없었다. 향기 성분은 알데하이드와 산류가 주를 이뤘고, 두 파이버 모두에서 hexanal, hexanoic acid, acetic acid, decanoic acid가 두드러졌다. 대추 유전자원의 과실 형질·향기 특성 평가 항목을 설계하거나 DUS 특성조사 형질을 검토할 때 비교 자료로 쓸 수 있다.",
+      "tags": [
+        "대추",
+        "Ziziphus jujuba",
+        "야생형",
+        "과실 특성",
+        "향기 성분",
+        "유전자원"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
+      "id": "20261123-bd76f979",
+      "cat": "fruit",
+      "title": "Transcriptomic Effects of Pinus densiflora Needle Extract on Human Hair Follicle Dermal Papilla Cells: Estrogen- and Sterol-Related Signaling",
+      "title_ko": "소나무(Pinus densiflora) 잎 추출물이 인체 모유두세포 전사체에 미치는 영향: 에스트로겐·스테롤 관련 신호",
+      "source": "Cosmetics",
+      "url": "https://doi.org/10.3390/cosmetics13060331",
+      "date": "2026-11-23",
+      "date_key": "2026-11-23",
+      "type": "paper",
+      "summary_ko": "소나무(Pinus densiflora) 잎 추출물은 스트레스·호르몬 관련 생리활성이 보고됐지만, 인체 모유두세포(HFDPC)에서의 분자 작용은 잘 알려지지 않았다. 연구진은 추출물과 유래 성분을 처리해 세포 생존율과 ALPL·CTNNB1·FGF1·ESR1 발현을 측정했다. 이어 전장 유전체 마이크로어레이, 경로·단백질 상호작용·GSEA 분석, ERα 분자 도킹을 수행했다. 추출물은 세포 생존율을 크게 낮추지 않으면서 ALPL·CTNNB1·FGF1 발현을 유의하게 높였다. 5개 성분 혼합물은 추출물의 발현 변화를 더 넓게 재현했다. 전사체에서는 Wnt, 에스트로겐 신호, 스테로이드 생합성 경로가 확인됐고, ESR1 발현도 증가했다. 다만 유래 성분의 ERα 예측 결합력은 17β-에스트라디올보다 약해 직접 결합의 근거는 없었다. 소나무 잎 부산물의 기능성 소재(탈모 관련 화장품) 활용 근거로 참고할 수 있다.",
+      "tags": [
+        "소나무",
+        "Pinus densiflora",
+        "솔잎 추출물",
+        "기능성",
+        "전사체",
+        "화장품"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
+    },
+    {
       "cat": "policy",
       "title": "실시간 감시·헬기 통합 운영⋯ 산불 대응 시간 앞당겼다",
       "title_ko": "실시간 감시·헬기 통합 운영으로 산불 초동 대응 시간 단축",
@@ -572,6 +840,27 @@
       ],
       "collected_at": "2026-11-26",
       "run": "2026-11-26"
+    },
+    {
+      "id": "20261122-c91a3069",
+      "cat": "fruit",
+      "title": "Evapotranspiration and Crop Coefficients of Drip-Fertigated Winter Jujube Under Plastic Shed in Southern Xinjiang, China",
+      "title_ko": "중국 남부 신장 비닐하우스 점적관비 동조(冬棗) 대추의 증발산량과 작물계수",
+      "source": "Horticulturae",
+      "url": "https://doi.org/10.3390/horticulturae12121457",
+      "date": "2026-11-22",
+      "date_key": "2026-11-22",
+      "type": "paper",
+      "summary_ko": "신장 남부는 대추 주산지이지만 과잉 관수로 물 자원이 낭비되는 문제가 있다. 연구진은 2023~2024년 2년간 비닐하우스에서 동조 대추를 작물증발산량 120% 관수와 N-P-K 256-128-200 kg/ha 시비로 점적관비 재배했다. 수액류와 미세 라이시미터로 실제 증발산량(ETa)을 측정하고, 다중 단계적 회귀로 기상 요인과의 관계를 분석했다. 증산은 일변화와 계절 변화 모두 단봉형이었고, 일사량과 강한 양의 상관을 보였다. ETa는 2023년 378.6 mm, 2024년 382.6 mm였다. 작물계수(Kc)는 발아~전엽기 0.72, 개화~착과기 1.24, 과실비대기 1.14, 성숙기 1.04였다. 대추 시설재배와 관수 일정 수립의 정량 기준으로, 대추 표준재배지침의 물 관리 항목에 참고할 수 있다.",
+      "tags": [
+        "대추",
+        "증발산",
+        "작물계수",
+        "점적관비",
+        "시설재배"
+      ],
+      "collected_at": "2026-11-27",
+      "run": "2026-11-27"
     },
     {
       "id": "20261121-1177e702",
