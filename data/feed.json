@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-11-25T20:31:41.938Z",
+ "generated_at": "2026-11-26T20:32:05.884Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 78,
+ "count": 82,
  "errors": [],
  "items": [
+  {
+   "key": "doi:10.1007/s11627-026-10723-9",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "3d2f9cac3328a8767019c24ac42c71b333ccdf67",
+   "doi": "10.1007/s11627-026-10723-9",
+   "pmid": "",
+   "title": "Evaluation of Rhododendron luteum sweet-based carbon dots and sucrose doses on chestnut micropropagation using machine learning and molecular docking analysis",
+   "journal": "Plant",
+   "date": "2026-11-24",
+   "authors": "B. Akyüz, I. H. Hatipoglu, Ayşe Akyüz, E. C. Aytar, Abidin Gümrükçüoğlu, E. I. Torunoğlu",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11627-026-10723-9"
+  },
   {
    "key": "doi:10.21203/rs.3.rs-11829839/v1",
    "groups": [
@@ -24,6 +41,125 @@
    "authors": "Hemmati A, Shiva.",
    "abstract": "Abstract Soils beneath planted trees are a durable carbon sink, yet species-selection guidance for hyper-arid plantings rests on evidence from mesic forests and on the assumption that native species outperform introduced ones. In the hyper-arid South Pars industrial zone on the northern Persian Gulf coast, we sampled soils beneath three trees each of three native ( Phoenix dactylifera , Ziziphus spina-christi , Prosopis cineraria ) and three introduced species ( Eucalyptus camaldulensis , Callistemon viminalis , Conocarpus erectus ) at 0–10 and 10–30 cm, and partitioned variation in soil organic carbon between species identity and provenance with split-plot analysis of variance, multivariate variance partitioning, exact permutation tests and mixed models. Species identity explained 46% of multivariate soil dispersion and 77% of variance in log-transformed carbon, whereas provenance explained 12% and could not be separated from species-within-category variation. Phoenix dactylifera held 2.46% carbon versus 0.59% under Conocarpus erectus , a 4.2-fold range not sorted by provenance. Carbon declined 33% from 0–10 to 10–30 cm in 17 of 18 trees with parallel species profiles, and covaried negatively with clay, consistent with input rather than mineral limitation; indicative 0–30 cm stocks spanned 20.6–98.4 Mg carbon per hectare. Species-specific organic inputs, not provenance labels or mineralogical capacity, govern soil carbon in this input-limited system, extending the species-identity rule of mesic forests to the hyper-arid extreme. Plantation and agroforestry programmes in arid regions should therefore select at the species level, prioritising high-input taxa such as date palm and jujube, rather than applying native-versus-introduced rules.",
    "url": "https://doi.org/10.21203/rs.3.rs-11829839/v1"
+  },
+  {
+   "key": "doi:10.11646/zootaxa.5909.5.4",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "83880f0d0239311f23a74f4adf3e3696f58c35d8",
+   "doi": "10.11646/zootaxa.5909.5.4",
+   "pmid": "",
+   "title": "Diversity of feeding habits in the genus Ponticulothrips (Thysanoptera, Phlaeothripidae) from Japan, with descriptions of two new species",
+   "journal": "Zootaxa",
+   "date": "2026-11-24",
+   "authors": "S. Okajima, M. Masumoto",
+   "abstract": "Two new species of the genus Ponticulothrips from Japan are described, in addition to the previously known species, P. diospyrosi Haga & Okajima. All are associated with deciduous broad-leaved persimmon trees in the genus Diospyros [Ebenaceae]. P. yamatoae sp. nov. induces margin-roll galls on the young leaves of Diospyros japonica, whereas P. diospyrosi induces similar galls on Diospyros kaki (=commonly cultivated persimmon). The remaining species, P. nakaoi sp. nov., invades galls induced by both P. diospyrosi and P. yamatoae and preys on the immature stages of these gall-inducing thrips. An illustrated key is provided for the four congeners.",
+   "url": "https://doi.org/10.11646/zootaxa.5909.5.4"
+  },
+  {
+   "key": "doi:10.1016/j.plaphy.2026.112006",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43084882",
+   "doi": "10.1016/j.plaphy.2026.112006",
+   "pmid": "43084882",
+   "title": "Physiological and transcriptomic profiling identifies CmbZIP53 as a candidate regulator of desiccation sensitivity in recalcitrant Castanea mollissima seeds.",
+   "journal": "",
+   "date": "2026-11-23",
+   "authors": "Cheng Y, Wang D, Jiang Y, Guan Y, Li L, Xian Y, Quan M, Han B.",
+   "abstract": "Recalcitrant seeds are highly sensitive to desiccation, which limits long-term germplasm conservation, yet the underlying molecular mechanisms remain poorly understood. In this study, we combined physiological profiling with transcriptomic analysis across a desiccation gradient to identify potential regulatory determinants in recalcitrant Castanea mollissima Blume (Chinese chestnut) seeds. Progressive dehydration induced volume contraction and a sharp 68.29% reduction in seed germination at the 10% moisture content (MC) stage. Mild dehydration (30% MC) elevated abscisic acid (ABA) and proline (Pro) contents by 39.4% and 91.9%, respectively, initiating defense responses. Severe dehydration (10% MC) further increased ABA and Pro to 184.4% and 133.4%, accompanied by a 133.5% rise in malondialdehyde, indicating extensive oxidative damage and collapse of cellular integrity. K-means clustering partitioned the transcriptome into four clusters, among which Cluster 4 was most significantly associated with physiological traits. Integrated weighted gene co-expression network analysis and Pearson correlation analyses identified CmbZIP53 as a candidate regulator whose expression mirrored proline levels and whose promoter featured several ABA-responsive elements. Functional assays using Arabidopsis thaliana AtbZIP53 T-DNA mutants, a homolog of chestnut CmbZIP53, showed impaired seed germination under dehydration stress, while heterologous expression of CmbZIP53 partially rescued the germination phenotype of the atbzip53-1 mutant. Overall, this study provides functional evidence for the involvement of CmbZIP53 in desiccation responses and offers new insights into the molecular regulation of desiccation sensitivity in recalcitrant seeds, with potential implications for germplasm conser…",
+   "url": "https://doi.org/10.1016/j.plaphy.2026.112006"
+  },
+  {
+   "key": "doi:10.3390/molecules31234259",
+   "groups": [
+    "pear-wild"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "11f098da85758abe384bdcfddfa28a3ebb22ecd0",
+   "doi": "10.3390/molecules31234259",
+   "pmid": "",
+   "title": "Pear (Pyrus pyrifolia) By-Product Extract Attenuates Ethanol-Induced Liver Injury by Modulating Ethanol-Metabolizing Enzymes and Antioxidant Responses",
+   "journal": "Molecules",
+   "date": "2026-11-23",
+   "authors": "Yejin Seo, Van-Long Truong, Hye-Jeong Jeong, J. Lee, Youjin Park, Da-Sol Jeong",
+   "abstract": "Chronic alcohol consumption disrupts ethanol metabolism and promotes oxidative stress and hepatocyte apoptosis, contributing to alcohol-related liver injury. Pear (Pyrus pyrifolia) by-products contain various bioactive compounds, but their protective effects against ethanol-induced liver injury remain unclear. In this study, we investigated the hepatoprotective effects of pear by-product extract using ethanol-treated HepG2 cells and mice subjected to repeated ethanol exposure. In HepG2 cells, pear by-product extract increased the expression of alcohol dehydrogenase 1 (ADH1) and aldehyde dehydrogenase 2 (ALDH2). Pear by-product extract also increased the expression of Nrf2, HO-1, and CAT and decreased Keap1 expression. In addition, the cleaved caspase-3/pro-caspase-3 and Bax/Bcl-2 ratios were reduced following treatment with pear by-product extract. In mice subjected to repeated ethanol exposure, pear by-product extract reduced serum ALT and AST activities. Hepatic ADH and ALDH activities, as well as ADH1 and ALDH2 expression, were increased, whereas cytochrome P450 2E1 (CYP2E1) expression was decreased. Pear by-product extract also increased hepatic CAT activity and altered the expression of Nrf2, Keap1, HO-1, CAT, and GPx4, together with a reduction in the Bax/Bcl-2 ratio. Collectively, these findings suggest that pear by-product extract attenuates ethanol-induced liver injury in association with changes in ethanol metabolism, antioxidant defense, and apoptosis. These results provide a basis for further investigation of pear by-product extract as a potential food-derived material for protecting against ethanol-associated liver injury.",
+   "url": "https://doi.org/10.3390/molecules31234259"
+  },
+  {
+   "key": "doi:10.3390/agronomy16232367",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "feac0405e94a10d47a570a76a616f3f16cadd7b0",
+   "doi": "10.3390/agronomy16232367",
+   "pmid": "",
+   "title": "Development and Evaluation of Growth-Stage-Specific Leaf Nutrient Norms for Hardy Kiwifruit (Actinidia arguta) Using DRIS and CND",
+   "journal": "Agronomy",
+   "date": "2026-11-23",
+   "authors": "Hui-Won Yoo, Soon-Ho Kwon, Hye-Soo Jung, Chul-Woo Kim, Soo Jae Kim, E. Cheong",
+   "abstract": "Leaf analysis is widely used to guide fertilization in fruit crops, but balance-based diagnostic norms for interpreting leaf nutrient concentrations have not been established for hardy kiwifruit (Actinidia arguta). This study tested whether optimal leaf nutrient concentrations differ between flowering and fruit enlargement, whether the Diagnosis and Recommendation Integrated System (DRIS) and Compositional Nutrient Diagnosis (CND) yield consistent diagnoses, and whether interannual variation affects diagnostic performance. Leaf nutrient and yield data were collected at flowering and fruit enlargement over three years from four cultivars in commercial orchards in Wonju, Korea, and norms, optimal concentrations, and sufficiency ranges were derived from high-yielding observations within each cultivar. Optimal concentrations differed between growth stages, particularly for Ca and Mg, and K optima were lower than previously reported for Actinidia. DRIS and CND showed similar apparent discrimination between high- and lower-yield observations (AUC, 0.68–0.81), which decreased to 0.64–0.77 in leave-one-orchard-out cross-validation. Beyond orchard differences, year explained 24% and 10% of the variation in leaf composition at flowering and fruit enlargement, respectively, with larger year effects for several micronutrients at flowering. These provisional norms provide a stage-specific basis for leaf nutrient diagnosis in hardy kiwifruit, pending independent validation in additional orchards and seasons.",
+   "url": "https://doi.org/10.3390/agronomy16232367"
+  },
+  {
+   "key": "doi:10.3390/foods15234199",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "e13ab53a4caf95809a906d6b59b3db8319f86c12",
+   "doi": "10.3390/foods15234199",
+   "pmid": "",
+   "title": "Volatile Organic Compounds from Trichoderma erinaceum J1-2 Suppress Alternaria alternata and Reduce Black Spot Rot and Quality Loss in Fresh Jujube During Storage",
+   "journal": "Foods",
+   "date": "2026-11-23",
+   "authors": "Qing-Yu Qi, Wen-Ying Hou, Shu-Rui Zhang, Hao-Ke Zhang, Hao-Chen Wang, Yu Li",
+   "abstract": "Black spot rot caused by Alternaria alternata is a major postharvest disease of fresh jujube, causing substantial economic losses, while chemical fungicide-based management faces increasing scrutiny. Here, strain J1-2 exhibited the strongest antifungal activity against A. alternata and was identified as Trichoderma erinaceum. Its volatile organic compounds (VOCs) were the major contributors to antifungal activity against A. alternata. This study evaluated the biocontrol potential of these VOCs against postharvest black spot rot in fresh jujube. VOC treatment disrupted hyphal and conidial structures of A. alternata in vitro and reduced lesion diameter by 38.27% in inoculated jujube fruits after 12 days of storage. VOC-treated fruits also showed higher levels of TSS, TA, and Vc than the control. Widely targeted metabolomics further profiled the metabolic responses of jujube fruits to VOC treatment, suggesting a redirection of phenylpropanoid carbon flux toward hydroxycinnamic acids and coumarins, a more than 3000-fold accumulation of the monoterpenoid (6E)-8-oxogeranial, and a reduction in membrane lipid peroxidation products. These findings indicate that T. erinaceum J1-2 VOCs are a promising biocontrol resource for suppressing postharvest black spot rot and reducing quality loss in fresh jujube.",
+   "url": "https://doi.org/10.3390/foods15234199"
+  },
+  {
+   "key": "doi:10.1186/s12870-026-10412-0",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "dd92e09c4ca7cb52b57522f9abe5ba8a930d9727",
+   "doi": "10.1186/s12870-026-10412-0",
+   "pmid": "",
+   "title": "Identification of white-mature to early-red transition during Ziziphus jujuba ‘Dongzao’ fruit ripening using integrated metabolomic and transcriptomic profiling",
+   "journal": "BMC Plant Biology",
+   "date": "2026-11-23",
+   "authors": "Ya-Lan Li, Yan Huang, Jia-Rui Li, Alimire Alimu, Juan Jin, Qing Hao",
+   "abstract": "Chinese jujube ( Ziziphus jujuba Mill.) is an economically important fruit-tree species, and Z. jujuba ‘Dongzao’ is a major fresh-market cultivar. This study aimed to characterize developmental changes associated with ripening of jujube fruit across the fruit-expansion (FE), white-mature (WM), early-red (ER), and full-red (FR) stages using untargeted liquid chromatography-high-resolution mass spectrometry (LC-HRMS) metabolite profiling, RNA sequencing, and physicochemical measurements. A total of 757 metabolite annotations and 7116 nonredundant differentially expressed genes were detected. The white-mature-to-early-red (WM-to-ER) transition yielded the largest number of differentially accumulated metabolites (323) and coincided with pronounced transcriptional changes. Therefore, this transition was regarded as the major molecular transition during ripening. Phenylpropanoid-flavonoid metabolism displayed branch-specific redistribution: The levels of several upstream phenolic and flavan-3-ol compounds peaked in the WM stage and declined thereafter, whereas the ZjANS1 expression increased from the WM stage to the ER stage. The levels of several lysophospholipids increased, whereas the levels of putatively annotated α-linolenic acid and jasmonic acid, together with representative jasmonate-biosynthetic transcripts, declined, indicating lipid remodeling rather than activation of jasmonate production. Across all 757 annotated metabolites, 83.1% of WM-to-ER changes were directionally concordant between the discovery and validation cohorts, representing the highest concordance among the three adjacent developmental transitions. Expression of selected MYB and bHLH transcription factor genes, WD40-encoding genes, and a WRI1-like AP2/ERF gene correlated with phenylpropanoid-flavon…",
+   "url": "https://doi.org/10.1186/s12870-026-10412-0"
+  },
+  {
+   "key": "doi:10.7161/omuanajas.1971226",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "a2caabb5e670964321399b5b8346270c4f988157",
+   "doi": "10.7161/omuanajas.1971226",
+   "pmid": "",
+   "title": "Subtropik Koşullarda Yabani ve Kültür Hünnaplarının (Ziziphus jujuba Mill.) Agromorfolojik Karakterizasyonu ve Aroma Profillerinin Belirlenmesi",
+   "journal": "anadolu journal of agricultural sciences",
+   "date": "2026-11-23",
+   "authors": "Orkun Deha Hancioğlu, Y. Polat, S. Comlekcioglu, Aydın Mızrak, B. İmrak, S. Kafkas",
+   "abstract": "Bu çalışmada, kültür ve yabani hünnap (Ziziphus jujuba Mill.) formlarının pomolojik özellikleri ve uçucu aroma profilleri karşılaştırılarak Çukurova Bölgesi ekolojik koşullarındaki performansları değerlendirilmiştir. Araştırma, 2022–2023 yıllarında Çukurova Üniversitesi Ziraat Fakültesi Bahçe Bitkileri Bölümü deneme alanında yürütülmüştür. Bulgular, kültür formlarının meyve ağırlığı (31.58 g), boyutları ve et/çekirdek oranı bakımından yabani formlara kıyasla daha üstün özellikler gösterdiğini ortaya koymuştur. Ağaç başına verim 6.11–6.55 kg arasında değişmiş ve formlar arasında belirgin bir farklılık saptanmamıştır. İki farklı SPME uç kullanılarak gerçekleştirilen uçucu bileşik analizlerinde ise aldehit ve asit bileşiklerinin öne çıktığı; hexanal, hexanoic acid, acetic acid ve decanoic acid bileşiklerinin her iki SPME ucu ile yapılan analizlerde de belirgin olduğu belirlenmiştir. Sonuçlar, kültür ve yabani hünnap formlarının pomolojik ve aromatik özelliklerinin karşılaştırılmasına yönelik bilimsel veri sağlamakta ve Çukurova Bölgesi’nde hünnap yetiştiriciliğinin geliştirilmesi, uygun genotiplerin seçilmesi ve meyve kalite özelliklerinin değerlendirilmesi açısından önem taşımaktadır.",
+   "url": "https://doi.org/10.7161/omuanajas.1971226"
   },
   {
    "key": "doi:10.3389/fpls.2026.1991246",
@@ -43,6 +179,23 @@
    "url": "https://doi.org/10.3389/fpls.2026.1991246"
   },
   {
+   "key": "doi:10.3390/cosmetics13060331",
+   "groups": [
+    "pine"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "c7b80bcd7d13680a0436515c868ba355c0f6a471",
+   "doi": "10.3390/cosmetics13060331",
+   "pmid": "",
+   "title": "Transcriptomic Effects of Pinus densiflora Needle Extract on Human Hair Follicle Dermal Papilla Cells: Estrogen- and Sterol-Related Signaling",
+   "journal": "Cosmetics",
+   "date": "2026-11-23",
+   "authors": "Hisako Iwahashi Ogawa, Aprill Kee Oliva Mizushima, F. Ferdousi, M. Nakajima, H. Isoda",
+   "abstract": "Pinus densiflora needle extract (PN) contains multiple constituents and has previously shown biological activities relevant to stress- and hormone-associated signaling; however, its molecular effects in human hair follicle dermal papilla cells (HFDPCs) remain incompletely understood. This study investigated PN-induced transcriptional responses in HFDPCs, with particular focus on follicle-related, estrogen-related, and sterol biosynthesis-associated pathways. Cell viability and the expression of ALPL, CTNNB1, and FGF1 were evaluated following treatment with PN and selected PN-derived components, while ESR1 expression was examined separately following PN treatment. Whole-genome microarray analysis was combined with pathway, protein–protein interaction, and gene set enrichment analyses, together with molecular docking targeting estrogen receptor alpha (ERα). PN did not markedly reduce HFDPC viability and significantly increased ALPL, CTNNB1, and FGF1 expression. Several PN-derived components partially reproduced these responses, whereas a five-compound mixture reproduced a broader range of the extract-associated gene expression changes. Transcriptomic analyses identified pathways related to growth regulation, Wnt, estrogen signaling, and steroid biosynthesis. Gene set enrichment analysis further identified significant enrichment of steroid biosynthesis accompanied by coordinated changes in sterol biosynthesis-related genes. PN treatment also significantly increased ESR1 expression as determined by RT-qPCR. PN-derived compounds showed weaker predicted ERα binding than 17β-estradiol, providing no evidence for strong direct interaction with ERα. Overall, PN induced coordinated transcriptional changes involving follicle-relevant, estrogen-related, and sterol biosynthesis-relat…",
+   "url": "https://doi.org/10.3390/cosmetics13060331"
+  },
+  {
    "key": "doi:10.1016/j.plaphy.2026.111999",
    "groups": [
     "chestnut"
@@ -56,8 +209,25 @@
    "journal": "",
    "date": "2026-11-22",
    "authors": "Liu N, Yang J, Liu C, Li Y, Yang X, Gong B, Jiang X.",
-   "abstract": "The regulatory mechanisms governing pollination and fertilization barriers largely limit distant hybridization breeding in Chinese chestnut. Here, we established intraspecific (ZN) and interspecific (ZJ) pollination combinations and systematically explored the regulatory mechanism of chestnut pollination and fertilization via integrated morphological, physiological, and transcriptomic analyses. Morphologically, ZN pollen tubes fully penetrated the style at 18 days after pollination (DAP), while ZJ pollen tube growth was significantly delayed, completing stylar penetration at 22 DAP. Physiologically, both combinations maintained high superoxide dismutase (SOD) activity to eliminate excess superoxide radicals (O2-), whereas the ZJ combination exhibited continuously increased peroxidase (POD) activity and fluctuating catalase (CAT) activity, indicating stronger oxidative stress. The stabilization of hydrogen peroxide (H2O2) and decreased malondialdehyde (MDA) content after 20 DAP reflected the recovery of oxidative damage during successful fertilization. Transcriptome profiling and weighted gene co-expression network analysis (WGCNA) identified core candidate genes potentially associated with oxidative stress (STZ, PRXR1), cell wall metabolism (CXE5, TPRP-F1), pollen guidance (GT5, LGT8), and fertilization regulation (AGL11). The contents of pistil IAA, GA, ZR, and ABA increased steadily after pollination, with key hormone differentially expressed genes (DEGs) exhibiting interspecific-specific expression patterns. Specifically, the ZJ combination uniquely upregulated IAA27 and repressed the GA receptor gene GID1 and ABA signaling gene ABF4. Constitutively activated genes including LAX1, DELLA, PYL2, and AHP4, as well as DEGs from ETH, BR, SA, and JA signaling pathways, may…",
+   "abstract": "The regulatory mechanisms governing pollination and fertilization barriers largely limit distant hybridization breeding in Chinese chestnut. Here, we established intraspecific (ZN) and interspecific (ZJ) pollination combinations and systematically explored the regulatory mechanism of chestnut pollination and fertilization via integrated morphological, physiological, and transcriptomic analyses. Morphologically, ZN pollen tubes fully penetrated the style at 18 days after pollination (DAP), while ZJ pollen tube growth was significantly delayed, completing stylar penetration at 22 DAP. Physiologically, both combinations maintained high superoxide dismutase (SOD) activity to eliminate excess superoxide radicals (O 2 - ), whereas the ZJ combination exhibited continuously increased peroxidase (POD) activity and fluctuating catalase (CAT) activity, indicating stronger oxidative stress. The stabilization of hydrogen peroxide (H 2 O 2 ) and decreased malondialdehyde (MDA) content after 20 DAP reflected the recovery of oxidative damage during successful fertilization. Transcriptome profiling and weighted gene co-expression network analysis (WGCNA) identified core candidate genes potentially associated with oxidative stress (STZ, PRXR1), cell wall metabolism (CXE5, TPRP-F1), pollen guidance (GT5, LGT8), and fertilization regulation (AGL11). The contents of pistil IAA, GA, ZR, and ABA increased steadily after pollination, with key hormone differentially expressed genes (DEGs) exhibiting interspecific-specific expression patterns. Specifically, the ZJ combination uniquely upregulated IAA27 and repressed the GA receptor gene GID1 and ABA signaling gene ABF4. Constitutively activated genes including LAX1, DELLA, PYL2, and AHP4, as well as DEGs from ETH, BR, SA, and JA signaling pathwa…",
    "url": "https://doi.org/10.1016/j.plaphy.2026.111999"
+  },
+  {
+   "key": "doi:10.3390/horticulturae12121457",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "6f1404c4490b86e90817db7f334e37e80f6023c8",
+   "doi": "10.3390/horticulturae12121457",
+   "pmid": "",
+   "title": "Evapotranspiration and Crop Coefficients of Drip-Fertigated Winter Jujube Under Plastic Shed in Southern Xinjiang, China",
+   "journal": "Horticulturae",
+   "date": "2026-11-22",
+   "authors": "Xiao-Qiang Liu, Xiao-Dong Hao, Shuai He",
+   "abstract": "Jujube, as a characteristic fruit, is widely planted in southern Xinjiang, China. However, excessive irrigation can result in the waste of water resources. This two-year field experiment (2023–2024) was conducted to quantify the actual evapotranspiration (ETa, determined using sap flow and micro-lysimeters) and determine suitable crop coefficients (Kc) of winter jujube under fertigation conditions in a plastic shed. The experiment applied an irrigation amount (120% of crop evapotranspiration) and fertilization rate (N-P-K, 256-128-200 kg ha−1) with three replications. Meteorological factors, soil evaporation, transpiration (Tr), water consumption (ET) and crop coefficients (Kc) were investigated and analyzed by multiple stepwise linear regression. The results showed that diurnal and seasonal Tr followed a single-peak curve. Sap flow on rainy days was lower than on sunny and cloudy days, and the highest sap flow was observed on sunny days. Moreover, radiation had a significant positive correlation with daily transpiration. The ET during the bud burst to the leafing stage was mainly caused by climatic factors and soil evaporation, while the ET during the fruit maturation stage was primarily caused by transpiration. The ETa was 378.6 mm and 382.6 mm in 2023 and 2024, respectively. The average Kc values in various growth periods were 0.72 (bud burst to the leafing), 1.24 (flowering to fruit set), 1.14 (fruit expansion), and 1.04 (fruit maturation). These findings provide precise Kc parameters and a theoretical basis for improving irrigation scheduling for jujube production in arid areas.",
+   "url": "https://doi.org/10.3390/horticulturae12121457"
   },
   {
    "key": "doi:10.1007/s11270-026-10159-2",
@@ -179,6 +349,23 @@
    "url": "https://doi.org/10.1016/j.foodchem.2026.152214"
   },
   {
+   "key": "doi:10.2174/0115734013524216261106051431",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "aafb877fbaa9a4836476e2fad7ee7cdb982fa553",
+   "doi": "10.2174/0115734013524216261106051431",
+   "pmid": "",
+   "title": "Possible Effects of Ziziphus jujuba and Saponins as Its Constituents on Hypertension: A Systematic Review of Preclinical Evidence",
+   "journal": "Current Nutrition &amp; Food Science",
+   "date": "2026-11-19",
+   "authors": "Zeinab Sadat Amiri, Zoya Tahergorabi, M. Khazdair",
+   "abstract": "Introduction: Arterial hypertension, affecting nearly one-third of the global adult population, remains a leading cause of premature mortality despite significant advances in pharmacological therapies. Ziziphus jujuba (Z. jujuba), a valued plant for its rich bioactive composition and long-standing traditional use, has exhibited antioxidant, anti-inflammatory, and cardioprotective properties. This systematic review aimed to synthesize the existing evidence on the antihypertensive efficacy and underlying mechanisms of Z. jujuba in preclinical studies, emphasizing its potential as a natural adjunct in the management of hypertension. Methods: In this systematic review, scientific databases, including PubMed, Web of Science, Google Scholar, Scopus, and Scientific Information Database, were searched following PRISMA guidelines. The original relevant studies that used Z. jujuba on hypertension published between 2010 and September 2025 were evaluated. Results: A total of 305 studies investigating the effects of Z. jujuba and its constituents on the treatment of hypertension were initially identified, and 13 studies were ultimately included. Preclinical studies have demonstrated the potential of Z. jujuba and its components in managing high blood pressure. Discussion: This systematic review highlighted the promising role of Z. jujuba and its bioactive constituents in reducing high blood pressure. Available evidence suggests that it exerts a direct inhibitory effect on vascular smooth muscle receptors and reduces prostaglandin production. Conclusion: The antihypertensive and vasorelaxant effects of Z. jujuba and its ingredients are mediated through eNOS activation and antioxidant effects.",
+   "url": "https://doi.org/10.2174/0115734013524216261106051431"
+  },
+  {
    "key": "doi:10.3389/fpls.2026.1992837",
    "groups": [
     "chestnut"
@@ -211,6 +398,23 @@
    "authors": "T. Bozlar, N. Diktaş-Bulut, C. Birinci, Selcen Çelik-Uzuner, Oktay Yıldız, S. Kolaylı",
    "abstract": "",
    "url": "https://doi.org/10.1080/00218839.2026.2755255"
+  },
+  {
+   "key": "doi:10.51886/1999-740x_2026_4_21",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "509f069a5f75efb74a0f8e445e7b55655a10b5a6",
+   "doi": "10.51886/1999-740x_2026_4_21",
+   "pmid": "",
+   "title": "Assessment of biological activity and soil health parameters of various soil types in the Zhetysu region",
+   "journal": "Soil Science and Agrichemistry",
+   "date": "2026-11-18",
+   "authors": "R. Aipova, A. Kurmanbaev, Sh. G. Yermek, A. Amanbossyn, S. Tanirbergenov",
+   "abstract": "This study presents a comprehensive assessment of the biological condition of the humus horizons of meadow-serozem, foothill light chestnut, chestnut, and mountain dark chestnut soils in the Zhetysu Region of Kazakhstan, based on investigations conducted in virgin and cultivated areas during the spring and autumn seasons. The abundance of the main physiological and trophic groups of microorganisms was determined using culture-based methods, enzymatic activity was assessed using the fluorescein diacetate (FDA) hydrolysis assay, and structural and morphological characteristics were analyzed using Pfeiffer's circular chromatography method. Considerable seasonal variation and differences among soil types were observed in the biological indicators. The total microbial count decreased from 126.0×10⁶ to 21.83×10⁶ CFU/g of soil, while the maximum abundances of actinomycetes and bacteria utilizing mineral forms of nitrogen reached 180.0×10⁵ and 174.67×10⁵ CFU/g of soil, respectively. FDA hydrolytic activity reached 40.5 μg of fluorescein per gram of soil over a 3-hour incubation period. According to the circular chromatography results obtained in autumn, the central zone radius (CR) ranged from 21 to 27, the outer zone width (OZ) from 38 to 49, and the total radius (TR) from 96 to 110, with a relatively stable number of concentric rings (5–6). Virgin soils exhibited higher biological activity, whereas changes in biological indicators associated with land-use practices were observed in cultivated soils. These findings highlight the importance of integrating physical, chemical, and biological indicators when assessing soil condition and developing measures to preserve soil fertility.",
+   "url": "https://doi.org/10.51886/1999-740x_2026_4_21"
   },
   {
    "key": "doi:10.1016/j.foodchem.2026.152270",
@@ -1197,142 +1401,6 @@
    "authors": "Sergiadou D, Wood D, Dunning LT, Kjaer ED, Olofsson JK.",
    "abstract": "Abstract Chloroplast genomes are frequently used to reconstruct the evolutionary history of plants, including detection of introgression and chloroplast capture events. Here, we focus on two oak species, Quercus robur and Q. petraea , which lack differentiation in several chloroplast markers. This was assumed to result from chloroplast captures during their dispersal from refugia after the last glacial maximum (LGM). We aim to reassess chloroplast variation within and between these species by de novo assembling 114 oak plastomes. Additionally, we combine our data with available plastome data from 91 Fagaceae species to reconstruct a dated phylogeny and estimate the divergence time between oak chloroplast lineages. Positive selection analysis on 69 chloroplast genes was also conducted to test whether chloroplast capture is adaptive. Plastome phylogenetic analyses reveal three oak haplotypes with no species delimitation. Molecular dating analysis indicates older splits among the three main haplotypes (2.68 − 0.5 Mya) and younger splits within lineages (0.39 − 0.04 Mya), suggesting that chloroplast capture could have occurred prior to the LGM in some lineages. Positive selection is observed in two chloroplast genes, with the selection on the rbcL gene possibly linked to the adaptive evolution of the RuBisCO enzyme. Hence, signs of a selective sweep could further explain the observed limited genetic diversity in oak plastomes. This study provides valuable insights into oak plastome evolution, setting a significant base for upcoming studies, including nuclear genome and protein-level studies to better understand cytonuclear interactions and conceivable environmental adaptations.",
    "url": "https://doi.org/10.21203/rs.3.rs-11318303/v1"
-  },
-  {
-   "key": "doi:10.1016/j.foodchem.2026.151957",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42994257",
-   "doi": "10.1016/j.foodchem.2026.151957",
-   "pmid": "42994257",
-   "title": "Identification of key chestnut-sweet aroma compounds in bud-leaf yellow tea and analysis of their dynamic changes and formation mechanism.",
-   "journal": "Food Chemistry",
-   "date": "2026-11-04",
-   "authors": "Zhou J, Bi L, Shu Q, Zhang X, Jia T, Zhang, Ni D, Yu Z.",
-   "abstract": "Bud-leaf yellow tea is known for its chestnut-sweet aroma, yet its key odorants and formation mechanism remain unclear. Using a sensomics approach, seven key odorants were characterized, including 2-ethyl-3,5-dimethylpyrazine, 3-methylbutanal, and dimethyl sulfide, with 2-ethyl-3,5-dimethylpyrazine being the major contributor (recombination correlation r = 0.909). 2-Ethyl-3,5-dimethylpyrazine (odor activity value = 53.3, flavor dilution = 1024) and dimethyl sulfide (odor activity value = 422.4, flavor dilution = 256) were identified as major contributors, with dimethyl sulfide dominating the chestnut note and 2-Ethyl-3,5-dimethylpyrazine enhancing the sweet dimension. Across Meizhan, FudingDabaicha and Echa 10, 2-ethyl-3,5-dimethylpyrazine was undetectable before yellowing, peaked during yellowing (14.92 μg/L, p < 0.05), and was moisture-dependent, with 25% post-fixation moisture giving the highest chestnut-sweet score. In vitro, β-alanine + D-arabinose produced 2-ethyl-3,5-dimethylpyrazine via the Maillard reaction. Thus, 2-ethyl-3,5-dimethylpyrazine is the yellowing-specific key chestnut-sweet odorant in bud-leaf yellow tea, enabling moisture-based process control.",
-   "url": "https://doi.org/10.1016/j.foodchem.2026.151957"
-  },
-  {
-   "key": "doi:10.1016/j.ijbiomac.2026.155165",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42982256",
-   "doi": "10.1016/j.ijbiomac.2026.155165",
-   "pmid": "42982256",
-   "title": "Chestnut starch-lipid complex as a nontraditional RS5 ingredient: Structural features and associated in vivo responses in high-fat diet-fed mice.",
-   "journal": "",
-   "date": "2026-11-04",
-   "authors": "Yu Z, Ma N, Wei F, Deng J, Cui H, Lv H, Ji X, Lu Y, Wang S.",
-   "abstract": "Resistant starch type 5 (RS5) can convert starch-rich crops into enzyme-resistant starch-lipid complexes, yet current evidence remains dominated by conventional starch sources and in vitro studies. This study prepared and characterized a chestnut starch-stearic acid complex (chestnut starch-lipid complex, DCS_C18, RS5), and evaluated it as a novel RS5 ingredient in high-fat diet (HFD)-fed mice, using native chestnut starch, caffeine, and orlistat as contextual comparators. DCS_C18 showed V-/B-type crystalline features, greater short-range and long-range order, and higher thermal stability than the palmitic acid complex. In vivo, DCS_C18 attenuated HFD-induced weight gain, adiposity, dyslipidemia, glucose intolerance, insulin resistance, hepatic steatosis, and systemic inflammation, accompanied by reduced lipogenic and increased fatty acid oxidation-related gene expression. Moreover, DCS_C18 exhibited more balanced regulation of fasting and postprandial glycemia than the other interventions. DCS_C18 also increased fecal acetate (2.12-fold) and butyrate (1.82-fold) and enriched SCFA-associated genera, including Blautia, Roseburia, and Lachnoclostridium. Open-field testing suggested improved locomotor and anxiety-related outcomes without the stimulant-like pattern observed for caffeine. These findings support chestnut-derived RS5 as a promising ingredient platform for metabolic-health-oriented foods, pending human and mechanistic confirmation.",
-   "url": "https://doi.org/10.1016/j.ijbiomac.2026.155165"
-  },
-  {
-   "key": "doi:10.5152/forestist.2026.25075",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "2db01b15aaaca11c505db87d23998fed9da61f45",
-   "doi": "10.5152/forestist.2026.25075",
-   "pmid": "",
-   "title": "Windthrow of Forest Trees and Its Effect on Tree Regeneration and Diversity of Understory in the Hyrcanian Temperate Upland Forests of Iran",
-   "journal": "Forestist",
-   "date": "2026-11-04",
-   "authors": "B. Kiani, Sharare Behbudi, Mehrdad Nikooy, A. Omidi",
-   "abstract": "Windthrow is a major natural disturbance shaping canopy dynamics in temperate forests, yet high-elevation (upland) Hyrcanian forests remain poorly studied, particularly with respect to regeneration responses and topographic controls. This study examined windfall effects in Dashte Daman forests, northern Iran (1027–1629 m elevation). First, 90 systematically distributed 50 × 50 m sample plots were established across a 300 × 300 m grid on a stratified map including affected and unaffected areas. For each fallen tree (broken or uprooted), diameter at breast height, trunk height, and crown length were measured. Understory vegetation composition, including herbaceous cover and tree regeneration, was also recorded. The influence of topographic variables (slope, elevation, aspect) and forest type on windfall abundance was analyzed, alongside correlations with slope, elevation, distance to nearest road, stand density, and canopy cover. Comparisons with undisturbed control areas were made to assess regeneration patterns. Results indicated that oriental beech (Fagus orientalis) was the most windfall species, followed by common hornbeam (Carpinus betulus), whereas chestnut-leaved oak (Quercus castaneifolia) and common ash (Fraxinus excelsior) were rare. Windfall frequency averaged eight fallen and 4.7 uprooted (a total of 12.7) trees per hectare, with corresponding volumes of 31.6 m3/ha and 18.56 m3/ha, respectively. Considering the abundance of wind-fallen trees, windfall frequency was highest on south-, southwest-, and west-aspects, at slopes of 20%–40%, and elevations of 1000–1200 m. Valleys exhibited greater tree breakage, whereas uprooting dominated hillsides. Pure oriental beech stands had significantly higher windfall rates than mixed beech-hornbeam or oak-hornbeam forests.…",
-   "url": "https://doi.org/10.5152/forestist.2026.25075"
-  },
-  {
-   "key": "doi:10.1155/adpp/6147577",
-   "groups": [
-    "pear-wild"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42991210",
-   "doi": "10.1155/adpp/6147577",
-   "pmid": "42991210",
-   "title": "Pear Peel-Enriched Residue Extract Attenuates Ethanol-Induced Liver Injury Through Regulation of Antioxidant Signaling and Lipid Metabolism.",
-   "journal": "",
-   "date": "2026-11-04",
-   "authors": "Thakuri LS, Le D, Sonar NS, Park HB, Subedi L, Lee KS, Shon JH, Park JW, Lee M, Rhyu DY.",
-   "abstract": "Excessive alcohol consumption induces progressive liver injury through oxidative stress, lipid accumulation, and inflammation, primarily driven by dysregulated ethanol (EtOH) metabolism. Given the growing interest in plant-derived phytochemicals for hepatoprotection, pear ( Pyrus pyrifolia ) has attracted attention due to its antioxidant and lipid-regulating properties; however, the bioactive fractions and mechanisms underlying the hepatoprotective effects of pear peel-enriched residue extracts (PPE) remain unclear. Therefore, we evaluated the hepatoprotective potential of PPE against EtOH-induced liver injury using in vitro, in vivo, and in silico approaches. In HepG2 cells, PPE reduced oxidative stress, restored cell viability, and reduced intracellular EtOH and acetaldehyde levels more effectively than pear extract, with efficacy comparable to silymarin. In EtOH-treated C57BL/6 mice, PPE attenuated liver injury markers, reduced hepatic lipid accumulation, and improved histopathological alterations. PPE also modulated the expression of proteins associated with oxidative stress and lipid metabolism. GNPS-FBMN analysis putatively annotated over 120 phytochemicals (or metabolites), and in silico analyses suggested potential interactions between selected metabolites and proteins involved in EtOH metabolism and lipid regulation. These findings suggest that PPE shows hepatoprotective potential and warrants further investigation as a potential candidate for the mitigation of alcohol-associated liver disease.",
-   "url": "https://doi.org/10.1155/adpp/6147577"
-  },
-  {
-   "key": "doi:10.1016/j.jnutbio.2026.110532",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42982140",
-   "doi": "10.1016/j.jnutbio.2026.110532",
-   "pmid": "42982140",
-   "title": "Jujuboside A ameliorates T2DM-associated MASH: Suppression of YY1/FAS axis-mediated hepatic de novo fatty acid biosynthesis.",
-   "journal": "",
-   "date": "2026-11-04",
-   "authors": "Yang T, Chen L, Luo H, Wang L, Jiang X, Yang H, Chen L, Qian S, Wang T, Li B, Ji F, Yan X, Yin X, Lu Q.",
-   "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) in type 2 diabetes mellitus (T2DM) represents a progressive subtype of metabolic dysfunction-associated steatotic liver disease (MASLD), and is predominantly driven by dysregulated hepatic fatty acid (FA) metabolism. Although Jujuboside A (Ju A), a major bioactive triterpene saponin isolated from Ziziphus jujuba Mill. (sour jujube), exhibits hepatoprotective properties, its precise regulatory mechanisms underlying T2DM-associated MASH remain poorly defined. This study investigated the dose-dependent protective effects and molecular mechanisms of Ju A using both in vivo and in vitro models. Combining targeted FA profiling and long-chain FAs (LCFAs)-specific metabolomics, alongside chromatin immunoprecipitation (Ch-IP), luciferase reporter assays, molecular docking with dynamics simulations, and Yin Yang 1 (YY1) gain-of-function and fatty acid synthase (FAS) inhibition (C75) studies, we characterized Ju A-mediated metabolic reprogramming and molecular targets involved. Ju A treatment markedly ameliorated MASH and hepatic lipid deposition in diabetic mice by restoring dysregulated hepatic FA homeostasis, particularly by blocking de novo lipogenesis (DNL)-derived LCFA accumulation. Mechanistically, Ju A exerted these effects by blocking the nuclear translocation of YY1. This inhibition diminished YY1 binding to the FAS promoter, subsequently downregulating FAS expression and inhibiting aberrant hepatic de novo FA biosynthesis. Collectively, these findings demonstrated that Ju A ameliorated T2DM-associated MASH by restoring hepatic FA homeostasis via inactivation of the YY1-FAS axis, highlighting its promising therapeutic potential against diabetic liver complications.",
-   "url": "https://doi.org/10.1016/j.jnutbio.2026.110532"
-  },
-  {
-   "key": "doi:10.1080/15226514.2026.2755977",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "42980638",
-   "doi": "10.1080/15226514.2026.2755977",
-   "pmid": "42980638",
-   "title": "Photocatalytic treatment of AO7 and real textile wastewater using green-synthesized ZnO nanoparticles: RSM and Taguchi approach.",
-   "journal": "International journal of phytoremediation",
-   "date": "2026-11-04",
-   "authors": "Turkoglu S, Kepekci RA, Keskinkan O.",
-   "abstract": "In this study, ZnO nanoparticles were synthesized via a green synthesis method using Diospyros kaki L. peel extract, and their photocatalytic performances for the removal of Acid Orange 7 (AO7) dye and real textile wastewater were investigated. The effects of pH, initial dye concentration, and catalyst dosage on AO7 removal were optimized using a Box-Behnken experimental design and Response Surface Methodology (RSM). Under the optimum conditions (pH 10, initial dye concentration of 10 ppm, and catalyst dosage of 0.13 g), 100% dye removal was achieved within 270 min. The photocatalytic treatment of real textile wastewater was optimized using a Taguchi experimental design, and a color removal efficiency of 98.1% was achieved under the optimum conditions (pH 7, constant wastewater volume of 50 mL, and catalyst dosage of 0.13 g). Additionally, radical scavenging experiments performed to elucidate the photocatalytic mechanism indicated that hydroxyl radicals (•OH) play a significant role in the photocatalytic degradation of AO7. The synthesized ZnO nanoparticles exhibited high photocatalytic stability, good reusability and acted as efficient photocatalysts even under low-energy UV light conditions. Overall, the green-synthesized ZnO nanoparticles demonstrated promising potential as an effective photocatalyst for the removal of dyes and color from real textile wastewater.",
-   "url": "https://doi.org/10.1080/15226514.2026.2755977"
-  },
-  {
-   "key": "doi:10.3390/textiles6040138",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "986f4b0ff34cf2baf883280657f64867785df43a",
-   "doi": "10.3390/textiles6040138",
-   "pmid": "",
-   "title": "From Textile Waste Toward a Leather Alternative: Mechanical and Abrasion Performance of Polycaprolactone-Reinforced Reclaimed Nonwoven Cotton",
-   "journal": "Textiles",
-   "date": "2026-11-04",
-   "authors": "Bahar Hashemian Esfahani, S. Dutta, R. Eike, Boyce S. Chang, Zahra Falsafi, Manu Smriti",
-   "abstract": "Transforming textile waste into durable, value-added materials remains a central challenge for sustainable apparel systems. This study developed single-layer, nonwoven sheets from discarded 100% cotton textiles using a papermaking-derived wet-laid process and evaluated their potential as leather-alternative materials through a sequential two-phase approach. In Phase 1, reclaimed-cotton nonwoven sheets bio-finished with persimmon juice or konjac were benchmarked against commercial plant-based olive, cork, pineapple, and cactus leather alternatives using ASTM grab tensile and rotary-platform abrasion testing. The bio-finished sheets showed low breaking forces, limited elongation, and abrasion failure. In Phase 2, biodegradable polycaprolactone (PCL) was applied as a reinforcing finish. The resulting PCL-treated reclaimed-cotton sheets’ (RC-PCL) breaking force performance improved by over 6.5 times the nontreated nonwoven specimens and approximately 4.5 times the bio-finished nonwoven specimens. Additionally, the RC-PCL completed the 2000-cycle abrasion endpoint without through-thickness failure. Elongation remained low while the dogbone tensile test showed increases in tensile strength, strain at break, and apparent Young’s modulus after PCL-finishing. These findings indicate that biodegradable PCL-finish substantially improves the strength, cohesion, and abrasion resistance of reclaimed-cotton nonwovens, while flexibility, coating optimization, and end-of-life performance remain priorities for future leather-alternative applications to support sustainability efforts and value-added use of reclaimed materials within the textile industry.",
-   "url": "https://doi.org/10.3390/textiles6040138"
-  },
-  {
-   "key": "doi:10.3390/chemproc2026022129",
-   "groups": [
-    "raspberry"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "d356557aa677e3f99efef7e33d08cc03cc42ff9c",
-   "doi": "10.3390/chemproc2026022129",
-   "pmid": "",
-   "title": "Studies of the Antioxidant Mechanisms Produced by Black Raspberries Extracts (Rubus niveus Thunb) and Magnesium Salt Mixtures in Red Blood Cells",
-   "journal": "ECSOC 2026",
-   "date": "2026-11-04",
-   "authors": "Franklin Vargas, Miguel León, J. Velásquez, M. Contreras, Sergio D. Rosales-Anzola, Miguel Fernández",
-   "abstract": "",
-   "url": "https://doi.org/10.3390/chemproc2026022129"
   }
  ]
 }
