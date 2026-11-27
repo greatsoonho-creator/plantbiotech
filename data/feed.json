@@ -1,13 +1,98 @@
 {
- "generated_at": "2026-11-26T20:32:05.884Z",
+ "generated_at": "2026-11-27T20:31:07.092Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 82,
+ "count": 85,
  "errors": [],
  "items": [
+  {
+   "key": "t:biosynthesized jujube mediated trimetallic ag zn mn nanoparticles supported on graphene oxide new tyrosinase inhibitors ",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "PMC13810522",
+   "doi": "",
+   "pmid": "",
+   "title": "Biosynthesized jujube mediated trimetallic (Ag–Zn–Mn) nanoparticles supported on graphene oxide: new tyrosinase inhibitors with environmental remediation applications",
+   "journal": "",
+   "date": "2026-11-27",
+   "authors": "Shah Z, Hafsa H, Khan M, Shah L, Ali W, Ali B, Matinise N, Shaheen K.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13810522/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1007/s13399-026-07359-5",
+   "groups": [
+    "persimmon"
+   ],
+   "cat": "fruit",
+   "source": "semanticscholar",
+   "id": "d127d383ed015f27fa75e09bd460f36e2fe4296a",
+   "doi": "10.1007/s13399-026-07359-5",
+   "pmid": "",
+   "title": "Green hydrothermal synthesis of Ag/Ag2O/GO nanocomposites using Diospyros kaki fruit extract and their application in supercapacitors",
+   "journal": "Biomass Conversion and Biorefinery",
+   "date": "2026-11-27",
+   "authors": "Ayşe Bütün, S. Durmuş, Kübra Zenkin, Deniz Emre, Saadet Dinç, Selehattin Yılmaz",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s13399-026-07359-5"
+  },
+  {
+   "key": "t:from selection to seedlings tracking the fate of chestnuts and acorns cached by blue jays cyanocitta cristata",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13811752",
+   "doi": "",
+   "pmid": "",
+   "title": "From Selection to Seedlings: Tracking the Fate of Chestnuts and Acorns Cached by Blue Jays (Cyanocitta cristata)",
+   "journal": "",
+   "date": "2026-11-26",
+   "authors": "Wright J, Tonra C, Wilson C, Matthews S.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13811752/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1186/s42483-026-00476-z",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "semanticscholar",
+   "id": "6004a92e3c25638b1789e476ae3af0108f63df8d",
+   "doi": "10.1186/s42483-026-00476-z",
+   "pmid": "",
+   "title": "A BrlA-independent regulatory axis mediated by CpflbC coordinates growth, sporulation, and pathogenicity in Cryphonectria parasitica",
+   "journal": "Phytopathology Research",
+   "date": "2026-11-26",
+   "authors": "Wei-Ye Qin, Xiao-Ling Ma, Zi-Qi Zhao, Jin-Zi Wang, Tao Huang, Feng-Hao Xu",
+   "abstract": "Asexual reproduction is a vital survival strategy for pathogenic fungi, enabling rapid dissemination, and host colonization. Among the regulatory elements governing these processes, C2H2 zinc finger proteins have emerged as key transcriptional modulators coordinating fungal development and stress adaptation. In this study, we demonstrate that the C2H2 zinc finger transcription factor CpflbC serves as a master regulator of both asexual differentiation and pathogenicity in the chestnut blight fungus Cryphonectria parasitica through integrated genetic methods and transcriptomic analysis. Specifically, targeted deletion of CpflbC caused marked phenotypic defects: a 53% reduction in conidial yield, delayed spore germination (46% longer median germination time), and impaired pathogenicity (53% smaller cankers than wild-type). Moreover, the ΔCpflbC mutant exhibited altered colonial morphology, reduced growth rate, and increased sensitivity to oxidative and cell wall stresses. The transcriptomic profiling of the ΔCpflbC mutant obtained 3794 differentially expressed genes compared with EP155, with enrichment in oxidoreductase activity, membrane transport, and DNA replication pathways. Importantly, our results proved that CpflbC can regulate the expression of key developmental regulators CpabaA directly, thereby establishing a BrlA-independent regulatory hub. Further gene function studies showed that the expression level change of either CpabaA or CpwetA recapitulated the sporulation defects and pathogenicity attenuation observed in CpflbC deletion strains, confirming their position as the downstream effectors of CpflbC. In brief, these collective findings suggest that CpflbC is an integrative hub that synchronizes developmental programs with environmental stress responses in C. …",
+   "url": "https://doi.org/10.1186/s42483-026-00476-z"
+  },
+  {
+   "key": "doi:10.1016/j.molp.2026.11.011",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43099931",
+   "doi": "10.1016/j.molp.2026.11.011",
+   "pmid": "43099931",
+   "title": "Development of Rubus hirsutus as a woody-plant model system.",
+   "journal": "",
+   "date": "2026-11-26",
+   "authors": "Liu H, Chen R, Zeng Z, Xu D, Wang L, Liu J, Zhang Y, Chen H, Liu Z, He Y, Liang M, Zhang T, Shang J, Zhao Q, Yuan YW, Ning G.",
+   "abstract": "Model systems for long-lived woody plants are urgently needed to accelerate research in plant, evolutionary, and synthetic biology. Ideal model systems should combine well-annotated genomes with robust, user-friendly transformation and genome-editing platforms, as well as efficient strategies for multigene pyramiding. Here, we established a model system based on the woody shrub hirsute raspberry (Rubus hirsutus). First, we de novo assembled two telomere-to-telomere (T2T) Rosoideae genomes. Transcriptomic and pan-genomic analyses revealed extensive gene-level and genome-level diversification within these Rosoideae genomes, underpinning remarkable phenotypic variation across hundreds of wild species and thousands of cultivars. We then developed a leaf-based, tissue-culture-free, antibiotic-free transformation method and an Agrobacterium rhizogenes-mediated gene editing approach for R. hirsutus. We used these methods to establish an efficient sequential transformation strategy for multigene pyramiding and also generated early-flowering transgenic lines of R. hirsutus. Using our newly designed system, we rapidly and stably transformed R. hirsutus with approximately 500 genes and functionally characterized a series of genes and regulatory networks. This de novo-designed, long-lived woody-plant model system, which was derived from phylogenetically close but taxonomically diverse lineages, should greatly accelerate the advancement of our fundamental knowledge and advance translational research in plants.",
+   "url": "https://doi.org/10.1016/j.molp.2026.11.011"
+  },
   {
    "key": "doi:10.1007/s11627-026-10723-9",
    "groups": [
@@ -70,7 +155,7 @@
    "doi": "10.1016/j.plaphy.2026.112006",
    "pmid": "43084882",
    "title": "Physiological and transcriptomic profiling identifies CmbZIP53 as a candidate regulator of desiccation sensitivity in recalcitrant Castanea mollissima seeds.",
-   "journal": "",
+   "journal": "Plant physiology and biochemistry : PPB",
    "date": "2026-11-23",
    "authors": "Cheng Y, Wang D, Jiang Y, Guan Y, Li L, Xian Y, Quan M, Han B.",
    "abstract": "Recalcitrant seeds are highly sensitive to desiccation, which limits long-term germplasm conservation, yet the underlying molecular mechanisms remain poorly understood. In this study, we combined physiological profiling with transcriptomic analysis across a desiccation gradient to identify potential regulatory determinants in recalcitrant Castanea mollissima Blume (Chinese chestnut) seeds. Progressive dehydration induced volume contraction and a sharp 68.29% reduction in seed germination at the 10% moisture content (MC) stage. Mild dehydration (30% MC) elevated abscisic acid (ABA) and proline (Pro) contents by 39.4% and 91.9%, respectively, initiating defense responses. Severe dehydration (10% MC) further increased ABA and Pro to 184.4% and 133.4%, accompanied by a 133.5% rise in malondialdehyde, indicating extensive oxidative damage and collapse of cellular integrity. K-means clustering partitioned the transcriptome into four clusters, among which Cluster 4 was most significantly associated with physiological traits. Integrated weighted gene co-expression network analysis and Pearson correlation analyses identified CmbZIP53 as a candidate regulator whose expression mirrored proline levels and whose promoter featured several ABA-responsive elements. Functional assays using Arabidopsis thaliana AtbZIP53 T-DNA mutants, a homolog of chestnut CmbZIP53, showed impaired seed germination under dehydration stress, while heterologous expression of CmbZIP53 partially rescued the germination phenotype of the atbzip53-1 mutant. Overall, this study provides functional evidence for the involvement of CmbZIP53 in desiccation responses and offers new insights into the molecular regulation of desiccation sensitivity in recalcitrant seeds, with potential implications for germplasm conser…",
@@ -298,6 +383,23 @@
    "url": "https://doi.org/10.1038/s41598-026-74253-5"
   },
   {
+   "key": "doi:10.3390/plants15223638",
+   "groups": [
+    "pine"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43092267",
+   "doi": "10.3390/plants15223638",
+   "pmid": "43092267",
+   "title": "Systematic Evaluation of Growth, Wood Properties, and Needle Traits Among Geographic Provenances of Siberian Pine at the Maoershan Experimental Forest-Geographic and Climatic Backgrounds of Seed Sources and Multi-Trait Integrated Selection.",
+   "journal": "",
+   "date": "2026-11-20",
+   "authors": "Ding Z, Li X, Qin R, Zhang Z, Tang Z, Wang Y, Wen H, Wang L, Liu G, Li H.",
+   "abstract": "Siberian pine ( Pinus sibirica Du Tour), a dominant conifer of Eurasian cold-temperate forests with ecological, timber, and nut-production values, was introduced into northeastern China in the late twentieth century. Previous provenance trials have focused primarily on survival and growth, whereas stand productivity, needle traits, and wood properties remain insufficiently evaluated. We assessed 15 growth, needle, and wood traits of seven Russian and Mongolian provenances in a 19-year-old trail at Maoershan, using native Pinus koraiensis as a descriptive benchmark. Linear mixed models, correlation analysis, redundancy analysis, hierarchical partitioning, and the multi-trait genotype-ideotype distance index (MGIDI) were used to evaluate trait integration, environmental associations, and multi-trait performance. Significant differences among provenances were detected for all 15 traits, indicating phenotypic differentiation within the evaluated material. Growth and needle traits were strongly correlated across provenances, whereas correlations with most wood traits were weak. Among the environmental variables examined, soil organic carbon density and vapor pressure deficit showed the strongest exploratory associations with provenance-level phenotypic variation. Candidate identification depended on trait composition and factor retention: Ulan-Ude and Irkutsk were identified under the default four-trait model, whereas Tomsk and Khilok were identified when the wood-stiffness factor was retained. Our findings identify priorities for further provenance testing, germplasm conservation, and breeding evaluation at Maoershan and environmentally comparable sites in northeastern China.",
+   "url": "https://doi.org/10.3390/plants15223638"
+  },
+  {
    "key": "doi:10.21203/rs.3.rs-11405638/v1",
    "groups": [
     "chestnut"
@@ -366,6 +468,23 @@
    "url": "https://doi.org/10.2174/0115734013524216261106051431"
   },
   {
+   "key": "doi:10.1016/j.foodchem.2026.152232",
+   "groups": [
+    "raspberry"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43084946",
+   "doi": "10.1016/j.foodchem.2026.152232",
+   "pmid": "43084946",
+   "title": "Optimization of cyanidin-3-O-rutinoside and ellagic acid extraction from black raspberry pomace using three-component natural deep eutectic solvents.",
+   "journal": "",
+   "date": "2026-11-19",
+   "authors": "Mudrić J, Krgović N, Pljevljakušić D, Živković J, Nikolić NĆ, Marinović S, Halbwirth H, Šavikin K.",
+   "abstract": "Black raspberry pomace represents a rich source of anthocyanins and ellagic acid, compounds known for their significant health-promoting properties, although their efficient and sustainable extraction remains difficult. Therefore, simultaneous extraction of cyanidin-3-O-rutinoside and ellagic acid was performed using three-component natural deep eutectic solvents (NaDESs) based on betaine and proline. Eight NaDES formulations were evaluated, and the solvent composed of betaine, citric acid, and sorbitol (1:1:1 M ratio) showed the best performance. According to the results obtained by using central composite design and response surface methodology, the optimal conditions for the extraction were 65.3 °C, 125.6 min and 25.6 g water/100 g NaDES. The addition of hydroxypropyl-β-cyclodextrin (2%) enhanced extraction yields of cyanidin-3-O-rutinoside and ellagic acid at elevated extraction temperatures (80 °C) by 7.97% and 11.76%, respectively. Furthermore, optimized NaDES extracts demonstrated improved stability of cyanidin-3-O-rutinoside at 25 °C compared to conventional ethanol extracts.",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.152232"
+  },
+  {
    "key": "doi:10.3389/fpls.2026.1992837",
    "groups": [
     "chestnut"
@@ -417,6 +536,40 @@
    "url": "https://doi.org/10.51886/1999-740x_2026_4_21"
   },
   {
+   "key": "doi:10.3390/plants15223615",
+   "groups": [
+    "hardy-kiwi"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43092243",
+   "doi": "10.3390/plants15223615",
+   "pmid": "43092243",
+   "title": "Integrative Multi-Omics Reveals the Critical Divergence Point of Stamen and Pistil Differentiation and Candidate Diagnostic SNP Markers for Sex Differentiation in Kiwifruit.",
+   "journal": "",
+   "date": "2026-11-18",
+   "authors": "Qu D, He X, Bai H, Dou J, Yang H, Geng C, Zhang Y.",
+   "abstract": "Dioecy and a prolonged juvenile phase of 3-5 years preclude early sex determination in kiwifruit ( Actinidia deliciosa ), creating a major bottleneck for rootstock screening and efficient breeding. Here, we defined the post meiotic phase of pollen mother cell meiosis (Stage 5b) as the critical transition for sex differentiation by floral bud cytomorphology. Integrative transcriptomic and proteomic analyses identified 80 core differentially expressed genes and proteins (cor-DEGs-DEPs, p < 0.05). Protein-protein interaction networks reveal type III polyketide synthase, acyl-CoA oxidase 2, and acetyl-CoA carboxylase as hub proteins that coordinate energy and carbon partitioning and reactive oxygen species (ROS) homeostasis, thereby promoting stamen tapetum degeneration while sustaining normal pistil development in female plants. Transcript-level SNP association identified six candidate cor-DEGs-DEPs-type III PKS, peroxidase, beta-D-glucosyl crocetin beta-1,6-glucosyltransferase, TEX2, thioredoxin, and expansin-that function in modulating intracellular ROS levels and pistil cell growth during sex differentiation. We integrated genotyping-by-sequencing of 179 hexaploid accessions and identified two candidate sex-associated SNP markers. These findings provide sex-specific diagnostic markers and a mechanistic framework for understanding sex differentiation in hexaploid kiwifruit, offering strategic targets for marker-assisted breeding.",
+   "url": "https://doi.org/10.3390/plants15223615"
+  },
+  {
+   "key": "doi:10.3390/plants15223601",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43092231",
+   "doi": "10.3390/plants15223601",
+   "pmid": "43092231",
+   "title": "Quantitative Variation in Black Spot Disease Response Among &lt;i&gt;Ziziphus jujuba&lt;/i&gt; Genotypes Assessed by Detached-Leaf and Detached-Fruit Phenotyping Against &lt;i&gt;Alternaria alternata&lt;/i&gt;-Associated Isolate Q44.",
+   "journal": "",
+   "date": "2026-11-18",
+   "authors": "Siddique R, Xiong P, Luo Z, Yan F.",
+   "abstract": "Black spot disease associated with Alternaria alternata reduces the quality and marketability of jujube ( Ziziphus jujuba Mill.) fruit; however, quantitative variation in disease response among jujube genotypes remains insufficiently characterized. This study evaluated 60 genotypes, comprising two parental genotypes and 58 F 1 progenies, using complementary detached-leaf and detached-fruit assays. Isolate Q44 was characterized morphologically and placed within the A. alternata -associated clade using internal transcribed spacer sequence analysis. The assays were conducted in three independent experimental runs and analyzed using a randomized complete block design, with experimental run as the blocking factor. Genotype significantly affected detached-leaf lesion area, detached-fruit lesion area, and fruit lesion depth ( p r = 0.9015, p < 0.0001), with the fitted linear model accounting for 81.26% of the variation in fruit lesion area. The first two principal components explained 98.7% of the variation in the three measured lesion-response traits. Integrated disease-response analysis identified Q38, Q79, Q184, Q106, and Q170 as lower-response genotypes, whereas Q175, Q56, Q76, Q17, and P3X-10 exhibited higher responses. These contrasting genotypes provide useful materials for multi-isolate validation, field evaluation, and future jujube improvement studies.",
+   "url": "https://doi.org/10.3390/plants15223601"
+  },
+  {
    "key": "doi:10.1016/j.foodchem.2026.152270",
    "groups": [
     "jujube"
@@ -451,23 +604,6 @@
    "url": "https://doi.org/10.1371/journal.pone.0361803"
   },
   {
-   "key": "doi:10.3390/plants15223601",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "e763ac33ba75487d0391628762128076ee857391",
-   "doi": "10.3390/plants15223601",
-   "pmid": "",
-   "title": "Quantitative Variation in Black Spot Disease Response Among Ziziphus jujuba Genotypes Assessed by Detached-Leaf and Detached-Fruit Phenotyping Against Alternaria alternata-Associated Isolate Q44",
-   "journal": "Plants",
-   "date": "2026-11-18",
-   "authors": "R. Siddique, Ping Xiong, Zhi Luo, Fen-Fen Yan",
-   "abstract": "Black spot disease associated with Alternaria alternata reduces the quality and marketability of jujube (Ziziphus jujuba Mill.) fruit; however, quantitative variation in disease response among jujube genotypes remains insufficiently characterized. This study evaluated 60 genotypes, comprising two parental genotypes and 58 F1 progenies, using complementary detached-leaf and detached-fruit assays. Isolate Q44 was characterized morphologically and placed within the A. alternata-associated clade using internal transcribed spacer sequence analysis. The assays were conducted in three independent experimental runs and analyzed using a randomized complete block design, with experimental run as the blocking factor. Genotype significantly affected detached-leaf lesion area, detached-fruit lesion area, and fruit lesion depth (p < 0.0001). Panel-relative disease indices revealed marked differences among traits: 83.33% of genotypes occurred in Grades I–II for fruit lesion area, compared with 46.67% for leaf lesion area and 30.00% for fruit lesion depth, whereas 56.67% were classified in Grades IV–V for lesion depth. Detached-leaf and detached-fruit lesion areas were strongly associated (r = 0.9015, p < 0.0001), with the fitted linear model accounting for 81.26% of the variation in fruit lesion area. The first two principal components explained 98.7% of the variation in the three measured lesion-response traits. Integrated disease-response analysis identified Q38, Q79, Q184, Q106, and Q170 as lower-response genotypes, whereas Q175, Q56, Q76, Q17, and P3X-10 exhibited higher responses. These contrasting genotypes provide useful materials for multi-isolate validation, field evaluation, and future jujube improvement studies.",
-   "url": "https://doi.org/10.3390/plants15223601"
-  },
-  {
    "key": "doi:10.3390/horticulturae12111441",
    "groups": [
     "jujube"
@@ -500,6 +636,23 @@
    "authors": "X. Cong, Yu-Cai Xie, Rong-Zhen Wang, Zheng-He Xu, G. Pang",
    "abstract": "Optimizing saline drip irrigation to protect soil conditions and maintain Ziziphus jujuba ‘Dongzao’ yield is critical for freshwater-scarce regions with shallow saline groundwater. This study incorporated groundwater table variations and their long-term effects into the irrigation scheduling optimization framework to develop a saline drip irrigation regulation pattern suitable for jujube under shallow groundwater conditions. To this end, simulated hydraulic heads from MODFLOW were used to update the bottom boundary condition of HYDRUS-2D, to quantify soil water–salt transport and optimize irrigation management. A three-year field experiment was conducted in the Yellow River Delta. Five saline drip irrigation treatments (1 (control), 2, 3, 4, and 5 g·L−1) were established to investigate their influences on soil water content, soil salinity, jujube yield and fruit quality. Based on the experimental data, the MODFLOW and HYDRUS models were then calibrated and validated to simulate different saline water irrigation scenarios over a 10-year period, and the effects on the spatiotemporal variations in water and salt transport processes were analyzed. The main results were as follows: (1) The yield exhibited an inverse relationship with irrigation water salinity, with significant yield reductions (p < 0.05) observed only at the 4 and 5 g·L−1 treatments compared to the control. (2) The relative yield declined to 50% and 85% when the average saturated paste extract electrical conductivity (ECe) of soil reached 12.64 dS·m−1 (0.27%) and 8.85 dS·m−1 (0.19%), respectively. Moderate saline irrigation improved fruit quality, and the treatment of 4 g·L−1 achieved the best performance. (3) For consecutive dry years, the seasonal total irrigation quota is 216–240 mm, with 3 g·L−1 as the b…",
    "url": "https://doi.org/10.3390/agriculture16222538"
+  },
+  {
+   "key": "doi:10.3390/foods15224116",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "43089853",
+   "doi": "10.3390/foods15224116",
+   "pmid": "43089853",
+   "title": "Effects of Withering Duration on Quality Characteristics and the Volatile Metabolome of Green Tea and Black Tea from the New Cultivar \"Chanjin No. 3\".",
+   "journal": "",
+   "date": "2026-11-17",
+   "authors": "Zeng P, Liu Y, Zhou K, Li G, Han X, Guo H, Wang Y, Huang L.",
+   "abstract": "Withering is a vital preliminary process in determining tea quality. To explore the effects of withering duration (2 h, 6 h, 10 h) on green tea and black tea from the new cultivar \"Chanjin No. 3\", leaf moisture dynamics, sensory attributes, pigment profiles, major quality components, and volatile metabolites were systematically evaluated. Leaf relative water content continuously declined with prolonged withering. Sensory evaluation showed that 6 h withering yielded high overall quality for both teas. However, excessive 10 h withering impaired green-tea sensory performance, whereas black tea maintained acceptable quality. Withering exerted distinct regulatory effects on pigment and intrinsic metabolites: 6 h treatment favored theaflavin and theabrownin accumulation in black tea, while overwithering caused substantial total pigment loss. Prolonged withering elevated water extract and soluble sugar contents in black tea, yet reduced water extracts and increased polyphenols in green tea. Gas chromatography/mass spectrometry (GC-MS) identified 173 volatile compounds. Withering increased volatile counts and the content of alcohols in green tea and promoted grassy-leaf, floral-honey, and chestnut-nutty aroma substances in black tea. This study indicates that 6 h natural withering is an appropriate option for producing high-quality \"Chanjin No. 3\" tea and provides processing references for this cultivar.",
+   "url": "https://doi.org/10.3390/foods15224116"
   },
   {
    "key": "doi:10.1002/ece3.74750",
@@ -551,23 +704,6 @@
    "authors": "Levi D. Sweeten, E. Tanner, Alynn M. Martin, Maydeliz Ramos-Gonzalez, Ashley M. Tanner, F. Hernández",
    "abstract": "La dermatitis aviar abarca una variedad de afecciones que causan irritación e inflamación de la piel en las aves y puede surgir de diversos agentes causales. Los reportes de enfermedades en especies aviares silvestres suelen ser incidentales y aislados, pero proporcionan información de referencia valiosa para la investigación de enfermedades en la vida silvestre. En febrero de 2024, durante un estudio de captura-marcaje-recaptura en Duval, Texas, EE. UU., se capturó una hembra adulta de codorniz escamosa ventricastaña (Callipepla squamata castanogastris) que presentaba síntomas compatibles con dermatitis. Se observaron lesiones hiperqueratósicas en las patas, con reducción parcial de los halluxes. El mismo fue recapturado en mayo de 2024 con síntomas que evidenciaban una mayor gravedad de la enfermedad, incluyendo lesiones más extensas en las patas y piernas, y pérdida de múltiples dedos, tanto total en los posteriores como parcial en los demás. Los intentos por confirmar el agente causal de la enfermedad resultaron infructuosos. Sin embargo, la presentación y la progresión de la enfermedad fueron compatibles con la knemidocoptiasis (sarna aviar), una dermatitis causada por ácaros parásitos que excavan la epidermis sin plumas. Este informe representa uno de los escasos documentos que describen síntomas de dermatitis en codornices silvestres y, hasta donde sabemos, el primer reporte y la primera observación longitudinal de una dermatitis de tipo sarnoso en la codorniz escamosa silvestre.",
    "url": "https://doi.org/10.1894/0038-4909-70.4.13"
-  },
-  {
-   "key": "doi:10.3390/foods15224116",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "ad64a2d39684f03985e23277d29ce3230808e8f8",
-   "doi": "10.3390/foods15224116",
-   "pmid": "",
-   "title": "Effects of Withering Duration on Quality Characteristics and the Volatile Metabolome of Green Tea and Black Tea from the New Cultivar “Chanjin No. 3”",
-   "journal": "Foods",
-   "date": "2026-11-17",
-   "authors": "Peng Zeng, Yue Liu, Ke-Xia Zhou, Guo-Xun Li, Xiao Han, Heng-Bin Guo",
-   "abstract": "Withering is a vital preliminary process in determining tea quality. To explore the effects of withering duration (2 h, 6 h, 10 h) on green tea and black tea from the new cultivar “Chanjin No. 3”, leaf moisture dynamics, sensory attributes, pigment profiles, major quality components, and volatile metabolites were systematically evaluated. Leaf relative water content continuously declined with prolonged withering. Sensory evaluation showed that 6 h withering yielded high overall quality for both teas. However, excessive 10 h withering impaired green-tea sensory performance, whereas black tea maintained acceptable quality. Withering exerted distinct regulatory effects on pigment and intrinsic metabolites: 6 h treatment favored theaflavin and theabrownin accumulation in black tea, while overwithering caused substantial total pigment loss. Prolonged withering elevated water extract and soluble sugar contents in black tea, yet reduced water extracts and increased polyphenols in green tea. Gas chromatography/mass spectrometry (GC-MS) identified 173 volatile compounds. Withering increased volatile counts and the content of alcohols in green tea and promoted grassy-leaf, floral-honey, and chestnut-nutty aroma substances in black tea. This study indicates that 6 h natural withering is an appropriate option for producing high-quality “Chanjin No. 3” tea and provides processing references for this cultivar.",
-   "url": "https://doi.org/10.3390/foods15224116"
   },
   {
    "key": "doi:10.1021/acsfoodscitech.6c00723",
@@ -1316,91 +1452,6 @@
    "authors": "Whale JW, Stuart KC, Bruce J, Pickup M, Field DL.",
    "abstract": "A major challenge for ecological restoration is seed sourcing decisions that ensure that restored populations have the adaptive variation for current and future environments. This is increasingly important for alpine and sub-alpine communities where climate change is predicted to be rapid and drive shifts in selective pressures. Selecting source populations representing future climates is an evolutionary-based strategy for increasing adaptive capacity, but requires an understanding of population genetic structure, identification of putatively adaptive genomic variation and an assessment of how these change across the landscape. Using 3978 single-nucleotide polymorphism (SNP) markers we assessed the population structure and diversity of 33 sampled populations of Eucalyptus delegatensis from across its distribution, including 22 populations from the mainland ( E. delegatensis subsp. delegatensis ) and 11 from Tasmania ( E. delegatensis subsp. tasmaniensis ). Genotype-environment association (GEA) analysis identified strong genetic associations with seasonal climate variables, particularly minimum temperature of the coldest month, and revealed a parallel cline at one outlier locus across the mainland and Tasmanian range, consistent with independent sorting of standing variation along environmental gradients in both subspecies. By projecting genetic offset under future climate change scenarios, we identify regions of the species' range most vulnerable to projected change; despite this, seed-sourcing projections suggest that suitable future climate matches may be available for most of the range. Together, these findings demonstrate the value of comparative GEA approaches in validating outlier loci, and show that even in regions of projected dramatic environmental shifts, suc…",
    "url": "https://doi.org/10.1111/eva.70339"
-  },
-  {
-   "key": "doi:10.1016/j.foodchem.2026.151992",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "43008621",
-   "doi": "10.1016/j.foodchem.2026.151992",
-   "pmid": "43008621",
-   "title": "Enhancing flavor, antioxidant activity, and bitterness improvement in chestnut-Cistanche co-fermentation: a sensomics and widely targeted metabolomics study.",
-   "journal": "Food Chemistry",
-   "date": "2026-11-05",
-   "authors": "Cui R, Xiao Y, Huai L, Li J, Wang X, Yao Y, Wang H, Zhang Y, Song L.",
-   "abstract": "Our study developed a chestnut-Cistanche co-fermented beverage (CCFB) using mixed lactic acid bacteria (LAB) fermentation. The quality of different types of CCFB were studied. Firstly, LAB fermentation significantly altered the physicochemical properties, flavor, and taste of CCFB using Lactobacillus plantarum LWCC3001 and Lactobacillus plantarum LWCC3005. Fermentation enhanced antioxidant activity, with the ABTS radical scavenging rate doubling. Secondly, electronic tongue analysis showed the bitterness response signal value of the ZW3005 group (1.50) was significantly lower than CK (0.02) (P < 0.05). GC-IMS detected 27 volatile compounds. Among them, propanal decreased approximately 12-fold in the mixed fermentation (MIX) group. Comprehensive metabolomics analysis revealed that fermentation substantially reshaped the metabolic profiles of the CCFB. Specifically, the alkaloid metabolism pathway promoted the degradation of certain bitter compounds, while activation of the phenylpropanoid metabolism pathway enhanced the biosynthesis of antioxidant compounds. These findings provide a theoretical basis for the further processing of CCFB.",
-   "url": "https://doi.org/10.1016/j.foodchem.2026.151992"
-  },
-  {
-   "key": "doi:10.58168/minbifoa2026_59-65",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "e8516bae0d03e28613437300c7b49bc3650c0230",
-   "doi": "10.58168/minbifoa2026_59-65",
-   "pmid": "",
-   "title": "BIOLOGY OF FLOWERING AND THE MECHANISM OF POLLINATION OF SWEET CHESTNUT (CASTANEA SATIVA MILL.) IN THE CONDITIONS OF THE NATURAL HABITAT OF THE SOCHI NATIONAL PARK",
-   "journal": "MONITORING, INNOVATION AND BIOTECHNOLOGY OF FOREST AND AGRICULTURAL ECOSYSTEMS IN CONDITIONS OF CLIMATE VARIABILITY : Materials of the All-Russian Scientific and Practical Conference, Voronezh, June 10, 2026",
-   "date": "2026-11-05",
-   "authors": "K. Zakharov, A. Sivolapov",
-   "abstract": "The article summarizes data on the biology of flowering chestnut (Castanea sativa Mill.), a species of the genus Chestnut (Castanea Mill.) of the Beech family (Fagaceae Dumort.), in Sochi National Park (SNP). The structure of inflorescences and flowers, pollen morphology, and mechanisms of cross‑pollination (protandry, protogyny, double dichogamy, ambophily) are examined.",
-   "url": "https://doi.org/10.58168/minbifoa2026_59-65"
-  },
-  {
-   "key": "doi:10.48044/jauf.2026.033",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "d1b511311ee0478a6730564f249d33234a18b137",
-   "doi": "10.48044/jauf.2026.033",
-   "pmid": "",
-   "title": "Watering and Leaf Removal as Strategies to Mitigate Cameraria ohridella Damage in Urban Horse Chestnuts",
-   "journal": "Arboriculture &amp; Urban Forestry",
-   "date": "2026-11-05",
-   "authors": "Ivan Iľko, M. Raček, V. Peterková, Martin Hurban",
-   "abstract": "Removal of infested leaf litter reduces overwintering Cameraria ohridella populations. Whether supplemental irrigation combined with removal can alleviate drought stress and improve the condition of infested urban horse chestnuts remains insufficiently evaluated. This quasi-experimental study compared treatments applied at 7 sites: untreated control (no leaf removal or irrigation); removal alone; removal plus rainfall-adjusted irrigation of 2 m 3 to 4 m 3 tree −1 every 14 days (regular); removal plus automated irrigation of 70 mm month −1 during April to September (enhanced); and two foliar sprays of the contact insecticide lambda-cyhalothrin at one site. Sampling occurred each September in 2020 and 2021 but only in 2020 at the insecticide site. Leaf-miner damage, total leaf area, dry mass, and estimated specific leaf area were analyzed as tree level means. Median tree level damage was approximately 91% at the control and 85% after leaf removal alone (not significantly different) compared with 48% to 69% at regular-irrigation sites and 11% to 44% at enhanced-irrigation sites. Site 6 (L6), comprising solitary trees under leaf removal and enhanced irrigation, had the lowest damage, with leaf area and dry mass among the highest. At the insecticide site, median damaged leaf area was approximately 42% for lower-canopy samples and 75% for upper-canopy samples. Estimated specific leaf area did not differ among sites. Combined leaf removal and irrigation were associated with lower damage and better leaf condition, particularly at L6. These site-level associations support the combined strategy as a host-condition intervention without isolating irrigation’s contribution or demonstrating direct pest suppression. L6 had numerically less damage than both insecticide-treated canopy p…",
-   "url": "https://doi.org/10.48044/jauf.2026.033"
-  },
-  {
-   "key": "doi:10.3106/ms2026-0024",
-   "groups": [
-    "persimmon"
-   ],
-   "cat": "fruit",
-   "source": "semanticscholar",
-   "id": "46e7befe74b2d2177453a101cd4c4d9077058032",
-   "doi": "10.3106/ms2026-0024",
-   "pmid": "",
-   "title": "Tannin Phenology is Associated with the Timing of Asiatic Black Bear Foraging among Persimmon Fruit Types",
-   "journal": "Mammal Study",
-   "date": "2026-11-05",
-   "authors": "D. Fujiki",
-   "abstract": "This study examined whether variation in tannin concentrations and tannin insolubilization timing among persimmon fruit types influences foraging frequency and seasonal timing in Asiatic black bears (Ursus thibetanus). Bear-constructed feeding platforms in persimmon trees served as fruit consumption indicators. The probability of platform formation was highest in pollination-constant nonastringent (PCNA) persimmons, intermediate in pollination-variant nonastringent (PVNA) fruit, and lower in pollination-variant astringent (PVA) and pollination-constant astringent (PCA) types. Platform formation timing followed a similar sequence, occurring earliest in PCNA, then PVNA, and subsequently PVA and PCA persimmons. Soluble phenolic content, a proxy for tannin concentration, was measured in fruit collected immediately after platform formation. Bear feeding platform formation was observed mainly at relatively low soluble phenolic levels, generally below approximately 0.5% fresh weight (FW) tannic acid equivalents (TAE). Generalized additive models describing seasonal changes in soluble phenolic concentrations indicated that concentrations were highest in PCA, followed by PVA, PVNA, and PCNA persimmons. The decline to low concentrations occurred earliest in PCNA and progressively later through PVNA, PVA, and PCA types. Overall, these findings suggest that soluble phenolic concentration and its seasonal dynamics may be associated with the temporal patterns of bear foraging on persimmon fruit.",
-   "url": "https://doi.org/10.3106/ms2026-0024"
-  },
-  {
-   "key": "doi:10.21203/rs.3.rs-11318303/v1",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "preprint",
-   "id": "PPR1359379",
-   "doi": "10.21203/rs.3.rs-11318303/v1",
-   "pmid": "",
-   "title": "New insights into the adaptive chloroplast capture in European white oaks",
-   "journal": "Research Square",
-   "date": "2026-11-05",
-   "authors": "Sergiadou D, Wood D, Dunning LT, Kjaer ED, Olofsson JK.",
-   "abstract": "Abstract Chloroplast genomes are frequently used to reconstruct the evolutionary history of plants, including detection of introgression and chloroplast capture events. Here, we focus on two oak species, Quercus robur and Q. petraea , which lack differentiation in several chloroplast markers. This was assumed to result from chloroplast captures during their dispersal from refugia after the last glacial maximum (LGM). We aim to reassess chloroplast variation within and between these species by de novo assembling 114 oak plastomes. Additionally, we combine our data with available plastome data from 91 Fagaceae species to reconstruct a dated phylogeny and estimate the divergence time between oak chloroplast lineages. Positive selection analysis on 69 chloroplast genes was also conducted to test whether chloroplast capture is adaptive. Plastome phylogenetic analyses reveal three oak haplotypes with no species delimitation. Molecular dating analysis indicates older splits among the three main haplotypes (2.68 − 0.5 Mya) and younger splits within lineages (0.39 − 0.04 Mya), suggesting that chloroplast capture could have occurred prior to the LGM in some lineages. Positive selection is observed in two chloroplast genes, with the selection on the rbcL gene possibly linked to the adaptive evolution of the RuBisCO enzyme. Hence, signs of a selective sweep could further explain the observed limited genetic diversity in oak plastomes. This study provides valuable insights into oak plastome evolution, setting a significant base for upcoming studies, including nuclear genome and protein-level studies to better understand cytonuclear interactions and conceivable environmental adaptations.",
-   "url": "https://doi.org/10.21203/rs.3.rs-11318303/v1"
   }
  ]
 }
