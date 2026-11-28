@@ -1,30 +1,13 @@
 {
- "generated_at": "2026-11-27T20:31:07.092Z",
+ "generated_at": "2026-11-28T20:32:00.201Z",
  "window_days": 10,
  "sources": [
   "europepmc",
   "semanticscholar"
  ],
- "count": 85,
+ "count": 84,
  "errors": [],
  "items": [
-  {
-   "key": "t:biosynthesized jujube mediated trimetallic ag zn mn nanoparticles supported on graphene oxide new tyrosinase inhibitors ",
-   "groups": [
-    "jujube"
-   ],
-   "cat": "fruit",
-   "source": "europepmc",
-   "id": "PMC13810522",
-   "doi": "",
-   "pmid": "",
-   "title": "Biosynthesized jujube mediated trimetallic (Ag–Zn–Mn) nanoparticles supported on graphene oxide: new tyrosinase inhibitors with environmental remediation applications",
-   "journal": "",
-   "date": "2026-11-27",
-   "authors": "Shah Z, Hafsa H, Khan M, Shah L, Ali W, Ali B, Matinise N, Shaheen K.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13810522/?tool=EBI"
-  },
   {
    "key": "doi:10.1007/s13399-026-07359-5",
    "groups": [
@@ -43,21 +26,38 @@
    "url": "https://doi.org/10.1007/s13399-026-07359-5"
   },
   {
-   "key": "t:from selection to seedlings tracking the fate of chestnuts and acorns cached by blue jays cyanocitta cristata",
+   "key": "t:biosynthesized jujube mediated trimetallic ag zn mn nanoparticles supported on graphene oxide new tyrosinase inhibitors ",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "PMC13810522",
+   "doi": "",
+   "pmid": "",
+   "title": "Biosynthesized jujube mediated trimetallic (Ag–Zn–Mn) nanoparticles supported on graphene oxide: new tyrosinase inhibitors with environmental remediation applications",
+   "journal": "",
+   "date": "2026-11-27",
+   "authors": "Shah Z, Hafsa H, Khan M, Shah L, Ali W, Ali B, Matinise N, Shaheen K.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13810522/?tool=EBI"
+  },
+  {
+   "key": "doi:10.1002/ece3.74769",
    "groups": [
     "chestnut"
    ],
    "cat": "genome",
    "source": "europepmc",
-   "id": "PMC13811752",
-   "doi": "",
-   "pmid": "",
-   "title": "From Selection to Seedlings: Tracking the Fate of Chestnuts and Acorns Cached by Blue Jays (Cyanocitta cristata)",
+   "id": "43101864",
+   "doi": "10.1002/ece3.74769",
+   "pmid": "43101864",
+   "title": "From Selection to Seedlings: Tracking the Fate of Chestnuts and Acorns Cached by Blue Jays (&lt;i&gt;Cyanocitta cristata&lt;/i&gt;).",
    "journal": "",
    "date": "2026-11-26",
-   "authors": "Wright J, Tonra C, Wilson C, Matthews S.",
-   "abstract": "",
-   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13811752/?tool=EBI"
+   "authors": "Wright JR, Tonra CM, Wilson CC, Matthews SN.",
+   "abstract": "Scatter-hoarding by rodents and birds is a key seed dispersal mutualism shaping forest ecosystems dominated by oaks (genus Quercus ) in eastern North America. Two processes of forest change, the ongoing decline of oak and the anticipated reintroduction of American chestnut ( Castanea dentata ; hereafter chestnut), are likely to be strongly influenced by the caching behavior of scatter-hoarding species. One of the most important long-distance dispersers of acorns and chestnuts in eastern North America is the Blue Jay ( Cyanocitta cristata ; hereafter jays). In this study, we assess the seed dispersal effectiveness of jays for chestnut and two species of oak common to the central Appalachians, white oak ( Quercus alba ) and black oak ( Quercus velutina ). We use radio telemetry of tagged seeds to track the initial fate of seeds taken by jays, and to locate cache sites. By planting seeds at cache sites and paired random locations we determine cache site habitat preferences of jays, and track the pilferage rates, germination, stem emergence, and seedling growth of planted seeds. Jays preferred to cache in shrubby early-successional habitat, and cached the three seed species at similar rates (~35%). Dispersal effectiveness was strongly limited by pilferage rates (> 80%), and first-year seedling survival of cached seeds was 2.6% for white oaks, 3.8% for black oaks, and 6.2% for chestnuts. Seed shadows of jay-dispersed seeds did not differ between the tree species, and most cache sites were located within 150 m of the origin sites (max dispersal distance = 460 m). We found some marginal support for the directed dispersal hypothesis, as stem emergence for both oak species was greater at cache sites than random sites. Overall, our results support the idea that jay scatter-hoardi…",
+   "url": "https://doi.org/10.1002/ece3.74769"
   },
   {
    "key": "doi:10.1186/s42483-026-00476-z",
@@ -77,6 +77,23 @@
    "url": "https://doi.org/10.1186/s42483-026-00476-z"
   },
   {
+   "key": "doi:10.1039/d6ra07330a",
+   "groups": [
+    "jujube"
+   ],
+   "cat": "fruit",
+   "source": "europepmc",
+   "id": "43101629",
+   "doi": "10.1039/d6ra07330a",
+   "pmid": "43101629",
+   "title": "Biosynthesized jujube mediated trimetallic (Ag-Zn-Mn) nanoparticles supported on graphene oxide: new tyrosinase inhibitors with environmental remediation applications.",
+   "journal": "RSC Advances",
+   "date": "2026-11-26",
+   "authors": "Shah Z, Hafsa H, Khan M, Shah L, Ali W, Ali B, Matinise N, Shaheen K.",
+   "abstract": "A novel green and eco-friendly procedure for the synthesis of Ziziphus mauritiana Lam. based trimetallic silver-zinc-manganese supported on graphene oxide (ZML-AZM@GO) nanoparticles (NPs) has been developed. The study focuses on the successful use of the stem extract of ZML as a natural reducing and stabilizing agent. The synthesis of the NPs has been confirmed with the help of various analytical techniques like UV-vis spectroscopy, FTIR, XRD, EDX, TGA, and SEM analysis. These techniques successfully revealed that a homogeneous combination of crystallite Ag, ZnO, and MnO, NPs has been produced over the partly exfoliated structure of GO. TGA illustrated improved thermal stability whereas SEM images showed that the amount of GO makes the nano-sheets uniform porous structures with less aggregation. The ZML-AZM@GO, NPs illustrated satisfactory catalytic activity in the reduction of risky nitro-aromatic pollutants like 2-nitrophenol, 4-nitrophenol, 4-nitroaniline, picric acid, and 2,4-dinitrophenyhydrazone, showing reduction effectiveness of around 99 percent within just a few minutes after the addition of NaBH 4 . Also, the NPs exhibited excellent catalytic action during the breakdown of many organic dyes like methylene blue, methyl orange, rhodamine B, crystal violet, brilliant green, eosin Y, and indigo carmine, showing degradation efficiency ranged from (97-98) percent. The NPs were shown to work efficiently against a mixture of organic pollutants. Also, besides its catalytic property, the biosynthesized NPs have shown a remarkable in vitro inhibitory effect against both human and fungal tyrosinase with no toxicity, confirming its applicable biopharmaceutical properties. High multifunctional activity is displayed with the contribution of effective linking of Ag-Zn-Mn-NPs…",
+   "url": "https://doi.org/10.1039/d6ra07330a"
+  },
+  {
    "key": "doi:10.1016/j.molp.2026.11.011",
    "groups": [
     "raspberry"
@@ -87,11 +104,45 @@
    "doi": "10.1016/j.molp.2026.11.011",
    "pmid": "43099931",
    "title": "Development of Rubus hirsutus as a woody-plant model system.",
-   "journal": "",
+   "journal": "Molecular Plant",
    "date": "2026-11-26",
    "authors": "Liu H, Chen R, Zeng Z, Xu D, Wang L, Liu J, Zhang Y, Chen H, Liu Z, He Y, Liang M, Zhang T, Shang J, Zhao Q, Yuan YW, Ning G.",
    "abstract": "Model systems for long-lived woody plants are urgently needed to accelerate research in plant, evolutionary, and synthetic biology. Ideal model systems should combine well-annotated genomes with robust, user-friendly transformation and genome-editing platforms, as well as efficient strategies for multigene pyramiding. Here, we established a model system based on the woody shrub hirsute raspberry (Rubus hirsutus). First, we de novo assembled two telomere-to-telomere (T2T) Rosoideae genomes. Transcriptomic and pan-genomic analyses revealed extensive gene-level and genome-level diversification within these Rosoideae genomes, underpinning remarkable phenotypic variation across hundreds of wild species and thousands of cultivars. We then developed a leaf-based, tissue-culture-free, antibiotic-free transformation method and an Agrobacterium rhizogenes-mediated gene editing approach for R. hirsutus. We used these methods to establish an efficient sequential transformation strategy for multigene pyramiding and also generated early-flowering transgenic lines of R. hirsutus. Using our newly designed system, we rapidly and stably transformed R. hirsutus with approximately 500 genes and functionally characterized a series of genes and regulatory networks. This de novo-designed, long-lived woody-plant model system, which was derived from phylogenetically close but taxonomically diverse lineages, should greatly accelerate the advancement of our fundamental knowledge and advance translational research in plants.",
    "url": "https://doi.org/10.1016/j.molp.2026.11.011"
+  },
+  {
+   "key": "t:from selection to seedlings tracking the fate of chestnuts and acorns cached by blue jays cyanocitta cristata",
+   "groups": [
+    "chestnut"
+   ],
+   "cat": "genome",
+   "source": "europepmc",
+   "id": "PMC13811752",
+   "doi": "",
+   "pmid": "",
+   "title": "From Selection to Seedlings: Tracking the Fate of Chestnuts and Acorns Cached by Blue Jays (Cyanocitta cristata)",
+   "journal": "",
+   "date": "2026-11-26",
+   "authors": "Wright J, Tonra C, Wilson C, Matthews S.",
+   "abstract": "",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13811752/?tool=EBI"
+  },
+  {
+   "key": "doi:10.3389/fpls.2026.1984287",
+   "groups": [
+    "dus-pvp"
+   ],
+   "cat": "pvp",
+   "source": "semanticscholar",
+   "id": "d7b363d49eebd7e7bb972228d200c5dcdc8d49c5",
+   "doi": "10.3389/fpls.2026.1984287",
+   "pmid": "",
+   "title": "Morphological diversity dynamics and potential breeding selection signals in chrysanthemum varieties assessed by DUS testing characteristics",
+   "journal": "Frontiers in Plant Science",
+   "date": "2026-11-25",
+   "authors": "La-Mei Zhang, Qin-Zheng Zhao, Cai-Ling Teng, Zong-Ze Yao, Ju-Xiang Qiao, Jia-Ying Li",
+   "abstract": "Chrysanthemum has a long cultivation history in China, with rich phenotypic diversity and considerable ornamental and economic value. In this study, we observed and statistically analyzed 608 morphologically diverse chrysanthemum varieties tested in Yunnan over the past decade based on 31 characteristics (including multiple expression states) specified in GB/T 19557.19-2018, Guidelines for the conduct of tests for distinctness, uniformity and stability—Chrysanthemum. This study aimed to reveal the dynamics of morphological diversity, shifts in breeding-selection directions, trait stability, and varietal-succession patterns in chrysanthemum breeding over the past decade. Frequency distribution analysis showed that most qualitative traits remained stable across four time periods without strong directional selection, retaining abundant phenotypic variation among varieties. Quantitative-trait analysis indicated that leaf length and leaf width showed minimal inter-annual variation, making them the most reliable indicators for DUS testing; plant height fluctuated substantially, whereas ray-floret length and width declined continuously, suggesting a potential breeding selection signal toward compact plant architecture and smaller flower structures. Cluster analysis identified four successive temporal groups of chrysanthemum varieties reflecting breeding succession. Correlation and principal-component analyses demonstrated that leaf length and leaf width were highly positively correlated, plant height was negatively correlated with the bushy plant-type trait, and flower-color-related traits were relatively independent. These findings indicate that chrysanthemum varieties harbor high morphological diversity and can be effectively discriminated using DUS testing traits. This stud…",
+   "url": "https://doi.org/10.3389/fpls.2026.1984287"
   },
   {
    "key": "doi:10.1007/s11627-026-10723-9",
@@ -1384,74 +1435,6 @@
    "authors": "Trọng Quốc Vương Trần, Thanh Hải Lê",
    "abstract": "",
    "url": "https://doi.org/10.56097/binhduonguniversityjournalofscienceandtechnology.v9i3.484"
-  },
-  {
-   "key": "doi:10.3390/ani16213514",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "43027245",
-   "doi": "10.3390/ani16213514",
-   "pmid": "43027245",
-   "title": "Different Formulations and Concentrations of Sweet Chestnut Tannins Differentially Modulate Gut Microbiota in Broiler Chickens.",
-   "journal": "",
-   "date": "2026-11-06",
-   "authors": "Prošić I, Brus M, Delić N, Zdravković N, Radalj A, Petrović T, Gajdov V, Nišavić J, Nikšić A, Milinković M, Damjanović D, Čilerdžić M, Krnjaić D.",
-   "abstract": "Sweet chestnut tannins (SCT) are used as phytogenic feed additives in poultry, but the effects of different formulations and concentrations on intestinal microbiota remain poorly understood. This study investigated powdered, soy protein-bound, microencapsulated and orthophosphoric acid-bound SCT at different dietary concentrations in sixty Ross 308 broilers, with six birds per group, including an unsupplemented control. Ileal and caecal microbiota were characterized using 16S rRNA gene sequencing. In the ileum, richness, phylogenetic diversity and beta diversity differed among treatments, whereas Shannon diversity and evenness remained unchanged. Lactobacillaceae remained dominant, and no significant family- or genus-level differences relative to the control remained after multiple-testing correction. In the caecum, all assessed alpha- and beta-diversity metrics differed among treatments, with numerous treatment-specific taxonomic changes. Several treatments increased the Firmicutes/Bacteroidota ratio, while Muribaculaceae decreased across most supplemented groups. Soy protein-bound SCT at 1000 mg/kg increased Parabacteroides and Odoribacter , whereas microencapsulated SCT at 1000 mg/kg increased Romboutsia and Peptostreptococcaceae . The genus Fournierella increased with soy protein-bound SCT at 2000 mg/kg. Responses were not consistently dose-dependent. These findings indicate that SCT-associated microbial changes vary with intestinal compartment, formulation and concentration, with broader responses detected in the caecum. Their implications for bird health and performance require further investigation.",
-   "url": "https://doi.org/10.3390/ani16213514"
-  },
-  {
-   "key": "doi:10.1038/s41598-026-79418-w",
-   "groups": [
-    "chestnut"
-   ],
-   "cat": "genome",
-   "source": "semanticscholar",
-   "id": "f6aa473f424d0b54f9cb310a7af13ee18c5603a0",
-   "doi": "10.1038/s41598-026-79418-w",
-   "pmid": "",
-   "title": "Adsorption performance of chestnut cupule-derived carbon in olaparib removal from aquatic environments: kinetic, isotherm and thermodynamic evaluation",
-   "journal": "Scientific Reports",
-   "date": "2026-11-06",
-   "authors": "Ayşegül Türk Baydır, Ibrahim Bulduk",
-   "abstract": "",
-   "url": "https://doi.org/10.1038/s41598-026-79418-w"
-  },
-  {
-   "key": "doi:10.64898/2026.11.05.764454",
-   "groups": [
-    "oak"
-   ],
-   "cat": "genome",
-   "source": "preprint",
-   "id": "PPR1360920",
-   "doi": "10.64898/2026.11.05.764454",
-   "pmid": "",
-   "title": "Evolutionary dynamics of the pan-centromere architecture in oaks",
-   "journal": "bioRxiv",
-   "date": "2026-11-06",
-   "authors": "Lin Q, Liang Y, Yan W, Run Y, You H, Zhou B, Ling S, Shen Z, Wang J, Niu J, Luo W, Qiao L, Shan S, Elshaer L, Tucker A, Feng C, Shi Y, Mohn R, Liang Y, Zhang N, Liu X, Hipp A, Manos PS, Cavender-Bares",
-   "abstract": "Centromeres ensure faithful chromosome segregation and genome stability, yet their DNA evolves rapidly, presenting a long-standing centromere paradox. Here we characterise the genomic and epigenomic architecture of >1,300 candidate centromeres from 111 high-quality Quercus (oak) genomes. We show that lineage-specific expansion of QuCEN146 satellite drives centromere turnover in oaks by displacing ancestral LTR-rich sequences into flanking regions, with genetic drift facilitating fixation of satellite-rich centromeres. Population-scale analyses in Q. serrata reveal extensive variation in satellite rich centromeres, generated by array expansion and contraction, strand-orientation shifts, and interspecific introgression. By contrast, LTR rich centromeres of Q. variabilis exhibit extremely low polymorphism and high collinearity across populations, sustained by suppressed local recombination, linked selection, and constrained LTR dynamics. We further demonstrate chromosome-independent evolutionary patterns for both satellite-rich and LTR-rich centromeres. Collectively, these findings demonstrate how evolutionary processes drive centromere turnover and shape contrasting centromeric sequence landscapes in forest trees.",
-   "url": "https://doi.org/10.64898/2026.11.05.764454"
-  },
-  {
-   "key": "doi:10.1111/eva.70339",
-   "groups": [
-    "forest-genomics"
-   ],
-   "cat": "genome",
-   "source": "europepmc",
-   "id": "42999716",
-   "doi": "10.1111/eva.70339",
-   "pmid": "42999716",
-   "title": "Adaptive Genomic Variation Across Sub-Alpine Climates in a Keystone Forest Tree: Implications for Seed Sourcing for Restoration in a Changing Climate.",
-   "journal": "",
-   "date": "2026-11-06",
-   "authors": "Whale JW, Stuart KC, Bruce J, Pickup M, Field DL.",
-   "abstract": "A major challenge for ecological restoration is seed sourcing decisions that ensure that restored populations have the adaptive variation for current and future environments. This is increasingly important for alpine and sub-alpine communities where climate change is predicted to be rapid and drive shifts in selective pressures. Selecting source populations representing future climates is an evolutionary-based strategy for increasing adaptive capacity, but requires an understanding of population genetic structure, identification of putatively adaptive genomic variation and an assessment of how these change across the landscape. Using 3978 single-nucleotide polymorphism (SNP) markers we assessed the population structure and diversity of 33 sampled populations of Eucalyptus delegatensis from across its distribution, including 22 populations from the mainland ( E. delegatensis subsp. delegatensis ) and 11 from Tasmania ( E. delegatensis subsp. tasmaniensis ). Genotype-environment association (GEA) analysis identified strong genetic associations with seasonal climate variables, particularly minimum temperature of the coldest month, and revealed a parallel cline at one outlier locus across the mainland and Tasmanian range, consistent with independent sorting of standing variation along environmental gradients in both subspecies. By projecting genetic offset under future climate change scenarios, we identify regions of the species' range most vulnerable to projected change; despite this, seed-sourcing projections suggest that suitable future climate matches may be available for most of the range. Together, these findings demonstrate the value of comparative GEA approaches in validating outlier loci, and show that even in regions of projected dramatic environmental shifts, suc…",
-   "url": "https://doi.org/10.1111/eva.70339"
   }
  ]
 }
